@@ -125,32 +125,26 @@ This is exactly what ISE emphasizes: differentiation can appear **internally** (
 
 In ISE-notation this can be expressed as:
 
-M0    ⟷    (M1+M2)+D(E)
+$$M_0 \;\;\longleftrightarrow\;\; (M_1 + M_2) + D(E)$$
 
-$$M\_0 \\;\\;\\longleftrightarrow\\;\\; (M\_1 \+ M\_2) \+ D(E)$$
-
-* $M\_0$ \= original rest mass (undifferentiated)  
-* $M\_1, M\_2$ \= differentiated portions of the rest mass  
-* $D(E)$ \= distance $D$, which itself exists as an energy relation $E$
+* $M_0$ = original rest mass (undifferentiated)  
+* $M_1, M_2$ \= differentiated portions of the rest mass  
+* $D(E)$ = distance $D$, which itself exists as an energy relation $E$
 
 **Interpretation:**  
  An undivided rest mass is equivalent to two divided parts plus a distance, stored as energy. The recombination is the reverse transformation:
 
-(M1+M2)+D(E)    ⟶    M0
-
-$$(M\_1 \+ M\_2) \+ D(E) \\;\\;\\longrightarrow\\;\\; M\_0$$
+$$(M_1 + M_2) + D(E) \;\;\longrightarrow\;\; M_0$$
 
 This is not an energy conservation law in the classical sense, but a **conservation of differentiation**: differentiation (whether internal as rest mass or external as distance/energy) is never lost, it merely changes form.
 
 In the most compact ISE form:
 
-Δ=M+D
+$$\Delta = M + D$$
 
-$$\\Delta \= M \+ D$$
-
-* $\\Delta$ \= total differentiation (indestructible, invariant)  
-* $M$ \= rest mass (internal differentiation)  
-* $D$ \= distance/energy (external differentiation)
+* $\Delta$ = total differentiation (indestructible, invariant)  
+* $M$ = rest mass (internal differentiation)  
+* $D$ = distance/energy (external differentiation)
 
 **Principle:**  
  *Differentiation is conserved. It appears either as rest mass or as distance/energy.*
@@ -158,25 +152,20 @@ $$\\Delta \= M \+ D$$
 This serves as the ISE analogue to $E=mc^2$, but more general:
 
 * $E=mc^2$ connects only mass and energy.  
-* $\\Delta \= M \+ D$ shows both are different realizations of the same differentiation.
+* $\Delta = M + D$ shows both are different realizations of the same differentiation.
 
-Thus matter \= “bound differentiation,” space \= “externalized differentiation.”
+Thus matter = “bound differentiation,” space = “externalized differentiation.”
 
 We start from the ISE core formula:  
- Δ=M+D
-
-$$\\Delta \= M \+ D$$
+$$\Delta = M + D$$
 
 **Energy Conservation as Special Case**
 
-* Set $M$ \= rest mass (internal differentiation).   
-* Set $D$ \= distance with energy content (external differentiation).  
-   If mass decreases ($M \\downarrow$), distance-energy must increase ($D \\uparrow$) so that $\\Delta$ remains constant.  
+* Set $M$ = rest mass (internal differentiation).   
+* Set $D$ = distance with energy content (external differentiation).  
+   If mass decreases ($M \downarrow$), distance-energy must increase ($D \uparrow$) so that $\\Delta$ remains constant.  
    This is **energy conservation**:
-
-Δ=const⇒ΔM=−ΔD
-
-$$\\Delta \= \\text{const} \\quad\\Rightarrow\\quad \\Delta M \= \- \\Delta D$$
+$$\Delta = \text{const} \quad\Rightarrow\quad \Delta M = - \Delta D$$
 
 This matches physical transformations:
 
@@ -185,26 +174,20 @@ This matches physical transformations:
 
 **Gravitational Law from Differentiation**
 
-* Differentiation $D$ means *divided rest mass* at distance $r$. \\  
+* Differentiation $D$ means *divided rest mass* at distance $r$.  
 * The energy of the distance is proportional to the ratio of mass portions and inversely proportional to distance.
 
 ISE formulation:
-
-D(E)∼M1 M2r
-
-$$D(E) \\sim \\frac{M\_1 \\, M\_2}{r}$$
+$$D(E) \sim \frac{M_1 \, M_2}{r}$$
 
 Taking the negative derivative with respect to $r$ gives:
-
-F∼−M1M2r2
-
-$$F \\sim \-\\frac{M\_1 M\_2}{r^2}$$
+$$F \sim -\frac{M_1 M_2}{r^2}$$
 
 This is **Newtonian gravitation** – not as an axiom, but as a *necessary form of conservation of differentiation* when rest mass is transformed into distance.
 
 **Result:**
 
-* **Energy conservation** follows directly from constancy of $\\Delta$.  
+* **Energy conservation** follows directly from constancy of $\Delta$.  
 * **Gravitation** follows from the necessity that differentiation stored as separation must appear with $1/r$ potential character.
 
 It must be noted that the division into “internal” (rest mass) and “external” (distance/energy) is **only perspectival**, not fundamental.
@@ -213,16 +196,11 @@ It must be noted that the division into “internal” (rest mass) and “extern
 * From another scale or relation, the same differentiation appears as “distance/energy.”
 
 Therefore, in ISE strictly speaking it is not:
-
-Δ=M+D(internal \+ external)
-
-$$\\Delta \= M \+ D \\quad (\\text{internal \+ external})$$
+$$\Delta = M + D \quad (\text{internal + external})$$
 
 but simply:
 
-Δ=Δ
-
-$$\\Delta \= \\Delta$$
+$$\Delta = \Delta$$
 
 And depending on context, this one differentiation decomposes into components that can appear as rest mass or distance.
 
@@ -231,15 +209,13 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
 **Projections of the same differentiation**
 
 * **Base space**  
-   Let $\\mathcal{H}$ be a (real) state space and $|\\Delta\\rangle \\in \\mathcal{H}$ the total differentiation (invariant).
+   Let $\mathcal{H}$ be a (real) state space and $|\Delta\rangle \in \mathcal{H}$ the total differentiation (invariant).
 
-* **Observer/scale $\\sigma$**  
-   A perspective $\\sigma$ is represented by a linear, isometric transformation $U\_\\sigma: \\mathcal{H} \\to \\mathcal{H}$. In $\\sigma$: $|\\Delta\\rangle\_\\sigma := U\_\\sigma |\\Delta\\rangle$.
+* **Observer/scale $\sigma$**  
+   A perspective $\sigma$ is represented by a linear, isometric transformation $U_\sigma: \mathcal{H} \to \mathcal{H}$. In $\sigma$: $|\Delta\rangle_\sigma := U_\sigma |\Delta\rangle$.
 
 * **Projections (interpretations)**  
-   “Rest mass” and “distance/energy” are **projections** of the same $|\\Delta\\rangle\_\\sigma$:  
-   ∣M⟩σ:=PM(σ)∣Δ⟩σ,∣  D⟩σ:=PD(σ)∣Δ⟩σ.
-
+   “Rest mass” and “distance/energy” are **projections** of the same $|\Delta\rangle\_\sigma$:
   $$|M\\rangle\_\\sigma := P\_M^{(\\sigma)} |\\Delta\\rangle\_\\sigma, \\quad |D\\rangle\_\\sigma := P\_D^{(\\sigma)} |\\Delta\\rangle\_\\sigma.$$
 
    With **completeness**:  
