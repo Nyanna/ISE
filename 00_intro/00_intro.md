@@ -9,7 +9,8 @@ M.Sc. Physics Gordon Anatta Shaamvai and Colleagues
 Institute of Theoretical Physics, University of Unalaska
 
 Infinite Scale Expansion © 2024 by M.Sc. Physics Gordon Anatta Shaamvai is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)   
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/  
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 ---
 
 This work describes the infinite differentiation of scales without fixed principles.

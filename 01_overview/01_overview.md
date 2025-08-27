@@ -1,3 +1,4 @@
+
 ---
 
 ![](images/title.png)
@@ -887,6 +888,6 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
 
    Derivative with respect to $r$ ⇒ $F \\propto \- M\_A M\_B / r^2$ (Newtonian limit) as **projection consequence**.
 
-**Core statement:** M and D are not categories but $\\sigma$-dependent projections of the same $|\\Delta\\rangle$; physics follows from conservation of $|\\Delta|$ and from the rules governing how projection portions transfer between M and D.
+**Core statement:** M and D are not categories but $\\sigma$-dependent projections of the same $|\Delta\rangle$; physics follows from conservation of $|\Delta|$ and from the rules governing how projection portions transfer between M and D.
 
-In this context, the statement that “differentiation is indestructible, invariant” must be read as a formal property of the terms within the model, not as a categorical assertion about differentiation in general. The invariance of Δ=M+D $$\\Delta \= M \+ D$$ refers only to the redistribution between internal (mass) and external (distance/energy) differentiation under the given assumptions. It does not imply that differentiation itself can never be undermined, reversed, or dissolved into indistinguishability. In spatial separation scenarios, differentiation may be redistributed or transformed in ways that are no longer reversible within the model’s framework. Thus, the invariance is a structural rule of the formalism, not a metaphysical claim about absolute indestructibility.
+In this context, the statement that “differentiation is indestructible, invariant” must be read as a formal property of the terms within the model, not as a categorical assertion about differentiation in general. The invariance of $\Delta = M + D$ refers only to the redistribution between internal (mass) and external (distance/energy) differentiation under the given assumptions. It does not imply that differentiation itself can never be undermined, reversed, or dissolved into indistinguishability. In spatial separation scenarios, differentiation may be redistributed or transformed in ways that are no longer reversible within the model’s framework. Thus, the invariance is a structural rule of the formalism, not a metaphysical claim about absolute indestructibility.

@@ -1,44 +1,45 @@
+
 ---
 
 # 12\. Glossary of Key Terms
 
-* **Infinite Scale Expansion**:  
+1. **Infinite Scale Expansion**:  
   A theory that proposes the universe expands infinitely through the continuous differentiation of energy. Unlike traditional models, ISE suggests that space, time, and even gravity are emergent properties of this energy differentiation rather than fundamental aspects of reality.  
-* **Energy Differentiation**:  
+2. **Energy Differentiation**:  
   The process by which undifferentiated energy transforms into distinct states or structures, giving rise to phenomena like space, time, and physical forces. This process is ongoing and occurs across all scales.  
-* **Protoinformation**:  
+3. **Protoinformation**:  
   A concept referring to a pre-existing, undifferentiated state of energy that precedes space and time. Protoinformation is the source from which observable reality emerges through energy differentiation. It’s only a concept and not a part of any reality.   
-* **Quantum Fields**:  
+4. **Quantum Fields**:  
   Fields that exist at the quantum level and govern the behavior of particles. Quantum fields are not tied to space or time but instead emerge through energy differentiation at various scales.  
-* **Emergent Properties**:  
+5. **Emergent Properties**:  
   Characteristics or phenomena that arise from complex systems but are not inherent to the fundamental components of those systems. Space, time, and gravity are seen as emergent rather than fundamental properties.  
-* **Dark Energy**:  
+6. **Dark Energy**:  
   A mysterious form of energy thought to be responsible for the accelerated expansion of the universe. ISE reinterprets dark energy as an emergent feature of energy differentiation, rather than a separate force.  
-* **Dark Matter**:  
+7. **Dark Matter**:  
   An invisible form of matter that doesn't emit light but exerts gravitational influence on visible matter in the universe. ISE posits that dark matter emerges naturally from differences in potential energy, without the need for new particles.  
-* **Singularity**:  
+8. **Singularity**:  
   A point in space where physical quantities become infinite, such as in the center of a black hole or the Big Bang. ISE argues that singularities are relative constructs depending on the scale of observation and are not fundamental breakdowns of reality.  
-* **Fractal**:  
+9. **Fractal**:  
   A complex geometric structure that repeats itself at different scales. The universe is thought to have a fractal-like structure, where similar patterns and processes occur across various scales of differentiation.  
-* **Observer**:  
+10. **Observer**:  
   In quantum mechanics and ISE, the observer plays a key role in determining the outcome of a system. The observer’s interaction with a system is believed to cause the collapse of quantum possibilities into a single observed reality.  
-* **Wave-Particle Duality**:  
+11. **Wave-Particle Duality**:  
   A concept in quantum mechanics where particles like photons and electrons exhibit both wave-like and particle-like properties, depending on the observer's method of measurement. ISE explains this duality as a scale-dependent phenomenon.  
-* **Multiverse Hypothesis**:  
+12. **Multiverse Hypothesis**:  
   The idea that multiple universes exist, each potentially with different physical laws or constants. The multiverse is viewed as a set of differentiated states of energy, where universes emerge within an infinite hierarchy of scales.  
-* **Causality**:  
+13. **Causality**:  
   The relationship between cause and effect. ISE reinterprets causality as an emergent property that arises from the relational order of energy states, rather than from linear time progression.  
-* **Space-Time**:  
+14. **Space-Time**:  
   The four-dimensional continuum in which events take place, composed of three spatial dimensions and one temporal dimension. Space-time is seen as an emergent phenomenon resulting from energy differentiation, rather than a fundamental backdrop to the universe.  
-* **Gravity**:  
+15. **Gravity**:  
   A force that causes the attraction between masses. Gravity is not fundamental but arises from the differentiation of energy at large scales.  
-* **Quantum Fluctuations**:  
+16. **Quantum Fluctuations**:  
   Temporary changes in energy at the quantum level, which allow particles to briefly appear and disappear. ISE posits that these fluctuations are manifestations of protoinformation differentiating into observable forms.  
-* **Relativity**:  
+17. **Relativity**:  
   Refers to Einstein's theories (special and general) that describe how time, space, and gravity are relative to the observer’s frame of reference. ISE extends this idea, suggesting that space and time themselves are not fundamental but emergent from deeper energy processes and as thus also relative.  
-* **Planck Scale**:  
+18. **Planck Scale**:  
   The smallest scale of measurement in the universe, at which classical concepts of space and time break down, and quantum effects dominate. Below the Planck scale, space and time do not exist as we perceive them.  
-* **Entropy**:  
+19. **Entropy**:  
   A measure of disorder or randomness in a system. The increase in information due to continuous energy differentiation is analogous to the concept of increasing entropy.  
 20. **Potential Energy**:  
     In classical physics, the energy stored in an object due to its position in a force field. Potential energy is the source from which space, time, and physical phenomena emerge through differentiation. As thus it’s better described as distance of effect delay and effect potential or speed.  
@@ -123,5 +124,8 @@
 60. **Fine-Tuning Problem**:  
     The question of why certain physical constants in the universe appear to be finely tuned to allow for the existence of life. ISE could offer a perspective where such constants emerge naturally from energy differentiation, reducing the need for fine-tuning.
 
-![][image55]![][image56]  
+
+![alt](images/fig1.png){width=20%}
+![alt](images/fig2.png){width=20%}
+
 Proudly present by us
