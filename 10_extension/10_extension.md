@@ -1,9 +1,6 @@
-
 ---
 
-- 
-
-![][image54]
+![](images/title.png)
 
 # 10\. Possible Extensions
 

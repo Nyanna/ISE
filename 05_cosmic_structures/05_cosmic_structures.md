@@ -1,7 +1,6 @@
-
 ---
 
-# ![][image25]
+![](images/title.png)
 
 # 5\. Unified Explanation of Cosmic Structures
 

@@ -1,7 +1,6 @@
-
 ---
 
-# ![][image2]
+![](images/title.png)
 
 # 1\. Introduction
 

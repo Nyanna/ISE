@@ -1,7 +1,6 @@
-
 ---
 
-# ![][image26]
+![](images/title.png)
 
 # 6\. Philosophical Implications: The Nature of Reality
 

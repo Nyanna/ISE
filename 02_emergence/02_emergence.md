@@ -1,7 +1,6 @@
-
 ---
 
-# ![][image3]
+![](images/title.png)
 
 # 2\. Emergence of Space, Time, and Gravity
 

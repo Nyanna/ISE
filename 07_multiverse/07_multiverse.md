@@ -1,7 +1,6 @@
-
 ---
 
-# ![][image29]
+![](images/title.png)
 
 # 7\. The Multiverse Hypothesis
 

@@ -1,7 +1,8 @@
-# **![][image1]**
+
+
+![](images/title.png)
 
 # Thesis on Infinite Scale Expansion (ISE)
-
 ## Exploring the Implications of Scale-Free Quantum Fields
 
 M.Sc. Physics Gordon Anatta Shaamvai and Colleagues  
