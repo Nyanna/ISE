@@ -5,13 +5,13 @@
 
 The paradox of **light speed** in relation to itself arises from the fact that **nothing faster than light exists**, making it impossible to measure light against anything more fundamental or faster. In essence, the speed of light becomes a **self-referential standard**, a fundamental constant that can only be measured **in relation to itself**. This creates a paradox where light's speed is simultaneously the most precise and the most arbitrary measure, because there is nothing else against which to compare or benchmark it.
 
-In the model, the speed of light represents a **resolution limit**—a measure of **how precisely we can quantize light** in our observations and calculations. It’s like a built-in accuracy parameter, setting the boundary for how we interact with and interpret the fundamental structure of the universe. The speed of light isn't just a physical speed; it's the **limit of our ability to measure**, a threshold for how the universe differentiates energy into observable forms like photons.
+In the model, the speed of light represents a **resolution limit** — a measure of **how precisely we can quantize light** in our observations and calculations. It’s like a built-in accuracy parameter, setting the boundary for how we interact with and interpret the fundamental structure of the universe. The speed of light isn't just a physical speed; it's the **limit of our ability to measure**, a threshold for how the universe differentiates energy into observable forms like photons.
 
 **Light Speed as a Self-Closed Measure**
 
-Since nothing exceeds the speed of light, the measurement of light's speed is effectively a **self-enclosed process**. The light speed is determined by the very **rules of measurement** we apply, but those rules are constructed within a system where **light speed sets the upper limit**. Imagine trying to measure a river’s flow speed by using a boat that can only go as fast as the river. You can never get ahead of the current to take a more objective measurement—you are always part of the flow. Similarly, light can only be measured against **itself**.
+Since nothing exceeds the speed of light, the measurement of light's speed is effectively a **self-enclosed process**. The light speed is determined by the very **rules of measurement** we apply, but those rules are constructed within a system where **light speed sets the upper limit**. Imagine trying to measure a river’s flow speed by using a boat that can only go as fast as the river. You can never get ahead of the current to take a more objective measurement — you are always part of the flow. Similarly, light can only be measured against **itself**.
 
-In this sense, the speed of light could just as easily be described as **"one cat per dog"**—an arbitrary unit of measurement within its own system of reference. The units themselves are irrelevant, because there's no external system to verify or challenge the speed of light’s value. It is self-contained, self-justifying, and without external reference, much like a **circular definition** in logic. It could be 299,792,458 meters per second, or "one cat per dog," or any unit, because **there is no higher frame of reference** to question its legitimacy.
+In this sense, the speed of light could just as easily be described as **"one cat per dog"** — an arbitrary unit of measurement within its own system of reference. The units themselves are irrelevant, because there's no external system to verify or challenge the speed of light’s value. It is self-contained, self-justifying, and without external reference, much like a **circular definition** in logic. It could be 299,792,458 meters per second, or "one cat per dog," or any unit, because **there is no higher frame of reference** to question its legitimacy.
 
 **Light Speed as a Quantum Resolution**
 
@@ -31,10 +31,9 @@ In classical relativistic physics, the explanation proceeds as follows:
 
 * Photons are always locally null-like, propagating at exactly $c$.  
 * The observed increase in frequency is due to the compression of the observer’s proper time relative to the coordinate time of the distant source.  
-* Mathematically, the observed frequency is given by:  
-   νobs=ν∞1−rs/r,  
-  $$\\nu\_{\\text{obs}} \= \\frac{\\nu\_{\\infty}}{\\sqrt{1-r\_s/r}},$$  
-   which diverges as the observer approaches the Schwarzschild radius $r\_s$.  
+* Mathematically, the observed frequency is given by:
+  $$\nu_{\text{obs}} = \frac{\nu_{\infty}}{\sqrt{1-r_s/r}},$$  
+   which diverges as the observer approaches the Schwarzschild radius $r_s$.  
 * Thus, the incoming radiation appears arbitrarily energetic, but without requiring a modification of the invariant light speed.
 
 **Scale-Resolution Limit**
@@ -86,7 +85,7 @@ This reasoning leads to the hypothesis that what changes is not the light itself
 
 **Temporal Resolution as the True Boundary**
 
-A further refinement emphasizes that the fundamental boundary lies not in space, but in **spacetime itself — effectively in time**. Since velocity is defined as $v \= \\Delta x / \\Delta t$, the temporal denominator sets the scale. If $\\Delta t$ is scale-dependent.
+A further refinement emphasizes that the fundamental boundary lies not in space, but in **spacetime itself — effectively in time**. Since velocity is defined as $v = \Delta x / \Delta t$, the temporal denominator sets the scale. If $\Delta t$ is scale-dependent.
 
 **Classical Perspective**
 
@@ -101,8 +100,8 @@ A further refinement emphasizes that the fundamental boundary lies not in space,
 
 **Photon Counting Paradox**
 
-* A red-shifted star emits a single photon with frequency $\\nu\_{em}$. As it traverses curved spacetime, its frequency shifts relative to observers.  
-* In measurement, if frequency doubles, a detector translates the increased energy $E=h\\nu$ into multiple lower-frequency photon equivalents. Thus, one photon may appear as if it were two quanta.
+* A red-shifted star emits a single photon with frequency $\nu_{em}$. As it traverses curved spacetime, its frequency shifts relative to observers.  
+* In measurement, if frequency doubles, a detector translates the increased energy $E=h\nu$ into multiple lower-frequency photon equivalents. Thus, one photon may appear as if it were two quanta.
 
 **Conclusion**
 
@@ -139,20 +138,20 @@ Thus, blue shift becomes a direct demonstration that energy quanta can appear to
 
 **Frequency Increase and the Effective Velocity Equation**
 
-The relation veff=νobsνem⋅c $$v\_{\\text{eff}} \= \\frac{\\nu\_{\\text{obs}}}{\\nu\_{\\text{em}}} \\cdot c$$ formalizes the proposal that effective speed scales with frequency ratio. But what exactly constitutes the observed frequency increase?
+The relation veff=νobsνem⋅c $v_{\text{eff}} = \frac{\nu_{\text{obs}}}{\nu_{\text{em}}} \cdot c$ formalizes the proposal that effective speed scales with frequency ratio. But what exactly constitutes the observed frequency increase?
 
 **Nature of Frequency Increase**
 
-* It corresponds to more oscillation maxima per unit proper time. If frequency doubles, the period halves: Tobs=1νobs=12Tem $$T\_{obs} \= \\tfrac{1}{\\nu\_{obs}} \= \\tfrac{1}{2} T\_{em}$$. Thus the maxima arrive more densely, not as duplicate crests at once.  
-* In field representation, E(t)=E0cos⁡(2πνt) $$E(t) \= E\_0 \\cos(2\\pi \\nu t)$$. When frequency doubles, amplitude remains finite but the phase advances faster, representing a time rescaling rather than duplication.  
-* In photon representation, a single photon’s energy grows to Eobs=hνobs $$E\_{obs} \= h\\nu\_{obs}$$. A detector equating energy to quanta may interpret one highly blue-shifted photon as multiple lower-energy photons. This is equivalence of energy, not actual photon multiplication.
+* It corresponds to more oscillation maxima per unit proper time. If frequency doubles, the period halves: Tobs=1νobs=12Tem $T_{obs} = \tfrac{1}{\nu_{obs}} = \tfrac{1}{2} T_{em}$. Thus the maxima arrive more densely, not as duplicate crests at once.  
+* In field representation, E(t)=E0cos⁡(2πνt) $E(t) = E_0 \cos(2\pi \nu t)$. When frequency doubles, amplitude remains finite but the phase advances faster, representing a time rescaling rather than duplication.  
+* In photon representation, a single photon’s energy grows to Eobs=hνobs $E_{obs} = h\nu_{obs}$. A detector equating energy to quanta may interpret one highly blue-shifted photon as multiple lower-energy photons. This is equivalence of energy, not actual photon multiplication.
 
 Simplified, one could state that you duplicate amplitude maxima.
 
 **Why Not Faster than c?**
 
-* In standard relativity, frequency is defined as ν=−12πkμuμ $$\\nu \= \-\\tfrac{1}{2\\pi} k\_\\mu u^\\mu$$. Blue shift changes this scalar product, altering energy rate but not the local light speed. Locally, light speed remains at c.  
-* The claim of multiple maxima in the same time ignores that the emitter’s coordinate time differs from the observer’s eigen-time. Gravitational compression of \\tau means more maxima per eigen-time, a mapping of times rather than true superluminality.
+* In standard relativity, frequency is defined as ν=−12πkμuμ $\nu = -\tfrac{1}{2\pi} k_\mu u^\mu$. Blue shift changes this scalar product, altering energy rate but not the local light speed. Locally, light speed remains at c.  
+* The claim of multiple maxima in the same time ignores that the emitter’s coordinate time differs from the observer’s eigen-time. Gravitational compression of \tau means more maxima per eigen-time, a mapping of times rather than true superluminality.
 
 **Objection and Alternative**
 
@@ -168,9 +167,9 @@ This chapter develops the compact scale-velocity formalization into a comprehens
 
 **Definitions**
 
-* **Emission frame** (S\_e): emission frequency $\\nu\_{em}$.  
-* **Observer frame** (S\_o): observed frequency $\\nu\_{obs}$.  
-* **Blue-shift factor**: $g \= \\nu\_{obs}/\\nu\_{em}$, where $g\>1$ corresponds to blue shift.
+* **Emission frame** (S_e): emission frequency $\nu_{em}$.  
+* **Observer frame** (S_o): observed frequency $\nu_{obs}$.  
+* **Blue-shift factor**: $g = \nu_{obs}/\nu_{em}$, where $g\>1$ corresponds to blue shift.
 
 **Postulate (Alternative View)**
 
@@ -182,31 +181,28 @@ The effective velocity is expressed as:
 
 veff=gc=νobsνemc.
 
-$$v\_{eff} \= g c \= \\frac{\\nu\_{obs}}{\\nu\_{em}} c$$.
+$$v_{eff} = g c = \frac{\nu_{obs}}{\nu_{em}} c$$.
 
-* If $g \= 2$, meaning the observed frequency is double the emitted frequency, then the effective quantum velocity is $2c$.  
+* If $g = 2$, meaning the observed frequency is double the emitted frequency, then the effective quantum velocity is $2c$.  
 * Thus, frequency increase directly translates into higher effective transport speed of energy quanta relative to the observer’s frame.
 
 **Interaction and Counting Rates**
 
-Let $\\Lambda \= dN/d\\tau$ represent the interaction rate (counting rate) per unit of the detector’s proper time.
+Let $\Lambda = dN/d\tau$ represent the interaction rate (counting rate) per unit of the detector’s proper time.
 
-* In the observer frame:  
-   Λo=gΛe.  
-  $$\\Lambda\_o \= g \\Lambda\_e.$$  
-* This means that in a slowed proper-time frame, the detector registers $g$ times as many interaction events, e.g., two maxima instead of one when $g \= 2$.
+* In the observer frame:
+  $$\Lambda_o = g \Lambda_e.$$  
+* This means that in a slowed proper-time frame, the detector registers $g$ times as many interaction events, e.g., two maxima instead of one when $g = 2$.
 
 **Energy Flux: Two Consistent Options**
 
-* **Quantum Energy Invariant (Alternative Interpretation):**  
-   Equant=const,ΦE∝Λ  ⇒  ΦE,o=gΦE,e.  
-  $$E\_{quant} \= const, \\qquad \\Phi\_E \\propto \\Lambda \\;\\Rightarrow\\; \\Phi\_{E,o} \= g \\Phi\_{E,e}.$$  
+* **Quantum Energy Invariant (Alternative Interpretation):**
+  $$E_{quant} = const, \qquad \Phi_E \propto \Lambda \;\Rightarrow\; \Phi_{E,o} = g \Phi_{E,e}.$$  
   * The energy per quantum remains constant.  
   * Increased interaction rate is interpreted by the detector as additional photons.
 
-* **Planck Counting (Standard View):**  
-   E=hν  ⇒  Eo=gEe.  
-  $$E \= h\\nu \\;\\Rightarrow\\; E\_o \= g E\_e.$$  
+* **Planck Counting (Standard View):**
+  $$E = h\nu \;\Rightarrow\; E_o = g E_e.$$  
   * Energy per quantum scales with frequency.  
   * For equal emission rates, energy flux grows linearly with $g$.  
   * For equal packet densities, energy flux grows as $g^2$.  
@@ -215,7 +211,7 @@ Let $\\Lambda \= dN/d\\tau$ represent the interaction rate (counting rate) per u
 **Synthesis**
 
 * Blue shift necessarily implies $g \> 1$.  
-* The alternative interpretation asserts $v\_{eff} \= g c$ and $\\Lambda\_o \= g \\Lambda\_e$.  
+* The alternative interpretation asserts $v_{eff} = g c$ and $\Lambda_o = g \Lambda_e$.  
 * Observed frequency increase is therefore equivalent to more interactions per unit proper time.  
 * This result is reinterpreted as higher effective velocity of energy quanta, while $c$ remains a measurement horizon rather than a fundamental limit of nature.
 
@@ -238,9 +234,8 @@ ISE View
 Consequence
 
 * Frequency shifts (blue/red) are not explained by “time dilation,” but by a variation of the effective speed of light.  
-* Thus:  
-   veff=νobsνem⋅c  
-  $$v\_{\\text{eff}} \= \\frac{\\nu\_{\\text{obs}}}{\\nu\_{\\text{em}}} \\cdot c$$  
+* Thus:
+  $$v_{\text{eff}} = \frac{\nu_{\text{obs}}}{\nu_{\text{em}}} \cdot c$$  
 * The “photon number” is not invariant but scale-dependent.
 
 Meta-Level
@@ -262,7 +257,7 @@ Relativity (Mainstream)
 ISE View
 
 * **Postulate:** Time itself (proper time) is the constant measurement basis.  
-* Every observer experiences their $d\\tau$ with absolute consistency.  
+* Every observer experiences their $d\tau$ with absolute consistency.  
 * What varies is the “translation rate” between space and time → namely **c**.  
 * Thus: no global time, since proper time cannot be synchronized across locations.  
 * But time itself remains the **physical constant**, while c becomes a scale parameter.
@@ -270,7 +265,7 @@ ISE View
 Implications
 
 * Frequency shift: not “time runs at different rates,” but “photons move effectively faster or slower through space.”  
-* Planck limit: if $d\\tau$ is the final resolution, then time is the fundamental grain, not space.  
+* Planck limit: if $d\tau$ is the final resolution, then time is the fundamental grain, not space.  
 * The classical relativity idea “spacetime is geometrically symmetric, with c as fixed point” becomes asymmetric: time is primary, space \+ speed of light emergent.
 
 Central Statement of the Formulation
@@ -287,21 +282,20 @@ Standard Relativity
 
 * Space and time are two coordinates of a 4-dimensional metric.  
 * Motion in space reduces the projection on the time axis → time dilation.  
-* Formally: $d\\tau^2 \= dt^2 \- (dx/c)^2$.
+* Formally: $d\tau^2 = dt^2 - (dx/c)^2$.
 
 ISE View
 
 * Time is the **constant base quantity**.  
 * Motion in space does not mean “time passes more slowly,” but: **time itself is translated**.  
 * Every translation in space is simultaneously a translation of time.  
-* “Velocity” is not an independent quantity, but the relation:  
-   v=ΔxΔt,  
-  $$v \= \\frac{\\Delta x}{\\Delta t} ,$$  
-   where $\\Delta t$ is the primary constant.
+* “Velocity” is not an independent quantity, but the relation:
+  $$v = \frac{\Delta x}{\Delta t} ,$$  
+   where $\Delta t$ is the primary constant.
 
 Consequence
 
-* Every spatial movement also shifts the time component: a change of location \= a shift of the time rhythm.  
+* Every spatial movement also shifts the time component: a change of location = a shift of the time rhythm.  
 * Time is therefore not a passive parameter, but an **active, spatial-like dimension** that “moves along.”  
 * Velocity is only a measure of the **degree of translation of time into space**.
 
@@ -313,12 +307,12 @@ Image
 
 **Raw Scale**
 
-This represents the raw form of the scale mechanism of the ISE. An expansion of scale, also relative to each other, is a continuation of the pattern—thus a translation of time.
+This represents the raw form of the scale mechanism of the ISE. An expansion of scale, also relative to each other, is a continuation of the pattern — thus a translation of time.
 
 Time as Translational Movement
 
 * In the ISE view, **time is not a neutral measure**, but the **translation of patterns** when a scale shifts or expands.  
-* Every relative motion \= **scale change** \= progression of time.
+* Every relative motion = **scale change** = progression of time.
 
 Connection to ISE
 
@@ -334,9 +328,9 @@ Consequence
 
 Image
 
-* Time \= raw mechanism of scale flow.  
-* Space \= manifestation of this flow when patterns shift relative to each other.  
-* Motion \= relative scale translation.
+* Time = raw mechanism of scale flow.  
+* Space = manifestation of this flow when patterns shift relative to each other.  
+* Motion = relative scale translation.
 
 **Minkowski Projection**
 
@@ -345,50 +339,43 @@ Minkowski spacetime is only the projective surface of the scale mechanism of the
 Starting Point: Minkowski
 
 Standard:
-
-ds2=−c2dt2+dx2+dy2+dz2.  
-$$ds^2 \= \-c^2 dt^2 \+ dx^2 \+ dy^2 \+ dz^2 .$$
+$$ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 .$$
 
 → Time $t$ and space $x,y,z$ as coordinates, $c$ fixes the relation.
 
 ISE Approach: Time as Scale Translation
 
-* **Postulate 1:** Proper time $d\\tau$ is the constant measurement quantity.  
+* **Postulate 1:** Proper time $d\tau$ is the constant measurement quantity.  
 * **Postulate 2:** Spatial coordinates are projections of a scale shift of time.  
-* **Postulate 3:** $c$ is not a fixed value, but a scale rate:  
-   c(σ)=dxdτ  
-  $$c(\\sigma) \= \\frac{dx}{d\\tau}$$  
-   with $\\sigma$ \= scale.
+* **Postulate 3:** $c$ is not a fixed value, but a scale rate:
+  $$c(\sigma) = \frac{dx}{d\tau}$$  
+   with $\sigma$ = scale.
 
 Scale Metric (Raw Form)
 
-Define a **scale coordinate** $d\\sigma$ (expansion/translation).  
+Define a **scale coordinate** $d\sigma$ (expansion/translation).  
  Then:
+$$ds^2 = -d\tau^2 + \alpha(\sigma)\, d\sigma^2 ,$$
 
-ds2=−dτ2+α(σ) dσ2,  
-$$ds^2 \= \-d\\tau^2 \+ \\alpha(\\sigma)\\, d\\sigma^2 ,$$
+where $\alpha(\sigma)$ is a scale factor (like $a(t)$ in cosmology, but generally local).
 
-where $\\alpha(\\sigma)$ is a scale factor (like $a(t)$ in cosmology, but generally local).
-
-* Motion in space corresponds to a translation $d\\sigma$.  
-* Proper time $d\\tau$ remains the constant measure.  
-* Effective velocity results as  
-   veff=dσdτ.  
-  $$v\_{\\text{eff}} \= \\frac{d\\sigma}{d\\tau}.$$
+* Motion in space corresponds to a translation $d\sigma$.  
+* Proper time $d\tau$ remains the constant measure.  
+* Effective velocity results as
+  $$v_{\text{eff}} = \frac{d\sigma}{d\tau}.$$
 
 Consequence
 
-* **Relativistic blueshift** \= variation of $\\alpha(\\sigma)$.  
-* **ISE mechanism** \= scale expansion → patterns shift \= time flow.  
-* Speed of light $c$ is derived as  
-   c(σ)=α(σ).  
-  $$c(\\sigma) \= \\sqrt{\\alpha(\\sigma)} .$$
+* **Relativistic blueshift** = variation of $\alpha(\sigma)$.  
+* **ISE mechanism** = scale expansion → patterns shift = time flow.  
+* Speed of light $c$ is derived as
+  $$c(\sigma) = \sqrt{\alpha(\sigma)} .$$
 
 Image
 
-* Time is the raw motion of the scale ($d\\tau$).  
-* Space is the projection of this scale motion ($d\\sigma$).  
-* Constant: $d\\tau$ always remains the same, while $\\alpha(\\sigma)$ shapes the appearance (e.g., c, frequency, blueshift).
+* Time is the raw motion of the scale ($d\tau$).  
+* Space is the projection of this scale motion ($d\sigma$).  
+* Constant: $d\tau$ always remains the same, while $\alpha(\sigma)$ shapes the appearance (e.g., c, frequency, blueshift).
 
 **Coordinate Translation**
 
@@ -409,10 +396,9 @@ Motion
 Consequence
 
 * Distance is not an ontological extra, but a **secondary representation of time**.  
-* Speed of light is then not fundamental, but the ratio:  
-   c=ΔxΔt,  
-  $$c \= \\frac{\\Delta x}{\\Delta t} ,$$  
-   with $\\Delta t$ remaining invariant.  
+* Speed of light is then not fundamental, but the ratio:
+  $$c = \frac{\Delta x}{\Delta t} ,$$  
+   with $\Delta t$ remaining invariant.  
 * Time dilation is not a “stretching of time,” but a **reordering of time coordinates in the spatial direction**.
 
 Image
@@ -428,60 +414,54 @@ c is then the local expansion rate of the scale.
 
 Definition
 
-* Scale field $\\sigma(x)$ (dimensionless).  
-* **Local expansion rate of the scale:**  
-   cloc(x):=dσdτ ,  
-  $$c\_{\\text{loc}}(x):=\\frac{d\\sigma}{d\\tau}\\,,$$  
-   with proper time $\\tau$ of the local observer.
+* Scale field $\sigma(x)$ (dimensionless).  
+* **Local expansion rate of the scale:**
+  $$c_{\text{loc}}(x):=\frac{d\sigma}{d\tau}\,,$$  
+   with proper time $\tau$ of the local observer.
 
 Metric (Raw Form)
 
-* Set spatial coordinate as “scale translation” $d\\ell := c\_{\\text{loc}} d\\sigma$.  
-* **Scale metric:**  
-   ds2=−dτ2+dℓ2=−dτ2+(cloc(x)dσ)2.  
-  $$ds^2 \= \-d\\tau^2 \+ d\\ell^2 \= \-d\\tau^2 \+ (c\_{\\text{loc}}(x) d\\sigma)^2.$$  
-* Null conditions (light): $ds^2=0 \\Rightarrow d\\ell/d\\tau \= c\_{\\text{loc}}$.  
-   ⇒ “Speed of light” is exactly the **local scale rate** $c\_{\\text{loc}}$.
+* Set spatial coordinate as “scale translation” $d\ell := c_{\text{loc}} d\sigma$.  
+* **Scale metric:**
+  $$ds^2 = -d\tau^2 + d\ell^2 = -d\tau^2 + (c_{\text{loc}}(x) d\sigma)^2.$$  
+* Null conditions (light): $ds^2=0 \Rightarrow d\ell/d\tau = c_{\text{loc}}$.  
+   ⇒ “Speed of light” is exactly the **local scale rate** $c_{\text{loc}}$.
 
 Observations
 
-* Frequency $\\nu$ is the counting rate per proper time ⇒ $\\nu \\propto c\_{\\text{loc}}$.  
-* **Blue-/Redshift:**  
-   g:=νobsνem=cloc(xobs)cloc(xem).  
-  $$g := \\frac{\\nu\_{\\text{obs}}}{\\nu\_{\\text{em}}} \= \\frac{c\_{\\text{loc}}(x\_{\\text{obs}})}{c\_{\\text{loc}}(x\_{\\text{em}})}.$$  
-* Photon rate (flux) transforms likewise:  
-   Robs=gRem,EPhoton,obs=gEPhoton,em.  
-  $$R\_{\\text{obs}} \= g R\_{\\text{em}}, \\quad E\_{\\text{Photon,obs}} \= g E\_{\\text{Photon,em}}.$$  
+* Frequency $\nu$ is the counting rate per proper time ⇒ $\nu \propto c_{\text{loc}}$.  
+* **Blue-/Redshift:**
+  $$g := \frac{\nu_{\text{obs}}}{\nu_{\text{em}}} = \frac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})}.$$  
+* Photon rate (flux) transforms likewise:
+  $$R_{\text{obs}} = g R_{\text{em}}, \quad E_{\text{Photon,obs}} = g E_{\text{Photon,em}}.$$  
    ⇒ seamless flux, **counted faster and more energetic**, without gaps.
 
 Consistency Conditions
 
-* **Local Lorentz invariance:** $\\partial c\_{\\text{loc}}/\\partial x^\\mu \= 0$ in the infinitesimal region ⇒ standard SR locally.  
-* **Gravitational effects:** spatial/temporal gradients of $c\_{\\text{loc}}$ tilt the null cone ⇒ observed gravitational red-/blueshift arises from the $c\_{\\text{loc}}$ profile, not from “time stretching.”  
-* **Causality:** require $c\_{\\text{loc}}(x) \> 0$ and smooth, monotonic profiles; no closed timelike curves from the scale field alone.  
-* **Planck limit:** If $\\Delta \\tau \< t\_P$, the “photon number” loses meaning; only energy density/field packet remains well-defined.
+* **Local Lorentz invariance:** $\partial c_{\text{loc}}/\partial x^\mu = 0$ in the infinitesimal region ⇒ standard SR locally.  
+* **Gravitational effects:** spatial/temporal gradients of $c_{\text{loc}}$ tilt the null cone ⇒ observed gravitational red-/blueshift arises from the $c_{\text{loc}}$ profile, not from “time stretching.”  
+* **Causality:** require $c_{\text{loc}}(x) \> 0$ and smooth, monotonic profiles; no closed timelike curves from the scale field alone.  
+* **Planck limit:** If $\Delta \tau \< t_P$, the “photon number” loses meaning; only energy density/field packet remains well-defined.
 
 Minimal Translation to Standard Form
 
-* Choose a reference $c\_0$ and write conformally:  
-   gμν(ISE)=Ω2(x)gμν(Mink),Ω(x)=cloc(x)c0.  
-  $$g\_{\\mu \\nu}^{(ISE)} \= \\Omega^2(x) g\_{\\mu \\nu}^{(Mink)}, \\qquad \\Omega(x) \= \\frac{c\_{\\text{loc}}(x)}{c\_0}.$$  
-* Then all “shifts” are explained purely through $\\Omega(x)$ or $c\_{\\text{loc}}$.
+* Choose a reference $c_0$ and write conformally:
+  $$g_{\mu \nu}^{(ISE)} = \Omega^2(x) g_{\mu \nu}^{(Mink)}, \qquad \Omega(x) = \frac{c_{\text{loc}}(x)}{c_0}.$$  
+* Then all “shifts” are explained purely through $\Omega(x)$ or $c_{\text{loc}}$.
 
 **Core Statement:**  
- $c$ is not a universal fixed value, but $c\_{\\text{loc}} \= d\\sigma/d\\tau$, the **local expansion rate of the scale**. Distance is integrated time translation $d\\ell \= c\_{\\text{loc}} d\\sigma$; frequency, energy, and rate shifts follow directly from $c\_{\\text{loc}}$.
+ $c$ is not a universal fixed value, but $c_{\text{loc}} = d\sigma/d\tau$, the **local expansion rate of the scale**. Distance is integrated time translation $d\ell = c_{\text{loc}} d\sigma$; frequency, energy, and rate shifts follow directly from $c_{\text{loc}}$.
 
 Local Consistency
 
-* **Proper time $d\\tau$** remains the unshakable measure → no contradictions in local physics.  
-* **$c\_{\\text{loc}} \= d\\sigma/d\\tau$** defines the translation rate from scale to space.  
-* Locally one can always choose a system in which $c\_{\\text{loc}}$ is constant → analogous to the equivalence principle of GR.
+* **Proper time $d\tau$** remains the unshakable measure → no contradictions in local physics.  
+* **$c_{\text{loc}} = d\sigma/d\tau$** defines the translation rate from scale to space.  
+* Locally one can always choose a system in which $c_{\text{loc}}$ is constant → analogous to the equivalence principle of GR.
 
 Transformations
 
-* When $c\_{\\text{loc}}$ changes from place to place, frequency and photon rate transform exactly by the factor  
-   g=cloc(xobs)cloc(xem).  
-  $$g \= \\frac{c\_{\\text{loc}}(x\_{\\text{obs}})}{c\_{\\text{loc}}(x\_{\\text{em}})} .$$  
+* When $c_{\text{loc}}$ changes from place to place, frequency and photon rate transform exactly by the factor
+  $$g = \frac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})} .$$  
 * This reproduces blue- and redshift without invoking “time dilation.”
 
 Energy Conservation
@@ -491,18 +471,18 @@ Energy Conservation
 
 Causality
 
-* As long as $c\_{\\text{loc}} \> 0$ and varies smoothly, null cones remain defined and no signals run backwards in time.  
-* Causality does not break; it is only modulated by $c\_{\\text{loc}}(x)$.
+* As long as $c_{\text{loc}} \> 0$ and varies smoothly, null cones remain defined and no signals run backwards in time.  
+* Causality does not break; it is only modulated by $c_{\text{loc}}(x)$.
 
 Planck Limit
 
-* If $\\Delta \\tau \< t\_P$ the photon number loses meaning → consistent, since this construction fundamentally sets time and not $c$.
+* If $\Delta \tau \< t_P$ the photon number loses meaning → consistent, since this construction fundamentally sets time and not $c$.
 
 Comparison with GR
 
-* GR states: light cones tilt due to the metric $g\_{\\mu\\nu}$.  
-* This approach: light cones tilt because $c\_{\\text{loc}}(x)$ varies.  
-* Formally one can cast this into a conformal transformation ($g\_{\\mu\\nu}^{ISE} \= \\Omega^2 g\_{\\mu\\nu}^{Mink}$), mathematically equivalent.  
+* GR states: light cones tilt due to the metric $g_{\mu\nu}$.  
+* This approach: light cones tilt because $c_{\text{loc}}(x)$ varies.  
+* Formally one can cast this into a conformal transformation ($g_{\mu\nu}^{ISE} = \Omega^2 g_{\mu\nu}^{Mink}$), mathematically equivalent.  
 * Difference: **interpretation** – here, time is the constant basis, while space \+ c are emergent.
 
 **Energy conservation holds globally**
@@ -511,7 +491,7 @@ With energy originating from the differentiation energy of the scale.
 
 Standard Relativity
 
-* Energy conservation holds **only locally** ( $\\nabla\_\\mu T^{\\mu\\nu} \= 0$).  
+* Energy conservation holds **only locally** ( $\nabla_\mu T^{\mu\nu} = 0$).  
 * Globally there is no well-defined conservation, since the gravitational field cannot be balanced like a normal energy field.  
 * Therefore GR explains blueshift as “no global energy account, only geometry.”
 
@@ -519,18 +499,16 @@ ISE Approach
 
 * Energy conservation holds **globally**, but:  
 * There exists an additional **differentiation energy of the scale**.  
-* This means: every change of $c\_{\\text{loc}}(x)$ (scale rate) supplies or absorbs energy from this global reservoir.  
-* Formally:  
-   Eobs=g Eem,g=cloc(xobs)cloc(xem),  
-  $$E\_{\\text{obs}} \= g \\, E\_{\\text{em}}, \\quad g \= \\frac{c\_{\\text{loc}}(x\_{\\text{obs}})}{c\_{\\text{loc}}(x\_{\\text{em}})},$$
+* This means: every change of $c_{\text{loc}}(x)$ (scale rate) supplies or absorbs energy from this global reservoir.  
+* Formally:
+  $$E_{\text{obs}} = g \, E_{\text{em}}, \quad g = \frac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})},$$
 
-   where the delta $E\_{\\text{obs}} \- E\_{\\text{em}}$ **does not vanish**, but stems from $E\_{\\text{diff}}$ (differentiation energy).
+   where the delta $E_{\text{obs}} - E_{\text{em}}$ **does not vanish**, but stems from $E_{\text{diff}}$ (differentiation energy).
 
 Consequence
 
-* Thus energy conservation remains **globally closed**:  
-   Etotal=Ematter/field+Escale-diff=constant.  
-  $$E\_{\\text{total}} \= E\_{\\text{matter/field}} \+ E\_{\\text{scale-diff}} \= \\text{constant}.$$  
+* Thus energy conservation remains **globally closed**:
+  $$E_{\text{total}} = E_{\text{matter/field}} + E_{\text{scale-diff}} = \text{constant}.$$  
 * Gravitational blueshift is no longer explained by “missing global energy,” but by **redistribution between photons and the differentiation energy of the scale**.
 
 Advantage of this View
@@ -541,46 +519,38 @@ Advantage of this View
 
 Notation
 
-* $E\_{\\text{em}}$: energy of the emitted photons.  
-* $E\_{\\text{obs}}$: energy of the same photons at the detector.  
-* $E\_{\\text{diff}}$: energy stemming from the **differentiation of the scale** (reservoir).  
-* $g \= \\dfrac{c\_{\\text{loc}}(x\_{\\text{obs}})}{c\_{\\text{loc}}(x\_{\\text{em}})}$: blue-/redshift factor.
+* $E_{\text{em}}$: energy of the emitted photons.  
+* $E_{\text{obs}}$: energy of the same photons at the detector.  
+* $E_{\text{diff}}$: energy stemming from the **differentiation of the scale** (reservoir).  
+* $g = \dfrac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})}$: blue-/redshift factor.
 
 **Transformation**
 
 During transport:
-
-Eobs=g Eem.  
-$$E\_{\\text{obs}} \= g \\, E\_{\\text{em}} .$$
+$$E_{\text{obs}} = g \, E_{\text{em}} .$$
 
 Difference:
-
-ΔE=Eobs−Eem=(g−1) Eem.  
-$$\\Delta E \= E\_{\\text{obs}} \- E\_{\\text{em}} \= (g-1) \\, E\_{\\text{em}} .$$
+$$\Delta E = E_{\text{obs}} - E_{\text{em}} = (g-1) \, E_{\text{em}} .$$
 
 **Global Balance**
 
 The difference is **not** taken “from nothing,” but compensated by the scale reservoir:
-
-Etotal=Ephotons+Ediff=constant.  
-$$E\_{\\text{total}} \= E\_{\\text{photons}} \+ E\_{\\text{diff}} \= \\text{constant}.$$
+$$E_{\text{total}} = E_{\text{photons}} + E_{\text{diff}} = \text{constant}.$$
 
 With substitution:
-
-Ediff,obs=Ediff,em−(g−1)Eem.  
-$$E\_{\\text{diff,obs}} \= E\_{\\text{diff,em}} \- (g-1)E\_{\\text{em}} .$$
+$$E_{\text{diff,obs}} = E_{\text{diff,em}} - (g-1)E_{\text{em}} .$$
 
 **Interpretation**
 
 * For **blueshift** ($g\>1$): photons gain energy, the differentiation reservoir loses exactly that amount.  
 * For **redshift** ($g\<1$): photons lose energy, the reservoir gains.  
-* Total energy $E\_{\\text{total}}$ remains invariant → **global energy conservation holds**.
+* Total energy $E_{\text{total}}$ remains invariant → **global energy conservation holds**.
 
 **Consequence**
 
 This replaces the “gap” in GR (“no global energy conservation in curved spacetime”) with:
 
-Global energy conservation ⇔ energy balance through the scale field.\\text{Global energy conservation ⇔ energy balance through the scale field.}
+Global energy conservation ⇔ energy balance through the scale field.\text{Global energy conservation ⇔ energy balance through the scale field.}
 
 Now let us consider both extremes.
 
@@ -596,14 +566,14 @@ The standard assumption “photon number is invariant” is strictly embedded in
 
 **Why circular?**
 
-* **Definition:** In quantum electrodynamics, energy flux is counted in quanta on the basis of $E \= h\\nu$.  
+* **Definition:** In quantum electrodynamics, energy flux is counted in quanta on the basis of $E = h\nu$.  
 * **Assumption:** Since $h$ is constant, it is automatically stated that *photon number* remains invariant if radiation is considered without absorption or emission.  
 * **Problem:** This counting method already contains the claim it is supposed to prove: that photons are absolute units.
 
 **ISE Point**
 
 * When frequency is shifted, the energy *per photon* changes.  
-* The detector interprets this shift as a *different photon number*, because it registers each energy packet $h\\nu$ as “1 photon.”  
+* The detector interprets this shift as a *different photon number*, because it registers each energy packet $h\nu$ as “1 photon.”  
 * Thus photon number depends directly on the measurement scale. It is therefore not an invariant, ontological object, but a detector construct.
 
 **Consequence**
@@ -617,7 +587,7 @@ Another consequence is the negation of quantization altogether and its unveiling
 **Negation of Quantization**
 
 * If the **photon number** is not invariant but depends on the measurement grid, then “photons” are not fundamental, discrete particles.  
-* Quantization in standard physics ($E \= n h\\nu$) is not ontological, but **methodical**: a way of counting valid only within the scale resolution of the detector.  
+* Quantization in standard physics ($E = n h\nu$) is not ontological, but **methodical**: a way of counting valid only within the scale resolution of the detector.  
 * Quantization thus becomes an **artifact of measurement**, not a property of nature.
 
 **Unveiling as Scale Phenomenon**

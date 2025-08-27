@@ -3,7 +3,7 @@
 
 ## **4.6. Energy Losses Due to Redshift**
 
-The consequences of cosmological expansion for the energy balance of the universe are significant. If radiation is stretched to such an extent by the expansion that its wavelength increases beyond measurable limits, intriguing implications arise: Photons lose energy during the expansion of the universe ($E \= h \\cdot f$), as their frequency $f$ decreases with redshift. However, this energy does not "disappear" in a classical thermodynamic sense; it is redistributed into progressively lower energy densities due to the expansion.
+The consequences of cosmological expansion for the energy balance of the universe are significant. If radiation is stretched to such an extent by the expansion that its wavelength increases beyond measurable limits, intriguing implications arise: Photons lose energy during the expansion of the universe ($E = h \cdot f$), as their frequency $f$ decreases with redshift. However, this energy does not "disappear" in a classical thermodynamic sense; it is redistributed into progressively lower energy densities due to the expansion.
 
 **Past and Invisible Energy:**
 
@@ -30,7 +30,7 @@ The expansion of the universe might effectively "remove" measurable energy from 
 
 **Vacuum Fluctuations and Interference:**
 
-* Vacuum fluctuations arise due to uncertainty in energy and time ($\\Delta E \\cdot \\Delta t \\geq \\hbar$ ![][image5]).  
+* Vacuum fluctuations arise due to uncertainty in energy and time ($\Delta E \cdot \Delta t \geq \hbar$).  
 * The idea that fluctuations might temporarily "localize" energy through constructive interference could explain why dark energy is perceived as uniformly distributed across the universe, despite being dynamically active on a quantum level.
 
 **Coupling to Lost Radiation Energy:**
@@ -52,7 +52,7 @@ The idea indeed fits the scale of lost energy in the universe. Since the time of
 
 **Massive Energy Losses Since Recombination:**
 
-* The cosmic microwave background (CMB) is an example of this effect. Originally, the radiation had a temperature of about $3000 , ext{K}$ ![][image6], while today it is only $2.73 , ext{K}$ ![][image7]. This represents a drastic decrease in energy density.  
+* The cosmic microwave background (CMB) is an example of this effect. Originally, the radiation had a temperature of about $3000 , ext{K}$, while today it is only $2.73 , ext{K}$. This represents a drastic decrease in energy density.  
 * Additionally, all cold matter has since emitted photons, which have also been redshifted by the expansion into unmeasurable energy states.
 
 **Magnitude of "Lost" Energy:**
@@ -67,7 +67,7 @@ The idea indeed fits the scale of lost energy in the universe. Since the time of
 
 **Scaling Considerations:**
 
-* The energy density of dark energy is approximately $10^{-10} , ext{J/m}^3$ ![][image8]. While this seems minuscule, it sums to a dominant energy form on cosmic scales.  
+* The energy density of dark energy is approximately $10^{-10} , ext{J/m}^3$. While this seems minuscule, it sums to a dominant energy form on cosmic scales.  
 * Considering the summation of "lost" radiation energy, it would not be surprising for it to reemerge on this scale.
 
 **Long-Term Radiation and Background Energy:**
@@ -82,7 +82,7 @@ The enormous amount of "lost" radiation energy aligns perfectly with the observe
 
 **Mass-Energy Equivalence:**
 
-* The energy of dark energy has a mass equivalence according to Einstein's equation $E \= mc^2$. This energy contributes to the total mass content of the universe and thus influences its gravitation and large-scale structure.
+* The energy of dark energy has a mass equivalence according to Einstein's equation $E = mc^2$. This energy contributes to the total mass content of the universe and thus influences its gravitation and large-scale structure.
 
 **Gravitational Effects:**
 
@@ -113,8 +113,8 @@ The behavior of dark energy aligns remarkably well with the evolution of the uni
 
 **Growth of Relative Importance:**
 
-* As the universe expanded, the density of radiation ($$ρ\_{Radiation} ∝ a^{-4}$$ ![][image9]) and matter ($$ρ\_{Matter} ∝ a^{-3}$$ ![][image10]) decreased due to expansion.  
-* In contrast, dark energy remained constant (ρ\_{Dark Energy} \= constant) or grew relative to the diminishing energy density of matter and radiation.
+* As the universe expanded, the density of radiation ($ρ_{Radiation} ∝ a^{-4}$) and matter ($ρ_{Matter} ∝ a^{-3}$) decreased due to expansion.  
+* In contrast, dark energy remained constant (ρ_{Dark Energy} = constant) or grew relative to the diminishing energy density of matter and radiation.
 
 **Dominance in Later Times:**
 
@@ -128,9 +128,9 @@ The behavior of dark energy aligns remarkably well with the evolution of the uni
 
 **Cosmological Transitions:**
 
-* **Radiation-Dominated Era:** Until approximately $z \\sim 3400$ ![][image11], radiation was dominant.  
-* **Matter-Dominated Era:** From $z \\sim 3400$ ![][image12] to around $z \\sim 0.3$ ![][image13], matter dominated.  
-* **Dark Energy Era:** From $z \\sim 0.3$ ![][image14] (around 4.7 billion years ago), dark energy became dominant, leading to accelerated expansion.
+* **Radiation-Dominated Era:** Until approximately $z \sim 3400$, radiation was dominant.  
+* **Matter-Dominated Era:** From $z \sim 3400$ to around $z \sim 0.3$, matter dominated.  
+* **Dark Energy Era:** From $z \sim 0.3$ (around 4.7 billion years ago), dark energy became dominant, leading to accelerated expansion.
 
 **Long-Term Projection:**
 
@@ -143,17 +143,17 @@ If we extend the hypothesis further, the entire energy of the Cosmic Microwave B
 
 **CMB as the Source of Future Dark Energy:**
 
-* The energy of the CMB continuously decreases due to the expansion ($E \= h f$ ![][image15]) as wavelengths are stretched.  
+* The energy of the CMB continuously decreases due to the expansion ($E = h f$) as wavelengths are stretched.  
 * When this energy falls completely below the threshold of measurability and ceases to interact, it could be interpreted as contributing to dark energy.
 
 **Mass-Equivalence:**
 
-* The energy of the CMB has a mass equivalence, as described by $E \= mc^2$ ![][image16], which manifests through gravity.  
+* The energy of the CMB has a mass equivalence, as described by $E = mc^2$, which manifests through gravity.  
 * During expansion, this energy is not "destroyed" but becomes gravitationally active as dark energy or vacuum energy.
 
 **Transition from Radiation to Dark Energy:**
 
-* The energy density of the CMB ($ ho\_{CMB}$ ![][image17]) decreases with $a^{-4}$ **![][image18]**. Once extremely low, it no longer contributes to the universe's thermodynamic dynamics and transitions into static background energy.  
+* The energy density of the CMB ($ ho_{CMB}$) decreases with $a^{-4}$. Once extremely low, it no longer contributes to the universe's thermodynamic dynamics and transitions into static background energy.  
 * This represents a gradual shift from radiation to an energy form resembling dark energy.
 
 **Long-Term Evolution:**
@@ -173,15 +173,15 @@ The apparent "pull effect" of dark energy, which accelerates the expansion of th
 
 **Dark Energy and Negative Pressure:**
 
-* Dark energy is often interpreted as vacuum energy with a constant energy density (ρ\_DE).  
-* Unlike matter or radiation, which have positive pressure, dark energy exerts **negative pressure**, described by its equation of state: P\_DE \= w · ρ\_DE, with w ≈ \-1. Here, P\_DE is the pressure, and w \= \-1 for the cosmological constant (vacuum energy).
+* Dark energy is often interpreted as vacuum energy with a constant energy density (ρ_DE).  
+* Unlike matter or radiation, which have positive pressure, dark energy exerts **negative pressure**, described by its equation of state: P_DE = w · ρ_DE, with w ≈ \-1. Here, P_DE is the pressure, and w = \-1 for the cosmological constant (vacuum energy).
 
 **Influence on Expansion:**
 
-* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: $\\ddot{a} \\propto \-\\frac{4\\pi G}{3} \\left( \\rho \+ 3P \\right)$.  
-  ![][image19]  
-  * For normal matter and radiation (P \> 0), gravity slows the expansion ($\\ddot{a} \< 0$ ![][image20]).  
-  * For dark energy (P \< 0\) with P ≈ \-ρ, the pressure term dominates and causes positive acceleration ($\\ddot{a} \> 0$ ![][image21]).
+* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: $\ddot{a} \propto \-\frac{4\pi G}{3} \left( \rho \+ 3P \right)$.  
+   
+  * For normal matter and radiation (P \> 0), gravity slows the expansion ($\ddot{a} \< 0$).  
+  * For dark energy (P \< 0\) with P ≈ \-ρ, the pressure term dominates and causes positive acceleration ($\ddot{a} \> 0$).
 
 **Gravitational Effect of Negative Pressure:**
 
@@ -200,7 +200,7 @@ The apparent "pull effect" of dark energy, which accelerates the expansion of th
 
 The apparent "pull effect" of dark energy does not arise from a true force but rather from its gravitational interaction with spacetime via its negative pressure. This causes accelerated expansion, perceived as "pulling," though it is a consequence of cosmic geometry.
 
-The hypothesis elegantly connects these seemingly separate phenomena. The energy "lost" through the expansion of the universe and the associated redshift reappears as dark energy—fulfilling the criteria for its observed properties:
+The hypothesis elegantly connects these seemingly separate phenomena. The energy "lost" through the expansion of the universe and the associated redshift reappears as dark energy — fulfilling the criteria for its observed properties:
 
 **Energy Source of Dark Energy:**
 
@@ -230,13 +230,13 @@ To calculate the temperature of radiation at the time of recombination (around $
 
 **Calculation**
 
-The temperature of radiation today (T\_today) is determined from the temperature at the time of recombination (T\_rec) divided by the scaling factor, given by 1+z:
+The temperature of radiation today (T_today) is determined from the temperature at the time of recombination (T_rec) divided by the scaling factor, given by 1+z:
 
-T\_today \= T\_rec / (1+z)
+T_today = T_rec / (1+z)
 
-For radiation that falls below the measurability threshold today (\<10^-3 K), we set T\_today \< 10^-3 K and solve for T\_rec:
+For radiation that falls below the measurability threshold today (\<10^-3 K), we set T_today \< 10^-3 K and solve for T_rec:
 
-T\_rec \< 10^-3 \* (1 \+ 1100\) T\_rec \< 1.1 K
+T_rec \< 10^-3 \* (1 \+ 1100\) T_rec \< 1.1 K
 
 **Result**
 
@@ -255,24 +255,24 @@ The cosmic microwave background (CMB) will disappear from measurability when its
 
 The energy density of the cosmic microwave background (CMB) can be calculated using the **radiation energy density formula**:
 
-u \= a · T^4
+u = a · T^4
 
 **Constants and Values:**
 
-* a \= 7.5657 × 10^-16 J m^-3 K^-4 (radiation constant),  
-* T \= 2.725 K (current CMB temperature).
+* a = 7.5657 × 10^-16 J m^-3 K^-4 (radiation constant),  
+* T = 2.725 K (current CMB temperature).
 
 **Calculation:**
 
-u \= 7.5657 × 10^-16 × (2.725)^4
+u = 7.5657 × 10^-16 × (2.725)^4
 
 First, raise the temperature to the fourth power:
 
-T^4 \= 2.725^4 \= 55.28
+T^4 = 2.725^4 = 55.28
 
 Then, calculate the energy density:
 
-u \= 7.5657 × 10^-16 × 55.28 \= 4.18 × 10^-14 J m^-3
+u = 7.5657 × 10^-16 × 55.28 = 4.18 × 10^-14 J m^-3
 
 **Result:**
 
@@ -293,9 +293,9 @@ The energy density of dark energy is approximately **10,000 times higher** than 
 
 To estimate the energy density of radiation below the temperature of the cosmic microwave background (CMB), it is necessary to consider the distribution of radiation across all frequencies. The energy density of radiation follows the Planck distribution.
 
-The energy density for photons below a specific temperature T\_CMB can be calculated by integrating the Planck distribution up to a maximum frequency corresponding to T\_CMB:
+The energy density for photons below a specific temperature T_CMB can be calculated by integrating the Planck distribution up to a maximum frequency corresponding to T_CMB:
 
-u \= (8πh)/(c^3) ∫\_0^ν\_max (ν^3)/(e^(hν/(kT)) \- 1\) dν
+u = (8πh)/(c^3) ∫_0^ν_max (ν^3)/(e^(hν/(kT)) \- 1\) dν
 
 **Approximation:**
 
@@ -308,48 +308,48 @@ The energy density of radiation below the cosmic microwave background (CMB) at t
 
 **Basics:**
 
-* **Recombination Temperature:** Approximately T\_rek ≈ 3000 K.  
-* **CMB Temperature Today:** T\_today ≈ 2.725 K.  
+* **Recombination Temperature:** Approximately T_rek ≈ 3000 K.  
+* **CMB Temperature Today:** T_today ≈ 2.725 K.  
 * **Energy Density Scaling:** The energy density of radiation scales as u ∝ T⁴.  
 * **Radiation Below the CMB:** Its energy density is a fraction of the total CMB density and can be estimated through integration of the Planck distribution.
 
 At the time of recombination, the energy density of the CMB was:
 
-u\_rek \= u\_today × (T\_rek / T\_today)⁴
+u_rek = u_today × (T_rek / T_today)⁴
 
 Substituting values:
 
-u\_rek \= 4.18 × 10⁻¹⁴ J/m³ × (3000 / 2.725)⁴
+u_rek = 4.18 × 10⁻¹⁴ J/m³ × (3000 / 2.725)⁴
 
-u\_rek ≈ 4.18 × 10⁻¹⁴ × 1.21 × 10⁹ ≈ 5.06 × 10⁻⁵ J/m³
+u_rek ≈ 4.18 × 10⁻¹⁴ × 1.21 × 10⁹ ≈ 5.06 × 10⁻⁵ J/m³
 
 **Contribution of Radiation Below the CMB:**
 
-Radiation with T \< 3000 K at the time of recombination corresponds to a very small portion of the Planck distribution, as most radiation was higher in energy. The contribution can be approximated as the relative area under T\_rek, typically \<1% of the total radiation density:
+Radiation with T \< 3000 K at the time of recombination corresponds to a very small portion of the Planck distribution, as most radiation was higher in energy. The contribution can be approximated as the relative area under T_rek, typically \<1% of the total radiation density:
 
-u\_below ≈ 0.01 × u\_rek ≈ 5.06 × 10⁻⁷ J/m³
+u_below ≈ 0.01 × u_rek ≈ 5.06 × 10⁻⁷ J/m³
 
 **Result:**
 
 The energy density of radiation below the recombination temperature (T \< 3000 K) was approximately **5.06 × 10⁻⁷ J/m³**, which represents a tiny fraction of the total radiation density.
 
-At the time of recombination, the temperature of the cosmic microwave background (CMB) was about T\_rek ≈ 3000 K. Radiation with an effective temperature below 2.725 K would have carried extremely low energy and contributed negligibly to the total energy density.
+At the time of recombination, the temperature of the cosmic microwave background (CMB) was about T_rek ≈ 3000 K. Radiation with an effective temperature below 2.725 K would have carried extremely low energy and contributed negligibly to the total energy density.
 
 **Approach:**
 
 * **Planck Distribution:**  
-  * The energy density of radiation below a temperature T\_cutoff (2.725 K) can be integrated using the Planck distribution:  
-* u\_low \= (8πh)/(c³) ∫₀^ν\_max (ν³)/(e^(hν/(kT\_rek)) \- 1\) dν,  
-  where ν\_max corresponds to the frequency for T\_cutoff \= 2.725 K.  
+  * The energy density of radiation below a temperature T_cutoff (2.725 K) can be integrated using the Planck distribution:  
+* u_low = (8πh)/(c³) ∫₀^ν_max (ν³)/(e^(hν/(kT_rek)) \- 1\) dν,  
+  where ν_max corresponds to the frequency for T_cutoff = 2.725 K.  
 * **Effective Fraction:**  
-  * The fraction of the energy density at T\_rek \= 3000 K that lies below today’s CMB temperature (T \< 2.725 K) is extremely small, as the Planck distribution decreases exponentially.  
+  * The fraction of the energy density at T_rek = 3000 K that lies below today’s CMB temperature (T \< 2.725 K) is extremely small, as the Planck distribution decreases exponentially.  
 * **Approximation by Scaling:**  
   * The energy density scales proportionally with T⁴. Therefore, the energy density below 2.725 K at the time of recombination is reduced by the factor (2.725 / 3000)⁴:  
-* u\_low \= u\_rek × (2.725 / 3000)⁴  
+* u_low = u_rek × (2.725 / 3000)⁴  
 * **Calculation:**  
-  u\_rek \= 5.06 × 10⁻⁵ J/m³  
+  u_rek = 5.06 × 10⁻⁵ J/m³  
   (2.725 / 3000)⁴ ≈ 2.43 × 10⁻¹⁰  
-  u\_low \= 5.06 × 10⁻⁵ × 2.43 × 10⁻¹⁰ ≈ 1.23 × 10⁻¹⁴ J/m³
+  u_low = 5.06 × 10⁻⁵ × 2.43 × 10⁻¹⁰ ≈ 1.23 × 10⁻¹⁴ J/m³
 
 **Result:**
 
@@ -363,7 +363,7 @@ If we assume that the entire energy of radiation with T \< 2.725 K at the time o
 
 The energy density of radiation with T \< 2.725 K at the time of recombination was already calculated:
 
-u\_low, rek ≈ 1.23 × 10⁻¹⁴ J/m³.
+u_low, rek ≈ 1.23 × 10⁻¹⁴ J/m³.
 
 **Additional Radiation (Cooler than 1 K):**
 
@@ -371,21 +371,21 @@ For radiation with T \< 1 K, emitted after recombination (e.g., from thermal pro
 
 * The energy density of this radiation is extremely low, as it minimally adds to the cosmic radiation density. Approximately:
 
-u\_low, add ≈ 1.0 × 10⁻¹⁴ J/m³.
+u_low, add ≈ 1.0 × 10⁻¹⁴ J/m³.
 
 **Total Energy Density (Recombined and Later Radiation):**
 
 The total energy density of radiation hypothetically converted into dark energy would be:
 
-u\_total, rek \= u\_low, rek \+ u\_low, add. u\_total, rek ≈ 1.23 × 10⁻¹⁴ \+ 1.0 × 10⁻¹⁴ \= 2.23 × 10⁻¹⁴ J/m³.
+u_total, rek = u_low, rek \+ u_low, add. u_total, rek ≈ 1.23 × 10⁻¹⁴ \+ 1.0 × 10⁻¹⁴ = 2.23 × 10⁻¹⁴ J/m³.
 
 **Current Energy Density of Dark Energy:**
 
-Since dark energy is not diluted by cosmic expansion, its energy density remains constant. Assuming today’s observed dark energy (u\_Λ) originates from this radiation energy, we get:
+Since dark energy is not diluted by cosmic expansion, its energy density remains constant. Assuming today’s observed dark energy (u_Λ) originates from this radiation energy, we get:
 
-u\_Λ, today \= 2.23 × 10⁻¹⁴ J/m³.
+u_Λ, today = 2.23 × 10⁻¹⁴ J/m³.
 
-This is about **10⁻⁴** of the currently measured energy density of dark energy (u\_Λ ≈ 6.91 × 10⁻¹⁰ J/m³).
+This is about **10⁻⁴** of the currently measured energy density of dark energy (u_Λ ≈ 6.91 × 10⁻¹⁰ J/m³).
 
 Even if all radiation energy from T \< 2.725 K and additional cooler radiation were fully converted into dark energy, this energy density falls short by many orders of magnitude, implying that dark energy most likely has a different origin.
 
@@ -413,10 +413,10 @@ The accelerated expansion of the universe and the dynamic development of the thr
 **Key Points:**
 
 * **Accelerated Expansion and Energy Conversion:**  
-  * The universe's expansion accelerates due to dark energy. The energy density of dark energy remains constant, while the radiation energy density decreases with expansion (u\_Radiation ∝ a⁻⁴).  
-  * The threshold for energy conversion (e.g., temperature, frequency) shifts with expansion: longer-wavelength photons (T\_eff ∝ 1/a) increasingly fall below the threshold for conversion into dark energy.  
+  * The universe's expansion accelerates due to dark energy. The energy density of dark energy remains constant, while the radiation energy density decreases with expansion (u_Radiation ∝ a⁻⁴).  
+  * The threshold for energy conversion (e.g., temperature, frequency) shifts with expansion: longer-wavelength photons (T_eff ∝ 1/a) increasingly fall below the threshold for conversion into dark energy.  
 * **Threshold Dependent on Expansion Rate:**  
-  * The threshold is not fixed but rises proportionally to the Hubble rate H(t) or the temporal evolution of expansion. A proportional relationship could be expressed as: E\_Threshold ∝ H(t), where H(t) is defined by the Friedmann equations.  
+  * The threshold is not fixed but rises proportionally to the Hubble rate H(t) or the temporal evolution of expansion. A proportional relationship could be expressed as: E_Threshold ∝ H(t), where H(t) is defined by the Friedmann equations.  
 * **Dynamic Energy Density:**  
   * In earlier times, conversion was inefficient because the threshold was high and radiation density dominated.  
   * In the later universe (after the equivalence era, z \~ 3400), the threshold became more efficient, and more energy fell into the range contributing to dark energy.
@@ -425,9 +425,7 @@ The accelerated expansion of the universe and the dynamic development of the thr
 
 If we assume that a percentage of radiation energy is continuously converted into dark energy through expansion, a cumulative growth function emerges:
 
-$$ u\_{\\Lambda}(t) \= \\int u\_{\\text{Radiation}}(t') \\cdot f(H(t')) \\, dt' $$
-
-![][image22]
+$$ u_{\Lambda}(t) = \int u_{\text{Radiation}}(t') \cdot f(H(t')) \, dt' $$
 
 where f(H(t’)) describes the efficiency of conversion as a function of H(t’).
 
@@ -476,7 +474,7 @@ Over the entire cosmic evolution, the cumulative radiation of low-energy photons
 
 This consideration highlights the significance of low-energy processes for the universe's long-term energy balance, particularly in the late cosmic era.
 
-It is a concise and physically consistent hypothesis. If low-energy radiation becomes practically undetectable due to its extremely low energy and ceases to engage in significant interactions, only its mass-equivalent, as described by the equivalence of mass and energy (E \= mc²), remains as a significant effect:
+It is a concise and physically consistent hypothesis. If low-energy radiation becomes practically undetectable due to its extremely low energy and ceases to engage in significant interactions, only its mass-equivalent, as described by the equivalence of mass and energy (E = mc²), remains as a significant effect:
 
 * **Mass-Equivalent as a Remaining Effect:**  
   * This radiation contributes to the universe's energy density, even if its direct interaction or emission no longer plays a role.  

@@ -5,13 +5,13 @@
 
 The discrepancy between theoretical predictions and experimental observations of vacuum energy represents one of the challenges in modern physics. While quantum field theory predicts a vacuum energy density that deviates by **120 orders of magnitude** from the observed dark energy, the Casimir extrapolation yields a result that, although still **six orders of magnitude too high**, is significantly more realistic. This discrepancy suggests that **a fundamental mechanism is missing that explains the scale dependence of vacuum energy**. The **model** offers an approach to resolving this discrepancy by demonstrating that dark energy does not exist as a static background quantity but rather as a **scale-dynamic interference process** arising from subquantum resonances.
 
-A similar issue arises with Hawking radiation, which is classically described as a thermal process but has a quantum mechanical basis that could be linked to the interference structure of vacuum fluctuations. The ISE suggests that vacuum energy does not exist as a constant value but is instead influenced by **dynamic interference processes** that are asymmetrically amplified in extreme curvature regimes—such as near an event horizon. This could explain why Hawking radiation is not merely a random product of quantum fluctuations but rather a scale-dependent interference phenomenon distorted by gravity. This paper examines how the ISE interprets the nature of dark energy and Hawking radiation as expressions of a common mechanism and explores the experimental tests that could be derived from this framework.
+A similar issue arises with Hawking radiation, which is classically described as a thermal process but has a quantum mechanical basis that could be linked to the interference structure of vacuum fluctuations. The ISE suggests that vacuum energy does not exist as a constant value but is instead influenced by **dynamic interference processes** that are asymmetrically amplified in extreme curvature regimes — such as near an event horizon. This could explain why Hawking radiation is not merely a random product of quantum fluctuations but rather a scale-dependent interference phenomenon distorted by gravity. This paper examines how the ISE interprets the nature of dark energy and Hawking radiation as expressions of a common mechanism and explores the experimental tests that could be derived from this framework.
 
 The discrepancy between **measurement, theory, and observation** reveals a **significant ignorance** in our understanding of vacuum energy.
 
 **Measurement (Casimir) vs. Theory**
 
-* The **Casimir extrapolation** is **1 million times** larger than the observed dark energy but **matches reality far better than naive quantum field theory** (which deviates by $10^{120}$ ![][image23]).  
+* The **Casimir extrapolation** is **1 million times** larger than the observed dark energy but **matches reality far better than naive quantum field theory** (which deviates by $10^{120}$ ).  
 * This indicates that **pure quantum field theory without a scale mechanism cannot be the correct explanation**.
 
 **Measurement vs. Observation (Cosmology)**
@@ -19,7 +19,7 @@ The discrepancy between **measurement, theory, and observation** reveals a **sig
 * The Casimir extrapolation is **only 6 orders of magnitude above dark energy**, suggesting that **we can roughly measure the actual magnitude of vacuum energy in laboratory experiments**, but an important **reduction mechanism is missing**.  
 * Dark energy could thus be a **regulated, scale-dependent effect** of vacuum energy that behaves differently on cosmic scales compared to local ones.
 
-The measurement is much closer to reality than the theory—this is **a clear indication that our theoretical model of vacuum energy is incorrect or incomplete**. Possibly, vacuum energy is a **dynamic scaling process** that manifests differently on cosmic and local scales.
+The measurement is much closer to reality than the theory — this is **a clear indication that our theoretical model of vacuum energy is incorrect or incomplete**. Possibly, vacuum energy is a **dynamic scaling process** that manifests differently on cosmic and local scales.
 
 A key aspect of this lies in the ISE. Vacuum fluctuations are **interfering dark energy**. When constructive interference occurs, this energy temporarily emerges as a fluctuation in our continuum before disappearing again.
 
@@ -32,7 +32,7 @@ A key aspect of this lies in the ISE. Vacuum fluctuations are **interfering dark
 **Why Does Dark Energy Appear Only as a Weak Residual?**
 
 * If dark energy is an **interfering resonance structure**, it means that it **mostly cancels itself out**.  
-* This explains why the **Casimir energy density is much larger than the observed dark energy**—because Casimir measures a **local constructive interference**, while dark energy in the cosmos remains a **globally averaged residual of interference**.
+* This explains why the **Casimir energy density is much larger than the observed dark energy** — because Casimir measures a **local constructive interference**, while dark energy in the cosmos remains a **globally averaged residual of interference**.
 
 **What Does This Mean for the ISE?**
 
@@ -46,7 +46,7 @@ The idea that dark energy consists of **interfering vacuum fluctuations that mos
 
 * Classical quantum field theory treats vacuum energy as a **summed zero-point energy of all quantum modes**, without considering that these modes **interfere with each other**.  
 * In reality, many of these modes could cancel out through **destructive interference**, leaving only a **weak residual**.  
-* This explains why the naive calculation is **$10^{120}$ ![][image24] times larger** than the actually observed dark energy.
+* This explains why the naive calculation is **$10^{120}$ times larger** than the actually observed dark energy.
 
 **Why Is the Casimir Extrapolation Closer to Reality?**
 
@@ -65,7 +65,7 @@ The idea that dark energy consists of **interfering vacuum fluctuations that mos
 • **Why Casimir is closer to reality:** Casimir measures a **local fluctuation**, not an across-the-scale summation.  
 • **ISE perspective:** Dark energy is a **scale effect, not a fixed background value**, emerging from the **subquantum wave dynamics of the universe**.
 
-This not only explains the discrepancy but also shows that dark energy is a **subquantum physical interference effect**, which manifests at macroscopic scales only as a weak resonance. Even if quantum field theory correctly sums all modes, the total energy density should have a gravitational effect—but it does not.
+This not only explains the discrepancy but also shows that dark energy is a **subquantum physical interference effect**, which manifests at macroscopic scales only as a weak resonance. Even if quantum field theory correctly sums all modes, the total energy density should have a gravitational effect — but it does not.
 
 **The Problem of Gravitating Vacuum Energy**
 
@@ -97,7 +97,7 @@ If the model is correct and the energy exists but does not appear as gravity, th
 **Conclusion**
 
 • The model overestimates not only the absolute vacuum energy but also its gravitational effect.  
-• All vacuum energy should have a gravitational effect, but it does not—implying it is interfered with or gravitationally decoupled.  
+• All vacuum energy should have a gravitational effect, but it does not — implying it is interfered with or gravitationally decoupled.  
 • ISE explains this through subquantum resonances, which do not transmit gravity linearly but distribute it in a scale-dependent manner.  
 • Dark energy is therefore not the full vacuum energy but only the remaining part that still interacts gravitationally in our continuum.
 
@@ -111,7 +111,7 @@ Asymmetric Scale Distribution
 
 * If energy does not interact gravitationally, then it exists in a **different mode of scale existence**.  
 * This means that **scale expansion occurs not only through differentiation** but also through a **form of fusion at the subquantum level**.  
-* Until now, the ISE has focused on **pure scale differentiation**—this would be an **extension of the theory**.
+* Until now, the ISE has focused on **pure scale differentiation** — this would be an **extension of the theory**.
 
 Fusion as a Counterprocess to Differentiation?
 
@@ -123,7 +123,7 @@ Implications for Dark Energy
 
 * Dark energy would then be **the small fraction that is not completely fused** and thus still exhibits a scale-dependent effect.  
 * The expansion of the universe might not be a result of a classical force but rather a **consequence of this fusion-differentiation asymmetry**.  
-* This would imply that the **subquantum scale exists in two directions**—one that differentiates (visible energy) and one that fuses (non-gravitational energy).
+* This would imply that the **subquantum scale exists in two directions** — one that differentiates (visible energy) and one that fuses (non-gravitational energy).
 
 Expansion of the ISE: Two Scale Paths
 
@@ -135,9 +135,9 @@ Expansion of the ISE: Two Scale Paths
 
 **Conclusion**
 
-• The ISE may need to allow for bidirectional scale development—differentiation AND fusion.  
+• The ISE may need to allow for bidirectional scale development — differentiation AND fusion.  
 • Dark energy may not only be a product of interference but also of fusion, which negates gravitational differentiation.  
-• This could explain the 120 orders of magnitude discrepancy in vacuum energy—because most of it is not differentiated but fused.  
+• This could explain the 120 orders of magnitude discrepancy in vacuum energy — because most of it is not differentiated but fused.  
 • This would be a radical but logical step toward a better understanding of dark energy and the fundamental nature of scale expansion.
 
 However, differentiation does not necessarily mean visibility. Energy below our scale level can be differentiated but too weak to be measurable, or it may exist above our scale as a homogeneous background that we no longer perceive. The terms "differentiated" and "visible" are too closely linked in this context. **Differentiated does not necessarily mean measurable or visible**, but simply that a **scale structure exists**.
@@ -153,11 +153,11 @@ ISE strongly suggests that dark energy was once **low-temperature radiation from
 
 **Dark Energy as Low-Temperature Radiation**
 
-* This assumption explains **why dark energy is ubiquitous but not directly measurable**—it simply exists on a scale where we no longer have direct interaction.  
+* This assumption explains **why dark energy is ubiquitous but not directly measurable** — it simply exists on a scale where we no longer have direct interaction.  
 * It was previously **thermal radiation with measurable energy** but has been transformed into a state through **cosmic expansion and scale transformation**, where it now only acts as a **background expansion force**.  
 * This aligns well with the **ISE hypothesis of scale expansion**, as it describes an **energy redistribution rather than an energy loss**.
 
-**Vacuum Fluctuations as Re-Emerging Energy—Unresolved Issues**
+**Vacuum Fluctuations as Re-Emerging Energy — Unresolved Issues**
 
 * The idea that **vacuum fluctuations temporarily reconstruct this low-temperature radiation** needs to be refined.  
 * One issue is that vacuum fluctuations typically **oscillate symmetrically between positive and negative energies**, whereas dark energy has a **positive energy density**.  
@@ -241,7 +241,7 @@ If vacuum fluctuations **generate constructive interference**, then they should 
 
 How Do We Know About Energy Fluctuations?
 
-* Theoretically, the existence of vacuum fluctuations **is derived from statistical means**—we can measure their effects indirectly, but we cannot directly capture individual fluctuations.  
+* Theoretically, the existence of vacuum fluctuations **is derived from statistical means** — we can measure their effects indirectly, but we cannot directly capture individual fluctuations.  
 * Examples of indirect measurements:  
   * **Casimir Effect**: Force measurements between plates demonstrate the existence of fluctuations.  
   * **Lamb Shift**: A tiny shift in atomic energy levels caused by vacuum fluctuations.  
@@ -270,7 +270,7 @@ What Does This Mean for the ISE?
 • If they exhibit constructive interference, it should manifest as a probability distribution with rarer high-energy peaks.  
 • Casimir experiments could theoretically reveal whether vacuum fluctuations have probabilistic peaks.
 
-This means that the **hypothesis of dark energy as latent background energy with occasional constructive interferences** is, in principle, testable—but only if our measurement methods become sufficiently sensitive.
+This means that the **hypothesis of dark energy as latent background energy with occasional constructive interferences** is, in principle, testable — but only if our measurement methods become sufficiently sensitive.
 
 This results in a **concrete, testable prediction** within the framework.
 

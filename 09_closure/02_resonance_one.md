@@ -68,6 +68,6 @@ The Gjergo & Kroupa study (2025), based on empirical JWST data, provides a speci
 
 **From Theoretical Postulate to Empirical Resonance**
 
-The Gjergo & Kroupa study represents a significant turning point in cosmology. It demonstrates that with new observational tools, long-held assumptions can be fundamentally challenged. For the Infinite Scale Expansion, this study provides a powerful empirical resonance. It offers a plausible physical mechanism—thermalized light from early galaxies—that corresponds directly to the ISE's abstract principle of the CMB as a relic of cosmic differentiation.
+The Gjergo & Kroupa study represents a significant turning point in cosmology. It demonstrates that with new observational tools, long-held assumptions can be fundamentally challenged. For the Infinite Scale Expansion, this study provides a powerful empirical resonance. It offers a plausible physical mechanism — thermalized light from early galaxies — that corresponds directly to the ISE's abstract principle of the CMB as a relic of cosmic differentiation.
 
 By undermining the primordial interpretation of the CMB, the study weakens the foundation of the ΛCDM model and its reliance on concepts like dark matter and dark energy, for which ISE provides a more coherent, integrated explanation. The study thus serves as a critical bridge, transforming the principles of ISE from a purely theoretical and ontological framework into one that is directly supported by, and can provide context for, the latest empirical discoveries in astrophysics.

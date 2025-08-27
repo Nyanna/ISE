@@ -56,7 +56,7 @@ In the ISE, matter originates from a differentiation of Nothing – and this is 
 
 ISE frames this more radically:
 
-* "Nothing" \= Karii.  
+* "Nothing" = Karii.  
 * Matter does not arise from something pre-existing, but from the first differentiation – the breaking of absolute symmetry into distinctions.  
 * Space and time follow only *afterwards* as scale sequences.
 
@@ -65,11 +65,11 @@ Thus, the statement "matter from nothing" is not only poetic, but structurally c
 When reflected upon further, matter is first only electromagnetic repulsion. More deeply, matter is rest mass – an interaction potential with a certain energy. With fixed ratios, this rest mass can appear differently at different scales.
 
 * **Everyday view**  
-   Matter \= something with volume, repulsion, stability → practically **electromagnetic repulsion** of electron shells.  
+   Matter = something with volume, repulsion, stability → practically **electromagnetic repulsion** of electron shells.  
 * **Deeper physical view**  
-   Matter \= something with **rest mass**.  
-  * Mass \= coupling to gravitation.  
-  * Rest mass \= energy present even without motion (E \= mc²).  
+   Matter = something with **rest mass**.  
+  * Mass = coupling to gravitation.  
+  * Rest mass = energy present even without motion (E = mc²).  
   * Rest mass is not a substrate, but an **interaction potential**: it defines how strongly a field (Higgs, EM, gravity) reacts to a particle.  
 * **Scaling**  
    With fixed constants, rest mass can manifest differently depending on scale:  
@@ -78,14 +78,14 @@ When reflected upon further, matter is first only electromagnetic repulsion. Mor
   * cosmic as gravitational effect.
 
 In ISE terms:  
- Matter \= "condensed differentiation," a **scale-bound manifestation** of energy.  
+ Matter = "condensed differentiation," a **scale-bound manifestation** of energy.  
  Rest mass is the measure of how strongly this differentiation is retained within a given scale frame.
 
 This matches the concise formulation: **matter is not a thing, but a relation.**
 
 **Differentiation as Principle**
 
-When one says *“Matter \= rest mass \= interaction potential”*, this is already **one level deeper** than an axiom.
+When one says *“Matter = rest mass = interaction potential”*, this is already **one level deeper** than an axiom.
 
 An axiom in ISE would rather state:
 
@@ -128,7 +128,7 @@ In ISE-notation this can be expressed as:
 $$M_0 \;\;\longleftrightarrow\;\; (M_1 + M_2) + D(E)$$
 
 * $M_0$ = original rest mass (undifferentiated)  
-* $M_1, M_2$ \= differentiated portions of the rest mass  
+* $M_1, M_2$ = differentiated portions of the rest mass  
 * $D(E)$ = distance $D$, which itself exists as an energy relation $E$
 
 **Interpretation:**  
@@ -163,7 +163,7 @@ $$\Delta = M + D$$
 
 * Set $M$ = rest mass (internal differentiation).   
 * Set $D$ = distance with energy content (external differentiation).  
-   If mass decreases ($M \downarrow$), distance-energy must increase ($D \uparrow$) so that $\\Delta$ remains constant.  
+   If mass decreases ($M \downarrow$), distance-energy must increase ($D \uparrow$) so that $\Delta$ remains constant.  
    This is **energy conservation**:
 $$\Delta = \text{const} \quad\Rightarrow\quad \Delta M = - \Delta D$$
 
@@ -215,62 +215,47 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
    A perspective $\sigma$ is represented by a linear, isometric transformation $U_\sigma: \mathcal{H} \to \mathcal{H}$. In $\sigma$: $|\Delta\rangle_\sigma := U_\sigma |\Delta\rangle$.
 
 * **Projections (interpretations)**  
-   “Rest mass” and “distance/energy” are **projections** of the same $|\Delta\rangle\_\sigma$:
-  $$|M\\rangle\_\\sigma := P\_M^{(\\sigma)} |\\Delta\\rangle\_\\sigma, \\quad |D\\rangle\_\\sigma := P\_D^{(\\sigma)} |\\Delta\\rangle\_\\sigma.$$
+   “Rest mass” and “distance/energy” are **projections** of the same $|\Delta\rangle_\sigma$:
+  $$|M\rangle_\sigma := P_M^{(\sigma)} |\Delta\rangle_\sigma, \quad |D\rangle_\sigma := P_D^{(\sigma)} |\Delta\rangle_\sigma.$$
 
-   With **completeness**:  
-   PM(σ)+PD(σ)=I, PM,D(σ)⪰0.
+   With **completeness**: 
+  $$P_M^{(\sigma)} + P_D^{(\sigma)} = \mathbf{I}, \quad P_{M,D}^{(\sigma)} \succeq 0.$$
 
-  $$P\_M^{(\\sigma)} \+ P\_D^{(\\sigma)} \= \\mathbf{I}, \\quad P\_{M,D}^{(\\sigma)} \\succeq 0.$$
-
-   Orthogonal (disjoint views): $P\_i^2 \= P\_i, ; P\_M P\_D \= 0$.  
-   General (overlap of meanings): **POVM** with $P\_i$ positive but not necessarily idempotent/orthogonal.
+   Orthogonal (disjoint views): $P_i^2 = P_i, ; P_M P_D = 0$.  
+   General (overlap of meanings): **POVM** with $P_i$ positive but not necessarily idempotent/orthogonal.
 
 * **Conservation of differentiation**  
-   The scalar $\\Delta$ remains invariant:  
-   ⟨Δ∣Δ⟩=⟨Δ∣(PM(σ)+PD(σ))∣Δ⟩=∥M∥σ2+∥D∥σ2=const.
-
-  $$\\langle \\Delta | \\Delta \\rangle \= \\langle \\Delta | (P\_M^{(\\sigma)} \+ P\_D^{(\\sigma)}) | \\Delta \\rangle \= \\|M\\|\_\\sigma^2 \+ \\|D\\|\_\\sigma^2 \= \\text{const.}$$  
+   The scalar $\Delta$ remains invariant: 
+  $$\langle \Delta | \Delta \rangle = \langle \Delta | (P_M^{(\sigma)} + P_D^{(\sigma)}) | \Delta \rangle = |M|_\sigma^2 + |D|_\sigma^2 = \text{const.}$$  
    ⇒ Energy conservation as a special case of **projection conservation**.
 
-* **Perspective relativity (change of view)**  
-   Between $\\sigma\_1$ and $\\sigma\_2$:  
-   Pi(σ2)=Uσ2σ1Pi(σ1)Uσ1σ2,Uσ2σ1=Uσ2Uσ1−1.
+* **Perspective relativity (change of view)** 
+  $$P_i^{(\sigma_2)} = U_{\sigma_2 \sigma_1} P_i^{(\sigma_1)} U_{\sigma_1 \sigma_2}, \quad U_{\sigma_2 \sigma_1} = U_{\sigma_2} U_{\sigma_1}^{-1}.$$
 
-  $$P\_i^{(\\sigma\_2)} \= U\_{\\sigma\_2 \\sigma\_1} P\_i^{(\\sigma\_1)} U\_{\\sigma\_1 \\sigma\_2}, \\quad U\_{\\sigma\_2 \\sigma\_1} \= U\_{\\sigma\_2} U\_{\\sigma\_1}^{-1}.$$
-
-   The projected parts change ($|M|, |D|$), but $|\\Delta|$ stays constant.
+   The projected parts change ($|M|, |D|$), but $|\Delta|$ stays constant.
 
 * **Continuous decomposition (one-parameter view)**  
-   For a scale parameter $\\theta$:  
-   PM(θ)=cos⁡2θΠ+cos⁡θsin⁡θ  K,PD(θ)=sin⁡2θΠ−cos⁡θsin⁡θ  K,
+   For a scale parameter $\theta$:
+  $$P_M^{(\theta)} = \cos^2 \theta \Pi + \cos \theta \sin \theta \; K, \quad P_D^{(\theta)} = \sin^2 \theta \Pi - \cos \theta \sin \theta \; K,$$
 
-  $$P\_M^{(\\theta)} \= \\cos^2 \\theta \\Pi \+ \\cos \\theta \\sin \\theta \\; K, \\quad P\_D^{(\\theta)} \= \\sin^2 \\theta \\Pi \- \\cos \\theta \\sin \\theta \\; K,$$
-
-   with $\\Pi, K$ fixed positive operators and $P\_M^{(\\theta)} \+ P\_D^{(\\theta)} \= \\mathbf{I}$.  
-   Intuition: $\\theta$ tilts the interpretation continuously from “mass” to “distance.”
+   with $\Pi, K$ fixed positive operators and $P_M^{(\theta)} + P_D^{(\theta)} = \mathbf{I}$.  
+   Intuition: $\theta$ tilts the interpretation continuously from “mass” to “distance.”
 
 * **Dynamics (scale-covariant)**  
-   For an internal evolution parameter $\\lambda$:  
-   ddλ⟨Δ∣Δ⟩=0,ddλ(PM(σ)+PD(σ))=0,\\frac{d}{d\\lambda} \\langle 
+   For an internal evolution parameter $\lambda$: 
+  $$\Delta | \Delta \rangle = 0, \quad \frac{d}{d\lambda}(P_M^{(\sigma)} + P_D^{(\sigma)}) = 0,$$
 
-  $$\\Delta | \\Delta \\rangle \= 0, \\quad \\frac{d}{d\\lambda}(P\_M^{(\\sigma)} \+ P\_D^{(\\sigma)}) \= 0,$$
+   but individually: 
+  $$\frac{d}{d\lambda} |M|_\sigma^2 = - \frac{d}{d\lambda} |D|_\sigma^2,$$
 
-   but individually:  
-   ddλ∥M∥σ2=−ddλ∥D∥σ2,
-
-  $$\\frac{d}{d\\lambda} \\|M\\|\_\\sigma^2 \= \- \\frac{d}{d\\lambda} \\|D\\|\_\\sigma^2,$$
-
-   \= transfer between internal and external differentiation (M ↔ D).
+   = transfer between internal and external differentiation (M ↔ D).
 
 * **Gravitation/binding as projection law**  
-   For two subsystems $A,B$:  
-   ∥DAB∥σ2  ∝  fσ ⁣(MAMBr),
+   For two subsystems $A,B$:
+  $$|D_{AB}|_\sigma^2 \; \propto \; f_\sigma \! \left( \frac{M_A M_B}{r} \right),$$
 
-  $$\\|D\_{AB}\\|\_\\sigma^2 \\; \\propto \\; f\_\\sigma \\\! \\left( \\frac{M\_A M\_B}{r} \\right),$$
+   Derivative with respect to $r$ ⇒ $F \propto - M_A M_B / r^2$ (Newtonian limit) as **projection consequence**.
 
-   Derivative with respect to $r$ ⇒ $F \\propto \- M\_A M\_B / r^2$ (Newtonian limit) as **projection consequence**.
-
-**Core statement:** M and D are not categories but $\\sigma$-dependent projections of the same $|\Delta\rangle$; physics follows from conservation of $|\Delta|$ and from the rules governing how projection portions transfer between M and D.
+**Core statement:** M and D are not categories but $\sigma$-dependent projections of the same $|\Delta\rangle$; physics follows from conservation of $|\Delta|$ and from the rules governing how projection portions transfer between M and D.
 
 In this context, the statement that “differentiation is indestructible, invariant” must be read as a formal property of the terms within the model, not as a categorical assertion about differentiation in general. The invariance of $\Delta = M + D$ refers only to the redistribution between internal (mass) and external (distance/energy) differentiation under the given assumptions. It does not imply that differentiation itself can never be undermined, reversed, or dissolved into indistinguishability. In spatial separation scenarios, differentiation may be redistributed or transformed in ways that are no longer reversible within the model’s framework. Thus, the invariance is a structural rule of the formalism, not a metaphysical claim about absolute indestructibility.

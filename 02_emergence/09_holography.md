@@ -7,7 +7,7 @@ One of the most profound ideas in modern theoretical physics is the concept of d
 
 **The Holographic Principle: A Brief Overview**
 
-The Holographic Principle, initially proposed by Gerard ’t Hooft and later expanded by Leonard Susskind, is a framework that suggests the information contained within a volume of space can be encoded on the boundary of that space—specifically, on a two-dimensional surface. This principle challenges the classical notion that the number of degrees of freedom in a region is proportional to its volume. Instead, the Holographic Principle posits that all the information necessary to describe the region is proportional to its surface area.
+The Holographic Principle, initially proposed by Gerard ’t Hooft and later expanded by Leonard Susskind, is a framework that suggests the information contained within a volume of space can be encoded on the boundary of that space — specifically, on a two-dimensional surface. This principle challenges the classical notion that the number of degrees of freedom in a region is proportional to its volume. Instead, the Holographic Principle posits that all the information necessary to describe the region is proportional to its surface area.
 
 This idea first gained traction in the context of black hole physics, where it was found that the entropy of a black hole, a measure of the information contained within it, scales with the area of its event horizon rather than its volume. The concept was further generalized to suggest that the entire universe could be viewed as a kind of hologram, where the three-dimensional world we experience is a projection of information encoded on a two-dimensional boundary.
 
@@ -15,7 +15,7 @@ This idea first gained traction in the context of black hole physics, where it w
 
 The model builds on the idea that reality is governed by the continuous differentiation of potential energy across scales, with space, time, and dimensionality emerging from these processes. The universe is seen as a fractal-like, scale-free structure, where space and time are not fundamental entities, but the by-products of energy differentiation at different scales.
 
-In the framework, no dimension—including space-time—is intrinsic to the universe. Instead, dimensionality itself emerges through a recursive process of energy differentiation, where lower-dimensional structures give rise to higher-dimensional phenomena through continuous self-similar patterns across scales. The model treats the universe as an infinite expansion of scale, with new levels of reality constantly emerging from the differentiation of energy fields.
+In the framework, no dimension — including space-time — is intrinsic to the universe. Instead, dimensionality itself emerges through a recursive process of energy differentiation, where lower-dimensional structures give rise to higher-dimensional phenomena through continuous self-similar patterns across scales. The model treats the universe as an infinite expansion of scale, with new levels of reality constantly emerging from the differentiation of energy fields.
 
 Though ISE and the Holographic Principle are distinct theories, they share a common foundation: the idea that space-time, dimensionality, and even reality itself are emergent properties. By combining these two models, we can achieve a more holistic understanding of how the universe functions on both macroscopic and quantum scales.
 

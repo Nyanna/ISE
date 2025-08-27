@@ -12,7 +12,7 @@ This model also implies that at scales below the Planck length, no distinguishab
 Emergence of Space, Time, and Gravity
 
 * **Space and Gravity as Emergent Properties**:  
-  Gravity is not a fundamental force as described in classical mechanics but an emergent property resulting from potential energy differentiation across scales. Space and distance emerge similarly, implying that at scales below the Planck length, no distinguishable spacetime exists. The notion of a flat or curved universe is adaptable, as the theory allows the application of its principles to spaces with any curvature—positive, negative, or neutral​​.  
+  Gravity is not a fundamental force as described in classical mechanics but an emergent property resulting from potential energy differentiation across scales. Space and distance emerge similarly, implying that at scales below the Planck length, no distinguishable spacetime exists. The notion of a flat or curved universe is adaptable, as the theory allows the application of its principles to spaces with any curvature — positive, negative, or neutral​​.  
 * **Time as a Differentiation of Scale**:  
   Time, within the framework, is not a constant flowing dimension but the result of changing energy states. It evolves as potential energy differentiates, and its flow is dictated by this scale evolution. Time, thus, doesn't exist independently but emerges as an artifact of scale differentiation​​ or at least our experience of it.  
 * **Planck Scale and the Non-Existence of Classical Space**:  

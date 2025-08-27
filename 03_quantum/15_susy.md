@@ -5,7 +5,7 @@
 
 **Introduction**
 
-The pursuit of a unified description of the fundamental forces has long shaped theoretical physics. However, the traditional models—ranging from the Standard Model and Grand Unified Theories (GUTs) to supersymmetry (SUSY)—are built upon assumptions that, when scrutinized ontologically, reveal deep inconsistencies. They project numerical coincidences onto physical reality, conflate structurally divergent scales, and prioritize formal symmetry over foundational differentiation.
+The pursuit of a unified description of the fundamental forces has long shaped theoretical physics. However, the traditional models — ranging from the Standard Model and Grand Unified Theories (GUTs) to supersymmetry (SUSY) — are built upon assumptions that, when scrutinized ontologically, reveal deep inconsistencies. They project numerical coincidences onto physical reality, conflate structurally divergent scales, and prioritize formal symmetry over foundational differentiation.
 
 This work undertakes a critical deconstruction of these assumptions. It exposes how concepts like the unification of coupling constants, the convergence at high energies, and the justification of SUSY are not emergent truths, but rather model-dependent fittings devoid of real ontological grounding. Through a systematic examination, it becomes clear that spacetime, force, and coupling must be understood not as absolute structures but as emergent relational phenomena governed by two fundamental principles: Information and Differentiation.
 
@@ -138,7 +138,7 @@ At higher energies (shorter distances), one penetrates deeper into the vacuum st
 
 The fine-structure constant α increases logarithmically with energy:
 
-α(μ) \= α₀ / (1 \- (α₀ / 3π) ln(μ / mₑ))
+α(μ) = α₀ / (1 \- (α₀ / 3π) ln(μ / mₑ))
 
 At higher μ, α(μ) grows.
 
@@ -203,7 +203,7 @@ Under this ontological premise, a Grand Unified Theory (GUT) is:
   * Offers no deeper ontological insight, merely projecting group theory onto a fictitious scale,  
   * Provides no transformative value as long as gravity, spacetime structure, scaling interplay, and energy forms are not integrated.
 
-A GUT, under these conditions, is a **syntactic artifact**—structurally correct, but ontologically inert. It offers no real access to the fabric of reality, neither explanatory nor predictive.
+A GUT, under these conditions, is a **syntactic artifact** — structurally correct, but ontologically inert. It offers no real access to the fabric of reality, neither explanatory nor predictive.
 
 **Reconsidering the Model of Fundamental Forces**
 
@@ -233,7 +233,7 @@ When analyzed with ontological rigor, it becomes clear: the current model of fun
 
 **Electromagnetism as a Prototype for All Interactions**
 
-Under a consistent ontological perspective, both the strong and the weak interactions can be interpreted as specialized manifestations of electromagnetic principles—not in a classical sense, but under the following premises:
+Under a consistent ontological perspective, both the strong and the weak interactions can be interpreted as specialized manifestations of electromagnetic principles — not in a classical sense, but under the following premises:
 
 **Electromagnetism as the Prototype of Structured Interaction**
 
@@ -276,7 +276,7 @@ If electromagnetism is viewed as the fundamental form of information transfer vi
 * Altered by self-coupling  
 * Projected onto hidden degrees of freedom
 
-Thus, both the strong and the weak interactions can be understood as specialized, symmetry-modified, structurally transformed variants of electromagnetic interaction—not within the classical framework of charges and forces, but as expressions of a deeper coupling principle between states, where electromagnetism merely represents its most open and direct form.
+Thus, both the strong and the weak interactions can be understood as specialized, symmetry-modified, structurally transformed variants of electromagnetic interaction — not within the classical framework of charges and forces, but as expressions of a deeper coupling principle between states, where electromagnetism merely represents its most open and direct form.
 
 **Reduction to Two Fundamental Principles: Information and Differentiation**
 
@@ -384,7 +384,7 @@ The commonly cited "unification of couplings at \~10¹⁶ GeV" within SUSY is 
 
 **Optimization Parameters in MSSM**
 
-* **Supersymmetric Threshold ($M\_{	ext{SUSY}}$ ![][image43])**: Determines the energy scale at which SUSY degrees of freedom become active.  
+* **Supersymmetric Threshold ($M_{	ext{SUSY}}$)**: Determines the energy scale at which SUSY degrees of freedom become active.  
 * **Particle Spectrum**: The mass and multiplicity of superpartners influence the renormalization group equations (RGEs).  
 * **R-parity and Higgs Sector Choices**: Specific model structures (e.g., two Higgs doublets) affect the running behavior.
 

@@ -3,13 +3,13 @@
 
 ## **8.1. Example: Dice Roll**
 
-This example illustrates how the **framework handles causality**—there is no objective pre-determined outcome, but rather, the outcome is established through the interaction between energy states and the observer's collapse of possibilities into a single observed reality.
+This example illustrates how the **framework handles causality** — there is no objective pre-determined outcome, but rather, the outcome is established through the interaction between energy states and the observer's collapse of possibilities into a single observed reality.
 
 The **Dice Roll** example is a thought experiment from the theory that illustrates how **causality and randomness** emerge based on the observer's perspective. Here’s a detailed breakdown:
 
 * **The Dice Roll Example and Causality**:  
-  * The outcome of a dice roll is determined at the exact moment it stops. This event is analogous to the collapse of a quantum wave function—once the dice settles, its state is no longer probabilistic but definite​.  
-  * In the framework, the observer’s act of observing or interacting with a system "chooses" one specific outcome among all possible states. This does **not mean that all possibilities simultaneously exist** or that alternative realities occur. The observer’s perspective, or viewpoint collapses the event into one specific reality. However, other potential outcomes do not form parallel realities—they neither exist nor don’t exist simultaneously​.  
+  * The outcome of a dice roll is determined at the exact moment it stops. This event is analogous to the collapse of a quantum wave function — once the dice settles, its state is no longer probabilistic but definite​.  
+  * In the framework, the observer’s act of observing or interacting with a system "chooses" one specific outcome among all possible states. This does **not mean that all possibilities simultaneously exist** or that alternative realities occur. The observer’s perspective, or viewpoint collapses the event into one specific reality. However, other potential outcomes do not form parallel realities — they neither exist nor don’t exist simultaneously​.  
 * **No Continuum Between Realities**:  
   * The dice roll metaphor suggests that different interpretations or realities do not exist as a continuum. Thus, multiple interpretations or states don’t exist simultaneously in different universes but are rather exclusive to the observer’s perspective​.  
 * **Causality and the Observer**:  
@@ -32,7 +32,7 @@ By understanding these concepts, we see that randomness reflects quantum-level f
 The theory shares several similarities with the **Block World theory** in their interpretation of space, time, and the nature of reality. Here are the key parallels:
 
 * **Time as a Relational Concept**:  
-  * In both ISE and Block World theory, time is not considered an absolute flowing dimension but a relational construct. ISE treats time as emerging from differentiated states of energy, while Block World theory views time as a fixed dimension where all events—past, present, and future—exist simultaneously within a "block" of spacetime.  
+  * In both ISE and Block World theory, time is not considered an absolute flowing dimension but a relational construct. ISE treats time as emerging from differentiated states of energy, while Block World theory views time as a fixed dimension where all events — past, present, and future — exist simultaneously within a "block" of spacetime.  
 * **Deterministic or Pre-Existing Framework**:  
   * Both theories suggest that the universe or reality doesn't unfold in the conventional sense. ISE posits that reality emerges from an ongoing differentiation process, while the Block World theory suggests that all events are already laid out across spacetime, waiting to be "observed" or experienced.  
 * **Observer-Dependent Reality**:  

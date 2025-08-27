@@ -13,7 +13,7 @@ This chapter proposes that through the detailed analysis of the photon's **wave-
 
 In classical physics, the photon is often treated as a quantized particle of light, representing the smallest discrete unit of the electromagnetic field. It is characterized by key properties such as:
 
-* **Frequency** and **wavelength**, which define its energy and momentum according to E=hνE \= h \\nuE=hν,  
+* **Frequency** and **wavelength**, which define its energy and momentum according to E=hνE = h \nuE=hν,  
 * **Polarization**, which defines the orientation of its electromagnetic fields,  
 * **Speed**, which in a vacuum is the constant ccc, the speed of light.
 
@@ -61,7 +61,7 @@ This endeavor could lead to a more comprehensive understanding of the photon’s
 
 **Ontological Critique on The Photon and Effective Mass**
 
-In the Standard Model, the photon is classified as massless and moves at the speed . However, several physical effects—such as momentum transfer (e.g., radiation pressure), gravitational lensing, and energy-momentum relation—demonstrate that the photon behaves as if it possesses an effective mass.
+In the Standard Model, the photon is classified as massless and moves at the speed . However, several physical effects — such as momentum transfer (e.g., radiation pressure), gravitational lensing, and energy-momentum relation — demonstrate that the photon behaves as if it possesses an effective mass.
 
 The common assertion that a photon is massless because it moves at reverses the ontological order: masslessness does not cause movement at ; rather, photons define the reference for the maximum possible velocity precisely because they possess the minimal achievable mass. Thus, the light speed emerges from the minimal mass property of photons and not from absolute masslessness.
 

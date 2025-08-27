@@ -25,7 +25,7 @@ Within the framework, the apparent acceleration of the universe's expansion may 
 
 In regions with significant mass concentrations, such as galaxies or clusters, time flows more slowly due to higher gravitational potentials. Light emitted from these regions is gravitationally redshifted. Over cosmic timescales, as the gravitational influence from increasingly distant masses begins to affect us, the cumulative gravitational potential we experience grows, enhancing the redshift effect.
 
-This perspective suggests that the observed increase in redshift with distance—and the interpretation of an accelerating expansion—could be a manifestation of gravitational time dilation and the delayed homogenization of gravitational influences across the universe.
+This perspective suggests that the observed increase in redshift with distance — and the interpretation of an accelerating expansion — could be a manifestation of gravitational time dilation and the delayed homogenization of gravitational influences across the universe.
 
 **Implications for Cosmology**
 

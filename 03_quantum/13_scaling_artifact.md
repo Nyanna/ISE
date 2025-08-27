@@ -36,8 +36,8 @@ If one considers the Higgs field as a **divisor**, this means:
 
 **Multiplier vs. Divisor: Two Perspectives on the Same Mechanism**
 
-* **Multiplier View:** Mass \= Higgs coupling × Energy  
-* **Divisor View:** Mass \= Energy / Higgs scale
+* **Multiplier View:** Mass = Higgs coupling × Energy  
+* **Divisor View:** Mass = Energy / Higgs scale
 
 Both lead to the same result, but the **divisor perspective shows that mass is not "added"**, rather a part of the fundamental energy of a particle is "divided" or "slowed down" by the Higgs field.
 
@@ -130,23 +130,17 @@ Thus, the Higgs mechanism represents a **universal property of scale structure**
 
 In the Standard Model, the Higgs potential is given by:
 
-$V(\\phi) \= \\mu^2 \\phi^\\dagger \\phi \+ \\lambda (\\phi^\\dagger \\phi)^2$
-
-![][image40]
+$V(\phi) = \mu^2 \phi^\dagger \phi + \lambda (\phi^\dagger \phi)^2$
 
 where µ² and λ determine symmetry breaking.
 
 In the ISE, this equation is reformulated as a scaling relation:
 
-$V\_{\\text{ISE}}(\\phi) \= \\frac{E\_{\\text{proto}}}{S(\\phi)}$
-
-![][image41]
+$V_{\text{ISE}}(\phi) = \frac{E_{\text{proto}}}{S(\phi)}$
 
 Where E-proto  represents the proto-information energy, and is a scaling function that describes the differentiation of the scale. The vacuum expectation value (VEV) then becomes:
 
-$\\langle \\phi \\rangle\_{\\text{ISE}} \= \\frac{E\_{\\text{proto}}}{S\_0}$
-
-![][image42]
+$\langle \phi \rangle_{\text{ISE}} = \frac{E_{\text{proto}}}{S_0}$
 
 Where S0 is the reference scale at the current level of differentiation.
 
@@ -197,7 +191,7 @@ The Higgs mechanism can be understood as a **divisor** acting upon the proto-inf
 
 This principle elegantly resolves the duality of mass in the Standard Model:
 
-* **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic"—a more complex but stable resonance in the same field, with a higher value of `C_muon`. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
+* **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic" — a more complex but stable resonance in the same field, with a higher value of `C_muon`. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
 * **Hadron Mass (e.g., Proton):** A proton is a state of **extremely high informational complexity (`C_proton`)**. Its mass is not just the sum of its parts but reflects the enormous differentiation energy required to sustain the entire dynamic system: the three valence quarks, the sea of virtual quark-antiquark pairs, and the fiercely energetic gluon field that binds them all. The 99% of its mass attributed to "binding energy" is, in the ISE framework, the energetic cost of maintaining this incredibly intricate and information-dense resonant structure.
 
 **Conclusion: A Path to a Unified Theory of Mass**

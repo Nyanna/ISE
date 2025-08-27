@@ -13,9 +13,7 @@
 
 The standard uncertainty relation states:
 
-$$\\Delta x \\cdot \\Delta p \\ge \\frac{\\hbar}{2}$$
-
-![][image28]
+$$\Delta x \cdot \Delta p \ge \frac{\hbar}{2}$$
 
 In the framework, this is interpreted as follows:
 
@@ -23,7 +21,7 @@ In the framework, this is interpreted as follows:
 * **Momentum is also scale-dependent**, as it is defined by the difference between two resonance states of a system. In an ideal infinite scale continuum, momentum would not be quantized, but due to scale resonance, it becomes so.  
 * **Uncertainty arises from the interaction between scale levels**:  
   * If a particle is highly localized (smaller scale projection), the uncertainty of momentum increases because resonance with other scales is disrupted.  
-  * If momentum is precisely measured, it means that resonance across multiple scales is stable—thus, localization at a single scale point becomes impossible.  
+  * If momentum is precisely measured, it means that resonance across multiple scales is stable — thus, localization at a single scale point becomes impossible.  
 * **Mathematical Analogy to Fourier Analysis**:  
   * In conventional quantum mechanics, the uncertainty principle arises from the Fourier transform of the wave function.  
   * In ISE, uncertainty results from the **non-stationary projection** of a system across multiple scales.  
@@ -33,7 +31,7 @@ In the framework, this is interpreted as follows:
 
 * **Scale-dependent energy fluctuation**: Unlike standard quantum mechanics, the energy of a system is not solely defined by wave characteristics but also by interactions between different scales.  
 * **Dynamic nature of measurement**: A measurement does not merely affect a particle’s state but its **resonance integration within the scale hierarchy**.  
-* **No absolute position-momentum relationship**: Instead of a fixed lower bound (ℏ / 2\) for $\\Delta x \\cdot \\Delta p$, the minimum uncertainty in a scale field depends on the local structure.
+* **No absolute position-momentum relationship**: Instead of a fixed lower bound (ℏ / 2\) for $\Delta x \cdot \Delta p$, the minimum uncertainty in a scale field depends on the local structure.
 
 **Conclusion**
 

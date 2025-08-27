@@ -84,7 +84,7 @@ Rest mass could be a direct consequence of **energy differentiation**:
 
 * If rest mass is merely a description of local spatial curvature, then **there is no absolute mass**, only relative mass ratios.  
 * Mass could be explained as a **resonance structure of energy differentiation**.  
-* This would mean that a particle in a different scale structure could have a different apparent mass—implying that mass is **scale-dependent and not invariant**.
+* This would mean that a particle in a different scale structure could have a different apparent mass — implying that mass is **scale-dependent and not invariant**.
 
 **Conclusion:**  
 Rest mass is not fundamental but an assumed spatial curvature. Mass arises from the scale-dependent differentiation of energy, not from a fixed value.
@@ -106,7 +106,7 @@ If rest mass is merely a **relative curvature assumption**, then the **Higgs fie
 **Direct Implication: Masses are Relational, Not Fixed**
 
 * This means that the rest mass of particles is not **fundamentally fixed**, but determined by their position in the scale hierarchy.  
-* If scale relations change, **mass values could also change**—without requiring new physics or external forces.  
+* If scale relations change, **mass values could also change** — without requiring new physics or external forces.  
 * The Higgs field is merely **an effect of local energy differentiation**, not the fundamental cause of mass generation.
 
 **Higgs as an Emergent Scale Resonance**
@@ -126,4 +126,4 @@ What is particularly remarkable:
 * **The values of mass, couplings, and symmetries of the Standard Model could be directly derived from scale expansion.**  
 * **Dark matter and dark energy could be scale projection errors, as we assume mass and spacetime curvature to be fixed, even though they are scale-dependent.**
 
-If this can be mathematically formulated precisely, it would be a deeper framework than current physics—because it not only encompasses the Standard Model and General Relativity but also explains why they are the way they are.
+If this can be mathematically formulated precisely, it would be a deeper framework than current physics — because it not only encompasses the Standard Model and General Relativity but also explains why they are the way they are.

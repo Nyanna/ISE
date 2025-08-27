@@ -7,7 +7,7 @@ The N-body problem traditionally involves the calculation of interactions and mo
 
 **Separation and Linear Handling of Potentials**
 
-From a classical physics standpoint, the total potential is often treated as the straightforward sum (superposition) of contributions from all masses. In the framework, these contributions are instead separated into distinct components. Each potential—such as the Earth’s and the Sun’s—is handled independently. By maintaining these potentials in isolation and performing additive superpositions only within the chosen energy framework, linearity is preserved as long as coupling terms that introduce feedback loops or "mixing" are avoided.
+From a classical physics standpoint, the total potential is often treated as the straightforward sum (superposition) of contributions from all masses. In the framework, these contributions are instead separated into distinct components. Each potential — such as the Earth’s and the Sun’s — is handled independently. By maintaining these potentials in isolation and performing additive superpositions only within the chosen energy framework, linearity is preserved as long as coupling terms that introduce feedback loops or "mixing" are avoided.
 
 ISE essentially:
 
@@ -24,7 +24,7 @@ Within ISE, space-time is not treated as a fixed dimensional backdrop where obje
 * **n-Dimensional Potential Matrix**: Gravity between masses is interpreted as a relationship of **potential energy** across multiple dimensions, rather than just an interaction within 3D space. The system of N-bodies can be described using an **n-dimensional matrix** where each body’s potential energy interacts with every other body in the system. This matrix represents the **vector field of potential energy**, and every element in the matrix corresponds to a pairwise interaction between bodies across differentiated energy states.  
   **Non-Spatial (Pre-Emergent) Perspective**  
   * Instead of analyzing the motion in a 3D stage (with positions, velocities, and gravitational forces), ISE looks at the underlying energy interactions.  
-  * The idea is that “space” as we typically think of it—3D geometry, separation of bodies—is an **emergent** property. On a more fundamental level, the relevant quantity is the **energy needed to separate** or bring together these objects.  
+  * The idea is that “space” as we typically think of it — 3D geometry, separation of bodies — is an **emergent** property. On a more fundamental level, the relevant quantity is the **energy needed to separate** or bring together these objects.  
 * **Scaleless Quantum Field**: ISE operates on the principle of a **scale-free quantum field**, meaning that gravitational interactions are the result of relative energy differentiation, not space-time curvature. In this sense, the positions of bodies in this field are defined by how potential energy is distributed between them, rather than their fixed distances in traditional space-time. The interaction between bodies is **energy-potential based**, where energy exchanges happen across different scales.
 
   **Energy Is Conserved and Redistributed**  
@@ -34,7 +34,7 @@ Within ISE, space-time is not treated as a fixed dimensional backdrop where obje
   In an **analytical framework**, the potential energy matrix provides the **global solution** for the system. The interaction potential between bodies is determined by individual independent energy relations and scale-differentiation, leading to an **analytical solution** that doesn’t require stepwise numerical integration like classical N-body simulations.
 
   **Not Negating Chaotic Behavior**  
-  * The framework does not deny that the system can behave in a way we’d call “chaotic” when viewed in 3D space. But it treats that chaos as an **emergent** phenomenon—something that appears once you look at the final “spatial” outcome.  
+  * The framework does not deny that the system can behave in a way we’d call “chaotic” when viewed in 3D space. But it treats that chaos as an **emergent** phenomenon — something that appears once you look at the final “spatial” outcome.  
   * On the deeper, energy-based level, the principle is that all energy contributing to spatial separation remains the same in total (unless converted), so the system is linear there in the sense of **energy bookkeeping**, even if it looks highly nonlinear in standard 3D trajectories.  
 * **Emergence of 3D Space**: The familiar 3D space can be seen as a **projection** or a **reduction** of the higher-dimensional potential matrix. The N-body interactions observed in traditional space are emergent properties of the energy states within this higher-dimensional matrix. Thus, solving the N-body problem analytically means finding the equilibrium points or trajectories within the potential matrix, which can then be projected into observable 3D space.  
 * **Time as Differentiation of States**: Time in the framework emerges as a result of **state differentiation**. In classical mechanics, time plays a crucial role in solving the N-body problem because it dictates the evolution of positions and velocities. However, time is simply the **order of energy differentiation** between states. Therefore, the evolution of the system can be derived from the **rate at which energy potential changes** between the N bodies, offering a more fluid understanding of motion.
@@ -77,9 +77,9 @@ The core of this mechanism lies in the interpretation of the scalar magnitudes d
 
 The reconstruction process unfolds sequentially:
 
-* **Two-Body System:** We begin by establishing a reference body, A. A second body, B, is introduced. The potential magnitude between A and B ($V\_{AB}$) defines a fixed relational distance. Geometrically, this constrains the position of B to the surface of a sphere centered on A with a radius proportional to $V\_{AB}$.  
-* **Three-Body System:** The introduction of a third body, C, adds further constraints. Its position must satisfy both its potential magnitude relative to A ($V\_{AC}$) and B ($V\_{BC}$). The locus of points satisfying these two constraints is the circle formed by the intersection of two spheres—one centered on A and one on B. This step establishes an emergent two-dimensional plane.  
-* **Four-Body System and N-Body Finalization:** With a fourth body, D, its position is determined by its respective potential magnitudes relative to A, B, and C ($V\_{AD}$, $V\_{BD}$, $V\_{CD}$). The intersection of three spheres defines, in the general case, a unique point in space. This fixes the system's rigid three-dimensional geometry.
+* **Two-Body System:** We begin by establishing a reference body, A. A second body, B, is introduced. The potential magnitude between A and B ($V_{AB}$) defines a fixed relational distance. Geometrically, this constrains the position of B to the surface of a sphere centered on A with a radius proportional to $V_{AB}$.  
+* **Three-Body System:** The introduction of a third body, C, adds further constraints. Its position must satisfy both its potential magnitude relative to A ($V_{AC}$) and B ($V_{BC}$). The locus of points satisfying these two constraints is the circle formed by the intersection of two spheres — one centered on A and one on B. This step establishes an emergent two-dimensional plane.  
+* **Four-Body System and N-Body Finalization:** With a fourth body, D, its position is determined by its respective potential magnitudes relative to A, B, and C ($V_{AD}$, $V_{BD}$, $V_{CD}$). The intersection of three spheres defines, in the general case, a unique point in space. This fixes the system's rigid three-dimensional geometry.
 
 For any subsequent body added to the system, its position is uniquely determined by its potential relationships with the already-placed bodies. The holistic set of potential magnitudes contained within the matrix is consistent with only one specific three-dimensional spatial configuration (barring degenerate cases, such as collinear or coplanar arrangements).
 
@@ -93,17 +93,16 @@ This outlines a novel computational framework for simulating N-body systems, ins
 
 **The Foundational Principle: Piecewise Analyticity**
 
-In the framework, a system of N bodies is fundamentally described by its relational potential matrix. For significant periods, the scalar magnitudes within this matrix, which define the emergent spatial geometry, remain constant. During these "stable phases," the system's evolution is governed by a fixed set of relations and is therefore fully deterministic and analytically solvable. The task of the simulation is not to iteratively calculate forces at small time intervals (![][image5] $\\Delta t$), but to "fast-forward" the system through these stable epochs.
+In the framework, a system of N bodies is fundamentally described by its relational potential matrix. For significant periods, the scalar magnitudes within this matrix, which define the emergent spatial geometry, remain constant. During these "stable phases," the system's evolution is governed by a fixed set of relations and is therefore fully deterministic and analytically solvable. The task of the simulation is not to iteratively calculate forces at small time intervals ($\Delta t$), but to "fast-forward" the system through these stable epochs.
 
 **Defining the Event: Phase Transformation Thresholds**
 
-The transition between two stable phases is an "event." An event is not merely a close approach of two bodies but is defined as the point where a cumulative interaction integral crosses a predefined significance threshold (![][image6] $S$).
+The transition between two stable phases is an "event." An event is not merely a close approach of two bodies but is defined as the point where a cumulative interaction integral crosses a predefined significance threshold ($S$).
 
-* **Interaction Integral:** For any pair of bodies (![][image7] $i, j$), we can define an integral that quantifies their cumulative interaction over time. A candidate for this would be the integral of their potential magnitude:
-
-   ![][image8] $I\_{ij}(t) \= \\int\_{t\_0}^{t} |V\_{ij}(\\tau)| \\,d\\tau$  
-* **The Threshold (**![][image6] $S$**):** The threshold ![][image6] $S$ is a critical parameter representing the point at which the accumulated interaction is sufficient to break the existing relational structure of the system. Reaching this threshold signifies that enough information, energy, or momentum has been exchanged to trigger a reconfiguration.  
-* **The Event as a Phase Transformation:** Crossing the threshold (![][image9] $I\_{ij}(t) \> S$) triggers a physical phase transformation. At this moment, the system's potential matrix is altered. This is a non-analytical, discrete transition where the system's fundamental geometric and dynamic parameters are re-negotiated, analogous to a classical swing-by maneuver fundamentally altering a probe's trajectory relative to the solar system.
+* **Interaction Integral:** For any pair of bodies ($i, j$), we can define an integral that quantifies their cumulative interaction over time. A candidate for this would be the integral of their potential magnitude:
+   $I_{ij}(t) = \int_{t_0}^{t} |V_{ij}(\tau)| \,d\tau$  
+* **The Threshold (**$S$**):** The threshold $S$ is a critical parameter representing the point at which the accumulated interaction is sufficient to break the existing relational structure of the system. Reaching this threshold signifies that enough information, energy, or momentum has been exchanged to trigger a reconfiguration.  
+* **The Event as a Phase Transformation:** Crossing the threshold ($I_{ij}(t) \> S$) triggers a physical phase transformation. At this moment, the system's potential matrix is altered. This is a non-analytical, discrete transition where the system's fundamental geometric and dynamic parameters are re-negotiated, analogous to a classical swing-by maneuver fundamentally altering a probe's trajectory relative to the solar system.
 
 **A Proposed Computational Algorithm**
 
@@ -115,11 +114,11 @@ A practical implementation of this framework could follow these steps:
 * **Analytical Evolution (The "Fast-Forward" Step):**  
   * Evolve the system analytically based on the current, constant potential matrix. All trajectories are known functions of time for this entire phase.  
 * **Concurrent Event Monitoring:**  
-  * In parallel with the analytical evolution, continuously compute the interaction integrals (![][image10] $I\_{ij}(t)$) for all relevant body pairs.  
-  * Identify the minimum time (![][image11] $t\_{event}$) at which any integral ![][image12] $I\_{ij}$ will first cross the threshold ![][image6] $S$. This ![][image13] $t\_{event}$ marks the end of the current stable phase.  
+  * In parallel with the analytical evolution, continuously compute the interaction integrals ($I_{ij}(t)$) for all relevant body pairs.  
+  * Identify the minimum time ($t_{event}$) at which any integral $I_{ij}$ will first cross the threshold $S$. This $t_{event}$ marks the end of the current stable phase.  
 * **Event Execution (The State Transition):**  
-  * Advance the system state analytically to the precise moment ![][image14] $t\_{event}$.  
-  * Halt the analytical evolution. Execute a discrete "state transition module" for the interacting pair (![][image15] $i, j$).  
+  * Advance the system state analytically to the precise moment $t_{event}$.  
+  * Halt the analytical evolution. Execute a discrete "state transition module" for the interacting pair ($i, j$).  
   * This module applies conservation laws (energy, momentum, angular momentum) to model the exchange and calculates the resulting changes in the bodies' states.  
   * Crucially, this step updates the entries in the potential matrix, yielding a new matrix that describes the next stable phase.  
 * **Re-initialization and Loop:**  
@@ -136,7 +135,7 @@ This event-driven framework offers a path to creating simulations that are not o
 
 **The Nature of the Threshold**
 
-It is crucial to clarify that the threshold ![][image6] $S$ is not a fundamental physical constant. Instead, it functions as a **user-defined precision parameter**. A higher value of ![][image6] $S$ allows the system to evolve analytically over longer periods, capturing only the most significant gravitational encounters. This results in a computationally faster but less granular simulation. Conversely, a lower value of ![][image6] $S$ triggers event transitions more frequently, providing a higher-resolution analysis of subtler interactions at the cost of increased computational load. This allows the framework to be flexibly adapted, trading computational cost for the desired level of detail in modeling the system's interactions.
+It is crucial to clarify that the threshold $S$ is not a fundamental physical constant. Instead, it functions as a **user-defined precision parameter**. A higher value of $S$ allows the system to evolve analytically over longer periods, capturing only the most significant gravitational encounters. This results in a computationally faster but less granular simulation. Conversely, a lower value of $S$ triggers event transitions more frequently, providing a higher-resolution analysis of subtler interactions at the cost of increased computational load. This allows the framework to be flexibly adapted, trading computational cost for the desired level of detail in modeling the system's interactions.
 
 **The State Transition Module**
 

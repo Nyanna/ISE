@@ -21,16 +21,16 @@ This perspective can be cast into a clean coordinate model:
 
 We use the Schwarzschild metric in standard (t,r,θ,φ) outside the stellar surface:
 
-$$\\(ds^2 \= \-\\left(1 \- \\frac{2M}{r}\\right) dt^2 \+ \\left(1 \- \\frac{2M}{r}\\right)^{-1} dr^2 \+ r^2 d\\Omega^2\\)$$
+$$\(ds^2 = -\left(1 - \frac{2M}{r}\right) dt^2 + \left(1 - \frac{2M}{r}\right)^{-1} dr^2 + r^2 d\Omega^2\)$$
 
 Here t denotes the time of a stationary observer at infinity.
 
 **Definition of the Freeze Front**
 
-Let r\_f(t) denote the radius of a shell that, at external time t, has just crossed the critical density threshold.
+Let r_f(t) denote the radius of a shell that, at external time t, has just crossed the critical density threshold.
 
-* Condition: local density ρ(r,t) → ρ\_crit.  
-* In Schwarzschild time, dr\_f/dt → 0 as r\_f → 2M.
+* Condition: local density ρ(r,t) → ρ_crit.  
+* In Schwarzschild time, dr_f/dt → 0 as r_f → 2M.
 
 **Cascade Structure**
 
@@ -38,7 +38,7 @@ When an inner shell r1 reaches critical density, it freezes in t-coordinates. A 
 
 * This creates a *static shell structure in t*: smaller r corresponds to earlier proper time but later external observation.  
 * As r → 2M, t diverges logarithmically:  
-  $$\\(t \\sim \-2M \\ln\\left|\\frac{r}{2M} \- 1\\right| \+ const.\\)$$
+  $$\(t \sim -2M \ln\left|\frac{r}{2M} - 1\right| + const.\)$$
 
 **Interpretation**
 
@@ -50,14 +50,14 @@ When an inner shell r1 reaches critical density, it freezes in t-coordinates. A 
 Even within classical GR, the black hole is effectively frozen for us at the moment of collapse, forming what can be described as a *gradual sphere*. If we adopt the strict external observer’s perspective in Schwarzschild time $t$, the following holds:
 
 * **From outside** we never witness the collapse as completed.  
-* Each shell of matter freezes asymptotically at some radius $r \> r\_s$, the closer to the horizon, the stronger the time dilation.  
+* Each shell of matter freezes asymptotically at some radius $r \> r_s$, the closer to the horizon, the stronger the time dilation.  
 * This produces a layered, gradual sphere: inner regions frozen earlier, outer regions later, with the horizon as the final boundary.
 
 From the standpoint of a distant observer, a black hole formed billions of years ago still appears locked in its collapse state, almost unchanged since formation. This is not a mere visual effect: time itself is genuinely frozen relative to our external frame. The collapse proceeds infinitely slowly in our coordinates due to the divergence of gravitational time dilation at the horizon.
 
 In GR, the distinction arises between two views:
 
-* **External frame (our time):** The proper time of infalling matter slows to zero as $r \\to 2M$, making the process asymptotically eternal.  
+* **External frame (our time):** The proper time of infalling matter slows to zero as $r \to 2M$, making the process asymptotically eternal.  
 * **Internal frame (falling matter):** Finite proper time elapses until $r=0$, where GR predicts the singularity.
 
 Thus GR treats the frozen exterior as a coordinate effect, but in our interpretation this external time is the physically decisive frame. The gravitational timeframe serves as the objective reference, making the frozen collapse not only a perspectival illusion but a real physical condition.
@@ -69,19 +69,19 @@ Consider a collapsing object with an asymmetric mass distribution, for instance 
 Classical GR, however, provides a different resolution. It predicts that all higher multipole moments beyond total mass, spin, and charge radiate away through gravitational waves. In such a picture:
 
 * **Non-spherical fields generate gravitational waves.** Quadrupole and higher moments couple to radiative degrees of freedom, carrying away energy and information about asymmetry:  
-  $$\\(P \= \\frac{G}{5c^5}\\,\\left\\langle \\dddot Q\_{ij}\\dddot Q^{ij} \\right\\rangle\\)$$
+  $$\(P = \frac{G}{5c^5}\,\left\langle \dddot Q_{ij}\dddot Q^{ij} \right\rangle\)$$
 
-  where $Q\_{ij}$ denotes the quadrupole moment of the mass distribution.  
+  where $Q_{ij}$ denotes the quadrupole moment of the mass distribution.  
 * **Before horizon formation,** these multipoles decay via Regge–Wheeler and Zerilli dynamics, producing observable gravitational radiation and Bondi mass loss:  
-  $$\\(\\frac{dM\_B}{du} \= \-\\frac{1}{4\\pi} \\int |N(u,\\Omega)|^2 d\\Omega \\leq 0\\)$$
+  $$\(\frac{dM_B}{du} = -\frac{1}{4\pi} \int |N(u,\Omega)|^2 d\Omega \leq 0\)$$
 
   indicating a real reduction of multipole structure before stationarity is achieved.  
 * **After horizon formation,** the black hole rings down in quasinormal modes, with damping times scaling with its mass. For Schwarzschild $l=2$ modes:  
-  $$\\(\\text{Im}(\\omega)M \\approx 0.089 \\quad \\Rightarrow \\quad \\tau \\approx \\frac{GM}{c^3}\\,\\frac{1}{\\text{Im}(\\omega)}\\)$$
+  $$\(\text{Im}(\omega)M \approx 0.089 \quad \Rightarrow \quad \tau \approx \frac{GM}{c^3}\,\frac{1}{\text{Im}(\omega)}\)$$
 
-  Examples: $M=10 M\_\\odot \\Rightarrow \\tau \\approx 0.55,\\text{ms};; M=10^6 M\_\\odot \\Rightarrow \\tau \\approx 55,\\text{s}.$  
-  Late-time tails follow Price’s law: $\\psi\_l(t) \\sim t^{-(2l+3)}$.  
-* **End state:** Only the lowest multipole moments survive, consistent with the no-hair theorem. A non-rotating black hole becomes perfectly spherical (Schwarzschild), a rotating one takes the Kerr form with $M\_l \+ iS\_l \= M(ia)^l$.
+  Examples: $M=10 M_\odot \Rightarrow \tau \approx 0.55,\text{ms};; M=10^6 M_\odot \Rightarrow \tau \approx 55,\text{s}.$  
+  Late-time tails follow Price’s law: $\psi_l(t) \sim t^{-(2l+3)}$.  
+* **End state:** Only the lowest multipole moments survive, consistent with the no-hair theorem. A non-rotating black hole becomes perfectly spherical (Schwarzschild), a rotating one takes the Kerr form with $M_l \+ iS_l = M(ia)^l$.
 
 Simplified, the process is: **tidal forces distort the asymmetry, motion generates gravitational waves, and radiation removes the non-spherical components.** The outcome is an exterior field that rapidly smooths into a symmetric form. Thus, while our framework envisions a permanent causal imprint of asymmetry frozen in external time, GR enforces the elimination of all asymmetries through radiation, leaving only the universal symmetric solutions.
 
@@ -93,9 +93,9 @@ In GR the cascade of collapse is inherently space-symmetrizing: all non-spherica
 
 General Relativity indeed treats the black hole interior as possessing its own causal structure, though it does not describe it as an “alternative frame.” Instead, it is formulated in terms of proper time and causal domains:
 
-* **Causally separated interior:** Once the event horizon forms, the region $r \< r\_s$ is completely disconnected from the exterior. No information, whether null or timelike, can traverse outward across the horizon. This is a topological property of spacetime itself, not a coordinate artifact.  
+* **Causally separated interior:** Once the event horizon forms, the region $r \< r_s$ is completely disconnected from the exterior. No information, whether null or timelike, can traverse outward across the horizon. This is a topological property of spacetime itself, not a coordinate artifact.  
 * **Interior perspective (proper time):** For matter inside, proper time continues normally until $r=0$. From this perspective, the collapse finishes in finite eigen-time; there is no freezing effect. However, this frame cannot be translated into the exterior description because the horizon is a one-way causal boundary.  
-* **No global time parameter:** In the external frame, Schwarzschild time $t$ diverges before anything reaches the horizon, while in the internal frame proper time $\\tau$ remains finite. These two times are not transformable into one another by any regular Lorentz mapping; their domains are split by the horizon.
+* **No global time parameter:** In the external frame, Schwarzschild time $t$ diverges before anything reaches the horizon, while in the internal frame proper time $\tau$ remains finite. These two times are not transformable into one another by any regular Lorentz mapping; their domains are split by the horizon.
 
 Thus GR assigns the interior its own causally detached time frame. The distinction from our framework is that GR treats the interior as dynamically collapsing to a singularity, while here the inner domain is not compelled to freeze nor necessarily to terminate at $r=0$. Instead, it could stabilize or persist under its own differentiations, with causal separation preserved. In this sense, the external description remains compatible, but the physical end state is not locked to the GR singularity. Finally, GR extends its solutions mathematically into the interior despite the causal separation, a continuation that is questionable if one restricts relevance only to causally accessible physics.
 
@@ -160,7 +160,7 @@ This conclusion links directly to the problem of cosmic origins. If black holes 
 * **CMB reinterpretation:** In LQG/LQH bounce cosmologies, a hot, dense plasma naturally arises after a rebound. Such conditions produce a cosmic microwave background indistinguishable in broad features from our observed CMB. Thus the CMB does not prove a singular Big Bang, only that our scale began in a high-density, high-temperature state.  
 * **Frozen parallels:** If black holes freeze from the outside, then other scales can appear to us as eternally suspended. This symmetry argues against privileging our universe with a unique temporal origin.
 
-In sum, the Big Bang is not a singular absolute event in the ISE picture, but a localized differentiation process—one among many possible across scales. The presence of black hole freezing shows that causally isolated scales exist; therefore, our cosmological beginning cannot claim exclusivity. The CMB remains consistent with this view, representing the thermodynamic signature of our scale’s initiation rather than evidence of an ultimate origin.
+In sum, the Big Bang is not a singular absolute event in the ISE picture, but a localized differentiation process — one among many possible across scales. The presence of black hole freezing shows that causally isolated scales exist; therefore, our cosmological beginning cannot claim exclusivity. The CMB remains consistent with this view, representing the thermodynamic signature of our scale’s initiation rather than evidence of an ultimate origin.
 
 Taken together, the frozen collapse of black holes, the causal separation of internal and external frames, the resolution of asymmetry through gravitational radiation, the reinterpretation of frames in the ISE, and the incorporation of Loop Quantum Gravity bounce models all converge on a unified insight. Singularities are neither necessary nor physically real; instead, what is real are stratified frames of differentiation, each valid only within its causal domain. From the external perspective, collapse is eternally frozen; from the internal perspective, differentiation continues without reaching absolute zero. This duality illustrates the broader ISE principle: reality is not anchored in a single origin or end, but in the endless process of differentiation across scales.
 

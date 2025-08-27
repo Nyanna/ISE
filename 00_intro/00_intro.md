@@ -16,8 +16,8 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 This work describes the infinite differentiation of scales without fixed principles.
 
 * There are no absolute laws, only observer-relative differences.  
-* Structures condense from proto-information, but there is no ultimate truth—only a play of resonances.  
-* Each level creates its own reality—yet none is final.
+* Structures condense from proto-information, but there is no ultimate truth — only a play of resonances.  
+* Each level creates its own reality — yet none is final.
 
 The **most compelling structural feature** of the model is its **radical inversion of the fundamental category of reality**.
 
@@ -45,7 +45,7 @@ ISE is not a theory in the classical sense but a shift in perspective: the disso
 
 The concept of "scalar synchronized differentiation" lies at the heart of the framework. This term encapsulates the idea that energy differentiates across all scales in a synchronized manner, where the differentiation at one scale inherently influences and is connected to the differentiation at other scales. This interconnected process creates a cascading network of relationships, where energy at every level of observation contributes to the emergence of structures, phenomena, and interactions.
 
-In essence, scalar synchronized differentiation allows us to conceptualize the universe not as a collection of isolated systems but as an integrated whole. Each differentiation is scalar—it occurs within a particular range of magnitudes—but these differentiations are synchronized, maintaining coherence across scales. For instance, the differentiation that gives rise to quantum fluctuations is inherently connected to the processes that define cosmic structures. This interconnectedness eliminates the need for singularities or independent, disconnected forces, presenting a cohesive vision where all phenomena arise from the same underlying process.
+In essence, scalar synchronized differentiation allows us to conceptualize the universe not as a collection of isolated systems but as an integrated whole. Each differentiation is scalar — it occurs within a particular range of magnitudes — but these differentiations are synchronized, maintaining coherence across scales. For instance, the differentiation that gives rise to quantum fluctuations is inherently connected to the processes that define cosmic structures. This interconnectedness eliminates the need for singularities or independent, disconnected forces, presenting a cohesive vision where all phenomena arise from the same underlying process.
 
 ### Dynamic Relation Of Scales
 
@@ -64,7 +64,7 @@ By incorporating the dynamic relation of scales, ISE provides a framework that u
 5. **Emergent Space, Time, and Causality:** In the framework, space and time are emergent phenomena arising from the differentiation of energy. Unlike traditional views where space and time are pre-existing dimensions that form the backdrop of all events, ISE posits that these dimensions come into existence as energy differentiates and interacts. This also means that causality, the link between cause and effect, is not an intrinsic feature of the universe but emerges from relational order within differentiated states. Causality is scale-dependent and is shaped by the observer’s frame of reference and the manner in which energy differentiates. The model suggests that at different levels of differentiation, the flow of time and the perception of causality can vary, resulting in non-linear dynamics that could explain phenomena like the early emergence of complex galaxies.  
 6. **Eliminating the Need for Singularities:** ISE challenges the necessity of singularities, such as those posited in the Big Bang and black hole models. Instead of conceptualizing these points as infinitely dense and physically paradoxical, the model envisions them as moments where our current understanding and perception of energy fail to represent the true complexity of the differentiation process. Rather than collapsing into singularities, energy undergoes smooth transitions across different scales, meaning that what we perceive as singular points are actually regions of intense differentiation that defy classical descriptions. This view not only removes the problematic nature of singularities but also presents a universe that is perpetually evolving without distinct points of origin or terminal collapse.  
 7. **The Role of Quantum Effects and Macroscopic Manifestations:** ISE also redefines the role of quantum effects, suggesting that they are not confined to the microscopic world but have macroscopic implications as energy differentiates. At smaller scales, quantum fields interact in ways that are not immediately observable, but as differentiation continues, these interactions culminate in the emergence of complex structures that influence the universe as a whole. This interconnectedness implies that the distinction between quantum and classical worlds is more a matter of scale than of fundamental nature, offering a more integrated view of physics that bridges the gap between the quantum and cosmic scales.  
-8. **A Holistic Vision for Understanding Reality:** The model offers a comprehensive and potentially revolutionary approach to understanding cosmic evolution, the fundamental forces, and the very nature of reality itself. By shifting away from a model that relies on singularities and fixed spacetime, ISE provides a dynamic, evolving picture of the universe. Everything—from subatomic particles to the largest cosmic structures—is connected through a unified web of energy differentiation. This view not only simplifies our understanding by removing the need for unexplained starting conditions (like a singular Big Bang) but also opens new possibilities for understanding the nature of existence, causality, and the potential for infinite, interconnected realities beyond what we can currently observe.
+8. **A Holistic Vision for Understanding Reality:** The model offers a comprehensive and potentially revolutionary approach to understanding cosmic evolution, the fundamental forces, and the very nature of reality itself. By shifting away from a model that relies on singularities and fixed spacetime, ISE provides a dynamic, evolving picture of the universe. Everything — from subatomic particles to the largest cosmic structures — is connected through a unified web of energy differentiation. This view not only simplifies our understanding by removing the need for unexplained starting conditions (like a singular Big Bang) but also opens new possibilities for understanding the nature of existence, causality, and the potential for infinite, interconnected realities beyond what we can currently observe.
 
 The model redefines our understanding of the universe by proposing that space, time, and all cosmic structures are emergent properties resulting from continuous energy differentiation. Protoinformation serves as the foundational layer from which observable phenomena arise, linking the quantum and cosmic realms. This model reinterprets dark energy and eliminates the need for singularities, instead presenting an infinitely evolving universe with a fractal-like structure. By viewing time and causality as emergent, scale-dependent properties, ISE provides a holistic and unified approach that challenges traditional boundaries in cosmology, offering a consistent framework for understanding everything from quantum behaviors to the vastness of the multiverse.
 
@@ -82,7 +82,7 @@ The framework conceptualizes the universe not as a fixed space-time construct, b
 
 ### High-Energy Physics as the Upper Resonance Boundary
 
-* Extreme energy densities—such as those found in **black holes, the Planck scale, and the early universe**—push matter and space-time toward the **upper limit of resonance stability**.  
+* Extreme energy densities — such as those found in **black holes, the Planck scale, and the early universe** — push matter and space-time toward the **upper limit of resonance stability**.  
 * As energy increases, space-time ceases to behave in a continuous and predictable manner, suggesting a **transition to deeper, higher-order scale structures**.  
 * Singularities and event horizons are not absolute boundaries but **transitional zones** where our perception of space-time breaks down due to resonance loss.
 
@@ -90,12 +90,12 @@ The framework conceptualizes the universe not as a fixed space-time construct, b
 
 * What we perceive as "physical existence" is a **function of scale-resonant coherence**.  
 * Entities and processes that do not interact within our resonance domain remain imperceptible to us, even though they might be fully functional within another resonance layer.  
-* This explains why black holes and the quantum vacuum appear to operate under fundamentally different principles—both are points where **our scale of resonance fades into a deeper order**.
+* This explains why black holes and the quantum vacuum appear to operate under fundamentally different principles — both are points where **our scale of resonance fades into a deeper order**.
 
 ### Black Holes and the Big Bang as Resonance Transitions
 
 * **Black holes** may function as gateways to **subquantum scales**, where matter and energy no longer adhere to our familiar space-time structure but instead reorganize into new resonant forms.  
-* **The Big Bang** represents a resonance cascade—an emergent differentiation where the universe "cooled" into its current stable resonance state.  
+* **The Big Bang** represents a resonance cascade — an emergent differentiation where the universe "cooled" into its current stable resonance state.  
 * This suggests that universes may form as **scale-localized resonance phenomena**, rather than absolute singular events.
 
 The ISE perspective redefines reality as a structured resonance field within a dimensionless quantum framework. Our physical universe is **not an isolated entity but a dynamically emergent stability layer**, existing between quantum decoherence at the lower boundary and high-energy dissociation at the upper boundary. Recognizing this framework allows for a deeper understanding of fundamental physics, integrating quantum mechanics, cosmology, and high-energy phenomena into a unified scale-expansive structure.

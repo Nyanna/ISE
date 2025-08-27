@@ -10,7 +10,7 @@ In the model, **quantization**, **scale-free nature**, and **wave-particle duali
 In traditional physics, **quantization** refers to the idea that certain properties, like energy levels in atoms, come in discrete "packets" or quanta. This concept is central to **quantum mechanics**, where energy, space, and even time seem to come in indivisible units. However, ISE introduces a **nuanced interpretation** of this idea.
 
 * **Quantization as Scale-Dependent**:  
-  * Q**uantization** is not a fundamental feature of reality itself but an **effect of the observer’s scale**. What we perceive as quantized—whether it’s energy levels in an atom or the Planck time—is relative to the scale at which we are observing. The universe, according to ISE, is **scale-free**, meaning that the differentiation of energy is continuous, not inherently quantized.  
+  * Q**uantization** is not a fundamental feature of reality itself but an **effect of the observer’s scale**. What we perceive as quantized — whether it’s energy levels in an atom or the Planck time — is relative to the scale at which we are observing. The universe, according to ISE, is **scale-free**, meaning that the differentiation of energy is continuous, not inherently quantized.  
   * We **observe quantization** because we can’t resolve smaller differences beyond a certain threshold. For example, in the case of **energy levels in atoms**, the reason we see discrete levels is because our **tools of observation** (which include our own physical limits) can only measure energy changes at a particular scale. Below that scale, we cannot detect further differentiation, leading us to **perceive energy as quantized**.  
 * **Quantization and Energy Conservation**:  
   * Importantly, ISE doesn’t violate the **quantization** that is **observed** in physics. The energy quantization we measure at quantum scales, such as in atomic transitions or photon emissions, remains valid within ISE. This is because, while **energy differentiates continuously**, our interaction with it occurs at discrete levels based on the **observer's scale**.  
@@ -31,12 +31,12 @@ One of the key ideas is that **scale is continuous**, not quantized. This **scal
 
 **Wave-Particle Duality: Scale-Dependent Interpretation**
 
-The **wave-particle duality** observed in quantum mechanics—where particles like photons and electrons exhibit both wave-like and particle-like behavior—can be seen as a **manifestation of scale-relative reality** in the framework.
+The **wave-particle duality** observed in quantum mechanics — where particles like photons and electrons exhibit both wave-like and particle-like behavior — can be seen as a **manifestation of scale-relative reality** in the framework.
 
 * **Wave and Particle as Different Scale Manifestations**:  
   * In traditional quantum mechanics, wave-particle duality poses a challenge because particles like photons behave as **waves** in some experiments (like the double-slit experiment) and as **particles** in others (like in photoelectric effects). This duality is a **result of how energy differentiates at different scales**.  
   * At smaller scales, **wave-like behavior** dominates because the differentiation of energy hasn’t localized into what we perceive as particles. In these scales, energy is spread out and can interfere with itself, much like a wave on a pond.  
-  * As we zoom in or out, energy differentiates further, and what we observe becomes more **particle-like**—localized points of interaction.  
+  * As we zoom in or out, energy differentiates further, and what we observe becomes more **particle-like** — localized points of interaction.  
 * **The Role of the Observer in Duality**:  
   * The **observer’s scale** also plays a role in how wave-particle duality is experienced. When we observe a quantum system with a high-resolution tool (e.g., measuring photons in the photoelectric effect), the energy differentiation aligns with what we call **particle behavior**. But when we observe it in a low-resolution context (e.g., in wave interference experiments), the same system appears as a **wave**.  
   * ISE explains this duality without the need for a mysterious collapse of a wave function. Instead, the behavior of quantum systems is always continuous, but **what we observe depends on the scale** at which we interact with the system. Wave-particle duality is therefore **a scale-dependent property** of energy differentiation, not an inherent contradiction in nature.
@@ -45,7 +45,7 @@ The **wave-particle duality** observed in quantum mechanics—where particles li
 
 In the **model**, **quantization**, **scale-free reality**, and **wave-particle duality** are all parts of a unified, **relative interpretation** of the universe. Reality differentiates continuously across all scales, and the observer plays a crucial role in how that differentiation is perceived:
 
-* **Quantization**: Energy quantization is a result of **observer limitations**—it reflects the scale at which we can interact with reality, not a fundamental feature of the universe itself.  
+* **Quantization**: Energy quantization is a result of **observer limitations** — it reflects the scale at which we can interact with reality, not a fundamental feature of the universe itself.  
 * **Scale-Free Nature**: ISE rejects the idea of fixed units like Planck length or time, proposing a **continuum** of differentiation where energy and interactions occur smoothly at all scales.  
 * **Wave-Particle Duality**: The duality of particles is an **observer-relative phenomenon**, depending on whether we observe energy at a scale that highlights wave-like or particle-like behavior.
 

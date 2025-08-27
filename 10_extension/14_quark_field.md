@@ -7,7 +7,7 @@ The Standard Model of particle physics, while immensely successful, rests on con
 
 **The Problem: Transferring the Wave-Field Model to the Quark**
 
-In Quantum Electrodynamics (QED), a photon is elegantly described as a propagating wave packet—a localized excitation of the electromagnetic field. This model, initiated by an event such as an electron changing its energy state, works perfectly for a free particle that propagates through space. However, this analogy fundamentally breaks down when applied to a quark.
+In Quantum Electrodynamics (QED), a photon is elegantly described as a propagating wave packet — a localized excitation of the electromagnetic field. This model, initiated by an event such as an electron changing its energy state, works perfectly for a free particle that propagates through space. However, this analogy fundamentally breaks down when applied to a quark.
 
 A quark is not a free particle. Due to the principle of **confinement**, it is permanently bound within a hadron (such as a proton or neutron) by the strong nuclear force. It cannot be isolated, nor can it propagate independently. Therefore, the image of a "wave packet on a journey" is invalid.
 
@@ -20,7 +20,7 @@ The paradox deepens when we consider the consequences of the Heisenberg Uncertai
 * A quark is extremely localized, confined to a space (`Δx`) of roughly the size of a proton (approx. 10⁻¹⁵ m).  
 * According to the HUP (`Δx ⋅ Δp ≥ ħ/2`), this extreme localization in position necessitates a correspondingly vast uncertainty in its momentum (`Δp`).  
 * A large momentum uncertainty means that the quantum state of the quark must be a superposition of a very broad spectrum of different momenta.  
-* Critically, this mathematical spectrum must include components with very low momenta, which correspond to **extremely long wavelengths**—wavelengths that are orders of magnitude larger than the proton in which the quark is supposedly confined.
+* Critically, this mathematical spectrum must include components with very low momenta, which correspond to **extremely long wavelengths** — wavelengths that are orders of magnitude larger than the proton in which the quark is supposedly confined.
 
 From the perspective of Quantum Field Theory (QFT), this presents no contradiction. These long-wavelength components are classified as **"virtual"** or **"off-shell" states**. They are considered purely mathematical artifacts of the Fourier transform required to construct a localized state. They are not seen as physically real waves that extend beyond the boundary of the hadron, as this would violate the principle of confinement.
 
@@ -39,7 +39,7 @@ This leads to a new understanding of what "virtual" particles, such as the pairs
 
 The real, non-local oscillations of the quark field, while not radiating gluons, constantly "perturb" or "resonate" with the vacuum. This constant, coherent "ringing" of the field can manifest as the generation of what QFT calls virtual quark-antiquark pairs. These pairs are not random mathematical ghosts. They are the real, but subliminal, echoes of the stable, resonant matter that exists elsewhere.
 
-We call them "virtual" only because their existence lies below the detection threshold of our macroscopic scale. Their lifetime and spatial extent are too small for our instruments—or any stable macroscopic object—to register them as a permanent "particle". Virtuality, therefore, is not a property of the particle, but a limitation of the detector. If we could build an instrument with a sufficient temporal and spatial resolution, these "virtual" states would be measurable as real, albeit transient, events.
+We call them "virtual" only because their existence lies below the detection threshold of our macroscopic scale. Their lifetime and spatial extent are too small for our instruments — or any stable macroscopic object — to register them as a permanent "particle". Virtuality, therefore, is not a property of the particle, but a limitation of the detector. If we could build an instrument with a sufficient temporal and spatial resolution, these "virtual" states would be measurable as real, albeit transient, events.
 
 In conclusion, the mathematical structure of a quark in the Standard Model, which requires non-local components for its description, is not a mathematical quirk. It is the evidence that reveals the limits of a physics based on locality. The ISE takes this evidence seriously and proposes a new ontology: particles are not isolated entities but stable, non-local resonators in a universal field. The seemingly paradoxical nature of a quark is resolved by understanding that its interactions are local, but its being is not.
 

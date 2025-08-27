@@ -34,7 +34,7 @@ The ISE framework posits that reality is a hierarchy of scales, where the laws a
 
 **The Emergence of Irreversibility and the Arrow of Time**
 
-One of the deepest problems in physics is explaining the origin of the "arrow of time"—the observation that macroscopic processes are irreversible (entropy increases) while the underlying microscopic laws are time-reversible.
+One of the deepest problems in physics is explaining the origin of the "arrow of time" — the observation that macroscopic processes are irreversible (entropy increases) while the underlying microscopic laws are time-reversible.
 
 * **The Paper's Finding:** The authors explicitly note that their work provides a justification for "the emergence of the time-irreversible Boltzmann theory from the time-reversible Newton's theory." The Boltzmann H-theorem, which describes the increase of entropy, is shown to emerge from a system whose fundamental dynamics are perfectly symmetric in time.  
 * **Resonance with ISE:** This is a cornerstone of the ISE's philosophical implications. The ISE argues that time, and particularly its perceived directionality, is not a fundamental dimension but an **emergent effect of scale-dependent differentiation**. The paper provides a rigorous mathematical case study for this emergence. The "arrow of time" appears at the mesoscopic scale; it is not present at the microscopic level. This supports the ISE view that such fundamental properties are scale-dependent artifacts of observation and interaction.

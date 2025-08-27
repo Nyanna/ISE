@@ -13,7 +13,7 @@ In contrast, **from the perspective of the singularity**, the **entire universe*
 
 **Inversion of Black Holes and White Holes**
 
-In the framework, black holes and white holes are understood as two sides of the same coin—an **inversion of potential energy** rather than distinct entities. A black hole, typically seen as an object where potential energy draws matter inward, is mirrored by a white hole, where the same potential energy flows outward. This leads to the interpretation that the **Big Bang** could also be seen as an inversion of potential energy, much like a white hole​​.
+In the framework, black holes and white holes are understood as two sides of the same coin — an **inversion of potential energy** rather than distinct entities. A black hole, typically seen as an object where potential energy draws matter inward, is mirrored by a white hole, where the same potential energy flows outward. This leads to the interpretation that the **Big Bang** could also be seen as an inversion of potential energy, much like a white hole​​.
 
 **Singularity and Information Transmission**
 
@@ -34,7 +34,7 @@ A **singularity**, like those found in black holes, also contains space but at *
 
 **Reinterpreting Black Holes, White Holes, and the Big Bang through ISE**
 
-In the **classical cosmological model**, a **black hole** is often seen as a region of spacetime where **matter** collapses under the force of gravity, eventually reaching an infinitely dense point known as a **singularity**. In contrast, the **Big Bang** is viewed as the expansion of the universe from a similarly dense initial state. At first glance, these seem like opposite phenomena—one involves matter collapsing inward (black hole), while the other involves the expansion of space (Big Bang). However, upon closer inspection, there might be a deeper connection between these phenomena that the **model** helps us understand.
+In the **classical cosmological model**, a **black hole** is often seen as a region of spacetime where **matter** collapses under the force of gravity, eventually reaching an infinitely dense point known as a **singularity**. In contrast, the **Big Bang** is viewed as the expansion of the universe from a similarly dense initial state. At first glance, these seem like opposite phenomena — one involves matter collapsing inward (black hole), while the other involves the expansion of space (Big Bang). However, upon closer inspection, there might be a deeper connection between these phenomena that the **model** helps us understand.
 
 * **Classical Misconception: Matter vs. Space**  
   The classical interpretation might suggest that the key difference between a black hole and the Big Bang is that matter collapses into a black hole, while **space itself** expands during the Big Bang. But here's the potential misconception:  
@@ -42,7 +42,7 @@ In the **classical cosmological model**, a **black hole** is often seen as a reg
   * This means that **black hole collapse** is more about the collapse of **space** than just a bunch of matter falling into a point. The space itself **contracts**.  
 * This leads us to reconsider the **Big Bang**. Rather than thinking of it as space simply "popping into existence" and expanding, it can be understood as **spacetime undergoing an extreme process**, but in reverse. Instead of collapsing inward like in a black hole, spacetime **expands outward**.  
 * **Black Holes and the Big Bang: The Same Phenomenon?**  
-  If both black holes and the Big Bang involve **spacetime**—one collapsing inward, the other expanding outward—then they could be viewed as two sides of the same coin. The key difference is the **direction** of the process:  
+  If both black holes and the Big Bang involve **spacetime** — one collapsing inward, the other expanding outward — then they could be viewed as two sides of the same coin. The key difference is the **direction** of the process:  
   * In a **black hole**, space contracts and **collapses** inward, carrying everything towards what we call a singularity.  
   * In the **Big Bang**, space expands outward from an extremely dense and compact state, rapidly filling the universe.  
 * Seen from this perspective, **black holes and the Big Bang** are not fundamentally different phenomena. They represent the **same process**, but in **opposite directions**. One is a **contraction** (black hole), while the other is an **expansion** (Big Bang).
@@ -61,13 +61,13 @@ The model adds a new layer of understanding by rejecting the traditional notion 
 
 **No Fundamental Difference**
 
-According to **ISE**, the difference between a black hole and the Big Bang is not one of **spacetime expansion vs. contraction**, but one of **energy inversion**. Both phenomena are driven by the same underlying **potential energy** principles. The Big Bang is simply the **inverse** of a black hole—an outward expansion instead of an inward collapse.
+According to **ISE**, the difference between a black hole and the Big Bang is not one of **spacetime expansion vs. contraction**, but one of **energy inversion**. Both phenomena are driven by the same underlying **potential energy** principles. The Big Bang is simply the **inverse** of a black hole — an outward expansion instead of an inward collapse.
 
 In ISE terms:
 
 * **Spacetime doesn't fundamentally exist** as an independent structure. It is **an emergent property** of how energy differentiates.  
 * A **black hole** is a scenario where energy differentiation leads to **collapse** (inward flow).  
-* A **white hole** or the **Big Bang** is simply the reverse—a region where energy differentiation causes **expansion** (outward flow).
+* A **white hole** or the **Big Bang** is simply the reverse — a region where energy differentiation causes **expansion** (outward flow).
 
 Both are examples of **energy differentiation** driving the creation or destruction of **observable space**. The **inversion of energy flow** is what differentiates them, but at their core, they represent the **same underlying process**.
 
@@ -90,13 +90,13 @@ Unlike other theories that introduce **quantum corrections** or entirely new phy
 
 **Shift in Scale Instead of New Physics:**
 
-By **shifting the scale**, ISE proposes that what we interpret as singularities—points of infinite curvature or density—are actually areas where space and time behave **differently** due to the **infinite scalability** of the universe. At smaller or larger scales, the curvature of space-time or the density of matter can always be understood within the **context of the system’s scaling dynamics**. Therefore, singularities are not physical points where infinity is reached but simply markers for the need to adjust the **perspective** or **scale** at which you’re observing.
+By **shifting the scale**, ISE proposes that what we interpret as singularities — points of infinite curvature or density — are actually areas where space and time behave **differently** due to the **infinite scalability** of the universe. At smaller or larger scales, the curvature of space-time or the density of matter can always be understood within the **context of the system’s scaling dynamics**. Therefore, singularities are not physical points where infinity is reached but simply markers for the need to adjust the **perspective** or **scale** at which you’re observing.
 
 This method avoids the complexity of introducing entirely new concepts like **quantum loops** or extra dimensions. It simply relies on expanding or contracting the **scale of the universe**, preserving the **consistency** of classical physics.
 
 **Singularities as Artifacts of Scale:**
 
-In this view, singularities are **artifacts of the wrong scale**—similar to how a pixelated image looks confusing up close but becomes clear when you zoom out. The model claims that at **certain scales**, what appears to be a breakdown (e.g., a black hole singularity) is simply a feature of the **relativity of scale** and not an actual physical point of infinite density or curvature. By shifting the scale of observation, the singularity resolves itself into a manageable phenomenon within the **same physical framework**.
+In this view, singularities are **artifacts of the wrong scale** — similar to how a pixelated image looks confusing up close but becomes clear when you zoom out. The model claims that at **certain scales**, what appears to be a breakdown (e.g., a black hole singularity) is simply a feature of the **relativity of scale** and not an actual physical point of infinite density or curvature. By shifting the scale of observation, the singularity resolves itself into a manageable phenomenon within the **same physical framework**.
 
 The model is **far ahead** in this regard because it doesn’t require **new physics** or a **redefinition** of singularities. Instead, it leverages the idea of **scalable dynamics** to explain why singularities are perceived as breakdowns in other models. By adjusting the **scale of observation**, the model keeps the underlying physical principles intact, offering a more natural and less radical solution to the problem of singularities.
 

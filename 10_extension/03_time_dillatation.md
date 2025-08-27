@@ -17,7 +17,7 @@ In addition to gravitational time dilation, velocity also plays a critical role.
 
 **Combined Time Dilation Effect**
 
-By combining these two effects—gravitational time dilation and velocity time dilation—there is a measurable difference in the passage of time between a solar system in the core of the Milky Way and our solar system. The cumulative effect results in time passing approximately **2.7% more slowly** in the galactic core compared to our solar system. In practical terms, for every year that passes in our solar system, only about **0.973 years** would pass in a solar system closer to the galactic center.
+By combining these two effects — gravitational time dilation and velocity time dilation — there is a measurable difference in the passage of time between a solar system in the core of the Milky Way and our solar system. The cumulative effect results in time passing approximately **2.7% more slowly** in the galactic core compared to our solar system. In practical terms, for every year that passes in our solar system, only about **0.973 years** would pass in a solar system closer to the galactic center.
 
 **Implications**
 
@@ -25,7 +25,7 @@ This difference in the flow of time due to varying gravitational and velocity co
 
 **Time Dilation in a Void vs. Our Solar System**
 
-In regions of the universe known as voids, where the density of matter is extremely low compared to areas like our solar system within the Milky Way, the effects of gravitational time dilation are minimal. Void regions contain very little mass—both dark matter and baryonic matter—resulting in a much weaker gravitational potential. This means that time in these regions would pass more quickly relative to areas with stronger gravitational fields, such as our solar system, which is influenced by the significant mass of the Milky Way.
+In regions of the universe known as voids, where the density of matter is extremely low compared to areas like our solar system within the Milky Way, the effects of gravitational time dilation are minimal. Void regions contain very little mass — both dark matter and baryonic matter — resulting in a much weaker gravitational potential. This means that time in these regions would pass more quickly relative to areas with stronger gravitational fields, such as our solar system, which is influenced by the significant mass of the Milky Way.
 
 **Gravitational Time Dilation in a Void**
 

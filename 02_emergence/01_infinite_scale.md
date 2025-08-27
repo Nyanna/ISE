@@ -9,17 +9,17 @@ Understanding **continuous differentiation** as proposed in the model requires t
 
 In the model, **energy** is the underlying fabric of the universe, and reality emerges through a constant process of **differentiation**. Instead of imagining the universe as a static thing with set rules, think of it as an evolving system where energy keeps unfolding into new forms.
 
-* **Continuous differentiation** means that what we observe—particles, forces, distances, and even time—are **constantly shifting and dividing** into more specific states. There’s no end to this process. Every time energy "differentiates," it splits into finer, more defined versions of itself, creating new forms of reality.
+* **Continuous differentiation** means that what we observe — particles, forces, distances, and even time — are **constantly shifting and dividing** into more specific states. There’s no end to this process. Every time energy "differentiates," it splits into finer, more defined versions of itself, creating new forms of reality.
 
 **Layers of Complexity**
 
-Imagine the universe as a fluid, constantly adding new layers of structure. On the largest scales, you have galaxies and cosmic voids, but as you zoom in, you see stars, then planets, then atoms, subatomic particles, and so on. **Each layer of complexity arises from energy differentiating** into increasingly detailed and organized forms. What’s key here is that this process never stops—it’s ongoing and recursive.
+Imagine the universe as a fluid, constantly adding new layers of structure. On the largest scales, you have galaxies and cosmic voids, but as you zoom in, you see stars, then planets, then atoms, subatomic particles, and so on. **Each layer of complexity arises from energy differentiating** into increasingly detailed and organized forms. What’s key here is that this process never stops — it’s ongoing and recursive.
 
 * Every new state of energy creates something different, like how a tree branch grows out and keeps splitting into smaller and smaller branches.
 
 **Differentiation and Time**
 
-**Time isn’t fundamental**—it’s a product of differentiation. Imagine time as the perception of how energy states evolve from one to the next. The passage of time, then, is **how we experience this flow of continuous change**. Without differentiation, there would be no movement or progression; everything would remain static. But with continuous differentiation, we see events happening, things moving, and the future unfolding.
+**Time isn’t fundamental** — it’s a product of differentiation. Imagine time as the perception of how energy states evolve from one to the next. The passage of time, then, is **how we experience this flow of continuous change**. Without differentiation, there would be no movement or progression; everything would remain static. But with continuous differentiation, we see events happening, things moving, and the future unfolding.
 
 * Think of **time as a river** that forms when energy keeps splitting into new forms. Without that flow of energy into different states, the river would dry up.
 
@@ -31,7 +31,7 @@ To visualize continuous differentiation, picture a fractal. A fractal is a mathe
 
 **No Beginning, No End**
 
-In continuous differentiation, there’s **no final "smallest" or "largest" state**—the universe keeps evolving. You could imagine it like an endless zoom-in/zoom-out effect. On a large scale, the universe expands and forms galaxies, but zoom in and you find quantum fluctuations still unfolding. It’s an infinite process, meaning there’s no single origin or endpoint.
+In continuous differentiation, there’s **no final "smallest" or "largest" state** — the universe keeps evolving. You could imagine it like an endless zoom-in/zoom-out effect. On a large scale, the universe expands and forms galaxies, but zoom in and you find quantum fluctuations still unfolding. It’s an infinite process, meaning there’s no single origin or endpoint.
 
 * Think of it as **layers of energy nesting within one another**, and at any given moment, differentiation could happen at any scale, adding new complexity to the universe.
 

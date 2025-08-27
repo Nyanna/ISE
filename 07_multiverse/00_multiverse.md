@@ -35,7 +35,7 @@ Each scale is its own self-contained system of differentiated potential energy, 
 
 Thus, the idea of "another universe" is meaningless because:
 
-* There is no continuum between them—no space, time, or energy shared across these supposed universes.  
+* There is no continuum between them — no space, time, or energy shared across these supposed universes.  
 * The emergence of a separate reality would mean it has no causal or relational connection to ours. Without any shared structure, the term *universe* itself loses its relevance, as it refers to the totality of existence, not isolated, unconnected domains.
 
 **Absurdity of Scale Differences**

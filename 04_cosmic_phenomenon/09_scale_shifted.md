@@ -39,7 +39,7 @@ The assumption that the amount of dark matter remains constant is based on sever
 
 However, if a mechanism existed where dark matter emerges from scale-shifted normal matter or decays via quantum effects, this constancy would need to be reconsidered. I will examine whether alternative models predict a variable dark matter quantity.
 
-If energy continuously shifts below the interaction threshold due to expansion (into an unobservable scale), the **relative amount** of dark matter compared to baryonic matter should increase over time—albeit slightly.
+If energy continuously shifts below the interaction threshold due to expansion (into an unobservable scale), the **relative amount** of dark matter compared to baryonic matter should increase over time — albeit slightly.
 
 This contradicts the assumption of a constant total amount of dark matter and suggests it cannot be fully treated as a stable, conserved fluid. Instead, it could be a **dynamic effect**, where energy levels transition into dark matter through cosmological processes.
 
@@ -118,7 +118,7 @@ The nature of dark matter remains uncertain, and multiple models attempt to expl
 
 These observations and models contribute to improving our understanding of how dark matter forms and stabilizes structures in the universe.
 
-If dark matter can **maintain** structures like galaxy halos, then it must also accumulate in more compact gravitational wells such as planets or stars—**which it does not, according to current measurements**.
+If dark matter can **maintain** structures like galaxy halos, then it must also accumulate in more compact gravitational wells such as planets or stars — **which it does not, according to current measurements**.
 
 This means that one of the following assumptions must be incorrect:
 

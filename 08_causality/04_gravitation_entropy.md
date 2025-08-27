@@ -25,7 +25,7 @@ Thus, gravitational structure formation (e.g., star formation) appears to reduce
 
 Penrose identified several key departures from classical thermodynamics:
 
-* **Low entropy in the early universe**: Despite thermal energy density, homogeneity implied gravitational degrees of freedom were unused (Weyl curvature \= 0).
+* **Low entropy in the early universe**: Despite thermal energy density, homogeneity implied gravitational degrees of freedom were unused (Weyl curvature = 0).
 
 * **Gravitational collapse increases entropy**: Despite producing structure (seemingly order), black holes are maximal entropy objects.
 

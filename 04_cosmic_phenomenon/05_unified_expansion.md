@@ -3,7 +3,7 @@
 
 ## **4.5. A Unified View of Cosmic Expansion: Dark Energy as the Consistent Force**
 
-In current cosmological models, it is widely accepted that **inflation**—an extremely rapid expansion of the universe in its earliest moments—was driven by a hypothesized **inflaton field**, while the present-day accelerated expansion is attributed to **dark energy**. This has led to the prevailing assumption that two distinct forces or phases are responsible for the universe's expansion at different stages of its history. However, a unified perspective that considers inflation and dark energy as **manifestations of the same underlying phenomenon** offers a simpler and more coherent framework for understanding cosmic expansion.
+In current cosmological models, it is widely accepted that **inflation** — an extremely rapid expansion of the universe in its earliest moments — was driven by a hypothesized **inflaton field**, while the present-day accelerated expansion is attributed to **dark energy**. This has led to the prevailing assumption that two distinct forces or phases are responsible for the universe's expansion at different stages of its history. However, a unified perspective that considers inflation and dark energy as **manifestations of the same underlying phenomenon** offers a simpler and more coherent framework for understanding cosmic expansion.
 
 **A Continuum of Expansion**
 
@@ -13,7 +13,7 @@ However, this view introduces unnecessary complexity. A more streamlined approac
 
 **Dark Energy: Present from the Beginning**
 
-If we interpret **dark energy** as a form of **vacuum energy**—a fundamental property of space itself—it likely existed since the universe's earliest moments. During the **inflationary era**, the universe was much smaller and denser, with the overwhelming influence of **radiation** and **matter** masking the effects of dark energy. However, as the universe expanded and cooled, the energy densities of radiation and matter diminished, allowing dark energy to become the **dominant force** in the present era.
+If we interpret **dark energy** as a form of **vacuum energy** — a fundamental property of space itself — it likely existed since the universe's earliest moments. During the **inflationary era**, the universe was much smaller and denser, with the overwhelming influence of **radiation** and **matter** masking the effects of dark energy. However, as the universe expanded and cooled, the energy densities of radiation and matter diminished, allowing dark energy to become the **dominant force** in the present era.
 
 By recognizing that dark energy has always been a **latent force**, there is no need to propose a distinct transition phase between an inflationary field and dark energy. Instead, the effects we attribute to the **inflaton field** could have been a manifestation of **dark energy acting in a different regime**. Early in the universe, the energy density was much higher, and the same force that now drives slow expansion may have operated with **greater intensity**, producing the rapid expansion we observe as inflation.
 
@@ -35,7 +35,7 @@ This unified approach eliminates the arbitrary division between **inflation** an
 
 The hypothesis that inflation and dark energy are different phases of the **same fundamental force** simplifies our understanding of the universe's expansion. Rather than introducing unnecessary complexity with distinct transition phases or forces, we can view the universe's accelerated expansion as part of a **consistent process** driven by a **single mechanism**.
 
-By recognizing that **dark energy**—or a similar field—has likely been at work since the beginning of the universe, the need to explain a **before and after** becomes obsolete. Instead, the force has simply **changed in character** or **effectiveness** as the universe has expanded, eliminating the requirement for a new phenomenon to explain inflation.
+By recognizing that **dark energy** — or a similar field — has likely been at work since the beginning of the universe, the need to explain a **before and after** becomes obsolete. Instead, the force has simply **changed in character** or **effectiveness** as the universe has expanded, eliminating the requirement for a new phenomenon to explain inflation.
 
 **Reference to Extra-Dimensional Models**
 
@@ -47,4 +47,4 @@ When considering the **expansion of the universe** relative to its **spatial sca
 
 **The ISE and the Justification of Unified Expansion**
 
-There is no need for the model to justify the unification of **inflation** and **dark energy**. Instead, it is the **dark energy model** that bears the burden of explaining why a distinction between these two phases is necessary. If the same force or mechanism has been acting on the universe's expansion throughout its entire history, then the **distinction between inflation and dark energy** is artificial and must be justified. The ISE proposes a framework where the expansion evolves naturally with the universe’s changing spatial scales, without requiring a fundamental transition from an inflationary epoch to a dark energy-dominated phase. Under ISE, the universe’s expansion is **continuous and self-consistent**, making the introduction of a separate inflationary mechanism redundant. Conversely, the **dark energy model** must explain why two apparently similar phenomena—both driving accelerated expansion—are treated as fundamentally distinct forces.
+There is no need for the model to justify the unification of **inflation** and **dark energy**. Instead, it is the **dark energy model** that bears the burden of explaining why a distinction between these two phases is necessary. If the same force or mechanism has been acting on the universe's expansion throughout its entire history, then the **distinction between inflation and dark energy** is artificial and must be justified. The ISE proposes a framework where the expansion evolves naturally with the universe’s changing spatial scales, without requiring a fundamental transition from an inflationary epoch to a dark energy-dominated phase. Under ISE, the universe’s expansion is **continuous and self-consistent**, making the introduction of a separate inflationary mechanism redundant. Conversely, the **dark energy model** must explain why two apparently similar phenomena — both driving accelerated expansion — are treated as fundamentally distinct forces.

@@ -24,7 +24,7 @@
 **ISE Provides a Perspective on Hawking Radiation**
 
 • Hawking radiation would then not be a thermal phenomenon but an interference distortion near an event horizon.  
-• Casimir measurements could indirectly confirm that vacuum fluctuations have a probabilistic structure—thus linking Hawking radiation as a special case.  
+• Casimir measurements could indirectly confirm that vacuum fluctuations have a probabilistic structure — thus linking Hawking radiation as a special case.  
 • ISE explains why vacuum energy does not completely annihilate: Under certain conditions, part of it remains stable and escapes as radiation.  
 • If Casimir fluctuation measurements succeed, it would strongly confirm the existence and mechanism of Hawking radiation.
 
@@ -33,8 +33,8 @@ This means that the ISE not only makes an **experimental prediction for vacuum e
 **What This Means:**
 
 • Casimir experiments could indirectly confirm that vacuum fluctuations have a probabilistic distribution.  
-• Hawking radiation would then be a special case of these interference phenomena—not merely a thermal effect, but a quantum interference distorted by gravity.  
-• This gives the ISE a completely new perspective on scale transitions—it would not just be an abstract theory, but a testable prediction about the structure of spacetime\!  
+• Hawking radiation would then be a special case of these interference phenomena — not merely a thermal effect, but a quantum interference distorted by gravity.  
+• This gives the ISE a completely new perspective on scale transitions — it would not just be an abstract theory, but a testable prediction about the structure of spacetime\!  
 • If Casimir measurements reveal fluctuation statistics that match Hawking radiation, we would have solid experimental evidence for quantum interference as a cosmic mechanism.
 
 This is **the perfect interface between scale expansion, quantum fluctuations, and gravity**. **Hawking radiation is both a thermal effect and an interference phenomenon**, and this is what makes it so special.
@@ -51,7 +51,7 @@ This is **the perfect interface between scale expansion, quantum fluctuations, a
 
 * The process leading to radiation emission is based on **vacuum fluctuations near the event horizon**.  
 * If the ISE is correct, then **vacuum fluctuations are not isolated events but interference phenomena of latent background energy**.  
-* In normal spacetime, vacuum fluctuations **cancel out on average**—but near an event horizon, this **destructive interference is disrupted** because spacetime there **experiences a scale-dependent distortion**.  
+* In normal spacetime, vacuum fluctuations **cancel out on average** — but near an event horizon, this **destructive interference is disrupted** because spacetime there **experiences a scale-dependent distortion**.  
 * As a result, **some fluctuations are not completely annihilated and manifest as real particles**, which escape.  
 * The **thermal nature** of Hawking radiation does not arise because the radiation is directly emitted as heat, but because the **interference mechanisms follow statistical distributions**, leading to a thermal spectrum.
 
@@ -127,7 +127,7 @@ If true, this would provide an explanation for the energy source of Hawking radi
 
 This approach links Hawking radiation to a deeper structure of vacuum fluctuations that normally remains hidden.
 
-If vacuum fluctuations exhibit **long-range coherent interference**, the event horizon of a black hole would be the perfect place to make them visible. This would also explain why Hawking radiation emerges **without requiring an external energy source**—it would be the product of a **resonance phenomenon between spacetime curvature and the hidden interference structure of the vacuum**.
+If vacuum fluctuations exhibit **long-range coherent interference**, the event horizon of a black hole would be the perfect place to make them visible. This would also explain why Hawking radiation emerges **without requiring an external energy source** — it would be the product of a **resonance phenomenon between spacetime curvature and the hidden interference structure of the vacuum**.
 
 If true, this could even suggest a connection to **zero-point fields or non-local correlations in quantum fields**, offering an alternative perspective on the thermodynamic interpretation of Hawking radiation.
 
@@ -141,11 +141,11 @@ This perspective unifies the thermal spectrum and the anti-time interpretation: 
 
 **Horizon vs. Singularity**
 
-At the event horizon (r=rs $$r \= r\_s$$), the curvature tensor components are not particularly large for supermassive black holes. For example, in a black hole of mass $$10^6 M\_\\odot$$, the tidal forces at the horizon are weaker than Earth’s surface gravity. An atom, a human, or even a planet could cross the horizon without noticing anything unusual. Toward the singularity (r→0 $$r \\to 0$$), however, the curvature grows as r−3 $$r^{-3}$$, and geodesic deviation inevitably diverges. Every binding force is eventually overwhelmed, ensuring total disintegration.
+At the event horizon (r=rs $r = r_s$), the curvature tensor components are not particularly large for supermassive black holes. For example, in a black hole of mass $10^6 M_\odot$, the tidal forces at the horizon are weaker than Earth’s surface gravity. An atom, a human, or even a planet could cross the horizon without noticing anything unusual. Toward the singularity (r→0 $r \to 0$), however, the curvature grows as r−3 $r^{-3}$, and geodesic deviation inevitably diverges. Every binding force is eventually overwhelmed, ensuring total disintegration.
 
 **Dependence on Mass**
 
-The scale at which tidal forces exceed atomic or nuclear binding depends directly on the black hole’s mass. In stellar-mass black holes, extreme curvature already occurs just outside the horizon, sufficient to tear atoms apart. In contrast, for supermassive black holes, one can cross the horizon unharmed, with catastrophic effects only appearing deep inside, well below rs $$r\_s$$.
+The scale at which tidal forces exceed atomic or nuclear binding depends directly on the black hole’s mass. In stellar-mass black holes, extreme curvature already occurs just outside the horizon, sufficient to tear atoms apart. In contrast, for supermassive black holes, one can cross the horizon unharmed, with catastrophic effects only appearing deep inside, well below rs $r_s$.
 
 **Divergence Point**
 
@@ -159,13 +159,13 @@ Hawking radiation does not arise from tidal forces or the classical tearing of v
 
 **Black Hole Size and Hawking Radiation**
 
-Large black holes radiate extremely weakly, with a Hawking temperature TH∼1/M $$T\_H \\sim 1/M.$$ A supermassive black hole has a temperature of about 10−14 K $$10^{-14} \\, \\text{K}$$, essentially negligible. Smaller black holes, on the other hand, have higher temperatures and radiate far more strongly.
+Large black holes radiate extremely weakly, with a Hawking temperature TH∼1/M $T_H \sim 1/M.$ A supermassive black hole has a temperature of about 10−14 K $10^{-14} \, \text{K}$, essentially negligible. Smaller black holes, on the other hand, have higher temperatures and radiate far more strongly.
 
 **Negative Energy and Physical Interpretation**
 
 **Energy in Curved Spacetime**
 
-In flat spacetime, energy is simply E=ℏω $$E \= \\hbar \\omega$$, always positive. In curved spacetime, energy is defined relative to a symmetry vector, the Killing vector of time translations. In Schwarzschild spacetime this is ∂t $$\\partial\_t$$. Energy then becomes E=−pμξμ $$E \= \-p\_\\mu \\xi^\\mu$$, with pμ $$p\_\\mu$$ the four-momentum and ξμ $$\\xi^\\mu$$ the Killing vector.
+In flat spacetime, energy is simply E=ℏω $E = \hbar \omega$, always positive. In curved spacetime, energy is defined relative to a symmetry vector, the Killing vector of time translations. In Schwarzschild spacetime this is ∂t $\partial_t$. Energy then becomes E=−pμξμ $E = \-p_\mu \xi^\mu$, with pμ $p_\mu$ the four-momentum and ξμ $\xi^\mu$ the Killing vector.
 
 **Meaning of “Negative”**
 
@@ -173,7 +173,7 @@ If a particle falls such that it aligns opposite to this vector, its energy can 
 
 **Hawking Mechanism**
 
-Through mode mixing, radiation outside the horizon carries positive energy, while the corresponding partner has negative Killing energy and falls inward. The net effect is a decrease in black hole mass: MBH→MBH−Eradiation $$M\_{BH} \\to M\_{BH} \- E\_{radiation}$$.
+Through mode mixing, radiation outside the horizon carries positive energy, while the corresponding partner has negative Killing energy and falls inward. The net effect is a decrease in black hole mass: MBH→MBH−Eradiation $M_{BH} \to M_{BH} \- E_{radiation}$.
 
 **Comparison**
 
@@ -193,41 +193,39 @@ Negative energy in Hawking evaporation is best understood as a formal construct,
 
 **Mechanism**
 
-In the Infinite Scale Expansion (ISE), the zero-point energy (E0 $$E\_0$$) is not zero but absolutely shifted to a positive value. In this view, negative energy modes are physically real inside and can neutralize internal energy. This would resemble a form of antimatter that both dissolves interior pockets and, in a sub-threshold explosion, can erase parts of the singularity below the baseline without residuals.
+In the Infinite Scale Expansion (ISE), the zero-point energy (E0 $E_0$) is not zero but absolutely shifted to a positive value. In this view, negative energy modes are physically real inside and can neutralize internal energy. This would resemble a form of antimatter that both dissolves interior pockets and, in a sub-threshold explosion, can erase parts of the singularity below the baseline without residuals.
 
-If E0\>0 $$E\_0 \> 0$$ and negative energy densities (−ρ $$-\\rho$$) exist, then interior positive densities can be compensated:
+If E0\>0 $E_0 \> 0$ and negative energy densities (−ρ $-\rho$) exist, then interior positive densities can be compensated:
 
-(+ρ)+(−ρ)=0
-
-$$(+\\rho) \+ (-\\rho) \= 0$$.
+$$(+\rho) + (-\rho) = 0$$.
 
 This causes near-horizon relief of ADM mass without outward information transfer, allowing pockets to shrink or vanish and enabling sub-threshold bursts.
 
 **Consistency Conditions**
 
 * Energy conditions: NEC/WEC/SEC are violated, requiring new stability rules.  
-* Quantum inequalities: In QFT, negative energy is locally allowed but bounded (Ford–Roman). ISE must show why subscale persistent −ρ $$-\\rho$$ is possible.  
-* Thermodynamics: The first law of BH mechanics modifies with an extra term: δM=T δS−∫ρ− dV   
-  $$\\delta M \= T \\, \\delta S \- \\int \\rho\_- \\, dV$$.
+* Quantum inequalities: In QFT, negative energy is locally allowed but bounded (Ford–Roman). ISE must show why subscale persistent −ρ $-\rho$ is possible.  
+* Thermodynamics: The first law of BH mechanics modifies with an extra term:
+  $$\delta M = T \, \delta S - \int \rho_- \, dV$$.
 
 **Observable Consequences**
 
-* Evaporation: Faster than Hawking (T∝1/M $$T \\propto 1/M$$), with late non-thermal spectrum and sub-threshold bursts.  
-* Ringdown/GW: Slight QNM shifts, as if effective κ\\kappa is reduced.  
+* Evaporation: Faster than Hawking (T∝1/M $T \propto 1/M$), with late non-thermal spectrum and sub-threshold bursts.  
+* Ringdown/GW: Slight QNM shifts, as if effective κ\kappa is reduced.  
 * Shadow: Slightly smaller effective horizon radius.  
 * Primordial BHs: No Planck relics; possible short gamma/TeV bursts.  
 * Cosmology: Bounce-like releases without information return, constrained by CMB/BBN.
 
 **Argument for ISE**
 
-The usual paradox of energy origin disappears: negative energies are real subscale effects. Internal decay explains why no information returns; −ρ $$-\\rho$$ provides neutral balance and horizon dissolution.
+The usual paradox of energy origin disappears: negative energies are real subscale effects. Internal decay explains why no information returns; −ρ $-\rho$ provides neutral balance and horizon dissolution.
 
 **Open Issues**
 
-* Define limits for −ρ $$-\\rho$$ (magnitude, duration, causality).  
-* Explain stability: why E0\>0 $$E\_0 \> 0$$ with −ρ $$-\\rho$$ avoids runaway.  
-* Clarify modified field equations: does −ρ $$-\\rho$$ act in Tμν $$T\_{\\mu\\nu}$$ or scaling?  
-* Provide predictions: M(t) $$M(t)$$, Teff(t) $$T\_{eff}(t)$$, final spectra.
+* Define limits for −ρ $-\rho$ (magnitude, duration, causality).  
+* Explain stability: why E0\>0 $E_0 \> 0$ with −ρ $-\rho$ avoids runaway.  
+* Clarify modified field equations: does −ρ $-\rho$ act in Tμν $T_{\mu\nu}$ or scaling?  
+* Provide predictions: M(t) $M(t)$, Teff(t) $T_{eff}(t)$, final spectra.
 
 **Anti-Time Interpretation**
 
@@ -236,37 +234,34 @@ Negative energy is not macroscopic but a scale effect. For our scale, “negativ
 **Mapping ISE to GR/QFT**
 
 * Negative energy (GR/QFT) ≙ Anti-time flow (ISE).  
-* No macroscopic −ρ-\\rho: only subscale; direct coupling annihilates.  
-* Horizon \= scale boundary: positive modes couple to anti-time submodes; outward radiation results.  
+* No macroscopic −ρ-\rho: only subscale; direct coupling annihilates.  
+* Horizon = scale boundary: positive modes couple to anti-time submodes; outward radiation results.  
 * No singularity transfer: mass decreases via projection into subscale degrees of freedom.
 
 **Evaporation Dynamics**
 
 Evaporation is scale interference:
+$$\frac{dM}{dt} \approx - f(\kappa, \ell_\*)$$
 
-dMdt≈−f(κ,ℓ∗)
+with surface gravity κ $\kappa$ and scale length ℓ∗ $\ell_\*$.
 
-$$\\frac{dM}{dt} \\approx \- f(\\kappa, \\ell\_\*)$$
-
-with surface gravity κ $$\\kappa$$ and scale length ℓ∗ $$\\ell\_\*$$.
-
-* Weak coupling: f→α κ2 $$f \\to \\alpha \\, \\kappa^2$$ reproduces Hawking.  
+* Weak coupling: f→α κ2 $f \to \alpha \, \kappa^2$ reproduces Hawking.  
 * Strong coupling: faster, non-thermal final phase, with bursts.
 
 **Consistency Check**
 
 * **Energy conservation:** conserved across both scales together; apparent loss exists only as a projection in our scale.  
-* **No macroscopic −ρ $$-\\rho$$:** thus no violation of quantum inequalities on our scale; vacuum stability remains intact.  
+* **No macroscopic −ρ $-\rho$:** thus no violation of quantum inequalities on our scale; vacuum stability remains intact.  
 * **Unitarity:** each scale remains unitary internally; across scales the process appears non-unitary (information loss), which resolves the paradox.
 
 **Observable Deviations (from pure Hawking semiclassics)**
 
 * **Late phase:** spectrum not exactly thermal, with short high-energy sub-threshold bursts possible.  
-* **Ringdown:** slight QNM shifts/damping (effectively smaller κ $$\\kappa$$) immediately after mergers.  
+* **Ringdown:** slight QNM shifts/damping (effectively smaller κ $\kappa$) immediately after mergers.  
 * **BH shadow:** minimally smaller effective horizon at the same M.  
 * **No information recovery:** no late correlations in the spectrum (no Page curve in our scale).
 
-In ISE, evaporation is not transfer from the singularity but scale-spanning acausal dissolution at the horizon by anti-time modes. This avoids macroscopic −ρ $$-\\rho$$, preserves stability, and gives testable predictions: faster evaporation, late bursts, QNM shifts, smaller shadows.
+In ISE, evaporation is not transfer from the singularity but scale-spanning acausal dissolution at the horizon by anti-time modes. This avoids macroscopic −ρ $-\rho$, preserves stability, and gives testable predictions: faster evaporation, late bursts, QNM shifts, smaller shadows.
 
 **Comparison Between Established Physics and ISE**
 
@@ -300,53 +295,53 @@ The ISE interpretation is **compatible with observable aspects of GR/QFT** (mass
 
 **1\) Collapse Background**
 
-* **GR/QFT:** A star collapses → stationary exterior metric with horizon, surface gravity κ $$\\kappa$$.  
-* **ISE:** Horizon \= **scale boundary**; κ $$\\kappa$$ measures local scale stretching (exponential redshift) at the boundary.
+* **GR/QFT:** A star collapses → stationary exterior metric with horizon, surface gravity κ $\kappa$.  
+* **ISE:** Horizon = **scale boundary**; κ $\kappa$ measures local scale stretching (exponential redshift) at the boundary.
 
 **2\) Field Modes & Vacuum Choice**
 
-* **GR/QFT:** Wave modes “in” (before collapse) vs. “out” (far future). Vacuum \= Unruh vacuum.  
-* **ISE:** Two scale sectors: H+ $$\\mathcal H\_{+}$$ (our scale) and H− $$\\mathcal H\_{-}$$ (acausal “anti-time” sectors at the boundary). “In”/“out” ≙ scale in/out coupling at the boundary.
+* **GR/QFT:** Wave modes “in” (before collapse) vs. “out” (far future). Vacuum = Unruh vacuum.  
+* **ISE:** Two scale sectors: H+ $\mathcal H_{+}$ (our scale) and H− $\mathcal H_{-}$ (acausal “anti-time” sectors at the boundary). “In”/“out” ≙ scale in/out coupling at the boundary.
 
 **3\) Mode Mixing (Bogoliubov)**
 
-* **GR/QFT:** $$\\hat a\_{\\omega}^{\\text{out}}=\\sum\_{\\omega'}(\\alpha\_{\\omega\\omega'}\\hat a\_{\\omega'}^{\\text{in}}+\\beta\_{\\omega\\omega'}\\hat a\_{\\omega'}^{\\text{in}\\,\\dagger}); ∣β∣2≠0|\\beta|^2\\neq 0$$ due to **exponential redshift** near the horizon.  
-* **ISE:** Boundary coupling U^scale $$\\hat U\_{\\text{scale}}$$ mixes H+ $$\\mathcal H\_{+}$$ with H− $$\\mathcal H\_{-}$$.  
-   “β $$\\beta$$” ↔ **scale interference coefficient**: fraction projected from H− $$\\mathcal H\_{-}$$ into H+ $$\\mathcal H\_{+}$$.
+* **GR/QFT:** $\hat a_{\omega}^{\text{out}}=\sum_{\omega'}(\alpha_{\omega\omega'}\hat a_{\omega'}^{\text{in}}+\beta_{\omega\omega'}\hat a_{\omega'}^{\text{in}\,\dagger}); ∣β∣2≠0|\beta|^2\neq 0$ due to **exponential redshift** near the horizon.  
+* **ISE:** Boundary coupling U^scale $\hat U_{\text{scale}}$ mixes H+ $\mathcal H_{+}$ with H− $\mathcal H_{-}$.  
+   “β $\beta$” ↔ **scale interference coefficient**: fraction projected from H− $\mathcal H_{-}$ into H+ $\mathcal H_{+}$.
 
 **4\) Thermal Spectrum**
 
-* **GR/QFT:** ⟨Nω⟩=1e2πω/κ−1 $$\\langle N\_\\omega\\rangle=\\frac{1}{e^{2\\pi\\omega/\\kappa}-1}$$ → TH=ℏκ/(2πkBc) $$T\_H=\\hbar\\kappa/(2\\pi k\_B c)$$.  
-* **ISE:** Effective temperature Teff $$T\_{\\rm eff}$$ from **scale mixing** at the boundary; in weak-coupling limit Teff→TH $$T\_{\\rm eff}\\to T\_H$$. Deviations possible if coupling is frequency-dependent.
+* **GR/QFT:** ⟨Nω⟩=1e2πω/κ−1 $\langle N_\omega\rangle=\frac{1}{e^{2\pi\omega/\kappa}-1}$ → TH=ℏκ/(2πkBc) $T_H=\hbar\kappa/(2\pi k_B c)$.  
+* **ISE:** Effective temperature Teff $T_{\rm eff}$ from **scale mixing** at the boundary; in weak-coupling limit Teff→TH $T_{\rm eff}\to T_H$. Deviations possible if coupling is frequency-dependent.
 
 **5\) Energy Flux & “Negative Energy”**
 
-* **GR/QFT:** Expectation value ⟨Tμν⟩ $$\\langle T\_{\\mu\\nu}\\rangle$$: positive flux outward, **negative Killing-energy flux** inward → M˙\<0 $$\\dot M\<0$$.  
-* **ISE:** No local −ρ $$-\\rho$$: the inward flux is an **anti-time mode** in H− $$\\mathcal H\_{-}$$. Energy conservation holds **across both scales**: outward flux in H+ $$\\mathcal H\_{+}$$ \= BH mass reduction; no transport “from the singularity.”
+* **GR/QFT:** Expectation value ⟨Tμν⟩ $\langle T_{\mu\nu}\rangle$: positive flux outward, **negative Killing-energy flux** inward → M˙\<0 $\dot M\<0$.  
+* **ISE:** No local −ρ $-\rho$: the inward flux is an **anti-time mode** in H− $\mathcal H_{-}$. Energy conservation holds **across both scales**: outward flux in H+ $\mathcal H_{+}$ = BH mass reduction; no transport “from the singularity.”
 
 **6\) Mass Loss Law**
 
-* **GR/QFT:** M˙≃−σATH4∝−κ2/M2   
-  $$\\dot M \\simeq \-\\sigma A T\_H^4 \\propto \-\\kappa^2/M^2$$ (up to greybody factors).  
-* **ISE:** M˙=− Γ(κ) $$\\dot M= \-\\,\\Gamma(\\kappa)$$, with Γ $$\\Gamma$$ from scale coupling.  
-  * Weak coupling: Γ∝κ2 $$\\Gamma\\propto \\kappa^2$$ → reproduces Hawking scaling.  
+* **GR/QFT:**
+  $$\dot M \simeq -\sigma A T_H^4 \propto -\kappa^2/M^2$$ (up to greybody factors).  
+* **ISE:** M˙=− Γ(κ) $\dot M= -\,\Gamma(\kappa)$, with Γ $\Gamma$ from scale coupling.  
+  * Weak coupling: Γ∝κ2 $\Gamma\propto \kappa^2$ → reproduces Hawking scaling.  
   * Strong coupling: **non-thermal** corrections in the final phase (short burst instead of thermal tail).
 
 **Mapping Table**
 
 * Horizon (GR) ↔ **scale boundary** (ISE)  
 * Bogoliubov-β ↔ **scale interference coefficient**  
-* “Negative energy” ↔ **anti-time mode** in H− $$\\mathcal H\_{-}$$ (not macroscopically real, only subscale)  
-* TH=ℏκ/(2πkBc) $$T\_H=\\hbar\\kappa/(2\\pi k\_B c)$$ ↔ Teff(κ,coupling) $$T\_{\\rm eff}(\\kappa,\\text{coupling})$$, with Teff→TH $$T\_{\\rm eff}\\to T\_H$$ in weak limit  
+* “Negative energy” ↔ **anti-time mode** in H− $\mathcal H_{-}$ (not macroscopically real, only subscale)  
+* TH=ℏκ/(2πkBc) $T_H=\hbar\kappa/(2\pi k_B c)$ ↔ Teff(κ,coupling) $T_{\rm eff}(\kappa,\text{coupling})$, with Teff→TH $T_{\rm eff}\to T_H$ in weak limit  
 * Information paradox ↔ **scale non-unitarity** (unitary in each sector, non-unitary across)
 
 **Testable Deviations**
 
 * **Final phase:** deviation from thermal spectrum; short, high-energy **sub-threshold burst**.  
-* **Ringdown:** tiny **QNM shifts/damping** (effectively smaller κ $$\\kappa$$).  
+* **Ringdown:** tiny **QNM shifts/damping** (effectively smaller κ $\kappa$).  
 * **Shadow:** minimally **smaller** effective event horizon at fixed M.
 
-This mapping shows how ISE connects directly to the standard Hawking derivation: replace mode mixing at the horizon geometry by **scale interference at the boundary**, preserve conservation across H+⊕H− $$\\mathcal H\_{+}\\oplus\\mathcal H\_{-}$$, and recover TH $$T\_H$$ as the weak-coupling limit.
+This mapping shows how ISE connects directly to the standard Hawking derivation: replace mode mixing at the horizon geometry by **scale interference at the boundary**, preserve conservation across H+⊕H− $\mathcal H_{+}\oplus\mathcal H_{-}$, and recover TH $T_H$ as the weak-coupling limit.
 
 **Anti-Time Interpretation of Negative Energy**
 
@@ -364,54 +359,46 @@ This makes the description symmetric:
 
 Thus the interpretation of bookkeeping flips: not “energy disappears,” but rather **our time direction decouples from the anti-time sector.**
 
-This aligns closely with the ISE perspective: negative energy \= an expression that a process **does not unfold in our temporal order**, but in a scalar counter-time mode that cannot be physically realized macroscopically.
+This aligns closely with the ISE perspective: negative energy = an expression that a process **does not unfold in our temporal order**, but in a scalar counter-time mode that cannot be physically realized macroscopically.
 
 **Where Negative Energy Appears and Its Exact Anti-Time Correspondence**
 
 **1\) Killing Energy and Sign Change**
 
-* Time-translation Killing vector: ξμ=∂t $$\\xi^\\mu \= \\partial\_t$$.  
+* Time-translation Killing vector: ξμ=∂t $\xi^\mu = \partial_t$.  
 * “Killing energy” of a flux across a spacelike or null surface Σ:
+$$E_K\[\Sigma\] = - \int_\Sigma T_{\mu\nu}\,\xi^\mu\, d\Sigma^\nu$$ .
 
-EK\[Σ\]=−∫ΣTμν ξμ dΣν.  
-$$E\_K\[\\Sigma\] \= \- \\int\_\\Sigma T\_{\\mu\\nu}\\,\\xi^\\mu\\, d\\Sigma^\\nu$$ .
-
-* **Outside** the horizon, ξμ $$\\xi^\\mu$$ is timelike (future-directed) ⇒ EK≥0 $$E\_K \\geq 0$$ for ordinary matter.  
-* **On/inside** the horizon, ξμ $$\\xi^\\mu$$ becomes null/spacelike ⇒ the sign of Tμνξμnν $$T\_{\\mu\\nu}\\xi^\\mu n^\\nu$$ can be **negative**, even though local energy density is positive.  
-* In Anti-Time terms: EK\<0 $$E\_K \< 0$$ \= Anti-Time component (time orientation reversed relative to ξ $$\\xi$$).
+* **Outside** the horizon, ξμ $\xi^\mu$ is timelike (future-directed) ⇒ EK≥0 $E_K \geq 0$ for ordinary matter.  
+* **On/inside** the horizon, ξμ $\xi^\mu$ becomes null/spacelike ⇒ the sign of Tμνξμnν $T_{\mu\nu}\xi^\mu n^\nu$ can be **negative**, even though local energy density is positive.  
+* In Anti-Time terms: EK\<0 $E_K \< 0$ = Anti-Time component (time orientation reversed relative to ξ $\xi$).
 
 **2\) Mode Mixing (Where Anti-Time Appears Explicitly)**
 
-* Null coordinate: u=t−r∗ $$u \= t \- r\_\*$$, with r∗=r+2Mln⁡∣r/2M−1∣ $$r\_\* \= r \+ 2M \\ln|r/2M \- 1|$$.  
-* Kruskal coordinate: U=−e−κu $$U \= \-e^{-\\kappa u}$$, with κ=c4/(4GM) $$\\kappa \= c^4/(4GM)$$.  
-* A smooth positive-frequency mode in Kruskal time (regular on H+ $$\\mathscr H^+$$):
+* Null coordinate: u=t−r∗ $u = t - r_\*$, with r∗=r+2Mln⁡∣r/2M−1∣ $r_\* = r + 2M \ln|r/2M - 1|$.  
+* Kruskal coordinate: U=−e−κu $U = -e^{-\kappa u}$, with κ=c4/(4GM) $\kappa = c^4/(4GM)$.  
+* A smooth positive-frequency mode in Kruskal time (regular on H+ $\mathscr H^+$):
+$$\Phi_\Omega(U) \propto e^{-i\Omega U}$$
 
-ΦΩ(U)∝e−iΩU  
-$$\\Phi\_\\Omega(U) \\propto e^{-i\\Omega U}$$
+expressed in u is not a pure e−iωu $e^{-i\omega u}$-mode but expands as:
+$$\Phi_\Omega \sim \int d\omega\,\big( \alpha_{\omega\Omega}\, e^{-i\omega u} + \beta_{\omega\Omega}\, e^{+i\omega u} \big)$$.
 
-expressed in u is not a pure e−iωu $$e^{-i\\omega u}$$-mode but expands as:
-
-ΦΩ∼∫dω (αωΩ e−iωu+βωΩ e+iωu).   
-$$\\Phi\_\\Omega \\sim \\int d\\omega\\,\\big( \\alpha\_{\\omega\\Omega}\\, e^{-i\\omega u} \+ \\beta\_{\\omega\\Omega}\\, e^{+i\\omega u} \\big)$$.
-
-* The e+iωu $$e^{+i\\omega u}$$ term is **negative Killing frequency** (opposite ∂t $$\\partial\_t$$) → the Anti-Time mode.  
-* ∣β∣2=(e2πω/κ−1)−1| $$\\beta|^2 \= (e^{2\\pi\\omega/\\kappa} \- 1)^{-1}$$ ⇒ thermal spectrum at infinity.
+* The e+iωu $e^{+i\omega u}$ term is **negative Killing frequency** (opposite ∂t $\partial_t$) → the Anti-Time mode.  
+* ∣β∣2=(e2πω/κ−1)−1| $\beta|^2 = (e^{2\pi\omega/\kappa} - 1)^{-1}$ ⇒ thermal spectrum at infinity.
 
 **3\) Energy Flux Equation (Mass Decrease)**
 
-* Mass evolution along the horizon (null generator kμ $$k^\\mu$$):
+* Mass evolution along the horizon (null generator kμ $k^\mu$):
+$$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle\,\xi^\mu k^\nu\, dA \< 0$$ .
 
-dMdu=−14π∫H+⟨Tμν⟩ ξμkν dA\<0.  
-$$\\frac{dM}{du} \= \-\\frac{1}{4\\pi} \\int\_{\\mathcal H^+} \\langle T\_{\\mu\\nu}\\rangle\\,\\xi^\\mu k^\\nu\\, dA \< 0$$ .
-
-* In the Unruh state: on the future horizon, ⟨Tuu⟩H+\<0 $$\\langle T\_{uu}\\rangle\_{\\mathcal H^+} \< 0$$ (negative Killing-energy flux inward); at I+ $$\\mathscr I^+$$, ⟨Tuu⟩\>0 $$\\langle T\_{uu}\\rangle \> 0$$ (positive energy outward).  
+* In the Unruh state: on the future horizon, ⟨Tuu⟩H+\<0 $\langle T_{uu}\rangle_{\mathcal H^+} \< 0$ (negative Killing-energy flux inward); at I+ $\mathscr I^+$, ⟨Tuu⟩\>0 $\langle T_{uu}\rangle \> 0$ (positive energy outward).  
 * Mapping: “negative Killing-energy flux” ↔ Anti-Time flux; the decrease of M is the macroscopic accounting of this Anti-Time contribution.
 
 **4\) Summary as Anti-Time Translation**
 
-* Negative EK $$E\_K$$ \= mode component with negative tt-frequency (opposite ξ $$\\xi$$) \= Anti-Time orientation.  
+* Negative EK $E_K$ = mode component with negative tt-frequency (opposite ξ $\xi$) = Anti-Time orientation.  
 * Bogoliubov β-coefficients measure exactly this fraction.  
-* Black hole evaporation \= coupling between our time scale (positive frequencies) and Anti-Time components at the horizon boundary; outward appears as positive energy, inward as Anti-Time (formally “negative energy”), so M decreases without energy being transferred from the singularity.
+* Black hole evaporation = coupling between our time scale (positive frequencies) and Anti-Time components at the horizon boundary; outward appears as positive energy, inward as Anti-Time (formally “negative energy”), so M decreases without energy being transferred from the singularity.
 
 **Acausal Mode Dissolution in the Framework of ISE**
 
@@ -425,7 +412,7 @@ $$\\frac{dM}{du} \= \-\\frac{1}{4\\pi} \\int\_{\\mathcal H^+} \\langle T\_{\\mu\
 
 * A **mode** (field, wave, particle state) in ISE is a *resonance structure* within a scale.  
 * Acausality occurs when **differentiation breaks** – i.e. the scale loses its stable resonance relation.  
-* Mathematically: instead of a unique mapping f:Scale→Scale+1f: $$\\text{Scale} \\to \\text{Scale+1}$$, multiple non-overlapping continuations arise.  
+* Mathematically: instead of a unique mapping f:Scale→Scale+1f: $\text{Scale} \to \text{Scale+1}$, multiple non-overlapping continuations arise.  
 * Physically: the mode does not dissolve into energy or matter, but into an **indeterminate superpositional space** of possibilities that share no common causal frame.
 
 **Mechanism**
@@ -447,36 +434,36 @@ Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no lon
 
 **Assumptions (ISE)**
 
-* **Scale space:** Two sectors: H+ $$\\mathcal H\_{+}$$ (our causal scale) and H− $$\\mathcal H\_{-}$$ (acausal “Anti-Time” sectors). Boundary \= **scale boundary**.  
+* **Scale space:** Two sectors: H+ $\mathcal H_{+}$ (our causal scale) and H− $\mathcal H_{-}$ (acausal “Anti-Time” sectors). Boundary = **scale boundary**.  
 * **Anti-Time modes:** “Negative energy” corresponds to **reversed time orientation**; not a local energy knot.  
-* **Zero-point shift:** Positively shifted zero-point energy allows scale-consistent interpretation of acausal contributions, without macroscopic −ρ $$-\\rho$$.  
-* **No macroscopic −ρ $$-\\rho$$:** Coupling H−↔H+ $$\\mathcal H\_{-} \\leftrightarrow \\mathcal H\_{+}$$ is subscale; direct measurement/interaction on our scale leads to **causal annihilation**.
+* **Zero-point shift:** Positively shifted zero-point energy allows scale-consistent interpretation of acausal contributions, without macroscopic −ρ $-\rho$.  
+* **No macroscopic −ρ $-\rho$:** Coupling H−↔H+ $\mathcal H_{-} \leftrightarrow \mathcal H_{+}$ is subscale; direct measurement/interaction on our scale leads to **causal annihilation**.
 
 **Mechanism**
 
-* **Scale interference at the boundary:** An operator U^scale $$\\hat U\_{\\text{scale}}$$ mixes states from H− $$\\mathcal H\_{-}$$ into H+ $$\\mathcal H\_{+}$$; the projected fraction manifests as real quanta in H+ $$\\mathcal H\_{+}$$. **Interference coefficients** play the role of production rates.  
-* **Acausal mode dissolution:** If differentiation breaks (overcriticality/resonance/threshold undershoot), modes dissolve into a **superpositional, non-causal space**; projectively energy outflow appears in H+ $$\\mathcal H\_{+}$$.  
-* **Bookkeeping/conservation:** Energy conservation holds **only across sectors**; in H+ $$\\mathcal H\_{+}$$ the effective mass (ADM sense) decreases, without transfer from an inner reservoir.
+* **Scale interference at the boundary:** An operator U^scale $\hat U_{\text{scale}}$ mixes states from H− $\mathcal H_{-}$ into H+ $\mathcal H_{+}$; the projected fraction manifests as real quanta in H+ $\mathcal H_{+}$. **Interference coefficients** play the role of production rates.  
+* **Acausal mode dissolution:** If differentiation breaks (overcriticality/resonance/threshold undershoot), modes dissolve into a **superpositional, non-causal space**; projectively energy outflow appears in H+ $\mathcal H_{+}$.  
+* **Bookkeeping/conservation:** Energy conservation holds **only across sectors**; in H+ $\mathcal H_{+}$ the effective mass (ADM sense) decreases, without transfer from an inner reservoir.
 
 **Effective Temperature and Rate**
 
-* **Temperature as limit:** Effective temperature Teff $$T\_{\\text{eff}}$$ arises from scale mixing; in the **weak-coupling limit** it reproduces thermal behavior. Frequency-dependent couplings produce deviations.  
+* **Temperature as limit:** Effective temperature Teff $T_{\text{eff}}$ arises from scale mixing; in the **weak-coupling limit** it reproduces thermal behavior. Frequency-dependent couplings produce deviations.  
 * **Mass loss law:**  
-   $$\[ \\dot M \= \-,\\Gamma(\\kappa),\\quad \\Gamma(\\kappa) \\xrightarrow\[\\text{weak}\]{ } \\alpha,\\kappa^{2} \]$$  
+   $$\[ \dot M = -,\Gamma(\kappa),\quad \Gamma(\kappa) \xrightarrow\[\text{weak}\]{ } \alpha,\kappa^{2} \]$$  
    with κ as boundary stretching/surface-gravity scale measure. **Stronger coupling** → faster, non-thermal final phase (short burst).
 
 **Observable Consequences**
 
 * Non-exactly thermal late spectrum, short **sub-threshold burst** in final phase.  
-* **QNM shifts/damping** after mergers (appears as smaller effective κ\\kappa).  
+* **QNM shifts/damping** after mergers (appears as smaller effective κ\kappa).  
 * **Minimally smaller shadow** at fixed MM.  
-* **No late information recovery** (no Page curve in H+ $$\\mathcal H\_{+}$$).
+* **No late information recovery** (no Page curve in H+ $\mathcal H_{+}$).
 
 **Consistency Conditions**
 
-* **Stability/quantum inequalities:** Macroscopic −ρ-\\rho do not appear; subscale coupling preserves vacuum stability and causal structure of our scale.  
-* **Parameterization of open quantities:** Scale length ℓ∗ $$\\ell\_\*$$, coupling profile f(ω) $$f(\\omega)$$, Γ(κ) $$\\Gamma(\\kappa)$$; required outputs: curves M(t) $$M(t)$$, Teff(t) $$T\_{\\text{eff}}(t)$$, end-burst spectrum.
+* **Stability/quantum inequalities:** Macroscopic −ρ-\rho do not appear; subscale coupling preserves vacuum stability and causal structure of our scale.  
+* **Parameterization of open quantities:** Scale length ℓ∗ $\ell_\*$, coupling profile f(ω) $f(\omega)$, Γ(κ) $\Gamma(\kappa)$; required outputs: curves M(t) $M(t)$, Teff(t) $T_{\text{eff}}(t)$, end-burst spectrum.
 
 **Compact formula of ISE picture**
 
-**Evaporation \= scale-spanning, acausal annihilation at the scale boundary via Anti-Time modes;** energy appears outside, while inside no macroscopic −ρ-\\rho is realized; conservation holds on H+⊕H− $$\\mathcal H\_{+} \\oplus \\mathcal H\_{-}$$.
+**Evaporation = scale-spanning, acausal annihilation at the scale boundary via Anti-Time modes;** energy appears outside, while inside no macroscopic −ρ-\rho is realized; conservation holds on H+⊕H− $\mathcal H_{+} \oplus \mathcal H_{-}$.

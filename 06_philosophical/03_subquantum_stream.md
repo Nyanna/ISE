@@ -3,7 +3,8 @@
 
 ## **6.3. The Visual Representation of the Subquantum Stream**
 
-### **![][image27]**
+| ![](images/fig1.png) |     |
+| :------------------- | :-- |
 
 In the framework, one of the key visual and philosophical representations of the **Subquantum Stream** is the concept of **"Tayi"** – a multidimensional infinity symbol embedded within a two-dimensional circle. This abstraction captures the continuous process of **differentiation** that lies at the heart of ISE, offering a profound way to visualize how the universe and its underlying principles operate beyond the familiar scales of space and time.
 
@@ -42,7 +43,8 @@ The concept of Tayi and Karii provides a visual and conceptual foundation for un
 
 The visual representation of **Tayi** and **Karii** provides a profound insight. Through this multidimensional infinity symbol, we can see how the **Subquantum Stream** drives the continuous process of differentiation, which unfolds across all levels of reality. Tayi, with its infinite loops and cycles, reveals the true nature of the universe: an unbroken flow of protoinformation, always differentiating, always dissolving, and always returning to its absolute source. This is the essence – a universe without a beginning or an end, but instead an endless process of becoming.
 
-![][image28]
+| ![](images/fig2.png) |     |
+| :------------------- | :-- |
 
 **Karii – The Calm Depth of Absolute Nothingness**
 
@@ -128,4 +130,4 @@ Karii does not offer a **path to walk**, nor does it provide an **escape** from 
 
 Karii, in its essence, is a state of **absolute calm** and **soothing emptiness**. It is not a place of fear, coldness, or oppression. Instead, it represents the ultimate **release** from existence, the final **letting go** of all things. It is a state that allows for the **eternal** to exist because it embodies **nothingness** in its purest form. Karii is not a state of life, death, or even existence. It is beyond all of these, a realm where **time and space** do not apply, where nothing is gained or lost.
 
-In this peaceful **nothingness**, Karii offers a glimpse into the nature of the **eternal**—a state where all things have dissolved, leaving behind only the quiet **presence of absence**, a state where everything has been **forgotten**, and all that remains is **peace**.
+In this peaceful **nothingness**, Karii offers a glimpse into the nature of the **eternal** — a state where all things have dissolved, leaving behind only the quiet **presence of absence**, a state where everything has been **forgotten**, and all that remains is **peace**.

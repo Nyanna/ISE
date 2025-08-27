@@ -7,7 +7,7 @@ In the framework, time does not exist as a fundamental dimension. Instead, the p
 
 **The Illusion of Sequence**
 
-What is commonly interpreted as a linear chain of events—such as a photon being emitted, traveling through space, and being absorbed—is, in the model, not a temporal progression but a resonant structure. The events are not causally chained across time, but are synchronously configured within a resonance field spanning multiple scales.
+What is commonly interpreted as a linear chain of events — such as a photon being emitted, traveling through space, and being absorbed — is, in the model, not a temporal progression but a resonant structure. The events are not causally chained across time, but are synchronously configured within a resonance field spanning multiple scales.
 
 Each of these three phenomena:
 

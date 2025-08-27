@@ -15,11 +15,11 @@ In most narratives, especially those concerning the origins of the universe, the
 
 Challenging Human-Centered Perspectives:
 
-Many cosmological narratives are influenced by human perception and cognition—our need to frame the universe in ways we can comprehend. The model, however, directly challenges the human-centered need for narratives by suggesting that understanding the universe may be irrelevant or impossible. Reality is not contingent upon human perception, and the universe operates beyond the limits of human comprehension, creating a tension between the desire for narrative structures and the indifferent, non-teleological nature of ISE.
+Many cosmological narratives are influenced by human perception and cognition — our need to frame the universe in ways we can comprehend. The model, however, directly challenges the human-centered need for narratives by suggesting that understanding the universe may be irrelevant or impossible. Reality is not contingent upon human perception, and the universe operates beyond the limits of human comprehension, creating a tension between the desire for narrative structures and the indifferent, non-teleological nature of ISE.
 
 Protoinformation as the Basis of Emergence:
 
-In typical narratives, whether mythological or scientific, there's often a foundational event that "begins" the story. However, protoinformation—a state of undifferentiated potential—serves as the precursor to all existence, but without the same narrative-driven role of a beginning event. Protoinformation does not have inherent meaning or structure but evolves through differentiation, which leads to emergent phenomena like space and time. This undermines the idea of a single, grand narrative and instead proposes an ever-shifting, fluid reality.
+In typical narratives, whether mythological or scientific, there's often a foundational event that "begins" the story. However, protoinformation — a state of undifferentiated potential — serves as the precursor to all existence, but without the same narrative-driven role of a beginning event. Protoinformation does not have inherent meaning or structure but evolves through differentiation, which leads to emergent phenomena like space and time. This undermines the idea of a single, grand narrative and instead proposes an ever-shifting, fluid reality.
 
 The Absence of Causal Determinism in Narratives:
 

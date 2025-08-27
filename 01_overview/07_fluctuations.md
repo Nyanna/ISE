@@ -18,7 +18,7 @@ Implications for Quantum Mechanics and Cosmology:
   * In ISE, **no fixed zero-point energy exists**, only relative differentiation, thus circumventing the "vacuum catastrophe" problem.  
 * **Cosmic structures as scale-dynamic fluctuations:**  
   * In standard cosmology, early-universe quantum fluctuations are considered the origin of large-scale cosmic structures.  
-  * ISE describes these structures as results of **resonance amplification within differentiation processes**—they are not simply "frozen quantum fluctuations" but emergent patterns in energy distribution.  
+  * ISE describes these structures as results of **resonance amplification within differentiation processes** — they are not simply "frozen quantum fluctuations" but emergent patterns in energy distribution.  
 * **Reconciliation of quantum mechanics and relativity:**  
   * In ISE, vacuum fluctuations are not absolute events but **scale-dependent manifestations**.  
   * This allows a continuous transition between quantum and relativistic effects, without contradictions between both theories.

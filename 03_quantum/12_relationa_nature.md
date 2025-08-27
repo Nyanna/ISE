@@ -13,9 +13,9 @@ The framework offers a reinterpretation. It posits that this observed uncertaint
 
 To understand uncertainty, we must first define its core ontological concepts:
 
-* **Proto-Information (![][image30])**: The most fundamental substance of reality. It is the measure of differentiation or complexity within a system. For the purpose of connecting to standard physics, the total amount of proto-information in a pattern is considered directly proportional to its total energy.  
-* **Resonance Area (**![][image31]​ $$A\_R$$**)**: The spatial extent over which a proto-informational pattern maintains coherence. It represents the effective "size" or footprint of a quantum system.  
-* **Proto-Information Density (![][image32] $$P\_p$$)**: The concentration of proto-information within a given resonance area (![][image33] $$\\rho\_p \= {d\\varepsilon}/{dA\_R}$$​). This corresponds to the internal complexity or the number of differentiated "nodes" per unit of area, which correlates to the frequency components of a wave packet.
+* **Proto-Information (**$\epsilon$**)**: The most fundamental substance of reality. It is the measure of differentiation or complexity within a system. For the purpose of connecting to standard physics, the total amount of proto-information in a pattern is considered directly proportional to its total energy.  
+* **Resonance Area (**$A_R$**)**: The spatial extent over which a proto-informational pattern maintains coherence. It represents the effective "size" or footprint of a quantum system.  
+* **Proto-Information Density ($P_p$)**: The concentration of proto-information within a given resonance area ($\rho_p = {d\varepsilon}/{dA_R}$​). This corresponds to the internal complexity or the number of differentiated "nodes" per unit of area, which correlates to the frequency components of a wave packet.
 
 The fundamental relationship between these quantities is:
 
@@ -28,41 +28,38 @@ This equation states that the total energy of a system is proportional to the pr
 We can now derive the uncertainty principle from these first principles. We define the uncertainties in position (Δx) and momentum (Δp) not as abstract limits, but as physical properties of the proto-informational pattern.
 
 * **Position Uncertainty (**Δx**)**: The uncertainty in a system's location is a direct function of its coherent spatial extent. A larger resonance area means the system is less localized. We can define the characteristic length of this uncertainty as being proportional to the square root of the resonance area:  
-  ![][image34]   
-  $$\\Delta x \\propto \\sqrt{A\_R}$$  
-* **Momentum Uncertainty (**Δp**)**: Momentum in quantum mechanics is related to the frequency (or wavenumber) of the wave function. This corresponds to the density of the proto-informational pattern. A highly differentiated pattern (high **![][image32] $$P\_p$$**) has many well-defined internal "nodes," corresponding to high-frequency components and thus a well-defined momentum. Therefore, the uncertainty in momentum is *inversely* proportional to the square root of the information density:  
-  ![][image35]  
-  $$\\Delta p \\propto \\frac{1}{\\sqrt{\\rho\_p}}$$
+    
+  $$\Delta x \propto \sqrt{A_R}$$  
+* **Momentum Uncertainty (**Δp**)**: Momentum in quantum mechanics is related to the frequency (or wavenumber) of the wave function. This corresponds to the density of the proto-informational pattern. A highly differentiated pattern (high **$P_p$**) has many well-defined internal "nodes," corresponding to high-frequency components and thus a well-defined momentum. Therefore, the uncertainty in momentum is *inversely* proportional to the square root of the information density:  
+   
+  $$\Delta p \propto \frac{1}{\sqrt{\rho_p}}$$
 
 By combining these two relations, we arrive at the formulation of the uncertainty product:
 
-![][image36]   
-$$\\Delta x \\cdot \\Delta p \\propto \\sqrt{A\_R} \\cdot \\frac{1}{\\sqrt{\\rho\_p}} \= \\sqrt{\\frac{A\_R}{\\rho\_p}}$$
+$$\Delta x \cdot \Delta p \propto \sqrt{A_R} \cdot \frac{1}{\sqrt{\rho_p}} = \sqrt{\frac{A_R}{\rho_p}}$$
 
-We can now substitute our foundational energy relation (![][image37] $$\\rho\_p \\propto {\\varepsilon}/{A\_R}$$) into this expression:
-
-![][image38]  
-$$\\Delta x \\cdot \\Delta p \\propto \\sqrt{\\frac{A\_R}{\\varepsilon / A\_R}} \= \\sqrt{\\frac{A\_R^2}{\\varepsilon}}$$
+We can now substitute our foundational energy relation ($\rho_p \propto {\varepsilon}/{A_R}$) into this expression:
+ 
+$$\Delta x \cdot \Delta p \propto \sqrt{\frac{A_R}{\varepsilon / A_R}} = \sqrt{\frac{A_R^2}{\varepsilon}}$$
 
 This yields the final form of the **Relational Uncertainty Principle**:
-
-![][image39]  
-$$\\Delta x \\cdot \\Delta p \\propto \\frac{A\_R}{\\sqrt{\\varepsilon}}$$
+ 
+$$\Delta x \cdot \Delta p \propto \frac{A_R}{\sqrt{\varepsilon}}$$
 
 **Resolving the Determinism-Indeterminacy Paradox**
 
-This result provides a profound insight. The uncertainty product Δx⋅Δp is not a fundamental constant (like ℏ/2). Instead, it is a **dynamic quantity** that depends on the state of the system—specifically, its energy (ε) and how that energy is distributed as a resonance area (![][image31]$$A\_R$$).
+This result provides a profound insight. The uncertainty product Δx⋅Δp is not a fundamental constant (like ℏ/2). Instead, it is a **dynamic quantity** that depends on the state of the system — specifically, its energy (ε) and how that energy is distributed as a resonance area ($A_R$).
 
 This resolves the apparent paradox between the determinism of ISE and the observed indeterminacy of quantum mechanics:
 
-* **Fundamental Determinism**: The evolution of the proto-informational field—the universe itself—is entirely deterministic. Its state (![][image31]$$A\_R$$,**![][image32]** $$P\_p$$​) at any moment is precisely defined.  
+* **Fundamental Determinism**: The evolution of the proto-informational field — the universe itself — is entirely deterministic. Its state ($A_R$,$P_p$​) at any moment is precisely defined.  
 * **Emergent Indeterminacy**: The "uncertainty" described by Heisenberg is not an intrinsic property of the system in isolation. It manifests only during an **interaction** (i.e., a measurement). The act of observation involves an interaction between the observer's own "informational density" and that of the system. The measured values of position uncertainty (Δx) and momentum uncertainty (Δp) are the deterministic outcome of this specific, relational context.
 
-Therefore, uncertainty is not a lack of knowledge but a **consequence of relationality**. If one could know the exact parameters of both the system (![][image31]$$A\_R$$,**![][image32]** $$P\_p$$​​) and the observer's interaction scale, the outcome of the measurement would be, in principle, fully predictable. The paradox vanishes because determinism and uncertainty operate on different levels of reality: determinism on the fundamental, absolute level of proto-information, and uncertainty on the emergent, relational level of observation.
+Therefore, uncertainty is not a lack of knowledge but a **consequence of relationality**. If one could know the exact parameters of both the system ($A_R$,$P_p$​​) and the observer's interaction scale, the outcome of the measurement would be, in principle, fully predictable. The paradox vanishes because determinism and uncertainty operate on different levels of reality: determinism on the fundamental, absolute level of proto-information, and uncertainty on the emergent, relational level of observation.
 
 **Implications and Connection to Standard Physics**
 
 * **The Role of Planck's Constant**: Planck's constant (ℏ) is re-contextualized. It is not the fundamental quantum of action defining a universal minimum uncertainty. Instead, it is a **scaling factor** that bridges the underlying proto-informational reality with the specific observational scale of our universe. It quantifies the 'exchange rate' of the interaction between our measurement apparatuses and the systems they probe.  
-* **Non-Locality and the Bell Theorem**: The model is inherently non-local, but not in the sense of "spooky action at a distance." A system defined by a resonance area (![][image31]$$A\_R$$​) is a single, coherent entity. An interaction at one point of the area can instantaneously affect the entire coherent pattern because it is one interconnected whole. This is consistent with the experimentally verified violations of Bell's inequalities, but it provides a physical substrate (the coherent proto-informational pattern) for what otherwise appears to be an abstract correlation.
+* **Non-Locality and the Bell Theorem**: The model is inherently non-local, but not in the sense of "spooky action at a distance." A system defined by a resonance area ($A_R$​) is a single, coherent entity. An interaction at one point of the area can instantaneously affect the entire coherent pattern because it is one interconnected whole. This is consistent with the experimentally verified violations of Bell's inequalities, but it provides a physical substrate (the coherent proto-informational pattern) for what otherwise appears to be an abstract correlation.
 
-This relational framework for uncertainty provides a new path toward a unified physical theory, grounding the probabilistic nature of quantum mechanics in a deterministic, informational ontology. The next critical step is to develop the mathematical machinery to connect the ontological primitives of resonance area (![][image31]$$A\_R$$​) and proto-information density (**![][image32]** $$P\_p$$​​) to measurable physical quantities, thereby generating unique and falsifiable predictions.
+This relational framework for uncertainty provides a new path toward a unified physical theory, grounding the probabilistic nature of quantum mechanics in a deterministic, informational ontology. The next critical step is to develop the mathematical machinery to connect the ontological primitives of resonance area ($A_R$​) and proto-information density ($P_p$​​) to measurable physical quantities, thereby generating unique and falsifiable predictions.

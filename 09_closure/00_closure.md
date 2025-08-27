@@ -17,6 +17,6 @@ Traditional cosmology ties primordial nucleosynthesis to the first few minutes a
 
 **Redshift**
 
-In the conventional model, redshift is interpreted as a direct consequence of the universe's expansion—light from distant galaxies stretches as space itself expands. The model acknowledges the redshift phenomenon but offers a different interpretation. Rather than being tied to spatial expansion, the redshift might result from the ongoing differentiation of energy states in the universe. This view decouples redshift from the need for an expanding universe, suggesting that the light is stretched due to changes in the energy states of the universe, not by the expansion of space itself.
+In the conventional model, redshift is interpreted as a direct consequence of the universe's expansion — light from distant galaxies stretches as space itself expands. The model acknowledges the redshift phenomenon but offers a different interpretation. Rather than being tied to spatial expansion, the redshift might result from the ongoing differentiation of energy states in the universe. This view decouples redshift from the need for an expanding universe, suggesting that the light is stretched due to changes in the energy states of the universe, not by the expansion of space itself.
 
 In summary, while the model does not dismiss these key cosmological observations, it challenges the traditional interpretations tied to the Big Bang and offers an alternative framework based on continuous energy differentiation rather than a singular cosmic beginning.

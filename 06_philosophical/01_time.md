@@ -36,11 +36,11 @@ In a scale-free quantum field according to the theory, time is not a fundamental
 * Instead, each differentiation is merely a new order within the field, without an overarching "world-time."
 
 **Summary:**  
-Time in a scale-free quantum field is not a universal dimension but the result of ongoing differentiation. It is not absolute but relational, depending on the density and structure of differentiations. At the fundamental level, there is no external time—only state changes that can be experienced differently depending on scale.
+Time in a scale-free quantum field is not a universal dimension but the result of ongoing differentiation. It is not absolute but relational, depending on the density and structure of differentiations. At the fundamental level, there is no external time — only state changes that can be experienced differently depending on scale.
 
 **How does the observer perceive the order of differentiation?**
 
-The order of differentiation is not derived from an absolute timeline but from the **relative structure of differentiations** that the observer can perceive. There is no external hierarchy dictating the sequence of differentiations—order emerges through the following mechanisms:
+The order of differentiation is not derived from an absolute timeline but from the **relative structure of differentiations** that the observer can perceive. There is no external hierarchy dictating the sequence of differentiations — order emerges through the following mechanisms:
 
 **Resonance and scale interaction**
 
@@ -61,13 +61,13 @@ The order of differentiation is not derived from an absolute timeline but from t
 **Internal relationality instead of external order**
 
 * Order does not arise from an absolute sequence but from **internal relations between differentiations**.  
-* Example: In a scale-free quantum field, there is no overarching clock organizing events—but through mutual interactions of differentiations, relations emerge that the observer interprets as causal structures.
+* Example: In a scale-free quantum field, there is no overarching clock organizing events — but through mutual interactions of differentiations, relations emerge that the observer interprets as causal structures.
 
 **Observer-dependent emergence of order**
 
 * The observer constructs order based on **their own scale structure** and the differentiations relevant to them.  
 * The same differentiation may appear differently ordered to different observers, depending on which scale relationships dominate for them.  
-* This means there is no universal sequence of events—the order of differentiation is **observer-dependent and scale-relative**.
+* This means there is no universal sequence of events — the order of differentiation is **observer-dependent and scale-relative**.
 
 The observer perceives the order of differentiation through:
 
@@ -77,7 +77,7 @@ The observer perceives the order of differentiation through:
 * Internal relations between differentiations instead of external dictates  
 * Observer-dependent scale relations that make order emergent
 
-Thus, there is no absolute order—only **relationally structured differentiation**, which leads to different perceptions of causality and time for each observer.
+Thus, there is no absolute order — only **relationally structured differentiation**, which leads to different perceptions of causality and time for each observer.
 
 **Does an absolute state in the quantum field change, or only the observation?**
 
@@ -85,7 +85,7 @@ In a **scale-free quantum field** there is no absolute state that changes indepe
 
 **No absolute change, only differentiation**
 
-* The quantum field itself is not subject to an external flow of time—it **does not change absolutely**, but **continuously differentiates**.  
+* The quantum field itself is not subject to an external flow of time — it **does not change absolutely**, but **continuously differentiates**.  
 * Differentiation is not a transition from "one state to another" but a **continuous reordering within an unlimited potential**.
 
 **Change as an observer construct**
@@ -101,7 +101,7 @@ In a **scale-free quantum field** there is no absolute state that changes indepe
 **Quantum fluctuations as relations, not state changes**
 
 * The classical idea of quantum fluctuations as random "changes" is, in ISE, **only an observer-dependent interpretation of scale-relative differentiations**.  
-* The quantum field **itself remains constant in its function as a differentiation potential**—it is not a sequence of state changes but a **permanent structure of relations without an external time dimension**.
+* The quantum field **itself remains constant in its function as a differentiation potential** — it is not a sequence of state changes but a **permanent structure of relations without an external time dimension**.
 
 **The illusion of change through relational differentiation**
 
@@ -114,4 +114,4 @@ In a **scale-free quantum field** there is no absolute state that changes indepe
 * The quantum field itself does not change absolutely but remains an uninterrupted matrix of differentiation.  
 * The perception of change is a relation between scales and not an inherent property of the field.  
 * Every observed “state transition” is an observer-dependent projection within a continuous differentiation process.  
-* ISE replaces “change” with differentiation—no state is ever fixed or past, but only relationally structured.
+* ISE replaces “change” with differentiation — no state is ever fixed or past, but only relationally structured.

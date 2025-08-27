@@ -9,7 +9,7 @@ The concept of traveling into the future via relativistic velocities presents a 
 
 Consider an observer traveling at near-light speed toward a distant region of the universe. Due to relativistic time dilation, the traveler’s proper time slows dramatically relative to the universe’s rest frame. From the traveler’s perspective, they effectively skip vast cosmic epochs, reaching the distant point in what feels like an instant while billions of years may have passed in the external universe.
 
-Upon arrival, the observer would find themselves in near-simultaneity with the target point, experiencing the universe’s state as it exists “now” in their newly shared local spacetime. This transition into the future is not merely observational—the state of existence at the destination is real and active, fully integrated into the traveler’s frame of reference.
+Upon arrival, the observer would find themselves in near-simultaneity with the target point, experiencing the universe’s state as it exists “now” in their newly shared local spacetime. This transition into the future is not merely observational — the state of existence at the destination is real and active, fully integrated into the traveler’s frame of reference.
 
 **The Energy Constraint on Future Accessibility**
 

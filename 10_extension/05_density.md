@@ -5,7 +5,7 @@
 
 The concept aligns well with the model, where **density** and **time** are deeply interconnected, and the scale of physical processes, including the energy release from stars, is tied to the structure of space-time itself. Here’s how this idea can be extended:
 
-In the framework, you might argue that the density of a system, such as a star, is related to its position within a temporal framework defined by its scale. Higher density (or mass) stars operate on **faster timescales** because their internal processes—such as nuclear fusion—are accelerated by their immense gravitational pressure and energy densities.
+In the framework, you might argue that the density of a system, such as a star, is related to its position within a temporal framework defined by its scale. Higher density (or mass) stars operate on **faster timescales** because their internal processes — such as nuclear fusion — are accelerated by their immense gravitational pressure and energy densities.
 
 Conversely, **lower-density stars**, like red dwarfs, are more spread out and their internal energy release occurs over **longer timescales**. This slower energy consumption allows them to sustain nuclear fusion for far longer periods than more massive stars. Therefore, in ISE terms, **time itself is experienced differently** by stars of different densities, because the scale and density alter the pace of internal processes.
 
@@ -29,7 +29,7 @@ Here’s a breakdown of how this could work:
 
 **Faster or Slower Evolution**
 
-Evolution, from our perspective, is tied to the pace of energy interactions and biological processes on Earth. These processes are driven by the energy output of the Sun, the planet’s chemical composition, and other conditions specific to Earth’s **scale** and **energy band**. However, if we shift the scale of the environment—such as a planet with a **smaller size**, **higher density**, and **higher energy levels**—evolutionary processes could accelerate drastically.
+Evolution, from our perspective, is tied to the pace of energy interactions and biological processes on Earth. These processes are driven by the energy output of the Sun, the planet’s chemical composition, and other conditions specific to Earth’s **scale** and **energy band**. However, if we shift the scale of the environment — such as a planet with a **smaller size**, **higher density**, and **higher energy levels** — evolutionary processes could accelerate drastically.
 
 * On such a planet, where **time flows faster** due to the **energy density** and smaller spatial scales, biological systems could evolve in what seems to us like a blink of an eye, but for those life forms, it would be a full evolutionary timescale.  
 * Life in a **plasma** environment could take on entirely different forms, as plasma physics operates in a much **higher energy state** than the chemical processes that govern biology on Earth. This would push evolution into domains dominated by **electromagnetic forces**, **quantum effects**, or even **plasma interactions**.
@@ -61,7 +61,7 @@ This concept also highlights how critical our **scale of observation** is in int
 
 **Different Scale Evolutions: Slower**
 
-The idea of **life evolving at lower energy scales** over incredibly long timescales is just as plausible and fascinating. In environments with **low energy density**, life might emerge very slowly through processes that are fundamentally different from rapid biological evolution—perhaps more akin to **crystal growth** or **chemical evolution**.
+The idea of **life evolving at lower energy scales** over incredibly long timescales is just as plausible and fascinating. In environments with **low energy density**, life might emerge very slowly through processes that are fundamentally different from rapid biological evolution — perhaps more akin to **crystal growth** or **chemical evolution**.
 
 **Life in Crystal-Like Systems**
 
@@ -74,7 +74,7 @@ At **lower energy scales**, where reactions are slower and energy is more diffus
 
 In a **low-energy environment**, time would effectively stretch out. Processes like chemical bonding, molecular assembly, or even simple diffusion would take **millions of years** to complete compared to the rapid timescales of biological evolution on Earth.
 
-* **Time Dilation for Low Energy Life**: Similar to how life on a high-energy planet could evolve extremely fast (as in the plasma-based life scenario), life in a low-energy environment could experience **slower timescales**. From our perspective, such life might evolve at a snail’s pace, requiring eons to achieve complexity or intelligence. However, from the perspective of these life forms, their timescale might feel normal—they would simply "live" slower.
+* **Time Dilation for Low Energy Life**: Similar to how life on a high-energy planet could evolve extremely fast (as in the plasma-based life scenario), life in a low-energy environment could experience **slower timescales**. From our perspective, such life might evolve at a snail’s pace, requiring eons to achieve complexity or intelligence. However, from the perspective of these life forms, their timescale might feel normal — they would simply "live" slower.
 
 **Examples of Slow Processes in Nature**
 

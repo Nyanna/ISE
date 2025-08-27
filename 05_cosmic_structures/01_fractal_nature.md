@@ -20,7 +20,7 @@ A **fractal** is a structure that maintains its basic shape or rules, no matter 
   * On the smallest scales, **atomic orbits** of electrons around a nucleus follow the same **fractal logic**. The arrangement of electrons in atomic orbitals is a product of **energy differentiation**, just as galaxies form from larger-scale energy flows.  
   * The quantum mechanical nature of electron orbits, where probability clouds define the location of electrons, can be seen as analogous to the large-scale structure of galaxies: both follow **energy distributions** that balance forces (electromagnetic for atoms, gravitational for galaxies) and space, leading to self-similar structures at different scales.  
 * **Self-Similarity Across Scales**:  
-  * The most striking aspect of **fractal patterns** is that they are **self-similar**: whether you zoom in or zoom out, the basic shape or pattern remains recognizable. The **universe follows this same principle**—whether you're looking at the largest cosmic structures or the smallest quantum particles, the same process of **energy differentiation** is at work.  
+  * The most striking aspect of **fractal patterns** is that they are **self-similar**: whether you zoom in or zoom out, the basic shape or pattern remains recognizable. The **universe follows this same principle** — whether you're looking at the largest cosmic structures or the smallest quantum particles, the same process of **energy differentiation** is at work.  
   * For example, in a fractal, the **branches of a tree** resemble the whole tree. In the universe, **galactic filaments**, **solar systems**, and **atomic structures** all resemble each other in their formation through energy differentials. The same "branching" pattern is evident, whether it's the clustering of galaxies or the orbital shells of electrons.
 
 ### **Fractals as a Bridge to Human Understanding**
@@ -31,7 +31,7 @@ Fractals are ideal for illustrating how ISE operates because they are easy to vi
 * **Stars and solar systems** follow similar patterns of differentiation on smaller scales.  
 * **Atoms and subatomic particles** also organize themselves through energy differentiation, even though they appear on vastly different scales.
 
-All these structures—galaxies, solar systems, and atoms—are connected by the same underlying principle of energy differentiation, just as every part of a fractal is governed by the same recursive pattern. The **scale-free nature** of the universe means that whether you’re looking at the cosmos as a whole or at the quantum level, the universe is **self-similar**, emerging from simple rules that repeat across all scales.
+All these structures — galaxies, solar systems, and atoms — are connected by the same underlying principle of energy differentiation, just as every part of a fractal is governed by the same recursive pattern. The **scale-free nature** of the universe means that whether you’re looking at the cosmos as a whole or at the quantum level, the universe is **self-similar**, emerging from simple rules that repeat across all scales.
 
 To address the **apparent contradiction** between the fractal nature of the model and the **observed homogeneity** of the universe on large scales, we can use the analogy of how fractals appear at different levels of resolution. While the universe may exhibit fractal-like structures on smaller scales, such as **galaxies, clusters, and filaments**, these structures become less discernible as we zoom out, giving the **appearance of homogeneity** at larger scales.
 

@@ -30,7 +30,7 @@ From the perspective of ISE, the event horizon may not be an absolute boundary b
 
 **Re-emergence**
 
-In classical physics, there is no return from an event horizon. However, under ISE, the object could be in a resonance motion—completing an orbit not within our original scale but in a transversal or shifted order.
+In classical physics, there is no return from an event horizon. However, under ISE, the object could be in a resonance motion — completing an orbit not within our original scale but in a transversal or shifted order.
 
 **Infinite Time**
 
@@ -123,7 +123,7 @@ This remains a central problem. The **energetic limitation** and the **systemic 
 
 Without an inversion mechanism, a pocket universe would therefore not be reversible and could only represent an **expansion without feedback**. The remaining question is: → Does the ISE provide a way to extract scale energy from a black hole without requiring full inversion or Hawking evaporation?
 
-These considerations serve as a proof framework describing how, based on existing classical physics concepts, a black hole can be interpreted not as a singularity but as a scale phenomenon—just as the ISE suggests. Common assumptions already confirm that physics does not break down and that spatiality persists within Newtonian mechanics.
+These considerations serve as a proof framework describing how, based on existing classical physics concepts, a black hole can be interpreted not as a singularity but as a scale phenomenon — just as the ISE suggests. Common assumptions already confirm that physics does not break down and that spatiality persists within Newtonian mechanics.
 
 This argument demonstrates that a black hole does not need to be considered a physical singularity but rather a **scale phenomenon** that remains consistent within classical physics.
 
@@ -141,7 +141,7 @@ This argument demonstrates that a black hole does not need to be considered a ph
 
 This shows that **physics does not collapse**, but rather remains consistent through scale logic. The ISE thus confirms the persistence of physical structure beyond the event horizon.
 
-Frame dragging confirms that space can be distorted and compressed. Fundamental constants also shift within singularities but remain internally consistent. For example, the Planck length and any form of quantization would follow this principle. Consequently, there is no point where these principles break down within the singularity—this is merely a perspective from our frame of reference. If one follows an infalling object conceptually, it experiences the external scale shifting, not its own.
+Frame dragging confirms that space can be distorted and compressed. Fundamental constants also shift within singularities but remain internally consistent. For example, the Planck length and any form of quantization would follow this principle. Consequently, there is no point where these principles break down within the singularity — this is merely a perspective from our frame of reference. If one follows an infalling object conceptually, it experiences the external scale shifting, not its own.
 
 This shows that a singularity does not need to be considered a physical endpoint but rather an **extreme scale compression**, where fundamental constants remain stable within their own frame of reference.
 
@@ -155,7 +155,7 @@ This shows that a singularity does not need to be considered a physical endpoint
   * The Planck length remains unchanged for an object within the singularity since all reference frames shift proportionally.  
 * **Perspective-Dependence of the Singularity:**  
   * To an external observer, all processes within the singularity seem to vanish or become infinitely delayed.  
-  * To infalling objects, their own physics remains stable—only the external world appears increasingly scale-shifted.
+  * To infalling objects, their own physics remains stable — only the external world appears increasingly scale-shifted.
 
 **Implications for the ISE:**
 
@@ -174,12 +174,12 @@ This directly leads to a **scale duality**:
 Infinite Smallness vs. Infinite Size:
 
 * The singularity can appear *infinitely small* (due to spatial compression) or *infinitely large* (due to spatial curvature) from an external perspective.  
-* For an object within the singularity, however, its own scale remains **unchanged**—it exists on a **normal scale relative to itself**.
+* For an object within the singularity, however, its own scale remains **unchanged** — it exists on a **normal scale relative to itself**.
 
 Time Dilation & Scale Transition:
 
 * Externally, time appears infinitely slow because the scale transition causes an **asymptotic stretching**.  
-* Internally, time remains normal while space becomes more compact—meaning that processes might appear **infinitely fast** to internal observers.  
+* Internally, time remains normal while space becomes more compact — meaning that processes might appear **infinitely fast** to internal observers.  
 * Thus, there is no absolute time metric, only a **scale-dependent perception of temporal flow**.
 
 **Implications for the ISE:**
@@ -188,9 +188,9 @@ Time Dilation & Scale Transition:
 * Time and space **do not collapse**, but are scale-relatively transformed.  
 * Each singularity has **its own causal reality**, remaining internally coherent even if it appears frozen or infinitely distant to external observers.
 
-This shows that **all apparent paradoxes of singularities arise only from our external perspective**—internally, reality remains *functional and structurally stable*.
+This shows that **all apparent paradoxes of singularities arise only from our external perspective** — internally, reality remains *functional and structurally stable*.
 
-**Question:** Would this mean that a singularity can undergo a complete evolution within its own scale—potentially forming a universe with its own temporality and structure?
+**Question:** Would this mean that a singularity can undergo a complete evolution within its own scale — potentially forming a universe with its own temporality and structure?
 
 **Answer:**
 
@@ -210,7 +210,7 @@ Both in classical physics and in the ISE, there is **no mechanism** that would a
 
 **Necessity of Solving the Primordial Problem:**
 
-* A fully new universe could only arise if the **Primordial Problem is solved**—i.e., the question of how differentiation can arise *absolutely* from an undefined state.  
+* A fully new universe could only arise if the **Primordial Problem is solved** — i.e., the question of how differentiation can arise *absolutely* from an undefined state.  
 * Without this solution, any singularity remains merely a **scale-folding within an existing differentiation space**, not an **original creation mechanism**.
 
 **Conclusion:**
@@ -244,10 +244,10 @@ This makes the **Primordial Problem an irresolvable paradox**.
 
 * **Every differentiation always remains within a scale order.**  
 * **A completely decoupled universe cannot logically emerge, as it would immediately fall outside any justifiable framework.**  
-* **Thus, there can be no universal derivation for a multiverse—only internal scale shifts.**
+* **Thus, there can be no universal derivation for a multiverse — only internal scale shifts.**
 
 This means that **any theory postulating a universe emerging from a singularity remains causally bound** and **can never assert absolute independence without self-contradiction**.
 
 **Conclusion:**
 
-The Primordial Problem **cannot be solved but only bypassed**—either by assuming an **eternal scale hierarchy** or by **fundamentally accepting the non-provability of alternative universes**.
+The Primordial Problem **cannot be solved but only bypassed** — either by assuming an **eternal scale hierarchy** or by **fundamentally accepting the non-provability of alternative universes**.

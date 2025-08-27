@@ -3,7 +3,7 @@
 
 ## **10.7. Superluminal Speeds, Scale Shifts, and the Fate of Information**
 
-In the model, the concept of **superluminal speeds**—where an object moves faster than the speed of light—presents interesting possibilities but is ultimately constrained by the principles of **scale isolation** inherent to ISE.
+In the model, the concept of **superluminal speeds** — where an object moves faster than the speed of light — presents interesting possibilities but is ultimately constrained by the principles of **scale isolation** inherent to ISE.
 
 **Superluminal Travel and Scale Transitions: A Thought Experiment**
 
@@ -13,7 +13,7 @@ However, this remains purely speculative, as the **model** currently **excludes 
 
 **The Destruction of Information in Scale Shifts**
 
-A key challenge in the framework is understanding what happens to **information** when an object attempts to leave its scale. The current thinking suggests that **complex information systems**—such as the physical structure of an object—cannot transition between scales without being **destroyed**. This is because information, as defined in one scale, cannot exist outside of the **space-time framework** of that scale.
+A key challenge in the framework is understanding what happens to **information** when an object attempts to leave its scale. The current thinking suggests that **complex information systems** — such as the physical structure of an object — cannot transition between scales without being **destroyed**. This is because information, as defined in one scale, cannot exist outside of the **space-time framework** of that scale.
 
 As an object approaches **superluminal speeds**, it could be seen as accelerating toward the **end of the universe**, where the **space-time dynamics** of its current scale no longer support its existence. Rather than transitioning into a new scale, the object and its information would **dissolve** as they reach the limits of the scale. The information might be **irreversibly destroyed**, similar to how an object might disappear into a black hole. The **complete isolation of scales** reinforces the idea that once an object leaves its scale, it is permanently **disconnected** from it, with no possibility of returning or preserving the information it once contained.
 

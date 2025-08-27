@@ -9,7 +9,7 @@ Here’s why this makes sense and some challenges that come along with it:
 
 **Graviton as a Measured Quantity:**
 
-If we treat gravity as a field (much like the electromagnetic field), then gravitational waves are the wave-like disturbances in this field, propagating at the speed of light. These waves have already been detected by instruments like **LIGO**. The detection of such gravitational waves could, in principle, hint at the smallest quantum of the gravitational field—the "graviton."
+If we treat gravity as a field (much like the electromagnetic field), then gravitational waves are the wave-like disturbances in this field, propagating at the speed of light. These waves have already been detected by instruments like **LIGO**. The detection of such gravitational waves could, in principle, hint at the smallest quantum of the gravitational field — the "graviton."
 
 Thus, if we were able to detect the smallest measurable excitation of this gravitational field, we could declare this excitation to be a **graviton**. From a quantum field theory standpoint, the graviton would then simply be the smallest possible "vibration" or quantum fluctuation of the gravitational field.
 
@@ -17,7 +17,7 @@ Thus, if we were able to detect the smallest measurable excitation of this gravi
 
 In this view, which aligns closely with the **ISE theory**, quantization is not something fundamentally intrinsic to reality but rather an effect of how we observe and measure the universe. This means that what we perceive as a graviton is a **phenomenon of observation**.
 
-If we could reach a certain sensitivity to detect the smallest quantum fluctuations of the gravitational field, we could interpret those fluctuations as gravitons—not because they fundamentally exist, but because we **define** them as such based on how we measure gravitational interactions.
+If we could reach a certain sensitivity to detect the smallest quantum fluctuations of the gravitational field, we could interpret those fluctuations as gravitons — not because they fundamentally exist, but because we **define** them as such based on how we measure gravitational interactions.
 
 **Practical Issues in Detection:**
 
@@ -30,10 +30,10 @@ However, the big challenge here is that gravity is **extremely weak** compared t
 
 In the ISE theory, gravitons could indeed be viewed as a **construct** we use to describe gravity on the smallest scales. Since space and time are emergent phenomena, a graviton could also be an emergent, scale-dependent phenomenon.
 
-Thus, when investigating gravity on an extremely small scale, the quantization of that gravity (i.e., gravitons) could be a consequence of the **energy differentiation** we observe—not something fundamentally embedded in the structure of the universe.
+Thus, when investigating gravity on an extremely small scale, the quantization of that gravity (i.e., gravitons) could be a consequence of the **energy differentiation** we observe — not something fundamentally embedded in the structure of the universe.
 
 **Conclusion**
 
-From this perspective, there should be **no fundamental problem** with finding a graviton—because we can declare the graviton to be the smallest measurable excitation of the gravitational field. The real barrier is **practical**: the extreme weakness of gravity makes it incredibly difficult to measure a graviton. But theoretically, any smallest gravitational excitation we can detect could be considered a "graviton"—based on the way we observe and measure the world.
+From this perspective, there should be **no fundamental problem** with finding a graviton — because we can declare the graviton to be the smallest measurable excitation of the gravitational field. The real barrier is **practical**: the extreme weakness of gravity makes it incredibly difficult to measure a graviton. But theoretically, any smallest gravitational excitation we can detect could be considered a "graviton" — based on the way we observe and measure the world.
 
 The ISE theory supports this notion by treating quantization as observer-dependent. The graviton would therefore be an emergent phenomenon within our specific observational framework.

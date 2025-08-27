@@ -12,7 +12,7 @@ The **smallest possible unit of energy**, or the smallest step in differentiatio
 **Differentiation** refers to how energy splits into distinct states or forms. The key idea here is that the smallest unit of energy (if you were trying to define it) **is relative to the total energy of the universe**. Here's a breakdown:
 
 * **If there is only one state in the universe**, that single state has all the energy of the universe, so we can think of it as having a value of "1" (since there’s nothing else to compare it to).  
-* **If the universe differentiates into many states**, the size of the smallest possible energy state becomes smaller and smaller because energy is being split up across more states. If there were **infinitely many differentiations**, the smallest possible energy would be infinitely small—essentially zero. In this case, **quantization disappears** because the idea of a discrete packet of energy no longer makes sense in an infinitely divided system.
+* **If the universe differentiates into many states**, the size of the smallest possible energy state becomes smaller and smaller because energy is being split up across more states. If there were **infinitely many differentiations**, the smallest possible energy would be infinitely small — essentially zero. In this case, **quantization disappears** because the idea of a discrete packet of energy no longer makes sense in an infinitely divided system.
 
 **Energy of a Particle is Relational, Not Quantized**
 
@@ -33,7 +33,7 @@ In simpler terms:
 
 **Information** is equivalent to the **division of energy**. Every time energy differentiates into a new state, it creates **information**. This is a crucial part of how reality is structured in the model:
 
-* **Information is not a separate thing** from energy—it is the process by which energy divides and takes on new forms. When energy differentiates, it forms **structures** like elementary particles and atoms.  
+* **Information is not a separate thing** from energy — it is the process by which energy divides and takes on new forms. When energy differentiates, it forms **structures** like elementary particles and atoms.  
 * Each **particle or atom** is an **aggregate** of these differentiated energy states. They aren't simple, standalone entities, but rather **complex combinations** of many differentiated states of energy.
 
 For example, an elementary particle like an electron isn’t just a point particle in space; it is a **collection of differentiated energy states** that exist in relation to the rest of the universe.
@@ -42,7 +42,7 @@ For example, an elementary particle like an electron isn’t just a point partic
 
 * The properties of a particle, such as **mass**, **charge**, or **spin**, are simply **expressions of these differentiated states**. You can imagine a particle as being described by a physical formula, and every value and relationship in that formula represents a differentiated energy state. These relationships are **not fundamental**, but rather emergent from the energy differentiation process.
 
-**More Differentiation \= More Information (Analogous to Entropy)**
+**More Differentiation = More Information (Analogous to Entropy)**
 
 * As the universe differentiates into more and more states, the total amount of **information** increases. This is analogous to the concept of **entropy**: as more energy states are created, the system becomes more complex, and the potential configurations of those states increase.  
 * **Entropy** in thermodynamics is the measure of disorder or complexity in a system, and in the model, **information** behaves similarly. The more differentiation (or division of energy), the more possible states there are for particles and systems, thus increasing the information content of the universe.

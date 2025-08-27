@@ -19,7 +19,7 @@ This constant differentiation explains why the universe seems to move toward **l
 The **pursuit of homogeneity** in the universe can also be understood as the expression of differentiation, but in the context of **shared granularity** across scales. As the universe expands and energy and matter transition to lower energy states, what we observe is the movement toward a **more homogeneous distribution**.
 
 * On our observable scale, **local concentrations of energy** (such as stars or galaxies) eventually disperse their energy into space, moving toward a **more uniform state**.  
-* However, this homogeneity is not static—it reflects the **differentiation process** of the model, where energy becomes distributed over **new scales** of granularity that allow it to reach an equilibrium across a shared level of scale.
+* However, this homogeneity is not static — it reflects the **differentiation process** of the model, where energy becomes distributed over **new scales** of granularity that allow it to reach an equilibrium across a shared level of scale.
 
 This means that the **tendency toward homogeneity** is not an isolated process but part of the **constant differentiation** that pushes energy and matter into new, differentiated states on finer or broader scales, ultimately seeking a balance on a new level of **granularity**.
 
