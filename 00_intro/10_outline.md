@@ -1,6 +1,8 @@
 
 ## **Thesis Outline**
 
+Numbering matches to the chapter numbering.
+
 1. **Introduction to model**  
    * It proposes continuous scale differentiation, rather than a temporal/spatial expansion.  
    * Space, time, and forces emerge from energy differentiation, not as fundamental properties.  
