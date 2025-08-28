@@ -35,12 +35,7 @@ In a scale-free quantum field according to the theory, time is not a fundamental
 * In a scale-free quantum field, there is no fundamental start or endpoint for time.  
 * Instead, each differentiation is merely a new order within the field, without an overarching "world-time."
 
-<<<<<<< HEAD
-**Summary:**  
-Time in a scale-free quantum field is not a universal dimension but the result of ongoing differentiation. It is not absolute but relational, depending on the density and structure of differentiations. At the fundamental level, there is no external time — only state changes that can be experienced differently depending on scale.
-=======
 Time in a scale-free quantum field is not a universal dimension but the result of ongoing differentiation. It is not absolute but relational, depending on the density and structure of differentiations. At the fundamental level, there is no external time—only state changes that can be experienced differently depending on scale.
->>>>>>> refs/remotes/origin/main
 
 **How does the observer perceive the order of differentiation?**
 

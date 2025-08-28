@@ -114,7 +114,7 @@ The behavior of dark energy aligns remarkably well with the evolution of the uni
 **Growth of Relative Importance:**
 
 * As the universe expanded, the density of radiation ($ρ_{Radiation} ∝ a^{-4}$) and matter ($ρ_{Matter} ∝ a^{-3}$) decreased due to expansion.  
-* In contrast, dark energy remained constant (ρ_{Dark Energy} = constant) or grew relative to the diminishing energy density of matter and radiation.
+* In contrast, dark energy remained constant ($ρ_{Dark Energy} = constant$) or grew relative to the diminishing energy density of matter and radiation.
 
 **Dominance in Later Times:**
 
@@ -153,7 +153,7 @@ If we extend the hypothesis further, the entire energy of the Cosmic Microwave B
 
 **Transition from Radiation to Dark Energy:**
 
-* The energy density of the CMB ($ ho_{CMB}$) decreases with $a^{-4}$. Once extremely low, it no longer contributes to the universe's thermodynamic dynamics and transitions into static background energy.  
+* The energy density of the CMB ($ho_{CMB}$) decreases with $a^{-4}$. Once extremely low, it no longer contributes to the universe's thermodynamic dynamics and transitions into static background energy.  
 * This represents a gradual shift from radiation to an energy form resembling dark energy.
 
 **Long-Term Evolution:**
@@ -173,15 +173,15 @@ The apparent "pull effect" of dark energy, which accelerates the expansion of th
 
 **Dark Energy and Negative Pressure:**
 
-* Dark energy is often interpreted as vacuum energy with a constant energy density (ρ_DE).  
-* Unlike matter or radiation, which have positive pressure, dark energy exerts **negative pressure**, described by its equation of state: P_DE = w · ρ_DE, with w ≈ \-1. Here, P_DE is the pressure, and w = \-1 for the cosmological constant (vacuum energy).
+* Dark energy is often interpreted as vacuum energy with a constant energy density ($ρ_DE$).  
+* Unlike matter or radiation, which have positive pressure, dark energy exerts **negative pressure**, described by its equation of state: $P_DE = w · ρ_DE$, with $w ≈ -1$. Here, $P_DE$ is the pressure, and $w = -1$ for the cosmological constant (vacuum energy).
 
 **Influence on Expansion:**
 
-* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: $\ddot{a} \propto \-\frac{4\pi G}{3} \left( \rho \+ 3P \right)$.  
+* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: $\ddot{a} \propto -\frac{4\pi G}{3} \left( \rho + 3P \right)$.  
    
-  * For normal matter and radiation (P \> 0), gravity slows the expansion ($\ddot{a} \< 0$).  
-  * For dark energy (P \< 0\) with P ≈ \-ρ, the pressure term dominates and causes positive acceleration ($\ddot{a} \> 0$).
+  * For normal matter and radiation ($P > 0$), gravity slows the expansion ($\ddot{a} < 0$).  
+  * For dark energy ($P < 0$) with $P ≈ -ρ$, the pressure term dominates and causes positive acceleration ($\ddot{a} > 0$).
 
 **Gravitational Effect of Negative Pressure:**
 

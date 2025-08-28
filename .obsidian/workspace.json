@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7851d511b8e20697",
+        "id": "c27bba07ff8bd573",
         "type": "tabs",
         "children": [
           {
-            "id": "694a16c6ffa476a7",
+            "id": "a8b1c741327806cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_emergence/12_random.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12_random"
+              "title": "New tab"
             }
           }
         ]
@@ -169,17 +165,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7063122e21b59c9c",
+  "active": "a8b1c741327806cf",
   "lastOpenFiles": [
+    "05_cosmic_structures/08_frozen_collaps.md",
+    "04_cosmic_phenomenon/08_connection_prediction.md",
+    "04_cosmic_phenomenon/06_energy_redshift.md",
+    "03_quantum/13_scaling_artifact.md",
+    "03_quantum/12_relationa_nature.md",
+    "03_quantum/06_paradox_light.md",
+    "02_emergence/12_random.md",
+    "01_overview/08_matter.md",
     "02_emergence/11_ligo_scale.md",
     "02_emergence/05_nbody_problem.md",
     "02_emergence/03_relative_perception.md",
-    "01_overview/08_matter.md",
-    "03_quantum/12_relationa_nature.md",
     "06_philosophical/03_subquantum_stream.md",
     "06_philosophical/images/fig2.jpg",
     "06_philosophical/images/fig1.jpg",
-    "02_emergence/12_random.md",
     "02_emergence/06_euclidean_space.md",
     "image4.md",
     "02_emergence/00_emergence.md"

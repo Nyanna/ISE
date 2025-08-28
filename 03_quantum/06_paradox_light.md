@@ -138,20 +138,20 @@ Thus, blue shift becomes a direct demonstration that energy quanta can appear to
 
 **Frequency Increase and the Effective Velocity Equation**
 
-The relation veff=νobsνem⋅c $v_{\text{eff}} = \frac{\nu_{\text{obs}}}{\nu_{\text{em}}} \cdot c$ formalizes the proposal that effective speed scales with frequency ratio. But what exactly constitutes the observed frequency increase?
+The relation $v_{\text{eff}} = \frac{\nu_{\text{obs}}}{\nu_{\text{em}}} \cdot c$ formalizes the proposal that effective speed scales with frequency ratio. But what exactly constitutes the observed frequency increase?
 
 **Nature of Frequency Increase**
 
-* It corresponds to more oscillation maxima per unit proper time. If frequency doubles, the period halves: Tobs=1νobs=12Tem $T_{obs} = \tfrac{1}{\nu_{obs}} = \tfrac{1}{2} T_{em}$. Thus the maxima arrive more densely, not as duplicate crests at once.  
-* In field representation, E(t)=E0cos⁡(2πνt) $E(t) = E_0 \cos(2\pi \nu t)$. When frequency doubles, amplitude remains finite but the phase advances faster, representing a time rescaling rather than duplication.  
-* In photon representation, a single photon’s energy grows to Eobs=hνobs $E_{obs} = h\nu_{obs}$. A detector equating energy to quanta may interpret one highly blue-shifted photon as multiple lower-energy photons. This is equivalence of energy, not actual photon multiplication.
+* It corresponds to more oscillation maxima per unit proper time. If frequency doubles, the period halves: $T_{obs} = \tfrac{1}{\nu_{obs}} = \tfrac{1}{2} T_{em}$. Thus the maxima arrive more densely, not as duplicate crests at once.  
+* In field representation, $E(t) = E_0 \cos(2\pi \nu t)$. When frequency doubles, amplitude remains finite but the phase advances faster, representing a time rescaling rather than duplication.  
+* In photon representation, a single photon’s energy grows to $E_{obs} = h\nu_{obs}$. A detector equating energy to quanta may interpret one highly blue-shifted photon as multiple lower-energy photons. This is equivalence of energy, not actual photon multiplication.
 
 Simplified, one could state that you duplicate amplitude maxima.
 
 **Why Not Faster than c?**
 
-* In standard relativity, frequency is defined as ν=−12πkμuμ $\nu = -\tfrac{1}{2\pi} k_\mu u^\mu$. Blue shift changes this scalar product, altering energy rate but not the local light speed. Locally, light speed remains at c.  
-* The claim of multiple maxima in the same time ignores that the emitter’s coordinate time differs from the observer’s eigen-time. Gravitational compression of \tau means more maxima per eigen-time, a mapping of times rather than true superluminality.
+* In standard relativity, frequency is defined as $\nu = -\tfrac{1}{2\pi} k_\mu u^\mu$. Blue shift changes this scalar product, altering energy rate but not the local light speed. Locally, light speed remains at c.  
+* The claim of multiple maxima in the same time ignores that the emitter’s coordinate time differs from the observer’s eigen-time. Gravitational compression of $\tau$ means more maxima per eigen-time, a mapping of times rather than true superluminality.
 
 **Objection and Alternative**
 
@@ -167,9 +167,9 @@ This chapter develops the compact scale-velocity formalization into a comprehens
 
 **Definitions**
 
-* **Emission frame** (S_e): emission frequency $\nu_{em}$.  
-* **Observer frame** (S_o): observed frequency $\nu_{obs}$.  
-* **Blue-shift factor**: $g = \nu_{obs}/\nu_{em}$, where $g\>1$ corresponds to blue shift.
+* **Emission frame** ($S_e$): emission frequency $\nu_{em}$.  
+* **Observer frame** ($S_o$): observed frequency $\nu_{obs}$.  
+* **Blue-shift factor**: $g = \nu_{obs}/\nu_{em}$, where $g>1$ corresponds to blue shift.
 
 **Postulate (Alternative View)**
 
@@ -178,8 +178,6 @@ The central postulate is that $c$ does not represent the true velocity of quanta
 **Effective Velocity**
 
 The effective velocity is expressed as:
-
-veff=gc=νobsνemc.
 
 $$v_{eff} = g c = \frac{\nu_{obs}}{\nu_{em}} c$$.
 
@@ -210,7 +208,7 @@ Let $\Lambda = dN/d\tau$ represent the interaction rate (counting rate) per unit
 
 **Synthesis**
 
-* Blue shift necessarily implies $g \> 1$.  
+* Blue shift necessarily implies $g > 1$.  
 * The alternative interpretation asserts $v_{eff} = g c$ and $\Lambda_o = g \Lambda_e$.  
 * Observed frequency increase is therefore equivalent to more interactions per unit proper time.  
 * This result is reinterpreted as higher effective velocity of energy quanta, while $c$ remains a measurement horizon rather than a fundamental limit of nature.
@@ -440,8 +438,8 @@ Consistency Conditions
 
 * **Local Lorentz invariance:** $\partial c_{\text{loc}}/\partial x^\mu = 0$ in the infinitesimal region ⇒ standard SR locally.  
 * **Gravitational effects:** spatial/temporal gradients of $c_{\text{loc}}$ tilt the null cone ⇒ observed gravitational red-/blueshift arises from the $c_{\text{loc}}$ profile, not from “time stretching.”  
-* **Causality:** require $c_{\text{loc}}(x) \> 0$ and smooth, monotonic profiles; no closed timelike curves from the scale field alone.  
-* **Planck limit:** If $\Delta \tau \< t_P$, the “photon number” loses meaning; only energy density/field packet remains well-defined.
+* **Causality:** require $c_{\text{loc}}(x) > 0$ and smooth, monotonic profiles; no closed timelike curves from the scale field alone.  
+* **Planck limit:** If $\Delta \tau < t_P$, the “photon number” loses meaning; only energy density/field packet remains well-defined.
 
 Minimal Translation to Standard Form
 
@@ -471,12 +469,12 @@ Energy Conservation
 
 Causality
 
-* As long as $c_{\text{loc}} \> 0$ and varies smoothly, null cones remain defined and no signals run backwards in time.  
+* As long as $c_{\text{loc}} > 0$ and varies smoothly, null cones remain defined and no signals run backwards in time.  
 * Causality does not break; it is only modulated by $c_{\text{loc}}(x)$.
 
 Planck Limit
 
-* If $\Delta \tau \< t_P$ the photon number loses meaning → consistent, since this construction fundamentally sets time and not $c$.
+* If $\Delta \tau < t_P$ the photon number loses meaning → consistent, since this construction fundamentally sets time and not $c$.
 
 Comparison with GR
 
@@ -542,15 +540,15 @@ $$E_{\text{diff,obs}} = E_{\text{diff,em}} - (g-1)E_{\text{em}} .$$
 
 **Interpretation**
 
-* For **blueshift** ($g\>1$): photons gain energy, the differentiation reservoir loses exactly that amount.  
-* For **redshift** ($g\<1$): photons lose energy, the reservoir gains.  
+* For **blueshift** ($g>1$): photons gain energy, the differentiation reservoir loses exactly that amount.  
+* For **redshift** ($g<1$): photons lose energy, the reservoir gains.  
 * Total energy $E_{\text{total}}$ remains invariant → **global energy conservation holds**.
 
 **Consequence**
 
 This replaces the “gap” in GR (“no global energy conservation in curved spacetime”) with:
 
-Global energy conservation ⇔ energy balance through the scale field.\text{Global energy conservation ⇔ energy balance through the scale field.}
+Global energy conservation ⇔ energy balance through the scale field.$\text{Global energy conservation ⇔ energy balance through the scale field.}$
 
 Now let us consider both extremes.
 

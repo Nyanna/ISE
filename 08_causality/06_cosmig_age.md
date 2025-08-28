@@ -21,7 +21,7 @@ To understand the nature of cosmic age, one must first distinguish between two f
 The calculated age of the universe, 13.8 billion years, is a coordinate time. It is derived from the **Lambda-Cold Dark Matter (ΛCDM)** model, which has become the standard model of cosmology. This model's dynamics are described by the Friedmann equations, which relate the expansion rate of the universe to its composition. The calculation proceeds as follows:
 
 * **Observational Inputs:** Cosmologists measure key parameters of our current universe, primarily:  
-  * The **Hubble Constant (** $H_0$​**)**, which represents the current rate of expansion.  
+  * The **Hubble Constant ($H_0$​)**, which represents the current rate of expansion.  
   * The **density parameters** ($\Omega$) for different components: baryonic matter (​ $\Omega_b$), dark matter ($\Omega_c$), and dark energy ($\Omega_\Lambda$).  
 * **Backward Calculation:** These present-day values are used as boundary conditions for the Friedmann equations. The equations are then integrated backward in time to model how the scale factor of the universe, $a(t)$, evolved from its initial state.  
 * **Defining the Origin:** The beginning, t=0, is defined as the theoretical point in the past where the scale factor $a(t)$ approaches zero, corresponding to a state of infinite density and temperature — the initial singularity.
@@ -60,9 +60,9 @@ In this model, the scale factor grows exponentially: $a(t) \sim e^{H t}$, where 
 
 Let's calculate how much the perceived age of the universe (currently τcurrent​≈13.8 billion years) shrinks for every day that passes ($\Delta t$ =1 day).
 
-* **Hubble Constant (** $H_0$**):** We use the current value as an approximation for the future constant H. $H_0\approx$ 70 km/s/Mpc.  
+* **Hubble Constant ($H_0$):** We use the current value as an approximation for the future constant H. $H_0\approx$ 70 km/s/Mpc.  
 * **Conversion to SI Units:** $H_0\approx 2.269×10^{−18} s^{−1}$.  
-* **Time Interval (**Δt**):** 1 day = 86,400 seconds.
+* **Time Interval ($\Delta_t$):** 1 day = 86,400 seconds.
 
 The shrinkage factor for one day is $e^{-H \Delta t}$. For a small exponent, we can use the approximation $e^{-x} \approx 1 \- x$. The fractional shrinkage is therefore $H_0\Delta t$.
 

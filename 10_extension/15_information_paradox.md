@@ -42,7 +42,7 @@ I want to emphasize that an object is necessarily distributed infinitely well be
 **What Classical GR Actually Implies**
 
 * The geodesic deviation equation enforces that distances between neighboring worldlines grow or shrink depending on direction.  
-* Inside the Schwarzschild interior ( $r \< r_s$ ):  
+* Inside the Schwarzschild interior ( $r < r_s$ ):  
   * Radial direction → infinite **stretching**.  
   * Tangential directions → infinite **compression**.  
 * Result: **spaghettification** – a body becomes longer radially and thinner transversely.  

@@ -21,7 +21,7 @@ This perspective can be cast into a clean coordinate model:
 
 We use the Schwarzschild metric in standard (t,r,θ,φ) outside the stellar surface:
 
-$$\(ds^2 = -\left(1 - \frac{2M}{r}\right) dt^2 + \left(1 - \frac{2M}{r}\right)^{-1} dr^2 + r^2 d\Omega^2\)$$
+$$(ds^2 = -\left(1 - \frac{2M}{r}\right) dt^2 + \left(1 - \frac{2M}{r}\right)^{-1} dr^2 + r^2 d\Omega^2)$$
 
 Here t denotes the time of a stationary observer at infinity.
 
@@ -38,7 +38,7 @@ When an inner shell r1 reaches critical density, it freezes in t-coordinates. A 
 
 * This creates a *static shell structure in t*: smaller r corresponds to earlier proper time but later external observation.  
 * As r → 2M, t diverges logarithmically:  
-  $$\(t \sim -2M \ln\left|\frac{r}{2M} - 1\right| + const.\)$$
+  $$(t \sim -2M \ln\left|\frac{r}{2M} - 1\right| + const.)$$
 
 **Interpretation**
 
@@ -50,7 +50,7 @@ When an inner shell r1 reaches critical density, it freezes in t-coordinates. A 
 Even within classical GR, the black hole is effectively frozen for us at the moment of collapse, forming what can be described as a *gradual sphere*. If we adopt the strict external observer’s perspective in Schwarzschild time $t$, the following holds:
 
 * **From outside** we never witness the collapse as completed.  
-* Each shell of matter freezes asymptotically at some radius $r \> r_s$, the closer to the horizon, the stronger the time dilation.  
+* Each shell of matter freezes asymptotically at some radius $r > r_s$, the closer to the horizon, the stronger the time dilation.  
 * This produces a layered, gradual sphere: inner regions frozen earlier, outer regions later, with the horizon as the final boundary.
 
 From the standpoint of a distant observer, a black hole formed billions of years ago still appears locked in its collapse state, almost unchanged since formation. This is not a mere visual effect: time itself is genuinely frozen relative to our external frame. The collapse proceeds infinitely slowly in our coordinates due to the divergence of gravitational time dilation at the horizon.
@@ -69,19 +69,19 @@ Consider a collapsing object with an asymmetric mass distribution, for instance 
 Classical GR, however, provides a different resolution. It predicts that all higher multipole moments beyond total mass, spin, and charge radiate away through gravitational waves. In such a picture:
 
 * **Non-spherical fields generate gravitational waves.** Quadrupole and higher moments couple to radiative degrees of freedom, carrying away energy and information about asymmetry:  
-  $$\(P = \frac{G}{5c^5}\,\left\langle \dddot Q_{ij}\dddot Q^{ij} \right\rangle\)$$
+  $$(P = \frac{G}{5c^5}\,\left\langle \dddot Q_{ij}\dddot Q^{ij} \right\rangle)$$
 
   where $Q_{ij}$ denotes the quadrupole moment of the mass distribution.  
 * **Before horizon formation,** these multipoles decay via Regge–Wheeler and Zerilli dynamics, producing observable gravitational radiation and Bondi mass loss:  
-  $$\(\frac{dM_B}{du} = -\frac{1}{4\pi} \int |N(u,\Omega)|^2 d\Omega \leq 0\)$$
+  $$(\frac{dM_B}{du} = -\frac{1}{4\pi} \int |N(u,\Omega)|^2 d\Omega \leq 0)$$
 
   indicating a real reduction of multipole structure before stationarity is achieved.  
 * **After horizon formation,** the black hole rings down in quasinormal modes, with damping times scaling with its mass. For Schwarzschild $l=2$ modes:  
-  $$\(\text{Im}(\omega)M \approx 0.089 \quad \Rightarrow \quad \tau \approx \frac{GM}{c^3}\,\frac{1}{\text{Im}(\omega)}\)$$
+  $$(\text{Im}(\omega)M \approx 0.089 \quad \Rightarrow \quad \tau \approx \frac{GM}{c^3}\,\frac{1}{\text{Im}(\omega)})$$
 
   Examples: $M=10 M_\odot \Rightarrow \tau \approx 0.55,\text{ms};; M=10^6 M_\odot \Rightarrow \tau \approx 55,\text{s}.$  
   Late-time tails follow Price’s law: $\psi_l(t) \sim t^{-(2l+3)}$.  
-* **End state:** Only the lowest multipole moments survive, consistent with the no-hair theorem. A non-rotating black hole becomes perfectly spherical (Schwarzschild), a rotating one takes the Kerr form with $M_l \+ iS_l = M(ia)^l$.
+* **End state:** Only the lowest multipole moments survive, consistent with the no-hair theorem. A non-rotating black hole becomes perfectly spherical (Schwarzschild), a rotating one takes the Kerr form with $M_l + iS_l = M(ia)^l$.
 
 Simplified, the process is: **tidal forces distort the asymmetry, motion generates gravitational waves, and radiation removes the non-spherical components.** The outcome is an exterior field that rapidly smooths into a symmetric form. Thus, while our framework envisions a permanent causal imprint of asymmetry frozen in external time, GR enforces the elimination of all asymmetries through radiation, leaving only the universal symmetric solutions.
 
@@ -93,7 +93,7 @@ In GR the cascade of collapse is inherently space-symmetrizing: all non-spherica
 
 General Relativity indeed treats the black hole interior as possessing its own causal structure, though it does not describe it as an “alternative frame.” Instead, it is formulated in terms of proper time and causal domains:
 
-* **Causally separated interior:** Once the event horizon forms, the region $r \< r_s$ is completely disconnected from the exterior. No information, whether null or timelike, can traverse outward across the horizon. This is a topological property of spacetime itself, not a coordinate artifact.  
+* **Causally separated interior:** Once the event horizon forms, the region $r < r_s$ is completely disconnected from the exterior. No information, whether null or timelike, can traverse outward across the horizon. This is a topological property of spacetime itself, not a coordinate artifact.  
 * **Interior perspective (proper time):** For matter inside, proper time continues normally until $r=0$. From this perspective, the collapse finishes in finite eigen-time; there is no freezing effect. However, this frame cannot be translated into the exterior description because the horizon is a one-way causal boundary.  
 * **No global time parameter:** In the external frame, Schwarzschild time $t$ diverges before anything reaches the horizon, while in the internal frame proper time $\tau$ remains finite. These two times are not transformable into one another by any regular Lorentz mapping; their domains are split by the horizon.
 

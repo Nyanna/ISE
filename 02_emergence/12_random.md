@@ -230,7 +230,7 @@ An experimental thought experiment could address this by artificially stretching
 
 * **Three-pulse protocol (ultrashort time, Pump–Control–Probe)**  
   * **System:** e.g., three-level atoms/molecules (Λ or V scheme), superconducting qutrit, quantum dot.  
-  * **Action:** Generate three excitations A, B, C and vary **permutation** and **delays** Δt_AB, Δt_BC.  
+  * **Action:** Generate three excitations A, B, C and vary **permutation** and **delays** $(\Delta t_{AB}, \Delta t_{BC})$.  
   * **Expectation (internal order):** Target transition/signal appears **only** for one specific order and delay band; disappears if order is swapped.  
   * **Lab parallels:** STIRAP / “counter-intuitive” order, coherent control, Pump–Dump–Probe.  
 * **Nonlinear optics, triple coupling**  
@@ -246,7 +246,7 @@ An experimental thought experiment could address this by artificially stretching
 
 * Keep spectra/intensities identical; vary **only** order and delays.  
 * Measure target observable S (transition probability, mixing efficiency, coincidence rate).  
-* Plot S vs. (Δt_AB, Δt_BC) for each permutation.  
+* Plot S vs. $(\Delta t_{AB}, \Delta t_{BC})$ for each permutation.  
 * **Signature of the internal sequence:** a **compact plateau** S\>0 exists exclusively for **one** permutation; the other two show S≈0 across the entire delay space.  
 * Controls: subtract single-pulse contributions; measure two-pulse partial terms separately; phase randomization to test robustness.
 
@@ -448,11 +448,11 @@ In the ISE view, such a detection would reveal not the size of infinity but the 
 **Experimental paradigms**
 
 * **Cosmological polarimetry (CMB \+ large-scale structure).**  
-  * Build **EB** and **TB** spectra; estimate an angle field α(n^)\alpha(\hat n). A stochastic rotation (random walk) implies nonzero EB and a scale-independent (or weakly scale-dependent) excess of B-modes.
+  * Build **EB** and **TB** spectra; estimate an angle field $α(n^)\alpha(\hat n)$. A stochastic rotation (random walk) implies nonzero EB and a scale-independent (or weakly scale-dependent) excess of B-modes.
 
-  * Check **distance/age scaling** by splitting maps tomographically (cross-correlate with lensing potential ϕ\phi, use low-z synchrotron/thermal-dust as controls). Under H₁, the variance ⟨α2⟩\langle \alpha^2 \rangle should **increase with photonic path length**.
+  * Check **distance/age scaling** by splitting maps tomographically (cross-correlate with lensing potential $\phi$, use low-z synchrotron/thermal-dust as controls). Under H₁, the variance $\langle \alpha^2 \rangle$ should **increase with photonic path length**.
 
-  * Test **frequency scaling** (30–150 GHz and beyond). Magneto-ionic (Faraday) effects scale ∝ν−2\propto \nu^{-2}; an **intrinsic stochastic phase drift** need not. Lack of ν−2\nu^{-2} after calibration disfavors conventional contaminants.
+  * Test **frequency scaling** (30–150 GHz and beyond). Magneto-ionic (Faraday) effects scale $\propto \nu^{-2};$ an **intrinsic stochastic phase drift** need not. Lack of $\nu^{-2}$ after calibration disfavors conventional contaminants.
 
 * **Precision laser experiments (laboratory and space).**  
   * High-finesse cavities / fiber loops to extend the **optical path** by $10^9\text{–}10^{12}$ wavelengths with active polarization metrology; search for **variance growth** of the polarization angle vs. round-trip count.
@@ -463,23 +463,23 @@ In the ISE view, such a detection would reveal not the size of infinity but the 
 
 * **Under H₀:** EB consistent with zero after lensing removal; polarization angle distributions stationary in time and distance; no residual broadband rotation after frequency-law subtraction; laboratory paths show **no variance growth** beyond instrument noise.
 
-* **Under H₁ (phase drift):** An **isotropic**, path-length–dependent increase in **⟨α2⟩ $\langle \alpha^2 \rangle$**; possibly weak anisotropy if inter-scale coupling is directional; laboratory variance growing with round trips even after environmental systematics are removed.
+* **Under H₁ (phase drift):** An **isotropic**, path-length–dependent increase in **$\langle \alpha^2 \rangle$**; possibly weak anisotropy if inter-scale coupling is directional; laboratory variance growing with round trips even after environmental systematics are removed.
 
 **Accumulation models and sensitivity targets**
 
-Let α\alpha be the net polarization rotation.
+Let $\alpha$ be the net polarization rotation.
 
-* **SM limit (strict vacuum conservation):** α≡0 $\alpha \equiv 0$ after subtracting known effects.
+* **SM limit (strict vacuum conservation):** $\alpha \equiv 0$ after subtracting known effects.
 
-* **Fixed-rate random walk:** ⟨α2⟩=D L $\langle \alpha^2 \rangle = D\,L$, with diffusion constant DD (rad² per unit path length LL). Detectability requires DL≳σexp\sqrt{D L} \gtrsim \sigma_{\text{exp}} (experiment’s angle noise floor).
+* **Fixed-rate random walk:** $\langle \alpha^2 \rangle = D\,L$, with diffusion constant D (rad² per unit path length L). Detectability requires $\sqrt{D L} \gtrsim \sigma_{\text{exp}}$ (experiment’s angle noise floor).
 
-* **Scale-coupled drift (ISE-motivated):** d⟨α2⟩/dχ=κ(a,Φ,… )\mathrm{d}\langle \alpha^2 \rangle/\mathrm{d}\chi = \kappa(a,\Phi,\dots), with affine parameter χ\chi and coupling κ\kappa to the **scale factor** aa or other inter-scale fields Φ\Phi. Growth can be super- or sub-linear in distance; tomographic splits (different effective redshifts) are decisive.
+* **Scale-coupled drift (ISE-motivated):** $\mathrm{d}\langle \alpha^2 \rangle/\mathrm{d}\chi = \kappa(a,\Phi,\dots)$, with affine parameter $\chi$ and coupling $\kappa$ to the **scale factor** a or other inter-scale fields $\Phi$. Growth can be super- or sub-linear in distance; tomographic splits (different effective redshifts) are decisive.
 
-**Sensitivity criterion.** A null result sets ⟨α2⟩\<σexp\sqrt{\langle \alpha^2 \rangle} \< \sigma_{\text{exp}} → **lower bounds** on 1/D1/\sqrt{D} (fixed-rate) or on the integral of κ\kappa (scale-coupled). Positive detection requires consistent scaling across **sky patches, bands, and instruments**.
+**Sensitivity criterion.** A null result sets $\sqrt{\langle \alpha^2 \rangle} < \sigma_{\text{exp}}$ → **lower bounds** on $\sqrt{D}$ (fixed-rate) or on the integral of $\kappa$ (scale-coupled). Positive detection requires consistent scaling across **sky patches, bands, and instruments**.
 
 **Systematics and discriminants**
 
-* **Faraday rotation** (∝ν−2\propto \nu^{-2}), **instrument angles**, **beam mismatch**, **E→B leakage**, **gravitational lensing**. A genuine stochastic phase drift is **broadband** (after calibration), **isotropic (to first order)**, and **path-length dependent** without tracing electron-density maps.
+* **Faraday rotation** ($\propto \nu^{-2}$), **instrument angles**, **beam mismatch**, **E→B leakage**, **gravitational lensing**. A genuine stochastic phase drift is **broadband** (after calibration), **isotropic (to first order)**, and **path-length dependent** without tracing electron-density maps.
 
 * **Laboratory confounds:** thermal/thermo-optic birefringence, stress-induced fiber birefringence, mirror coating anisotropy. Use **counter-propagating paths**, **temperature control**, **vacuum**, and **rotation-reversal protocols** to isolate any intrinsic drift.
 
@@ -495,7 +495,7 @@ Special relativity assigns **zero proper time** to photons; a strict proper-time
 
 A measured variance does **not** quantify “the size of infinity.” It reveals the **extent of coupling** between our scale and a higher-order level — a **scale horizon**. Like the cosmological horizon, it marks a **limit of causal reach**, not a boundary of existence. Infinity remains unbounded; the measurement constrains only the **interaction bandwidth** available to our scale.
 
-Formally, a null bound ⟨α2⟩\<σexp\sqrt{\langle \alpha^2 \rangle} \< \sigma_{\text{exp}} over path length LL implies a **lower limit** S\>Smin⁡S \> S_{\min} on the **scale-coupling horizon** SS, via a model-dependent map {D,κ}↦S\{D,\kappa\} \mapsto S. Conversely, a detection yields an **effective resolution constant** τres\tau_{\text{res}} (a Planck-like **time-resolution** for our scale) tied to cc through the calibration between phase drift and accumulated path.
+Formally, a null bound $\sqrt{\langle \alpha^2 \rangle} < \sigma_{\text{exp}}$ over path length LL implies a **lower limit** $⁡S > S_{\min}$ on the **scale-coupling horizon** S, via a model-dependent map $\{D,\kappa\} \mapsto S$. Conversely, a detection yields an **effective resolution constant** $\tau_{\text{res}}$ (a Planck-like **time-resolution** for our scale) tied to c through the calibration between phase drift and accumulated path.
 
 **Decision logic**
 
