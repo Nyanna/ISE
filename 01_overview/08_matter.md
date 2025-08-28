@@ -178,7 +178,7 @@ This matches physical transformations:
 * The energy of the distance is proportional to the ratio of mass portions and inversely proportional to distance.
 
 ISE formulation:
-$$D(E) \sim \frac{M_1 \, M_2}{r}$$
+$$D(E) \sim \frac{M_1 , M_2}{r}$$
 
 Taking the negative derivative with respect to $r$ gives:
 $$F \sim -\frac{M_1 M_2}{r^2}$$

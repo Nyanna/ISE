@@ -353,7 +353,7 @@ Scale Metric (Raw Form)
 
 Define a **scale coordinate** $d\sigma$ (expansion/translation).  
  Then:
-$$ds^2 = -d\tau^2 + \alpha(\sigma)\, d\sigma^2 ,$$
+$$ds^2 = -d\tau^2 + \alpha(\sigma), d\sigma^2 ,$$
 
 where $\alpha(\sigma)$ is a scale factor (like $a(t)$ in cosmology, but generally local).
 
@@ -414,7 +414,7 @@ Definition
 
 * Scale field $\sigma(x)$ (dimensionless).  
 * **Local expansion rate of the scale:**
-  $$c_{\text{loc}}(x):=\frac{d\sigma}{d\tau}\,,$$  
+  $$c_{\text{loc}}(x):=\frac{d\sigma}{d\tau},,$$  
    with proper time $\tau$ of the local observer.
 
 Metric (Raw Form)
@@ -499,7 +499,7 @@ ISE Approach
 * There exists an additional **differentiation energy of the scale**.  
 * This means: every change of $c_{\text{loc}}(x)$ (scale rate) supplies or absorbs energy from this global reservoir.  
 * Formally:
-  $$E_{\text{obs}} = g \, E_{\text{em}}, \quad g = \frac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})},$$
+  $$E_{\text{obs}} = g , E_{\text{em}}, \quad g = \frac{c_{\text{loc}}(x_{\text{obs}})}{c_{\text{loc}}(x_{\text{em}})},$$
 
    where the delta $E_{\text{obs}} - E_{\text{em}}$ **does not vanish**, but stems from $E_{\text{diff}}$ (differentiation energy).
 
@@ -525,10 +525,10 @@ Notation
 **Transformation**
 
 During transport:
-$$E_{\text{obs}} = g \, E_{\text{em}} .$$
+$$E_{\text{obs}} = g , E_{\text{em}} .$$
 
 Difference:
-$$\Delta E = E_{\text{obs}} - E_{\text{em}} = (g-1) \, E_{\text{em}} .$$
+$$\Delta E = E_{\text{obs}} - E_{\text{em}} = (g-1) , E_{\text{em}} .$$
 
 **Global Balance**
 

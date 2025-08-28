@@ -100,7 +100,7 @@ In the framework, a system of N bodies is fundamentally described by its relatio
 The transition between two stable phases is an "event." An event is not merely a close approach of two bodies but is defined as the point where a cumulative interaction integral crosses a predefined significance threshold ($S$).
 
 * **Interaction Integral:** For any pair of bodies ($i, j$), we can define an integral that quantifies their cumulative interaction over time. A candidate for this would be the integral of their potential magnitude:
-   $I_{ij}(t) = \int_{t_0}^{t} |V_{ij}(\tau)| \,d\tau$  
+   $I_{ij}(t) = \int_{t_0}^{t} |V_{ij}(\tau)| ,d\tau$  
 * **The Threshold (**$S$**):** The threshold $S$ is a critical parameter representing the point at which the accumulated interaction is sufficient to break the existing relational structure of the system. Reaching this threshold signifies that enough information, energy, or momentum has been exchanged to trigger a reconfiguration.  
 * **The Event as a Phase Transformation:** Crossing the threshold ($I_{ij}(t) \> S$) triggers a physical phase transformation. At this moment, the system's potential matrix is altered. This is a non-analytical, discrete transition where the system's fundamental geometric and dynamic parameters are re-negotiated, analogous to a classical swing-by maneuver fundamentally altering a probe's trajectory relative to the solar system.
 

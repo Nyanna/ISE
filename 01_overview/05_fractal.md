@@ -17,7 +17,7 @@ While **ISE** does not specifically focus on galaxy distribution, it posits a **
 
 **Fractals in Quantum Physics**
 
-In **quantum physics**, particularly in **loop quantum gravity** and some interpretations of **string theory**, there are hints of fractal-like behaviors at extremely small scales. For instance, space-time itself might have **fractal properties** at the Planck scale (about 10−3510^{-35}10−35 meters), where classical concepts of space and time break down. In this context, space-time could be seen as a fractal object, with its structure becoming more complex and irregular the closer one examines it.
+In **quantum physics**, particularly in **loop quantum gravity** and some interpretations of **string theory**, there are hints of fractal-like behaviors at extremely small scales. For instance, space-time itself might have **fractal properties** at the Planck scale (about 10-3510^{-35}10-35 meters), where classical concepts of space and time break down. In this context, space-time could be seen as a fractal object, with its structure becoming more complex and irregular the closer one examines it.
 
 ISE aligns with this idea by suggesting that **space and time are emergent properties** from energy differentiation, rather than fundamental entities. Just as fractals reveal more complexity as you zoom in, **ISE proposes that at smaller scales**, more energy states differentiate, giving rise to new forms of matter and interactions. This continuous differentiation reflects how quantum mechanics allows for superposition and fluctuation at tiny scales, which only stabilize into classical forms when observed on larger scales.
 

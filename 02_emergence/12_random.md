@@ -471,7 +471,7 @@ Let $\alpha$ be the net polarization rotation.
 
 * **SM limit (strict vacuum conservation):** $\alpha \equiv 0$ after subtracting known effects.
 
-* **Fixed-rate random walk:** $\langle \alpha^2 \rangle = D\,L$, with diffusion constant D (rad² per unit path length L). Detectability requires $\sqrt{D L} \gtrsim \sigma_{\text{exp}}$ (experiment’s angle noise floor).
+* **Fixed-rate random walk:** $\langle \alpha^2 \rangle = D,L$, with diffusion constant D (rad² per unit path length L). Detectability requires $\sqrt{D L} \gtrsim \sigma_{\text{exp}}$ (experiment’s angle noise floor).
 
 * **Scale-coupled drift (ISE-motivated):** $\mathrm{d}\langle \alpha^2 \rangle/\mathrm{d}\chi = \kappa(a,\Phi,\dots)$, with affine parameter $\chi$ and coupling $\kappa$ to the **scale factor** a or other inter-scale fields $\Phi$. Growth can be super- or sub-linear in distance; tomographic splits (different effective redshifts) are decisive.
 

@@ -31,7 +31,7 @@ In both the model and in human perception, **time is not a fundamental, objectiv
 
 In standard Newtonian (or classical) mechanics, **potential energy** is a scalar function. It does not possess a direction in physical space, but rather a single value determined by the distance rrr from a central force or by the positions of interacting masses. For instance, gravitational potential energy in a two-body system is typically given by
 
-$$Ep(r)=−G M mr,E_p(r) = -\frac{G\,M\,m}{r},Ep​(r)=−rGMm​$$
+$$Ep(r)=−G M mr,E_p(r) = -\frac{G,M,m}{r},Ep​(r)=−rGMm​$$
 
 where G is the gravitational constant, and M and m are the masses. This expression underscores that, in classical physics, potential energy is simply a numerical value (possibly negative) indicating how “deep” a body is in a potential well.
 

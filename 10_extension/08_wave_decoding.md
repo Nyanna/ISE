@@ -13,7 +13,7 @@ This chapter proposes that through the detailed analysis of the photon's **wave-
 
 In classical physics, the photon is often treated as a quantized particle of light, representing the smallest discrete unit of the electromagnetic field. It is characterized by key properties such as:
 
-* **Frequency** and **wavelength**, which define its energy and momentum according to E=hνE = h \nuE=hν,  
+* **Frequency** and **wavelength**, which define its energy and momentum according to $E = h \nu$
 * **Polarization**, which defines the orientation of its electromagnetic fields,  
 * **Speed**, which in a vacuum is the constant ccc, the speed of light.
 

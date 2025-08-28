@@ -205,7 +205,7 @@ This causes near-horizon relief of ADM mass without outward information transfer
 * Energy conditions: NEC/WEC/SEC are violated, requiring new stability rules.  
 * Quantum inequalities: In QFT, negative energy is locally allowed but bounded (Ford–Roman). ISE must show why subscale persistent $-\rho$ is possible.  
 * Thermodynamics: The first law of BH mechanics modifies with an extra term:
-  $$\delta M = T \, \delta S - \int \rho_- \, dV$$.
+  $$\delta M = T , \delta S - \int \rho_- , dV$$.
 
 **Observable Consequences**
 
@@ -240,11 +240,11 @@ Negative energy is not macroscopic but a scale effect. For our scale, “negativ
 **Evaporation Dynamics**
 
 Evaporation is scale interference:
-$$\frac{dM}{dt} \approx - f(\kappa, \ell_\*)$$
+$$\frac{dM}{dt} \approx - f(\kappa, \ell_*)$$
 
-with surface gravity $\kappa$ and scale length $\ell_\*$.
+with surface gravity $\kappa$ and scale length $\ell_*$.
 
-* Weak coupling: $f \to \alpha \, \kappa^2$ reproduces Hawking.  
+* Weak coupling: $f \to \alpha , \kappa^2$ reproduces Hawking.  
 * Strong coupling: faster, non-thermal final phase, with bursts.
 
 **Consistency Check**
@@ -304,7 +304,7 @@ The ISE interpretation is **compatible with observable aspects of GR/QFT** (mass
 
 **3\) Mode Mixing (Bogoliubov)**
 
-* **GR/QFT:** $\hat a_{\omega}^{\text{out}}=\sum_{\omega'}(\alpha_{\omega\omega'}\hat a_{\omega'}^{\text{in}}+\beta_{\omega\omega'}\hat a_{\omega'}^{\text{in}\,\dagger}); ∣β∣2≠0|\beta|^2\neq 0$ due to **exponential redshift** near the horizon.  
+* **GR/QFT:** $\hat a_{\omega}^{\text{out}}=\sum_{\omega'}(\alpha_{\omega\omega'}\hat a_{\omega'}^{\text{in}}+\beta_{\omega\omega'}\hat a_{\omega'}^{\text{in},\dagger}); ∣β∣2≠0|\beta|^2\neq 0$ due to **exponential redshift** near the horizon.  
 * **ISE:** Boundary coupling $\hat U_{\text{scale}}$ mixes $\mathcal H_{+}$ with $\mathcal H_{-}$.  
    “$\beta$” ↔ **scale interference coefficient**: fraction projected from $\mathcal H_{-}$ into $\mathcal H_{+}$.
 
@@ -322,7 +322,7 @@ The ISE interpretation is **compatible with observable aspects of GR/QFT** (mass
 
 * **GR/QFT:**
   $$\dot M \simeq -\sigma A T_H^4 \propto -\kappa^2/M^2$$ (up to greybody factors).  
-* **ISE:** $\dot M= -\,\Gamma(\kappa)$, with $\Gamma$ from scale coupling.  
+* **ISE:** $\dot M= -,\Gamma(\kappa)$, with $\Gamma$ from scale coupling.  
   * Weak coupling: $\Gamma\propto \kappa^2$ → reproduces Hawking scaling.  
   * Strong coupling: **non-thermal** corrections in the final phase (short burst instead of thermal tail).
 
@@ -366,7 +366,7 @@ This aligns closely with the ISE perspective: negative energy = an expression th
 
 * Time-translation Killing vector: $\xi^\mu = \partial_t$.  
 * “Killing energy” of a flux across a spacelike or null surface Σ:
-$$E_K\[\Sigma\] = - \int_\Sigma T_{\mu\nu}\,\xi^\mu\, d\Sigma^\nu$$ .
+$$E_K[\Sigma] = - \int_\Sigma T_{\mu\nu},\xi^\mu, d\Sigma^\nu$$ .
 
 * **Outside** the horizon, $\xi^\mu$ is timelike (future-directed) ⇒ $E_K \geq 0$ for ordinary matter.  
 * **On/inside** the horizon, $\xi^\mu$ becomes null/spacelike ⇒ the sign of $T_{\mu\nu}\xi^\mu n^\nu$ can be **negative**, even though local energy density is positive.  
@@ -374,13 +374,13 @@ $$E_K\[\Sigma\] = - \int_\Sigma T_{\mu\nu}\,\xi^\mu\, d\Sigma^\nu$$ .
 
 **2\) Mode Mixing (Where Anti-Time Appears Explicitly)**
 
-* Null coordinate: $u = t - r_\*$, with $r_\* = r + 2M \ln|r/2M - 1|$.  
+* Null coordinate: $u = t - r_*$, with $r_* = r + 2M \ln|r/2M - 1|$.  
 * Kruskal coordinate: $U = -e^{-\kappa u}$, with $\kappa = c^4/(4GM)$.  
 * A smooth positive-frequency mode in Kruskal time (regular on $\mathscr H^+$):
 $$\Phi_\Omega(U) \propto e^{-i\Omega U}$$
 
 expressed in u is not a pure $e^{-i\omega u}$-mode but expands as:
-$$\Phi_\Omega \sim \int d\omega\,\big( \alpha_{\omega\Omega}\, e^{-i\omega u} + \beta_{\omega\Omega}\, e^{+i\omega u} \big)$$.
+$$\Phi_\Omega \sim \int d\omega,\big( \alpha_{\omega\Omega}, e^{-i\omega u} + \beta_{\omega\Omega}, e^{+i\omega u} \big)$$.
 
 * The $e^{+i\omega u}$ term is **negative Killing frequency** (opposite $\partial_t$) → the Anti-Time mode.  
 * $\beta|^2 = (e^{2\pi\omega/\kappa} - 1)^{-1}$ ⇒ thermal spectrum at infinity.
@@ -388,7 +388,7 @@ $$\Phi_\Omega \sim \int d\omega\,\big( \alpha_{\omega\Omega}\, e^{-i\omega u} + 
 **3\) Energy Flux Equation (Mass Decrease)**
 
 * Mass evolution along the horizon (null generator $k^\mu$):
-$$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle\,\xi^\mu k^\nu\, dA < 0$$ .
+$$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle,\xi^\mu k^\nu, dA < 0$$ .
 
 * In the Unruh state: on the future horizon, $\langle T_{uu}\rangle_{\mathcal H^+} < 0$ (negative Killing-energy flux inward); at $\mathscr I^+$, $\langle T_{uu}\rangle > 0$ (positive energy outward).  
 * Mapping: “negative Killing-energy flux” ↔ Anti-Time flux; the decrease of M is the macroscopic accounting of this Anti-Time contribution.
@@ -461,8 +461,8 @@ Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no lon
 **Consistency Conditions**
 
 * **Stability/quantum inequalities:** Macroscopic $-\rho$ do not appear; subscale coupling preserves vacuum stability and causal structure of our scale.  
-* **Parameterization of open quantities:** Scale length $\ell_\*$, coupling profile $f(\omega)$, $\Gamma(\kappa)$; required outputs: curves $M(t)$, $T_{\text{eff}}(t)$, end-burst spectrum.
+* **Parameterization of open quantities:** Scale length $\ell_*$, coupling profile $f(\omega)$, $\Gamma(\kappa)$; required outputs: curves $M(t)$, $T_{\text{eff}}(t)$, end-burst spectrum.
 
 **Compact formula of ISE picture**
 
-**Evaporation = scale-spanning, acausal annihilation at the scale boundary via Anti-Time modes;** energy appears outside, while inside no macroscopic −ρ-\rho is realized; conservation holds on $\mathcal H_{+} \oplus \mathcal H_{-}$.
+**Evaporation = scale-spanning, acausal annihilation at the scale boundary via Anti-Time modes;** energy appears outside, while inside no macroscopic $-\rho$ is realized; conservation holds on $\mathcal H_{+} \oplus \mathcal H_{-}$.

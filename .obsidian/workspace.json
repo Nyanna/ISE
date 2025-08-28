@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c27bba07ff8bd573",
+        "id": "147c6329388c6b55",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b1c741327806cf",
+            "id": "4035c2370a296b23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a8b1c741327806cf",
+  "active": "4035c2370a296b23",
   "lastOpenFiles": [
+    "output/ise.pdf",
+    "10_extension/08_wave_decoding.md",
+    "01_overview/08_matter.md",
+    "00_intro/00_intro.md",
     "05_cosmic_structures/08_frozen_collaps.md",
     "04_cosmic_phenomenon/08_connection_prediction.md",
     "04_cosmic_phenomenon/06_energy_redshift.md",
@@ -174,7 +178,6 @@
     "03_quantum/12_relationa_nature.md",
     "03_quantum/06_paradox_light.md",
     "02_emergence/12_random.md",
-    "01_overview/08_matter.md",
     "02_emergence/11_ligo_scale.md",
     "02_emergence/05_nbody_problem.md",
     "02_emergence/03_relative_perception.md",

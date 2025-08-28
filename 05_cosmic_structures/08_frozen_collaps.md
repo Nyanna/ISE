@@ -69,7 +69,7 @@ Consider a collapsing object with an asymmetric mass distribution, for instance 
 Classical GR, however, provides a different resolution. It predicts that all higher multipole moments beyond total mass, spin, and charge radiate away through gravitational waves. In such a picture:
 
 * **Non-spherical fields generate gravitational waves.** Quadrupole and higher moments couple to radiative degrees of freedom, carrying away energy and information about asymmetry:  
-  $$(P = \frac{G}{5c^5}\,\left\langle \dddot Q_{ij}\dddot Q^{ij} \right\rangle)$$
+  $$(P = \frac{G}{5c^5},\left\langle \dddot Q_{ij}\dddot Q^{ij} \right\rangle)$$
 
   where $Q_{ij}$ denotes the quadrupole moment of the mass distribution.  
 * **Before horizon formation,** these multipoles decay via Regge–Wheeler and Zerilli dynamics, producing observable gravitational radiation and Bondi mass loss:  
@@ -77,7 +77,7 @@ Classical GR, however, provides a different resolution. It predicts that all hig
 
   indicating a real reduction of multipole structure before stationarity is achieved.  
 * **After horizon formation,** the black hole rings down in quasinormal modes, with damping times scaling with its mass. For Schwarzschild $l=2$ modes:  
-  $$(\text{Im}(\omega)M \approx 0.089 \quad \Rightarrow \quad \tau \approx \frac{GM}{c^3}\,\frac{1}{\text{Im}(\omega)})$$
+  $$(\text{Im}(\omega)M \approx 0.089 \quad \Rightarrow \quad \tau \approx \frac{GM}{c^3},\frac{1}{\text{Im}(\omega)})$$
 
   Examples: $M=10 M_\odot \Rightarrow \tau \approx 0.55,\text{ms};; M=10^6 M_\odot \Rightarrow \tau \approx 55,\text{s}.$  
   Late-time tails follow Price’s law: $\psi_l(t) \sim t^{-(2l+3)}$.  

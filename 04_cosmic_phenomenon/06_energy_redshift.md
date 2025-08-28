@@ -425,7 +425,7 @@ The accelerated expansion of the universe and the dynamic development of the thr
 
 If we assume that a percentage of radiation energy is continuously converted into dark energy through expansion, a cumulative growth function emerges:
 
-$$ u_{\Lambda}(t) = \int u_{\text{Radiation}}(t') \cdot f(H(t')) \, dt' $$
+$$ u_{\Lambda}(t) = \int u_{\text{Radiation}}(t') \cdot f(H(t')) , dt' $$
 
 where f(H(t’)) describes the efficiency of conversion as a function of H(t’).
 
