@@ -1,7 +1,7 @@
 
 ---
 
-![](images/title.png)
+![](images/title.png){width=66%}
 
 # 8\. Causality, Time, and the Observer
 

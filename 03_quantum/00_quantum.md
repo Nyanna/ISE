@@ -1,7 +1,7 @@
 
 ---
 
-![](images/title.png)
+![](images/title.png){width=66%}
 
 # 3\. Protoinformation and Quantum Mechanics
 

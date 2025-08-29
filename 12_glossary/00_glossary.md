@@ -125,7 +125,7 @@
     The question of why certain physical constants in the universe appear to be finely tuned to allow for the existence of life. ISE could offer a perspective where such constants emerge naturally from energy differentiation, reducing the need for fine-tuning.
 
 
-![alt](images/fig1.png){width=20%}
-![alt](images/fig2.png){width=20%}
+![](images/fig1.png){width=20%}
+![](images/fig2.png){width=20%}
 
 Proudly present by us

@@ -3,8 +3,7 @@
 
 ## **6.3. The Visual Representation of the Subquantum Stream**
 
-| ![](images/fig1.png) |     |
-| :------------------- | :-- |
+![](images/fig1.jpg){width=50%}
 
 In the framework, one of the key visual and philosophical representations of the **Subquantum Stream** is the concept of **"Tayi"** – a multidimensional infinity symbol embedded within a two-dimensional circle. This abstraction captures the continuous process of **differentiation** that lies at the heart of ISE, offering a profound way to visualize how the universe and its underlying principles operate beyond the familiar scales of space and time.
 
@@ -43,8 +42,7 @@ The concept of Tayi and Karii provides a visual and conceptual foundation for un
 
 The visual representation of **Tayi** and **Karii** provides a profound insight. Through this multidimensional infinity symbol, we can see how the **Subquantum Stream** drives the continuous process of differentiation, which unfolds across all levels of reality. Tayi, with its infinite loops and cycles, reveals the true nature of the universe: an unbroken flow of protoinformation, always differentiating, always dissolving, and always returning to its absolute source. This is the essence – a universe without a beginning or an end, but instead an endless process of becoming.
 
-| ![](images/fig2.png) |     |
-| :------------------- | :-- |
+![](images/fig2.jpg){width=50%}
 
 **Karii – The Calm Depth of Absolute Nothingness**
 

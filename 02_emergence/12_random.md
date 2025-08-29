@@ -58,8 +58,7 @@ Many multiverse interpretations, especially the Everettian Many-Worlds Interpret
 This superficially resembles the ISE view, but differs in that Many-Worlds uses branching without a scale without a scale hierarchy, attributing the effect to branching alone rather than resonance or resolution limits.
 
 
-| ![](images/fig7.png) |  |
-| :---- | :---- |
+![](images/fig7.png){width=50%}
 
  **The Masked Randomness of the Many-Worlds Interpretation**
 
@@ -333,8 +332,7 @@ The decay event probability reflects the intersection frequency between two scal
 
 This unified view eliminates the need for separate 'spacetime' and 'probability' clocks. Both time perception and statistical event distributions arise from one phase structure. It further suggests that under certain acceleration profiles, measurable deviations from standard-model decay distributions could occur even at identical Lorentz factors, offering a potential empirical test of the scale-phase hypothesis.
 
-| ![](images/fig8.png) |  |
-| :---- | :---- |
+![](images/fig8.png){width=50%}
 
 **Phase-Matched Determinism via Relative Acceleration**
 
@@ -348,11 +346,9 @@ If we adopt the ISE logic:
 * The probability of that intersection depends on the **relative phase** between those levels.  
 * **Acceleration** changes that phase **systematically**.
 
-| ![](images/fig9.png) |  |
-| :---- | :---- |
+![](images/fig9.png){width=50%}
 
-| ![](images/fig10.png) |  |
-| :---- | :---- |
+![](images/fig10.png){width=50%}
 
 **What this implies**
 

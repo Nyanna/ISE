@@ -85,36 +85,31 @@ The transition from 1D to 3D and ultimately to N-dimensionality demonstrates how
 
 This section examines the dynamics of a simple orbital system between two objects. By analyzing their motion, we can gain insight into the interplay between distance, velocity, and energy. Such analysis serves as a foundational model for understanding more complex systems like those explored in the model.
 
-| ![](images/fig1.png) |  |
-| :---- | :---- |
+![](images/fig1.png){width=50%}
 
 **Distance Over Time**
 
 The variation of distance between two objects is relevant in both 1D and 3D contexts. This distance is a critical component of the potential energy vector used in ISE. Understanding how distance evolves provides a basis for determining the gravitational and energetic interactions between the objects.
 
-| ![](images/fig2.png) |  |
-| :---- | :---- |
+![](images/fig2.png){width=50%}
 
 **Radial and Tangential Components**
 
 The velocity of an orbiting object can be broken down into radial and tangential components. The radial velocity reflects motion directly toward or away from the central object, while the tangential velocity represents the perpendicular motion. Together, these components provide a complete picture of the object's dynamic state in orbit.
 
-| ![](images/fig3.png) | ![](images/fig4.png) |
-| :---- | :---- |
+![](images/fig3.png){width=50%} ![](images/fig4.png){width=50%}
 
 **Combination of Velocity Elements in One Dimension**
 
 By combining radial and tangential velocities, we can calculate the total kinetic energy in a one-dimensional representation. In the framework, this combination forms the second component of the potential energy vector. This integration helps illustrate how motion contributes to the system's overall energy.
 
-| ![](images/fig5.png) |  |
-| :---- | :---- |
+![](images/fig5.png){width=50%}
 
 **Summing Energies for Verification**
 
 To ensure consistency, the total energy is calculated as the sum of kinetic and potential energies. In a closed orbital system, this total energy remains constant over time. This serves as a crucial validation point when modeling systems within the framework, reinforcing the principle of energy conservation.
 
-| ![](images/fig6.png) |  |
-| :---- | :---- |
+![](images/fig6.png){width=50%}
 
 **The Equivalence of Tangential Energy in a 1D Universe**
 

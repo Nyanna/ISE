@@ -1,7 +1,7 @@
 
 ---
 
-![](images/title.png)
+![](images/title.png){width=66%}
 
 # 4\. Cosmological Implications: Dark Energy and Dark Matter
 

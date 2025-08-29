@@ -1,7 +1,7 @@
 
 ---
 
-![](images/title.png)
+![](images/title.png){width=66%}
 
 # 2\. Emergence of Space, Time, and Gravity
 

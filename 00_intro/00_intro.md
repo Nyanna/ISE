@@ -1,6 +1,6 @@
 
 
-![](images/title.png)
+![](images/title.png){width=66%}
 
 # Thesis on Infinite Scale Expansion (ISE)
 ## Exploring the Implications of Scale-Free Quantum Fields
