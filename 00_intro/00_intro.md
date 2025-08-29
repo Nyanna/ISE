@@ -15,8 +15,10 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 This work describes the infinite differentiation of scales without fixed principles.
 
-* There are no absolute laws, only observer-relative differences.  
-* Structures condense from proto-information, but there is no ultimate truth — only a play of resonances.  
+* There are no absolute laws, only observer-relative differences.
+
+* Structures condense from proto-information, but there is no ultimate truth — only a play of resonances.
+
 * Each level creates its own reality — yet none is final.
 
 The **most compelling structural feature** of the model is its **radical inversion of the fundamental category of reality**.
