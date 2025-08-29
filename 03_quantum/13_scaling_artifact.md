@@ -155,31 +155,31 @@ Thus, mass does not emerge from a spontaneous symmetry breaking but from the div
 The Standard Model of particle physics, despite its predictive power, presents a conceptually fragmented view of mass. It posits two fundamentally different mechanisms for its origin:
 
 * **Intrinsic Mass via the Higgs Mechanism:** Fundamental particles like quarks and leptons acquire an "intrinsic" mass through their coupling strength to the ubiquitous Higgs field. The mass values appear as arbitrary free parameters, offering no explanation for the observed mass hierarchy (e.g., why a muon is \~207 times more massive than an electron).  
-* **Emergent Mass from Binding Energy:** In contrast, approximately 99% of the mass of composite particles like protons and neutrons arises not from the intrinsic mass of their constituent quarks, but from the immense kinetic and potential energy of the strong nuclear force (the gluon field) that binds them, as described by `E=mc²`.
+* **Emergent Mass from Binding Energy:** In contrast, approximately 99% of the mass of composite particles like protons and neutrons arises not from the intrinsic mass of their constituent quarks, but from the immense kinetic and potential energy of the strong nuclear force (the gluon field) that binds them, as described by E=mc².
 
 This dualism is ontologically unsatisfying. It suggests that nature employs two entirely separate principles to generate the same fundamental property of inertia. The Infinite Scale Expansion (ISE) framework rejects this separation and posits that both forms of mass are merely different manifestations of a single, deeper principle: **mass is a direct expression of the informational complexity of a particle's resonant state.**
 
 **From Mass to Differentiation Energy**
 
-The ISE framework replaces the concept of "mass" with **Differentiation Energy (`E_diff`)**. This is defined as the energy required to create and sustain a stable, differentiated resonant state (a particle) from the undifferentiated, **proto-informational** background. A particle is not a "thing" that *has* energy; it *is* a stable pattern of energetic differentiation.
+The ISE framework replaces the concept of "mass" with **Differentiation Energy (E_diff)**. This is defined as the energy required to create and sustain a stable, differentiated resonant state (a particle) from the undifferentiated, **proto-informational** background. A particle is not a "thing" that *has* energy; it *is* a stable pattern of energetic differentiation.
 
-The more complex, structured, and informationally dense this pattern is, the higher its `E_diff` and, consequently, the greater its observed mass (`m = E_diff / c²`).
+The more complex, structured, and informationally dense this pattern is, the higher its E_diff and, consequently, the greater its observed mass (m = E_diff / c²).
 
-**Informational Complexity (`C`) and the Quantum of Differentiation (`ΔI`)**
+**Informational Complexity (C) and the Quantum of Differentiation (ΔI)**
 
 To formalize this, we introduce two concepts:
 
-* **Informational Complexity (`C`):** This is a parameter that describes the structural and relational richness of a particle's state. `C` is not a single number but a multi-layered descriptor which can be visualized as the number and configuration of **"potential vectors"** that constitute the particle's state. It includes:  
+* **Informational Complexity (C):** This is a parameter that describes the structural and relational richness of a particle's state. C is not a single number but a multi-layered descriptor which can be visualized as the number and configuration of **"potential vectors"** that constitute the particle's state. It includes:  
   * The number of constituent resonant components (e.g., three for a proton's valence quarks).  
   * The complexity of the internal relational dynamics (e.g., the incredibly dynamic gluon field).  
   * The scale-level at which the resonant structure achieves stability.  
-* **The Quantum of Differentiation (`ΔI`):** This is the hypothetical "smallest common factor" we seek. It is a fundamental, dimensionless unit representing the smallest possible step of differentiation or information. It is the "atom" of structure itself.
+* **The Quantum of Differentiation (ΔI):** This is the hypothetical "smallest common factor" we seek. It is a fundamental, dimensionless unit representing the smallest possible step of differentiation or information. It is the "atom" of structure itself.
 
 The mass of any stable particle can then be expressed as a function of its complexity, counted in units of this fundamental quantum. We can postulate a **Universal Mass-Complexity Function**:
 
-`Mass ∝ f(C, ΔI)`
+Mass ∝ f(C, ΔI)
 
-This function states that the mass of a particle is proportional to a function of its informational complexity (`C`), which is ultimately built from fundamental units of differentiation (`ΔI`). While the exact form of `f` remains a central question for a future predictive theory, establishing this principle is the key to unification.
+This function states that the mass of a particle is proportional to a function of its informational complexity (C), which is ultimately built from fundamental units of differentiation (ΔI). While the exact form of f remains a central question for a future predictive theory, establishing this principle is the key to unification.
 
 **Reinterpreting the Higgs Field: A Universal Scaling Function**
 
@@ -191,11 +191,11 @@ The Higgs mechanism can be understood as a **divisor** acting upon the proto-inf
 
 This principle elegantly resolves the duality of mass in the Standard Model:
 
-* **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic" — a more complex but stable resonance in the same field, with a higher value of `C_muon`. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
-* **Hadron Mass (e.g., Proton):** A proton is a state of **extremely high informational complexity (`C_proton`)**. Its mass is not just the sum of its parts but reflects the enormous differentiation energy required to sustain the entire dynamic system: the three valence quarks, the sea of virtual quark-antiquark pairs, and the fiercely energetic gluon field that binds them all. The 99% of its mass attributed to "binding energy" is, in the ISE framework, the energetic cost of maintaining this incredibly intricate and information-dense resonant structure.
+* **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic" — a more complex but stable resonance in the same field, with a higher value of C_muon. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
+* **Hadron Mass (e.g., Proton):** A proton is a state of **extremely high informational complexity (C_proton)**. Its mass is not just the sum of its parts but reflects the enormous differentiation energy required to sustain the entire dynamic system: the three valence quarks, the sea of virtual quark-antiquark pairs, and the fiercely energetic gluon field that binds them all. The 99% of its mass attributed to "binding energy" is, in the ISE framework, the energetic cost of maintaining this incredibly intricate and information-dense resonant structure.
 
 **Conclusion: A Path to a Unified Theory of Mass**
 
 By reframing mass as an emergent property derived from informational complexity, the ISE offers a path to a truly unified understanding. The distinction between "intrinsic" Higgs-mass and "emergent" binding-mass dissolves. Both are revealed to be different points on the same spectrum, governed by the single principle that **complexity requires energy, and this energy manifests as inertia.**
 
-Furthermore, this framework redefines the role of the Higgs mechanism itself, integrating it as a necessary universal scaling function within the ISE ontology. The hierarchy of particle masses ceases to be a collection of arbitrary parameters and becomes a "periodic table of complexity," waiting to be deciphered. The ultimate challenge for a predictive version of the ISE is to derive the function `f(C, ΔI)` from first principles, thereby calculating the mass spectrum of all particles from a single, fundamental, ontological foundation.
+Furthermore, this framework redefines the role of the Higgs mechanism itself, integrating it as a necessary universal scaling function within the ISE ontology. The hierarchy of particle masses ceases to be a collection of arbitrary parameters and becomes a "periodic table of complexity," waiting to be deciphered. The ultimate challenge for a predictive version of the ISE is to derive the function f(C, ΔI) from first principles, thereby calculating the mass spectrum of all particles from a single, fundamental, ontological foundation.

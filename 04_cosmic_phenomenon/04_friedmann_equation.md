@@ -64,12 +64,12 @@ This new formalism would better reflect the principles of ISE, allowing for a mo
 
 In the context of the ΛCDM model, the division factor can be understood as:
 
-**f = ρₚ / ρ₀**  
+**f = $\rho_p / \rho_0$**  
 Ratio of Planck density to the current mean energy density of the universe.
 
 **Numerical Values**
 
-* **Planck Density (ρₚ):**  
+* **Planck Density ($\rho_0$):**  
   ≈ 5.16 × 10⁹⁶ kg/m³  
 * **Current Mean Mass Density (ρ₀):**  
   Critical density ≈ 8.5 × 10⁻²⁷ kg/m³
@@ -77,7 +77,7 @@ Ratio of Planck density to the current mean energy density of the universe.
 **Result**
 
 Division factor:  
-**f ≈ ρₚ / ρ₀ ≈ (5.16 × 10⁹⁶) / (8.5 × 10⁻²⁷) ≈ 6 × 10¹²²**
+**f ≈ $\rho_p / \rho_0$ ≈ (5.16 × 10⁹⁶) / (8.5 × 10⁻²⁷) ≈ 6 × 10¹²²**
 
 **Interpretation**
 
@@ -139,7 +139,7 @@ where N ≈ 10¹²² is the number of stable differentiation layers since the Pl
 * Λ is **not a force, substance, or term** –  
   but **a dimensionless measure of the scale-relative projection density of space itself**.  
 * The ratio  
-  **ρ₀ / ρₚ ≈ Λ**  
+  $\rho_0 / \rho_p \approx \Lambda$
   directly follows if space is understood as **structured differentiation of energy** – that is:  
   **Space = visible effect of the hidden differentiation potential.**  
 * This provides **not only a qualitative interpretation**, but:  
@@ -159,7 +159,7 @@ Thus, if **Λ = 1 / N** (with N as the degree of differentiation since Planck ti
 
 * In natural units (c = ℏ = G = 1), the cosmological constant has the dimension L⁻².  
 * Then:  
-  **R ≈ Λ⁻¹ᐟ² ≈ √N**
+  $R \approx \Lambda^{-1/2} \approx \sqrt{N}$
 
 With **N ≈ 10¹²²**, we obtain:  
 **R ≈ 10⁶¹ Planck lengths**  

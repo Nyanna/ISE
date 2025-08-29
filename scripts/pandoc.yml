@@ -1,6 +1,6 @@
 standalone: true
 pdf-engine: xelatex
-output-file: output/Thesis on Infinite Scale Expansion (ISE).plain.pdf
+#output-file: output/Thesis on Infinite Scale Expansion (ISE).plain.pdf
 #include-in-header: scripts/header.tex
 metadata:
    fontsize: 10pt

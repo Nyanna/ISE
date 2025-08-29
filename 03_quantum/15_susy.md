@@ -29,18 +29,18 @@ None of these theoretical expectations have been experimentally confirmed to dat
 
 Coupling constants determine the strength of fundamental interactions between particles in quantum field theories. Three main coupling constants are relevant in the Standard Model:
 
-**Electromagnetic Coupling (`α` – Fine-Structure Constant)**
+**Electromagnetic Coupling (α – Fine-Structure Constant)**
 
 * Measures the strength of the coupling between charged particles and the photon.  
 * Low-energy value: α ≈ 1/137.
 
-**Weak Coupling (`g₂`)**
+**Weak Coupling (g₂)**
 
 * Coupled to the W and Z bosons.  
 * Relevant in radioactive decays and neutrino interactions.  
 * Parametrized together with the Weinberg angle.
 
-**Strong Coupling (`g₃`)**
+**Strong Coupling (g₃)**
 
 * Responsible for binding quarks within protons, neutrons, and other hadrons.  
 * Stronger at low energies and weaker at high energies (asymptotic freedom).
@@ -49,9 +49,9 @@ Coupling constants determine the strength of fundamental interactions between pa
 
 Coupling constants are not truly constant; they vary with energy according to the renormalization group equations:
 
-* `α` increases with energy.  
-* `g₃` decreases with energy.  
-* In supersymmetry (SUSY), `α`, `g₂`, and `g₃` unify at around \~10¹⁶ GeV (Grand Unified Theory (GUT) prediction).
+* α increases with energy.  
+* g₃ decreases with energy.  
+* In supersymmetry (SUSY), α, g₂, and g₃ unify at around \~10¹⁶ GeV (Grand Unified Theory (GUT) prediction).
 
 **Standard Model and High-Energy Behavior**
 
@@ -137,8 +137,7 @@ At higher energies (shorter distances), one penetrates deeper into the vacuum st
 **Running of the Fine-Structure Constant**
 
 The fine-structure constant α increases logarithmically with energy:
-
-α(μ) = α₀ / (1 \- (α₀ / 3π) ln(μ / mₑ))
+$$\alpha(\mu)=\frac{\alpha_0}{1-\dfrac{2\alpha_0}{3\pi}\ln\!\frac{\mu}{m_e}}$$
 
 At higher μ, α(μ) grows.
 
