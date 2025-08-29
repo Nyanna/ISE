@@ -32,7 +32,7 @@ Coupling constants determine the strength of fundamental interactions between pa
 **Electromagnetic Coupling (`α` – Fine-Structure Constant)**
 
 * Measures the strength of the coupling between charged particles and the photon.  
-* Low-energy value: `α ≈ 1/137`.
+* Low-energy value: α ≈ 1/137.
 
 **Weak Coupling (`g₂`)**
 

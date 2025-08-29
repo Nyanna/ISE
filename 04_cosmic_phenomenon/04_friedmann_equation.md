@@ -19,17 +19,17 @@ $$ \left(\frac{\dot{a}}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{k}{a^2} + \fr
 
 Where:
 
-* a(t)a(t)a(t) is the scale factor that describes the expansion of the universe.  
-* ρ\rhoρ is the energy density (matter, radiation, etc.).  
-* kkk is the curvature of space.  
-* Λ\LambdaΛ is the cosmological constant, associated with dark energy.
+* a(t) is the scale factor that describes the expansion of the universe.  
+* $\rho$ is the energy density (matter, radiation, etc.).  
+* k is the curvature of space.  
+* $\Lambda$ is the cosmological constant, associated with dark energy.
 
 **ISE Challenges**:
 
 * **Emergent Space and Time**: Space and time are emergent properties of energy differentiation. The scale factor a(t)a(t)a(t) assumes that space expands homogeneously, but in ISE, space isn’t a fixed entity — it's continually emerging from energy differentiation. This means a(t)a(t)a(t) might not even be a well-defined or linear parameter across all scales. Instead of uniform expansion, space could be scale-dependent, meaning the equation would need to account for local emergent properties of space at different scales.  
 * **Non-linear Time**: The Friedmann equation assumes a uniform time flow, where the rate of change of the scale factor ($\dot{a}a$) applies across the entire universe. However, ISE posits that time itself could vary based on energy differentials, meaning that ttt is no longer a constant, linear variable. If time flows differently in different regions of the universe, as ISE suggests, the concept of a universal scale factor tied to a singular ttt breaks down. In such a scenario, we might need a different time parameter for different scales or regions, which complicates the use of a single equation for cosmic expansion.  
 * **Curvature and Scale**: The term $ka2\frac{k}{a^2}a2k$​ describes the curvature of space, assuming that space is a fixed, pre-existing entity that either bends positively, negatively, or is flat. However, space is not a fixed background — it is created and differentiated by underlying energy flows. This dynamic, emergent space means that curvature itself could be scale-dependent and changing, making the simple use of a constant kkk term problematic. Instead of one curvature term, ISE would require a complex, evolving curvature parameter that could change as space itself emerges across different scales.  
-* **Dark Energy Reinterpretation**: The cosmological constant **λ** in the Friedmann equation is traditionally seen as representing dark energy, a mysterious force driving the accelerated expansion of the universe. In ISE, however, dark energy is interpreted as an emergent feature of energy differentiation, not as an external force. This means **λ** might not be needed at all, or it might represent something entirely different — perhaps the rate of energy flow between different scales, rather than a constant force driving expansion.
+* **Dark Energy Reinterpretation**: The cosmological constant λ in the Friedmann equation is traditionally seen as representing dark energy, a mysterious force driving the accelerated expansion of the universe. In ISE, however, dark energy is interpreted as an emergent feature of energy differentiation, not as an external force. This means **λ** might not be needed at all, or it might represent something entirely different — perhaps the rate of energy flow between different scales, rather than a constant force driving expansion.
 
 **Second Friedmann Equation (Acceleration Equation):**
 
@@ -43,7 +43,7 @@ Where:
 
 * **Acceleration of Expansion**: The second Friedmann equation describes how the universe’s expansion accelerates or decelerates, based on the balance between the matter content ρ\rhoρ and the pressure ppp. In ISE, however, the concept of expansion itself could be an emergent, scale-dependent phenomenon. There might not be a single, universal expansion rate across all scales. Instead, the universe’s evolution might differ based on local conditions of energy differentiation, meaning a single acceleration equation for the whole universe might not make sense.  
 * **Energy and Pressure Redefined**: The terms ρ\rhoρ and ppp in the second Friedmann equation are tied to the traditional definitions of energy density and pressure. However, ISE reinterprets energy and space-time as emergent from deeper quantum fields and energy differentiation. This suggests that ρ\rhoρ and ppp might need to be completely redefined in ISE, possibly not as static quantities but as dynamic variables that change based on the scale and local conditions of energy flow.  
-* **No Need for a Cosmological Constant**: In the framework, the cosmological constant Λ\LambdaΛ, which drives accelerated expansion, may not be necessary. Instead, the acceleration of cosmic expansion could be explained by the ongoing process of energy differentiation itself. This suggests that the second Friedmann equation would need to be reformulated to express how energy differentiation governs the dynamics of the universe, rather than relying on external forces like dark energy.
+* **No Need for a Cosmological Constant**: In the framework, the cosmological constant $\Lambda$, which drives accelerated expansion, may not be necessary. Instead, the acceleration of cosmic expansion could be explained by the ongoing process of energy differentiation itself. This suggests that the second Friedmann equation would need to be reformulated to express how energy differentiation governs the dynamics of the universe, rather than relying on external forces like dark energy.
 
 **Moving Towards a Mathematical Framework**
 

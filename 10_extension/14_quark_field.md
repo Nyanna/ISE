@@ -17,8 +17,8 @@ Alternative analogies, such as describing a hadron as a "standing wave," are als
 
 The paradox deepens when we consider the consequences of the Heisenberg Uncertainty Principle (HUP) for a quark.
 
-* A quark is extremely localized, confined to a space (`Δx`) of roughly the size of a proton (approx. 10⁻¹⁵ m).  
-* According to the HUP (`Δx ⋅ Δp ≥ ħ/2`), this extreme localization in position necessitates a correspondingly vast uncertainty in its momentum (`Δp`).  
+* A quark is extremely localized, confined to a space ($\Delta_x$) of roughly the size of a proton (approx. 10⁻¹⁵ m).  
+* According to the HUP ($\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$), this extreme localization in position necessitates a correspondingly vast uncertainty in its momentum ($\Delta_p$).  
 * A large momentum uncertainty means that the quantum state of the quark must be a superposition of a very broad spectrum of different momenta.  
 * Critically, this mathematical spectrum must include components with very low momenta, which correspond to **extremely long wavelengths** — wavelengths that are orders of magnitude larger than the proton in which the quark is supposedly confined.
 
