@@ -252,7 +252,7 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
 
 * **Gravitation/binding as projection law**  
    For two subsystems $A,B$:
-  $$|D_{AB}|_\sigma^2 ; \propto ; f_\sigma \! \left( \frac{M_A M_B}{r} \right),$$
+  $$|D_{AB}|_\sigma^2 ; \propto ; f_\sigma ! \left( \frac{M_A M_B}{r} \right),$$
 
    Derivative with respect to $r$ ⇒ $F \propto - M_A M_B / r^2$ (Newtonian limit) as **projection consequence**.
 

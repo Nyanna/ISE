@@ -137,7 +137,7 @@ At higher energies (shorter distances), one penetrates deeper into the vacuum st
 **Running of the Fine-Structure Constant**
 
 The fine-structure constant α increases logarithmically with energy:
-$$\alpha(\mu)=\frac{\alpha_0}{1-\dfrac{2\alpha_0}{3\pi}\ln\!\frac{\mu}{m_e}}$$
+$$\alpha(\mu)=\frac{\alpha_0}{1-\dfrac{2\alpha_0}{3\pi}\ln!\frac{\mu}{m_e}}$$
 
 At higher μ, α(μ) grows.
 
