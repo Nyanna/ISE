@@ -195,12 +195,12 @@ Let $\Lambda = dN/d\tau$ represent the interaction rate (counting rate) per unit
 **Energy Flux: Two Consistent Options**
 
 * **Quantum Energy Invariant (Alternative Interpretation):**
-  $$E_{quant} = const, \qquad \Phi_E \propto \Lambda \;\Rightarrow\; \Phi_{E,o} = g \Phi_{E,e}.$$  
+  $$E_{quant} = const, \qquad \Phi_E \propto \Lambda ;\Rightarrow; \Phi_{E,o} = g \Phi_{E,e}.$$  
   * The energy per quantum remains constant.  
   * Increased interaction rate is interpreted by the detector as additional photons.
 
 * **Planck Counting (Standard View):**
-  $$E = h\nu \;\Rightarrow\; E_o = g E_e.$$  
+  $$E = h\nu ;\Rightarrow; E_o = g E_e.$$  
   * Energy per quantum scales with frequency.  
   * For equal emission rates, energy flux grows linearly with $g$.  
   * For equal packet densities, energy flux grows as $g^2$.  

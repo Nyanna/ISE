@@ -125,7 +125,7 @@ This is exactly what ISE emphasizes: differentiation can appear **internally** (
 
 In ISE-notation this can be expressed as:
 
-$$M_0 \;\;\longleftrightarrow\;\; (M_1 + M_2) + D(E)$$
+$$M_0 ;;\longleftrightarrow;; (M_1 + M_2) + D(E)$$
 
 * $M_0$ = original rest mass (undifferentiated)  
 * $M_1, M_2$ = differentiated portions of the rest mass  
@@ -134,7 +134,7 @@ $$M_0 \;\;\longleftrightarrow\;\; (M_1 + M_2) + D(E)$$
 **Interpretation:**  
  An undivided rest mass is equivalent to two divided parts plus a distance, stored as energy. The recombination is the reverse transformation:
 
-$$(M_1 + M_2) + D(E) \;\;\longrightarrow\;\; M_0$$
+$$(M_1 + M_2) + D(E) ;;\longrightarrow;; M_0$$
 
 This is not an energy conservation law in the classical sense, but a **conservation of differentiation**: differentiation (whether internal as rest mass or external as distance/energy) is never lost, it merely changes form.
 
@@ -236,7 +236,7 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
 
 * **Continuous decomposition (one-parameter view)**  
    For a scale parameter $\theta$:
-  $$P_M^{(\theta)} = \cos^2 \theta \Pi + \cos \theta \sin \theta \; K, \quad P_D^{(\theta)} = \sin^2 \theta \Pi - \cos \theta \sin \theta \; K,$$
+  $$P_M^{(\theta)} = \cos^2 \theta \Pi + \cos \theta \sin \theta ; K, \quad P_D^{(\theta)} = \sin^2 \theta \Pi - \cos \theta \sin \theta ; K,$$
 
    with $\Pi, K$ fixed positive operators and $P_M^{(\theta)} + P_D^{(\theta)} = \mathbf{I}$.  
    Intuition: $\theta$ tilts the interpretation continuously from “mass” to “distance.”
@@ -252,7 +252,7 @@ Thus “mass” and “space” are not categories, but **interpretations** of t
 
 * **Gravitation/binding as projection law**  
    For two subsystems $A,B$:
-  $$|D_{AB}|_\sigma^2 \; \propto \; f_\sigma \! \left( \frac{M_A M_B}{r} \right),$$
+  $$|D_{AB}|_\sigma^2 ; \propto ; f_\sigma \! \left( \frac{M_A M_B}{r} \right),$$
 
    Derivative with respect to $r$ ⇒ $F \propto - M_A M_B / r^2$ (Newtonian limit) as **projection consequence**.
 
