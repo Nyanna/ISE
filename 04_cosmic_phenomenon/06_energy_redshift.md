@@ -52,7 +52,7 @@ The idea indeed fits the scale of lost energy in the universe. Since the time of
 
 **Massive Energy Losses Since Recombination:**
 
-* The cosmic microwave background (CMB) is an example of this effect. Originally, the radiation had a temperature of about $3000 , ext{K}$, while today it is only $2.73 , ext{K}$. This represents a drastic decrease in energy density.  
+* The cosmic microwave background (CMB) is an example of this effect. Originally, the radiation had a temperature of about $3000 \text{K}$, while today it is only $2.73 \text{K}$. This represents a drastic decrease in energy density.  
 * Additionally, all cold matter has since emitted photons, which have also been redshifted by the expansion into unmeasurable energy states.
 
 **Magnitude of "Lost" Energy:**
@@ -67,7 +67,7 @@ The idea indeed fits the scale of lost energy in the universe. Since the time of
 
 **Scaling Considerations:**
 
-* The energy density of dark energy is approximately $10^{-10} , ext{J/m}^3$. While this seems minuscule, it sums to a dominant energy form on cosmic scales.  
+* The energy density of dark energy is approximately $10^{-10} \text{J/m}^3$. While this seems minuscule, it sums to a dominant energy form on cosmic scales.  
 * Considering the summation of "lost" radiation energy, it would not be surprising for it to reemerge on this scale.
 
 **Long-Term Radiation and Background Energy:**
@@ -178,7 +178,7 @@ The apparent "pull effect" of dark energy, which accelerates the expansion of th
 
 **Influence on Expansion:**
 
-* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: $\ddot{a} \propto -\frac{4\pi G}{3} \left( \rho + 3P \right)$.  
+* In the Friedmann equations, which describe the expansion of the universe, pressure plays a critical role. The negative pressure of dark energy causes the term influencing the acceleration of expansion to become positive: ${\ddot a\over a}=-\tfrac{4\pi G}{3}(\rho+3P)$.  
    
   * For normal matter and radiation ($P > 0$), gravity slows the expansion ($\ddot{a} < 0$).  
   * For dark energy ($P < 0$) with $P ≈ -ρ$, the pressure term dominates and causes positive acceleration ($\ddot{a} > 0$).
