@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_overview/08_matter.md",
+                "file": "09_closure/08_closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_matter"
+              "title": "08_closure"
             }
           }
         ]
@@ -171,12 +171,21 @@
   },
   "active": "4035c2370a296b23",
   "lastOpenFiles": [
+    "output/chapter_.pdf",
+    "09_closure/07_synchronization.md",
+    "09_closure/06_formalism.md",
+    "09_closure/05_lower_energy.md",
+    "09_closure/04_time_travel.md",
+    "09_closure/03_resonance_two.md",
+    "09_closure/02_resonance_one.md",
+    "09_closure/01_evidence.md",
+    "09_closure/00_closure.md",
+    "01_overview/08_matter.md",
     "missfont.log",
     "output/Thesis on Infinite Scale Expansion (ISE).plain.pdf",
     "output/08_matter.pdf",
     "output/ise.pdf",
     "10_extension/08_wave_decoding.md",
-    "01_overview/08_matter.md",
     "00_intro/00_intro.md",
     "05_cosmic_structures/08_frozen_collaps.md",
     "04_cosmic_phenomenon/08_connection_prediction.md",

@@ -210,7 +210,7 @@ This causes near-horizon relief of ADM mass without outward information transfer
 **Observable Consequences**
 
 * Evaporation: Faster than Hawking ($T \propto 1/M$), with late non-thermal spectrum and sub-threshold bursts.  
-* Ringdown/GW: Slight QNM shifts, as if effective κ\kappa is reduced.  
+* Ringdown/GW: Slight QNM shifts, as if effective $\kappa$ is reduced.  
 * Shadow: Slightly smaller effective horizon radius.  
 * Primordial BHs: No Planck relics; possible short gamma/TeV bursts.  
 * Cosmology: Bounce-like releases without information return, constrained by CMB/BBN.
@@ -454,7 +454,7 @@ Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no lon
 **Observable Consequences**
 
 * Non-exactly thermal late spectrum, short **sub-threshold burst** in final phase.  
-* **QNM shifts/damping** after mergers (appears as smaller effective κ\kappa).  
+* **QNM shifts/damping** after mergers (appears as smaller effective $\kappa$).  
 * **Minimally smaller shadow** at fixed MM.  
 * **No late information recovery** (no Page curve in $\mathcal H_{+}$).
 

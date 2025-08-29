@@ -4,8 +4,8 @@ pdf-engine: xelatex
 #include-in-header: scripts/header.tex
 metadata:
    fontsize: 10pt
-   mainfont: "STIX Two Math"
-#   mainfont: "Roboto"
+#   mainfont: "STIX Two Math"
+   mainfont: "Roboto"
 #   sansfont: "TeX Gyre Heros"
 #   monofont: "Inconsolata"
    mathfont: "Noto Sans Math"

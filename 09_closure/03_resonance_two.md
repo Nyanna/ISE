@@ -16,7 +16,7 @@ The central achievement of this paper is the successful completion of a program 
 Their derivation proceeds as follows:
 
 * **Microscopic Scale:** Starting with the axioms of Newtonian mechanics for a large system of N colliding hard-sphere particles.  
-* **Mesoscopic Scale:** By taking the "kinetic limit" (where the number of particles N→∞ and their diameter ϵ→0), they rigorously derive the **Boltzmann kinetic equation**. This equation describes the statistical behavior of the particle system.  
+* **Mesoscopic Scale:** By taking the "kinetic limit" (where the number of particles $N \to \infty$ and their diameter $\epsilon \to 0$), they rigorously derive the **Boltzmann kinetic equation**. This equation describes the statistical behavior of the particle system.  
 * **Macroscopic Scale:** By then taking the "hydrodynamic limit" of the Boltzmann equation, they derive the fundamental equations of fluid mechanics, such as the **compressible Euler and incompressible Navier-Stokes-Fourier equations**.
 
 This achievement is monumental because it formally connects the behavior of individual particles to the collective, emergent phenomena of fluid dynamics, a problem that has remained unsolved for over a century.
