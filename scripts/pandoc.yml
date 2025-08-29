@@ -1,0 +1,16 @@
+standalone: true
+pdf-engine: xelatex
+output-file: output/Thesis on Infinite Scale Expansion (ISE).plain.pdf
+metadata:
+   fontsize: 10pt
+#   mainfont: "TeX Gyre Pagella"
+   mainfont: "Roboto"
+#   sansfont: "TeX Gyre Heros"
+#   monofont: "Inconsolata"
+#   mathfont: "Latin Modern Math"
+   papersize: a4
+   margin-left: 15mm
+   margin-right: 15mm
+   margin-top: 15mm
+   margin-bottom: 15mm
+   
