@@ -230,13 +230,13 @@ To calculate the temperature of radiation at the time of recombination (around $
 
 **Calculation**
 
-The temperature of radiation today (T_today) is determined from the temperature at the time of recombination (T_rec) divided by the scaling factor, given by 1+z:
+The temperature of radiation today ($T_{\text{today}}$) is determined from the temperature at the time of recombination ($T_{\text{rec}}$) divided by the scaling factor, given by:
 
-T_today = T_rec / (1+z)
+$$T_{\text{today}} = \frac{T_{\text{rec}}}{1+z}$$
 
-For radiation that falls below the measurability threshold today (\<10^-3 K), we set T_today \< 10^-3 K and solve for T_rec:
+For radiation that falls below the measurability threshold today ($<10^{-3}$ K), we set $T_{\text{today}} < 10^{-3}$ K and solve for $T_{\text{rec}}$:
 
-T_rec \< 10^-3 \* (1 \+ 1100\) T_rec \< 1.1 K
+$$T_{\text{rec}} < 10^{-3}\,(1+1100)\,\text{K} \approx 1.101\,\text{K}$$
 
 **Result**
 
@@ -251,41 +251,41 @@ The cosmic microwave background (CMB) will disappear from measurability when its
 * **Measurement Threshold by Instruments:**  
   * Modern instruments can measure temperatures down to the **milli-Kelvin** range or even lower.  
 * **Disappearance of the CMB:**  
-  * In about 10^12 to 10^13 years, the temperature of the CMB will fall below 10^-3 K. At that point, the CMB will be so redshifted into the radio spectrum that it will be overshadowed by sources such as galactic background radiation, detector noise, or quantum mechanical effects.
+  * In about $10^{12}$ to $10^{13}$ years, the temperature of the CMB will fall below $10^{-3}$ K. At that point, the CMB will be so redshifted into the radio spectrum that it will be overshadowed by sources such as galactic background radiation, detector noise, or quantum mechanical effects.
 
 The energy density of the cosmic microwave background (CMB) can be calculated using the **radiation energy density formula**:
 
-u = a · T^4
+$u = a\,T^4$
 
 **Constants and Values:**
 
-* a = 7.5657 × 10^-16 J m^-3 K^-4 (radiation constant),  
-* T = 2.725 K (current CMB temperature).
+- $a = 7.5657 \times 10^{-16} \ \mathrm{J\,m^{-3}\,K^{-4}}$ (radiation constant),
+- $T = 2.725 \ \mathrm{K}$ (current CMB temperature).
 
 **Calculation:**
 
-u = 7.5657 × 10^-16 × (2.725)^4
+$u = 7.5657 \times 10^{-16} \,(2.725)^4$
 
 First, raise the temperature to the fourth power:
 
-T^4 = 2.725^4 = 55.28
+$T^4 = 2.725^4 \approx 55.28$
 
 Then, calculate the energy density:
 
-u = 7.5657 × 10^-16 × 55.28 = 4.18 × 10^-14 J m^-3
+$u = 7.5657 \times 10^{-16} \times 55.28 \approx 4.18 \times 10^{-14} \ \mathrm{J\,m^{-3}}$
 
 **Result:**
 
-The energy density of the CMB is approximately **4.18 × 10^-14 J m^-3**.
+The energy density of the CMB is approximately $4.18 \times 10^{-14} \ \mathrm{J\,m^{-3}}$.
 
-The energy density of dark energy (ρΛ) is described by the cosmological parameter Λ. According to current knowledge, it is nearly constant and amounts to:
+The energy density of dark energy ($\rho_\Lambda$) is described by the cosmological parameter $\Lambda$. According to current knowledge, it is nearly constant and amounts to:
 
-ρΛ ≈ 6.91 × 10^-10 J m^-3
+$\rho_\Lambda \approx 6.91 \times 10^{-10} \ \mathrm{J\,m^{-3}}$
 
 **Comparison:**
 
-* **Dark Energy:** 6.91 × 10^-10 J m^-3  
-* **CMB:** 4.18 × 10^-14 J m^-3
+- **Dark Energy:** $\rho_\Lambda \approx 6.91 \times 10^{-10} \ \mathrm{J\,m^{-3}}$
+- **CMB:** $u \approx 4.18 \times 10^{-14} \ \mathrm{J\,m^{-3}}$
 
 **Ratio:**
 
@@ -293,67 +293,67 @@ The energy density of dark energy is approximately **10,000 times higher** than 
 
 To estimate the energy density of radiation below the temperature of the cosmic microwave background (CMB), it is necessary to consider the distribution of radiation across all frequencies. The energy density of radiation follows the Planck distribution.
 
-The energy density for photons below a specific temperature T_CMB can be calculated by integrating the Planck distribution up to a maximum frequency corresponding to T_CMB:
+The energy density for photons below a specific temperature $T_{CMB}$ can be calculated by integrating the Planck distribution up to a maximum frequency corresponding to $T_{CMB}$:
 
-u = (8πh)/(c^3) ∫_0^ν_max (ν^3)/(e^(hν/(kT)) \- 1\) dν
+
+$$u = \frac{8 \pi h}{c^3} \int_{0}^{\nu_{\max}} \frac{\nu^{3}}{e^{h \nu/(k T_{\mathrm{CMB}})} - 1} \, d\nu$$
 
 **Approximation:**
 
 Radiation below the temperature of the CMB (T \< 2.725 K) contributes negligibly to the total radiation density due to cosmological redshift. Its contribution decreases exponentially with the temperature range.
 
-* The main component of the universe's radiation density comes from the CMB (approximately 4.18 × 10^-14 J/m^3).  
-* The contribution of radiation below the CMB temperature is less than **10^-18 J/m^3**, far below the detectability threshold.
+* The main component of the universe's radiation density comes from the CMB (approximately $4.18 \times 10^{-14} \,\mathrm{J/m^{-3}}$).  
+* The contribution of radiation below the CMB temperature is less than $10^{-18} \,\mathrm{J/m^{-3}}$, far below the detectability threshold.
 
 The energy density of radiation below the cosmic microwave background (CMB) at the time of recombination can be estimated by considering temperature ratios and the scaling of energy density with the universe's expansion.
 
 **Basics:**
 
-* **Recombination Temperature:** Approximately T_rek ≈ 3000 K.  
-* **CMB Temperature Today:** T_today ≈ 2.725 K.  
-* **Energy Density Scaling:** The energy density of radiation scales as u ∝ T⁴.  
+* **Recombination Temperature:** Approximately $T_{rek}$ ≈ 3000 K.  
+* **CMB Temperature Today:** $T_{today}$ ≈ 2.725 K.  
+* **Energy Density Scaling:** The energy density of radiation scales as $u \propto T^4$.  
 * **Radiation Below the CMB:** Its energy density is a fraction of the total CMB density and can be estimated through integration of the Planck distribution.
 
 At the time of recombination, the energy density of the CMB was:
 
-u_rek = u_today × (T_rek / T_today)⁴
+$$u_{\mathrm{rek}} = u_{\text{today}} \left(\frac{T_{\mathrm{rek}}}{T_{\text{today}}}\right)^4$$
 
 Substituting values:
 
-u_rek = 4.18 × 10⁻¹⁴ J/m³ × (3000 / 2.725)⁴
+$$u_{\mathrm{rek}} = 4.18 \times 10^{-14} \,\mathrm{J/m^{-3}} \left(\frac{3000}{2.725}\right)^4$$
 
-u_rek ≈ 4.18 × 10⁻¹⁴ × 1.21 × 10⁹ ≈ 5.06 × 10⁻⁵ J/m³
+$$u_{\mathrm{rek}} \approx 4.18 \times 10^{-14} \times 1.21 \times 10^{9} \approx 5.06 \times 10^{-5} \,\mathrm{J/m^{-3}}$$
 
 **Contribution of Radiation Below the CMB:**
 
-Radiation with T \< 3000 K at the time of recombination corresponds to a very small portion of the Planck distribution, as most radiation was higher in energy. The contribution can be approximated as the relative area under T_rek, typically \<1% of the total radiation density:
+Radiation with $T < 3000\,\mathrm{K}$ at the time of recombination corresponds to a very small portion of the Planck distribution, as most radiation was higher in energy. The contribution can be approximated as the relative area under $T_{rek}$, typically $< 1\%$ of the total radiation density:
 
-u_below ≈ 0.01 × u_rek ≈ 5.06 × 10⁻⁷ J/m³
+$$u_{\mathrm{below}} \approx 0.01 \times u_{\mathrm{rek}} \approx 5.06 \times 10^{-7} \,\mathrm{J/m^{-3}}$$
 
 **Result:**
 
-The energy density of radiation below the recombination temperature (T \< 3000 K) was approximately **5.06 × 10⁻⁷ J/m³**, which represents a tiny fraction of the total radiation density.
+The energy density of radiation below the recombination temperature (T \< 3000 K) was approximately $5.06 \times 10^{-7} \,\mathrm{J/m^3}$, which represents a tiny fraction of the total radiation density.
 
-At the time of recombination, the temperature of the cosmic microwave background (CMB) was about T_rek ≈ 3000 K. Radiation with an effective temperature below 2.725 K would have carried extremely low energy and contributed negligibly to the total energy density.
+At the time of recombination, the temperature of the cosmic microwave background (CMB) was about $T_{rek}$ ≈ 3000 K. Radiation with an effective temperature below 2.725 K would have carried extremely low energy and contributed negligibly to the total energy density.
 
 **Approach:**
 
 * **Planck Distribution:**  
-  * The energy density of radiation below a temperature T_cutoff (2.725 K) can be integrated using the Planck distribution:  
-* u_low = (8πh)/(c³) ∫₀^ν_max (ν³)/(e^(hν/(kT_rek)) \- 1\) dν,  
-  where ν_max corresponds to the frequency for T_cutoff = 2.725 K.  
+  * The energy density of radiation below a temperature $T_{cutoff}$ (2.725 K) can be integrated using the Planck distribution:  $$u_{\text{low}} = \frac{8\pi h}{c^{3}} \int_{0}^{\nu_{\max}} \frac{\nu^{3}}{\exp\left(\frac{h\nu}{k\,T_{\text{rek}}}\right) - 1} \, d\nu$$
+  where $ν_{max}$ corresponds to the frequency for $T_{cutoff}$  = 2.725 K.  
 * **Effective Fraction:**  
-  * The fraction of the energy density at T_rek = 3000 K that lies below today’s CMB temperature (T \< 2.725 K) is extremely small, as the Planck distribution decreases exponentially.  
+  * The fraction of the energy density at $T_{rek}$ = 3000 K that lies below today’s CMB temperature (T \< 2.725 K) is extremely small, as the Planck distribution decreases exponentially.  
 * **Approximation by Scaling:**  
-  * The energy density scales proportionally with T⁴. Therefore, the energy density below 2.725 K at the time of recombination is reduced by the factor (2.725 / 3000)⁴:  
-* u_low = u_rek × (2.725 / 3000)⁴  
-* **Calculation:**  
-  u_rek = 5.06 × 10⁻⁵ J/m³  
-  (2.725 / 3000)⁴ ≈ 2.43 × 10⁻¹⁰  
-  u_low = 5.06 × 10⁻⁵ × 2.43 × 10⁻¹⁰ ≈ 1.23 × 10⁻¹⁴ J/m³
+  * The energy density scales proportionally with $T^4$. Therefore, the energy density below 2.725 K at the time of recombination is reduced by the factor $\left(\frac{2.725}{3000}\right)^{4}$:  $$u_{\text{low}} = u_{\text{rek}} \left(\frac{2.725}{3000}\right)^{4}$$
+* **Calculation:** 
+  
+  $u_{\text{rek}} = 5.06 \times 10^{-5} \,\mathrm{J/m^{3}}$  
+  $\left(\frac{2.725}{3000}\right)^{4} \approx 2.43 \times 10^{-10}$  
+  $u_{\text{low}} = 5.06 \times 10^{-5} \times 2.43 \times 10^{-10} \approx 1.23 \times 10^{-14} \,\mathrm{J/m^{3}}$
 
 **Result:**
 
-The energy density of radiation that had a temperature below 2.725 K at the time of recombination was approximately **1.23 × 10⁻¹⁴ J/m³**. This corresponds to a tiny fraction (\<10⁻¹⁰) of the total energy density at the time of recombination.
+The energy density of radiation that had a temperature below 2.725 K at the time of recombination was approximately **1.23 × 10⁻¹⁴ J/m³**. This corresponds to a tiny fraction ($<10^{-10}$) of the total energy density at the time of recombination.
 
 If the energy density of radiation with T \< 2.725 K at the time of recombination were fully converted into dark energy, its current significance could be estimated by comparing this energy density with the cosmological expansion and the current energy density of dark energy.
 
@@ -361,9 +361,9 @@ If we assume that the entire energy of radiation with T \< 2.725 K at the time o
 
 **Energy Density at Recombination:**
 
-The energy density of radiation with T \< 2.725 K at the time of recombination was already calculated:
+The energy density of radiation with $T < 2.725\,\mathrm{K}$ at the time of recombination was already calculated:
 
-u_low, rek ≈ 1.23 × 10⁻¹⁴ J/m³.
+$$u_{\text{low, rek}} \approx 1.23 \times 10^{-14} \, \mathrm{J\,m^{-3}}$$
 
 **Additional Radiation (Cooler than 1 K):**
 
@@ -371,21 +371,23 @@ For radiation with T \< 1 K, emitted after recombination (e.g., from thermal pro
 
 * The energy density of this radiation is extremely low, as it minimally adds to the cosmic radiation density. Approximately:
 
-u_low, add ≈ 1.0 × 10⁻¹⁴ J/m³.
+$$u_{\text{low, add}} \approx 1.0 \times 10^{-14} \, \mathrm{J\,m^{-3}}$$
 
 **Total Energy Density (Recombined and Later Radiation):**
 
 The total energy density of radiation hypothetically converted into dark energy would be:
 
-u_total, rek = u_low, rek \+ u_low, add. u_total, rek ≈ 1.23 × 10⁻¹⁴ \+ 1.0 × 10⁻¹⁴ = 2.23 × 10⁻¹⁴ J/m³.
+$$u_{\text{total, rek}} = u_{\text{low, rek}} + u_{\text{low, add}}$$
+
+$$u_{\text{total, rek}} \approx (1.23 \times 10^{-14}) + (1.0 \times 10^{-14}) = 2.23 \times 10^{-14} \, \mathrm{J/m^{-3}}$$.
 
 **Current Energy Density of Dark Energy:**
 
-Since dark energy is not diluted by cosmic expansion, its energy density remains constant. Assuming today’s observed dark energy (u_Λ) originates from this radiation energy, we get:
+Since dark energy is not diluted by cosmic expansion, its energy density remains constant. Assuming today’s observed dark energy ($u_/Delta$) originates from this radiation energy, we get:
 
-u_Λ, today = 2.23 × 10⁻¹⁴ J/m³.
+$$u_{\Lambda,\text{today}} = 2.23 \times 10^{-14} \, \mathrm{J/m^{-3}}$$
 
-This is about **10⁻⁴** of the currently measured energy density of dark energy (u_Λ ≈ 6.91 × 10⁻¹⁰ J/m³).
+This is about **10⁻⁴** of the currently measured energy density of dark energy ($$u_{\Lambda} \approx 6.91 \times 10^{-10} \, \mathrm{J/m^{-3}}$$).
 
 Even if all radiation energy from T \< 2.725 K and additional cooler radiation were fully converted into dark energy, this energy density falls short by many orders of magnitude, implying that dark energy most likely has a different origin.
 
@@ -413,13 +415,13 @@ The accelerated expansion of the universe and the dynamic development of the thr
 **Key Points:**
 
 * **Accelerated Expansion and Energy Conversion:**  
-  * The universe's expansion accelerates due to dark energy. The energy density of dark energy remains constant, while the radiation energy density decreases with expansion (u_Radiation ∝ a⁻⁴).  
-  * The threshold for energy conversion (e.g., temperature, frequency) shifts with expansion: longer-wavelength photons (T_eff ∝ 1/a) increasingly fall below the threshold for conversion into dark energy.  
+  * The universe's expansion accelerates due to dark energy. The energy density of dark energy remains constant, while the radiation energy density decreases with expansion ($u_{\mathrm{Radiation}}\propto a^{-4}$).  
+  * The threshold for energy conversion (e.g., temperature, frequency) shifts with expansion: longer-wavelength photons ($T_{\mathrm{eff}}\propto a^{-1}$) increasingly fall below the threshold for conversion into dark energy.  
 * **Threshold Dependent on Expansion Rate:**  
-  * The threshold is not fixed but rises proportionally to the Hubble rate H(t) or the temporal evolution of expansion. A proportional relationship could be expressed as: E_Threshold ∝ H(t), where H(t) is defined by the Friedmann equations.  
+  * The threshold is not fixed but rises proportionally to the Hubble rate $H(t)$ or the temporal evolution of expansion. A proportional relationship could be expressed as: $E_{\mathrm{Threshold}}\propto H(t)$, where $H(t)$ is defined by the Friedmann equations ($H(t)=\dot{a}/a$, $H(t)^2=\frac{8\pi G}{3}\rho+\frac{\Lambda}{3}-\frac{k}{a^2}$).  
 * **Dynamic Energy Density:**  
   * In earlier times, conversion was inefficient because the threshold was high and radiation density dominated.  
-  * In the later universe (after the equivalence era, z \~ 3400), the threshold became more efficient, and more energy fell into the range contributing to dark energy.
+  * In the later universe (after the equivalence era, $z\sim 3400$), the threshold became more efficient, and more energy fell into the range contributing to dark energy.
 
 **Model: Conversion and Growth Factor**
 
@@ -449,7 +451,7 @@ There are processes that can produce photons with lower energy than the CMB temp
 
 These photons are rare or difficult to detect as they are often overshadowed by the more intense CMB radiation.
 
-The energy density of photons below 1 Kelvin is approximately **7.57 × 10⁻¹⁶ J/m³**, while the energy density of CMB photons is **4.02 × 10⁻¹⁴ J/m³**. Thus, the energy from low-energy photons is negligible compared to CMB radiation.
+The energy density of photons below 1 Kelvin is approximately $7.57 \times 10^{-16}\ \mathrm{J\,m^{-3}}$, while the energy density of CMB photons is $4.02 \times 10^{-14}\ \mathrm{J\,m^{-3}}$. Thus, the energy from low-energy photons is negligible compared to CMB radiation.
 
 While the temperature of CMB radiation continues to decrease due to the expansion of the universe, the emission of low-energy photons from the above processes (such as synchrotron radiation or molecular transitions) remains relatively constant, as it depends on local matter density rather than cosmic expansion.
 
