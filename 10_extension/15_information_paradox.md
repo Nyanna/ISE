@@ -64,10 +64,10 @@ I want to emphasize that an object is necessarily distributed infinitely well be
 
 **Information Loss Beyond the Horizon**
 
-* **For all microscopic bindings** (chemical, atomic, nuclear, QCD) the disruption radius lies **deep inside** the horizon – practically **only very close to r=0**.  
-* **Macroscopic cohesion** (e.g. a human body, L \~ 2 m): with tidal acceleration Δa \~ 10^3 m/s² →  
-  * 10 M☉: r ≈ 1.7 × 10^6 m ≈ 59 r_s (disruption **outside** the horizon).  
-  * 10^6 M☉: r ≈ 8.1 × 10^7 m ≈ 0.027 r_s (disruption **well inside**).
+* **For all microscopic bindings** (chemical, atomic, nuclear, QCD) the disruption radius lies **deep inside** the horizon – practically **only very close to** $r = 0$.  
+* **Macroscopic cohesion** (e.g. a human body, $L \sim 2\,\mathrm{m}$): with tidal acceleration $\Delta a \sim 10^3\,\mathrm{m/s^2}$ →  
+  * $10\,M_\odot$: $r \approx 1.7\times 10^6\,\mathrm{m} \approx 59\,r_s$ (disruption **outside** the horizon).  
+  * $10^6\,M_\odot$: $r \approx 8.1\times 10^7\,\mathrm{m} \approx 0.027\,r_s$ (disruption **well inside**).
 
 “All known binding forces” are only overcome at radii far **below** the horizon. Outside or near the horizon it is primarily **macroscopic** structures that are disrupted; atomic/nuclear bindings survive deep into the interior.
 
@@ -95,7 +95,7 @@ Therefore, the paradox is not primarily a problem of the event horizon, but only
 This divergence-destroyed information cannot be recovered through a white hole or a wormhole.
 
 * In the Schwarzschild or Kerr metric, **tidal forces** are invariant, not coordinate-dependent.  
-* They grow inward as \~ r^-3.  
+* They grow inward as $\sim r^{-3}$.  
 * In finite proper time, all structures are dismantled and informational differences are leveled.  
 * **A white hole or wormhole** would require that coherent states be transferred intact. Divergence prevents this: the degrees of freedom are expanded into an infinite, uncorrelated state space → no reverse mapping is possible.
 
@@ -113,13 +113,13 @@ This divergence-destroyed information cannot be recovered through a white hole o
 
 **Geodesic Deviation Equations**
 
-The separation of two neighboring worldlines ξ^μ obeys:
+The separation of two neighboring worldlines $\xi_\mu$ obeys:
 
-D²ξ^μ / dτ² = \- R^μ_{ νρσ } u^ν ξ^ρ u^σ
+$\displaystyle \frac{D^2 \xi^\mu}{d\tau^2} = - {R^\mu}_{\nu\rho\sigma}\, u^\nu \,\xi^\rho\, u^\sigma$
 
-* u^ν = four-velocity of the freely falling particle.  
-* R^μ_{ νρσ } = Riemann tensor (curvature).  
-* ξ^μ = separation vector between worldlines (distance between two points of the same object).
+* $u^\nu$ = four-velocity of the freely falling particle.  
+* ${R^\mu}_{\nu\rho\sigma}$ = Riemann tensor (curvature).  
+* $\xi^\mu$ = separation vector between worldlines (distance between two points of the same object).
 
 This equation describes **tidal forces**: how distances shrink or grow.
 
@@ -127,20 +127,20 @@ This equation describes **tidal forces**: how distances shrink or grow.
 
 For radial geodesics inside a non-rotating black hole:
 
-* Radial separation ξ_r:  
-   d²ξ_r / dτ² ≈ \+ 2GM / r³ · ξ_r  
-* Tangential separation ξ_⊥:  
-   d²ξ_⊥ / dτ² ≈ \- GM / r³ · ξ_⊥
+* Radial separation $\xi_r$:  
+   $\displaystyle \frac{d^2 \xi_r}{d\tau^2} \approx + \frac{2GM}{r^3}\,\xi_r$
+* Tangential separation $\xi_\perp$:  
+  $\displaystyle \frac{d^2 \xi_\perp}{d\tau^2} \approx - \frac{GM}{r^3}\,\xi_\perp$
 
 **Solutions**
 
-* Radial: ξ_r(τ) ∼ exp(+√(2GM / r³) τ) → separation grows without bound → object stretched infinitely.  
-* Tangential: ξ_⊥(τ) ∼ exp(-√(GM / r³) τ) → separation shrinks exponentially → object compressed to zero width.
+* Radial: $\xi_r(\tau) \sim \exp\!\big(+\sqrt{2GM/r^3}\;\tau\big)$ → separation grows without bound → object stretched infinitely.  
+* Tangential: $\xi_\perp(\tau) \sim \exp\!\big(-\sqrt{GM/r^3}\;\tau\big)$ → separation shrinks exponentially → object compressed to zero width.
 
 **Physical Consequence**
 
-* This occurs **in finite proper time** until r=0.  
-* Even for r ≪ r_s (but \>0), curvature terms reach extreme values.  
+* This occurs **in finite proper time** until $r=0$.  
+* Even for $r \ll r_s$ (but $>0$), curvature terms reach extreme values.  
 * Every structure is thus **infinitely diluted and simultaneously compressed**.  
 * No coherent state (atom, molecule, information carrier) survives this divergence.
 
