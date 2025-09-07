@@ -75,11 +75,11 @@ This chapter surveys how the Infinite Scale Expansion (ISE) framework reframes f
   - Restricts holography to bounded, context-specific mathematics rather than universal ontology.
 
 - 10.14 The quark field as a non‑local resonator
-  - Observes that localization plus Δx Δp ≥ ħ/2 entails long-wavelength components in quark states under confinement.
+  - Observes that localization plus $\Delta x\, \Delta p \ge \frac{\hbar}{2}$ entails long-wavelength components in quark states under confinement.
   - Interprets those components as non-local resonance couplings; distinguishes local gluon-mediated interactions from putative global field resonance, with “virtuality” seen as a scale-resolution artifact.
 
 - 10.15 Geodesic divergence and black-hole information
-  - Uses geodesic deviation D²ξμ/dτ² = − Rμνρσ uν ξρ uσ and tidal scaling ~ r⁻³ to locate information destruction within interior divergent curvature in finite proper time, rather than at the horizon.
+  - Uses geodesic deviation to locate information destruction within interior divergent curvature in finite proper time, rather than at the horizon.
   - Notes implications for white-hole and wormhole narratives. Exploratory rather than definitive.
   
 Together these topics outline how ISE applies scale-relational, emergent constructs to questions spanning baryogenesis, relativistic timing, quantization, vacuum structure, field ontology, and strong-gravity regimes, emphasizing the roles of measurement, resonance, and scale isolation across the physical hierarchy.
