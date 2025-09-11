@@ -29,7 +29,7 @@ Causality is not governed by a linear flow of time but is instead the outcome of
 
 **Linear Expansion and Variable Time:**
 
-* A significant idea presented is the notion that while the universe expands at a constant rate (linearly), time, or the speed of causality, could fluctuate. This creates a universe where time flows differently in various regions, even as the overall expansion remains constant​​.
+* A significant idea presented is the notion that while the universe expands at a constant rate (linearly), time, or the speed of causality, could fluctuate. This creates a universe where time flows differently in various regions, even as the overall expansion remains constant​​. That is a constant differentiation relative perspective.
 
 **Emergent Structures and Observer-Independent Reality:**
 

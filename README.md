@@ -18,7 +18,6 @@ The leap:
 
 It’s the logical extension of Einstein’s revolution. If space and time are emergent, why should particles and forces be fundamental? This historical parallel makes ISE more plausible. Big breakthroughs often look overcomplicated until the simple underlying idea clicks. Take the ISE serious.
 
-
 # Infinite Scale Expansion (ISE)
 Exploring Scale-Free Quantum Fields
 

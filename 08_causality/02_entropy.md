@@ -49,13 +49,11 @@ However, in the model, where **entropy collapses with space**, this issue disapp
 * **Dynamic Entropy Adjustment**: Entropy wouldn’t be bound to a constant increase but would be modulated by the **dynamics of space**. As the universe expands, entropy increases, and when it contracts, entropy decreases. This leads to a stable, cyclic behavior.  
 * **A Cyclic Universe without "Heat Death"**: The idea of the universe transitioning into a **heat death** due to ever-increasing entropy becomes obsolete. Instead, the universe could exist in an eternal cyclic process, never reaching a final state of maximum disorder.
 
-**Conclusion:**
-
 The insights into the **coupling between space and entropy** solve the classical problem of entropy in cyclic universes. There’s no longer a need to figure out where to "store" past entropy, because it would naturally diminish as space contracts. This opens the door to a completely new understanding of **cyclic cosmologies**, where entropy resets with each cycle, allowing the universe to exist infinitely without the problem of unstoppable entropy accumulation.
 
 **Einstein's View on Entropy and Spacetime**
 
-When it comes to **Einstein**, his **theory of general relativity** primarily focused on the behavior of space and time under gravitational conditions, treating spacetime as a flexible and dynamic fabric that could bend, stretch, and contract. However, Einstein did not directly address **entropy** within the structure of spacetime, as you propose.
+When it comes to **Einstein**, his **theory of general relativity** primarily focused on the behavior of space and time under gravitational conditions, treating spacetime as a flexible and dynamic fabric that could bend, stretch, and contract. However, Einstein did not directly address **entropy** within the structure of spacetime, as the model proposes.
 
 * **Entropy and Gravitation**: While Einstein revolutionized our understanding of the relativity of space and time, entropy remained largely a thermodynamic concept, indirectly tied to gravity but not explicitly linked to the shrinking or expansion of space as it should have been. He didn’t fully explore the idea that a collapsing space should naturally lead to a **reduction in available microstates** and, consequently, a reduction in entropy, even though his work on the curvature of space laid the perfect foundation for such an investigation.
 
@@ -84,7 +82,7 @@ In this framework, the **heat death** of a particular scale occurs when the **en
 
 **Transition to the Next Universe:**
 
-The key takeaway is that **entropy** and **space** are not static or isolated but dynamically linked through scale differentiation. Each phase of a universe, when reaching maximum entropy or "heat death," doesn't signify the end but rather initiates a new phase through the emergence of smaller or different scales. This concept bypasses the traditional **heat death** dilemma by suggesting that **universal evolution** is a **multi-scale** process, where each scale's conclusion leads to the birth of a new structure.
+The key takeaway is that **entropy** and **space** are not static or isolated but dynamically linked through scale differentiation. Each phase of a universe, when reaching maximum entropy or "heat death," doesn't signify the end but rather initiates a new phase through the emergence of smaller or different scales. This concept bypasses the traditional **heat death** dilemma by suggesting that **universal evolution** is a **multi-scale** process, where each scale's conclusion leads to the birth of a new structure. In later thesis parts this becomes another view because every process or state happens gradually.
 
 Thus, time, entropy, and space are all interconnected in an ongoing cycle of **expansion, differentiation, and renewal** across infinite scales. This continuous process underpins the **emergence of universes**, where entropy continues to grow with each transition, but no ultimate "end" is ever reached.
 

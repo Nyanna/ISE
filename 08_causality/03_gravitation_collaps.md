@@ -3,7 +3,7 @@
 
 ## **8.3. Gravitational Collapse in Thermodynamics: Not Necessarily an Entropic Increase**
 
-The interpretation that **gravitational collapse** inevitably leads to a **global increase in entropy** is a widely held assumption in thermodynamics, particularly in discussions of astrophysical phenomena. However, this perspective, often treated as an aesthetic simplification, overlooks key factors regarding the **nature of the radiation** and **gravitational energy** emitted during collapse events. This chapter will challenge the automatic association of gravitational collapse with an entropic increase, emphasizing the **higher order** and **reduced degrees of freedom** in the system after collapse.
+The interpretation that **gravitational collapse** inevitably leads to a **global increase in entropy** is a widely held assumption in thermodynamics, particularly in discussions of astrophysical phenomena. However, this perspective, often treated as an aesthetic simplification, overlooks key factors regarding the **nature of the radiation** and **gravitational energy** emitted during collapse events. This chapter will challenge the automatic association of gravitational collapse with an entropic increase, emphasizing the **higher order** and **reduced degrees of freedom** in the system after collapse and is therefore a follow-up to the previous part..
 
 **Radiation and Gravitational Waves: Higher Order, Fewer Degrees of Freedom**
 

@@ -14,7 +14,7 @@ The **Dice Roll** example is a thought experiment from the theory that illustrat
   * The dice roll metaphor suggests that different interpretations or realities do not exist as a continuum. Thus, multiple interpretations or states don’t exist simultaneously in different universes but are rather exclusive to the observer’s perspective​.  
 * **Causality and the Observer**:  
   * The observer plays a crucial role in collapsing potential outcomes into definite states. The moment the dice is stopped is akin to **the selection of a specific universe** or outcome by the observer, but this happens in a framework where alternative possibilities aren't accessible or linked through time or space​.  
-  * Causality, in this sense, emerges from this interaction. The action (the dice roll) is linked to an outcome due to the observer's presence and selection, eliminating the randomness of potential other universes or outcomes.
+  * Causality, in this sense, emerges from this interaction. The action (the dice roll) is linked to an outcome due to the observer's presence and selection, eliminating the randomness of potential other universes or outcomes. In later parts of the thesis this is referred to as constructive scale interference or scale coupling.
 
 The emergence of **randomness and causality** stems from the continuous differentiation of energy across scales, which inherently drives the universe's evolution. This process brings randomness into play through fluctuations in potential energy, and causality emerges as a result of the relative interactions between these differentiated states.
 
