@@ -5,7 +5,7 @@
 
 The apparent irreversibility of macroscopic processes — such as diffusion or combustion — has long posed a conceptual challenge to the unitary evolution mandated by quantum mechanics. Unitarity implies reversible, information-conserving dynamics for closed systems, yet our everyday experience is shaped by unidirectional processes and entropy increase. Traditional physics resolves this tension via three strategies: limiting unitarity to global closed systems, interpreting entropy as a statistical property, and invoking decoherence as a mechanism for classical emergence.
 
-The the model challenges this reconciliation. It argues that irreversibility is not epistemic or practical but ontological. Macroscopic irreversibility reflects the intrinsic structure of physical interactions, even down to the quantum level. Reversal of some processes would require more energy than was originally released — an asymmetry that persists regardless of observer limitations.
+The model challenges this reconciliation. It argues that irreversibility is not epistemic or practical but ontological. Macroscopic irreversibility reflects the intrinsic structure of physical interactions, even down to the quantum level. Reversal of some processes would require more energy than was originally released — an asymmetry that persists regardless of observer limitations.
 
 Moreover, ISE introduces a model where causality emerges from resonant linkages between adjacent nodes in a structure. These nodes are never fully resolved due to the fundamental nature of quantum uncertainty. Therefore, causal chains are not strict sequences of fully defined states but resonant patterns sustained across incomplete, fluctuating configurations.
 
@@ -58,8 +58,8 @@ Within the framework, irreversibility is not an artifact of limited observation 
 Even within a classical or quantum-theoretical framework that nominally supports reversibility, several intrinsic principles prevent actual reversibility from being physically meaningful or achievable. These limitations are not merely technical — they are structurally and conceptually foundational:
 
 * **Uncertainty Principle: No Exact Reconstruction**  
-  The Heisenberg uncertainty relation  
-  Δx · Δp ≥ ℏ⁄2  
+The Heisenberg uncertainty relation 
+$$\Delta x · \Delta p \ge \frac{ℏ}{2}$$
   indicates that it is fundamentally impossible to fully specify a system's state. Any attempt to reverse a process would lack the exact initial conditions necessary to restore the original configuration. Therefore, even idealized reversible dynamics remain approximate and diverge from true restoration.  
 * **Measurement Problem: Collapse is Not Unitary**  
   In standard quantum mechanics, measurement induces wavefunction collapse — a non-unitary and irreversible process. Once a system is observed, its superpositional information is lost. This is not a pragmatic limitation but an axiomatic break in unitarity that forbids complete recovery of the pre-measurement state.  
