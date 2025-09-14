@@ -5,10 +5,6 @@
 
 # 5\. Unified Explanation of Cosmic Structures
 
-The model also eliminates the necessity for singularities, like those proposed in the Big Bang and black hole theories. According to ISE, energy continuously differentiates without collapse into a singular point. Black holes are reinterpreted as regions where energy differentiation has ceased, but they do not require singularity-driven physics. Furthermore, the universe's evolution is seen as a smooth, infinite process of energy flow and transformation, with no specific starting point like a Big Bang.
-
-### **Unified Explanation of Cosmic Structures: Insights and Related Questions**
-
 The model rejects the necessity of singularities, such as those proposed in the Big Bang or black hole theories. Instead, it proposes that energy differentiates continuously without collapsing into singular points. Black holes are reinterpreted not as regions bound by a singularity but as areas where energy differentiation ceases, eliminating the need for singularity-driven physics. This challenges classical understandings and suggests the universe's evolution is a smooth, infinite process of energy flow, unbound by a specific starting point like the Big Bang.
 
 **Key Points and Supporting Information:**
