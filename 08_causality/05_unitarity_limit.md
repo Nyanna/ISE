@@ -59,7 +59,7 @@ Even within a classical or quantum-theoretical framework that nominally supports
 
 * **Uncertainty Principle: No Exact Reconstruction**  
 The Heisenberg uncertainty relation 
-$$\Delta x · \Delta p \ge \frac{ℏ}{2}$$
+$$\Delta x · \Delta p \ge \frac{\hbar}{2}$$
   indicates that it is fundamentally impossible to fully specify a system's state. Any attempt to reverse a process would lack the exact initial conditions necessary to restore the original configuration. Therefore, even idealized reversible dynamics remain approximate and diverge from true restoration.  
 * **Measurement Problem: Collapse is Not Unitary**  
   In standard quantum mechanics, measurement induces wavefunction collapse — a non-unitary and irreversible process. Once a system is observed, its superpositional information is lost. This is not a pragmatic limitation but an axiomatic break in unitarity that forbids complete recovery of the pre-measurement state.  
