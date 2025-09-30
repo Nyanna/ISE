@@ -35,7 +35,7 @@ This could lead to a model where we reinterpret the **redshift** not purely as a
 
 * **Distant light** from galaxies would be stretched (redshifted) not because space itself is stretching but because **time was flowing more rapidly** when that light was emitted. As the light travels through regions of slower time (like near our galaxy), the wavelength appears elongated.
 
-**Cosmic Acceleration: A New Interpretation**
+**Cosmic Acceleration: A different Interpretation**
 
 In this thought experiment, cosmic acceleration (which we classically attribute to **dark energy**) is not due to a change in the speed of expansion but rather to **differences in time flow**. As time flows more slowly in some regions and faster in others:
 
@@ -45,7 +45,7 @@ This means that the idea of dark energy, which is introduced to explain the acce
 
 **Implications for the Nature of Time**
 
-This thought experiment could lead to a completely different understanding of time itself:
+This thought experiment leads to a different understanding of time itself:
 
 * **Time becomes fluid** and malleable, a dimension that stretches or compresses depending on the energetic state of the universe.  
 * Time no longer **"marches forward"** at a steady pace but **flows in different rhythms**, creating a universe where local pockets of time flow at different rates depending on local conditions.
@@ -59,7 +59,7 @@ This thought experiment touches on profound philosophical questions:
 * **Is time an absolute phenomenon**, or is it purely relational, tied to energy flows in the universe?  
 * **Do we perceive the universe’s "beginning"** (e.g., the Big Bang) as a time-related event, or could this event merely be a point where **time behaved differently**, giving rise to the illusion of a beginning?
 
-In this framework, the **Big Bang** could be reinterpreted not as the **birth of space and time**, but as a phase where **time began flowing in a way that made space’s expansion observable**. Before this epoch, time might have flowed so slowly that space was essentially static.
+In the ISE framework, the **Big Bang** could be reinterpreted not as the **birth of space and time**, but as a phase where **time began flowing in a way that made space’s expansion observable**. Before this epoch, time might have flowed so slowly that space was essentially static.
 
 **A Universe Driven by Variable Time**
 
