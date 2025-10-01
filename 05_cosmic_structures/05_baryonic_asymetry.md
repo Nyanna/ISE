@@ -1,7 +1,7 @@
 
 ---
 
-## 5.8. Baryonic Asymmetry
+## 5.5. Baryonic Asymmetry
 
 **Rethinking the Baryonic Asymmetry in the Lambda-CDM Framework**
 
@@ -276,7 +276,7 @@ While the ISE picture is intentionally economical, it is not immune to empirical
 
 - Thermal locking scale: The temperature (or time) at which the asymmetry becomes effectively irreversible should correlate with:
   - The absence of spectral distortions in the CMB beyond current bounds.
-  - Light-element yields in BBN (notably deuterium and helium-3) consistent with ηB ≃ 6 × 10⁻¹⁰.
+  - Light-element yields in BBN (notably deuterium and helium-3) consistent with $\eta_B \simeq 6 \times 10^{-10}$.
 - Spatial uniformity of ηB: Any residual spatial variation must be extremely small to satisfy tight CMB and BBN constraints on baryon isocurvature. The ISE framework predicts high uniformity once thresholds are crossed and local asymmetries are amplified and homogenized by subsequent plasma interactions.
 - Neutrino sector implications: If thresholds couple differently to lepton-number-carrying channels, a small, correlated lepton asymmetry (and thus an imprint on N_eff or neutrino spectral distortions) could exist, subject to current bounds.
 - Cosmic-ray antimatter: The absence of heavy antinuclei in cosmic rays at detectable levels, together with the nonappearance of matter–antimatter annihilation features in clusters or voids, supports early, homogeneous asymmetry locking rather than late domain formation.

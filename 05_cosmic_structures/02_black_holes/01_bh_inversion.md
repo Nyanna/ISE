@@ -1,7 +1,5 @@
 
----
-
-## **5.2. Black Hole Inversion**
+### **5.2.1. Black Hole Inversion**
 
 These ideas reflect the non-traditional and deeply interconnected interpretations of black holes within the framework, offering a vision where black holes, white holes, and the universe itself are part of an ongoing, cyclical cosmic process.
 

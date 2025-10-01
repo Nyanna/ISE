@@ -1,7 +1,5 @@
 
----
-
-## **5.4. Black Hole: Singularities as Scale Phenomena**
+### **5.2.3. Black Hole: Singularities as Scale Phenomena**
 
 This examines the relationship between **the framework** and black holes, particularly their role in **scale transitions** rather than terminal singularities. Conventional physics treats the **event horizon** as a boundary beyond which all trajectories lead to collapse. ISE, however, proposes that black holes function as **scale-shifting structures**, where geodesics persist in a transformed order.
 

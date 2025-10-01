@@ -1,7 +1,7 @@
 
 ---
 
-## **5.6. Interplay of Cosmic Expansion and Photon Dynamics**
+## **5.3. Interplay of Cosmic Expansion and Photon Dynamics**
 
 The intricate relationship between cosmic expansion and localized systems has long been a subject of theoretical exploration. Among the most fascinating implications is the possibility of detecting the effects of universal expansion within gravitationally bound systems. This concept challenges conventional assumptions about the dominance of local forces and opens new avenues for understanding spacetime dynamics.
 
