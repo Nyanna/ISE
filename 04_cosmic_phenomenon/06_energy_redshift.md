@@ -88,6 +88,7 @@ The enormous amount of "lost" radiation energy aligns perfectly with the observe
 
 * Dark energy causes the acceleration of the universe's expansion. This gravitational effect is a consequence of Einstein's field equations, which link the energy density and pressure of dark energy to the curvature of spacetime.  
 * The negative pressure associated with dark energy leads to a repulsive effect that drives the universe apart on large scales.
+* In fact can gravitation be described as having a gradient form whereas the cosmological constant can be seen as an evenly distributed form of the same principle.
 
 **Consistency with "Lost" Energy:**
 
@@ -389,7 +390,7 @@ $$u_{\Lambda,\text{today}} = 2.23 \times 10^{-14} \, \mathrm{J/m^{-3}}$$
 
 This is about **10⁻⁴** of the currently measured energy density of dark energy ($$u_{\Lambda} \approx 6.91 \times 10^{-10} \, \mathrm{J/m^{-3}}$$).
 
-Even if all radiation energy from T \< 2.725 K and additional cooler radiation were fully converted into dark energy, this energy density falls short by many orders of magnitude, implying that dark energy most likely has a different origin.
+Even if all radiation energy from T \< 2.725 K and additional cooler radiation were fully converted into dark energy, this energy density falls short by many orders of magnitude.
 
 The difference of approximately a factor of **10,000** (or 10⁴) between the hypothetical dark energy from converted radiation and the currently measured dark energy is relatively small on cosmological scales. This difference could be explained through plausible mechanisms:
 
@@ -462,6 +463,8 @@ Some important aspects:
 * **Constant Sources:** Regions like molecular clouds or other dense structures may continue to produce low-energy photons, independent of general cosmic cooling.
 
 The energy balance of these processes could become more dominant in extremely distant cosmic epochs, even if they are negligible compared to CMB radiation today.
+
+A further hypothetical consideration posits a non-linear redshift mechanism arising from the coupling of photons to metric fluctuations. While in an ideal FLRW universe the cosmological redshift is independent of a photon's energy, this might not hold true in the presence of quantum fluctuations of spacetime ("spacetime foam") or a stochastic background of primordial gravitational waves. For extremely low-energy photons, the wavelength $\lambda$ becomes comparable to the characteristic scale of these metric fluctuations. This could lead to a resonant coupling, inducing an additional energy loss not accounted for in standard cosmology. Consequently, the total redshift could be described as $z_{total} = z_{kosmo} + f(E)$, where the term $f(E)$ grows sharply for very small energies, thus accelerating the transition of photons into a non-detectable state.
 
 Over the entire cosmic evolution, the cumulative radiation of low-energy photons becomes relevant in relation to the energy density of dark energy. Some considerations include:
 

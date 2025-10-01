@@ -3,7 +3,7 @@
 
 ## **4.5. A Unified View of Cosmic Expansion: Dark Energy as the Consistent Force**
 
-In current cosmological models, it is widely accepted that **inflation** — an extremely rapid expansion of the universe in its earliest moments — was driven by a hypothesized **inflaton field**, while the present-day accelerated expansion is attributed to **dark energy**. This has led to the prevailing assumption that two distinct forces or phases are responsible for the universe's expansion at different stages of its history. However, a unified perspective that considers inflation and dark energy as **manifestations of the same underlying phenomenon** offers a simpler and more coherent framework for understanding cosmic expansion.
+In current cosmological models, it is widely accepted that **inflation** — an extremely rapid expansion of the universe in its earliest moments — was driven by a hypothesized **inflaton field**, while the present-day accelerated expansion is attributed to **dark energy**. This has led to the prevailing assumption that two distinct forces or phases are responsible for the universe's expansion at different stages of its history. However, a unified perspective that considers inflation and dark energy as **manifestations of the same underlying phenomenon** offers a simpler and more coherent framework for understanding cosmic expansion. The following can be seen as preparatory introduction to the redshift construction.
 
 **A Continuum of Expansion**
 
