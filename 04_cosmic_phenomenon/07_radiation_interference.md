@@ -54,7 +54,7 @@ The idea that dark energy consists of **interfering vacuum fluctuations that mos
 * This demonstrates that **vacuum fluctuations exist in reality**, but they **cannot simply be summed across the entire universe**.  
 * The discrepancy between the Casimir extrapolation and dark energy ($10^6$ instead of $10^{120}$) suggests the presence of a **nonlinear, scale-dependent reduction mechanism**.
 
-**How Does This Fi?**
+**How Does This Fit?**
 
 * Energy does not simply follow a rigid summation rule but is instead **distributed across different levels through scale differentiation and resonance effects**.  
 * Dark energy is thus not a **fixed background energy**, but an **emergent phenomenon** that manifests differently on cosmic scales through **constructive and destructive interference**.
@@ -70,7 +70,7 @@ This not only explains the discrepancy but also shows that dark energy is a **su
 **The Problem of Gravitating Vacuum Energy**
 
 * In general relativity, every form of energy, including vacuum energy, should have a **gravitational effect**.  
-* If the **theoretical vacuum energy is at** \*\*, the universe should **immediately collapse** because this immense energy density would create enormous gravity.  
+* If the **theoretical vacuum energy is** like exspected, the universe should **immediately collapse** because this immense energy density would create enormous gravity.  
 * However, the universe is accelerating in its expansion, and the measured dark energy is **120 orders of magnitude smaller** than expected.
 
 **Why Doesn’t the Full Vacuum Energy Have a Gravitational Effect?**
