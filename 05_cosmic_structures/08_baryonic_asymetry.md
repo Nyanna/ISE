@@ -1,7 +1,7 @@
 
 ---
 
-## 5.5. Baryonic Asymmetry
+## 5.8. Baryonic Asymmetry
 
 **Rethinking the Baryonic Asymmetry in the Lambda-CDM Framework**
 

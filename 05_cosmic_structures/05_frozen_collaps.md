@@ -1,7 +1,7 @@
 
 ---
 
-## **5.8. The Frozen Collapse – Black Hole Interior**
+## **5.5. Black Hole: The Frozen Interior Collapse**
 
 Within the Schwarzschild radius resides the collapsing star at the very moment of its collapse. Extending outward toward the horizon, each layer represents an asymptotically further rotated state of the star’s surrounding matter. The farther from the center, the more advanced its proper time, and the faster it runs. At the core – at the would-be singularity – remains the initial fluctuation of critical density that triggered the collapse, not necessarily at the geometric center but wherever the first instability arose.
 
