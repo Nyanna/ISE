@@ -19,7 +19,7 @@ $$ \left(\frac{\dot{a}}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{k}{a^2} + \fr
 
 Where:
 
-* a(t) is the scale factor that describes the expansion of the universe.  
+* a(t) is the scale factor that describes the expansion of the universe.
 * $\rho$ is the energy density (matter, radiation, etc.).  
 * k is the curvature of space.  
 * $\Lambda$ is the cosmological constant, associated with dark energy.

@@ -11,7 +11,7 @@ The **smallest possible unit of energy**, or the smallest step in differentiatio
 
 **Differentiation** refers to how energy splits into distinct states or forms. The key idea here is that the smallest unit of energy (if you were trying to define it) **is relative to the total energy of the universe**. Here's a breakdown:
 
-* **If there is only one state in the universe**, that single state has all the energy of the universe, so we can think of it as having a value of "1" (since there’s nothing else to compare it to).  
+* **If there is only one state in the universe**, that single state has all the energy of the universe, so we can think of it as having a value of "1" (since there’s nothing else to compare it to).  Every other value like zero or infinite would equally fit.
 * **If the universe differentiates into many states**, the size of the smallest possible energy state becomes smaller and smaller because energy is being split up across more states. If there were **infinitely many differentiations**, the smallest possible energy would be infinitely small — essentially zero. In this case, **quantization disappears** because the idea of a discrete packet of energy no longer makes sense in an infinitely divided system.
 
 **Energy of a Particle is Relational, Not Quantized**

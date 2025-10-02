@@ -3,7 +3,7 @@
 
 ## **3.2. The Great Unified Theory: Emergent Forces, Quantum Gravity, and the Observer's Role**
 
-In the model, the concept of a **Great Unified Theory** (GUT) emerges naturally by describing how the fundamental forces of physics — gravity, electromagnetism, the strong nuclear force, and the weak nuclear force — are all products of **energy differentiation** across different scales. This means that these forces are not separate entities with distinct origins but instead arise from the same underlying process, manifesting only at certain scales where specific conditions allow them to emerge. The beauty of model lies in its ability to extend this idea to all **emergent properties** of reality, from fundamental forces to macroscopic phenomena like temperature or time.
+In the model, the concept of a **Great Unified Theory** (GUT) emerges naturally by describing how the fundamental forces of physics — gravity, electromagnetism, the strong nuclear force, and the weak nuclear force — are all products of **energy differentiation** across different scales. This means that these forces are not separate entities with distinct origins but instead arise from the same underlying process, manifesting only at certain scales where specific conditions allow them to emerge. The beauty of the model lies in its ability to extend this idea to all **emergent properties** of reality, from fundamental forces to macroscopic phenomena like temperature or time.
 
 **Forces as Scale-Dependent Differentiations**
 
