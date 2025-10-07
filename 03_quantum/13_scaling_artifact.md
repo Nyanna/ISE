@@ -56,7 +56,7 @@ Both lead to the same result, but the **divisor perspective shows that mass is n
 
 * The divisor perspective is an **inverse but equivalent representation of the Higgs mechanism**.  
 * It demonstrates that mass is not simply **added through energy**, but rather that fundamental energy is **divided and redistributed through the Higgs field**.  
-* This opens a new interpretation of the mass scale in the universe.
+* This opens a interpretation of the mass scale in the universe.
 
 The divisor is the representation of the ISE. Elementary particles consist of proto-information. The more information, the greater the number of potential vectors, thus determining rest mass or distance energy.
 
@@ -93,9 +93,9 @@ If one considers **mass as the result of the proto-information structure of a pa
 
 ISE thus integrates the Higgs field as a **subquantum-conscious scaling level**, translating the differentiation of proto-information into the observable universe.
 
-In the ISE, while the Higgs mechanism can be expressed as an expectation value, this is merely a scaling artifact. As the differentiation of the scale increases, this value grows yet remains constant for the observer. The field cannot transition into another energy state. The energy state is also not a random occurrence but emerged through a gradual division until a specific, namely our, energy level was reached.
+In the model, while the Higgs mechanism can be expressed as an expectation value, this is merely a scaling artifact. As the differentiation of the scale increases, this value grows yet remains constant for the observer. The field cannot transition into another energy state. The energy state is also not a random occurrence but emerged through a gradual division until a specific, namely our, energy level was reached.
 
-In the model, the Higgs field is **not a physical field in the classical sense**, but a **scaling artifact** arising from the structure of proto-information.
+The Higgs field is **not a physical field in the classical sense**, but a **scaling artifact** arising from the structure of proto-information.
 
 **The Higgs Mechanism as a Scaling Artifact**
 
@@ -150,14 +150,14 @@ Thus, mass does not emerge from a spontaneous symmetry breaking but from the div
 
 ### **The Mass-Complexity Relation**
 
-**The Duality of Mass in the Standard Model: A Conceptual Impasse**
+**The Duality of Mass in the Standard Model**
 
 The Standard Model of particle physics, despite its predictive power, presents a conceptually fragmented view of mass. It posits two fundamentally different mechanisms for its origin:
 
 * **Intrinsic Mass via the Higgs Mechanism:** Fundamental particles like quarks and leptons acquire an "intrinsic" mass through their coupling strength to the ubiquitous Higgs field. The mass values appear as arbitrary free parameters, offering no explanation for the observed mass hierarchy (e.g., why a muon is \~207 times more massive than an electron).  
 * **Emergent Mass from Binding Energy:** In contrast, approximately 99% of the mass of composite particles like protons and neutrons arises not from the intrinsic mass of their constituent quarks, but from the immense kinetic and potential energy of the strong nuclear force (the gluon field) that binds them, as described by E=mc².
 
-This dualism is ontologically unsatisfying. It suggests that nature employs two entirely separate principles to generate the same fundamental property of inertia. The Infinite Scale Expansion (ISE) framework rejects this separation and posits that both forms of mass are merely different manifestations of a single, deeper principle: **mass is a direct expression of the informational complexity of a particle's resonant state.**
+This dualism is ontologically unsatisfying. It suggests that nature employs two entirely separate principles to generate the same fundamental property of inertia. The ISE framework rejects this separation and posits that both forms of mass are merely different manifestations of a single, deeper principle: **mass is a direct expression of the informational complexity of a particle's resonant state.**
 
 **From Mass to Differentiation Energy**
 
@@ -181,7 +181,7 @@ Mass ∝ f(C, ΔI)
 
 This function states that the mass of a particle is proportional to a function of its informational complexity (C), which is ultimately built from fundamental units of differentiation (ΔI). While the exact form of f remains a central question for a future predictive theory, establishing this principle is the key to unification.
 
-**Reinterpreting the Higgs Field: A Universal Scaling Function**
+**A Universal Scaling Function**
 
 Within this new framework, the Higgs field is no longer seen as an independent source of mass. Instead, it is reinterpreted as a **universal scaling function** or a **relational artifact** of the ISE structure itself. Its role is not to *endow* particles with mass, but to **translate** their inherent informational complexity into the observable property of inertia.
 
@@ -194,8 +194,8 @@ This principle elegantly resolves the duality of mass in the Standard Model:
 * **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic" — a more complex but stable resonance in the same field, with a higher value of C_muon. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
 * **Hadron Mass (e.g., Proton):** A proton is a state of **extremely high informational complexity (C_proton)**. Its mass is not just the sum of its parts but reflects the enormous differentiation energy required to sustain the entire dynamic system: the three valence quarks, the sea of virtual quark-antiquark pairs, and the fiercely energetic gluon field that binds them all. The 99% of its mass attributed to "binding energy" is, in the ISE framework, the energetic cost of maintaining this incredibly intricate and information-dense resonant structure.
 
-**Conclusion: A Path to a Unified Theory of Mass**
+**A Path to a Unified Theory of Mass**
 
-By reframing mass as an emergent property derived from informational complexity, the ISE offers a path to a truly unified understanding. The distinction between "intrinsic" Higgs-mass and "emergent" binding-mass dissolves. Both are revealed to be different points on the same spectrum, governed by the single principle that **complexity requires energy, and this energy manifests as inertia.**
+By reframing mass as an emergent property derived from informational complexity, the ISE offers a path to a unified understanding. The distinction between "intrinsic" Higgs-mass and "emergent" binding-mass dissolves. Both are revealed to be different points on the same spectrum, governed by the single principle that **complexity requires energy, and this energy manifests as inertia.**
 
 Furthermore, this framework redefines the role of the Higgs mechanism itself, integrating it as a necessary universal scaling function within the ISE ontology. The hierarchy of particle masses ceases to be a collection of arbitrary parameters and becomes a "periodic table of complexity," waiting to be deciphered. The ultimate challenge for a predictive version of the ISE is to derive the function f(C, ΔI) from first principles, thereby calculating the mass spectrum of all particles from a single, fundamental, ontological foundation.

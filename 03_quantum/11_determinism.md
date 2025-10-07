@@ -85,7 +85,7 @@ Therefore, it is a direct logical consequence of QM's own statements that if a *
 The ISE provides a coherent framework where the perceived randomness of radioactive decay is not a fundamental property of nature but an emergent phenomenon. This "randomness" is a result of the intricate and unresolvable synchronous/asynchronous phase relationships within the quantum fields, and the limitations of observation at specific scales.
 
 * **No Fundamental Randomness:** The precise and stable halflives of isotopes indicate an underlying deterministic mechanism, not pure chance.  
-* **Phase Synchronicity:** Decay processes are viewed as a synchronization and resolution problem. The decay occurs when the wave functions achieve a critical phase alignment, which, from our macroscopic perspective, appears random.  
+* **Phase Synchronicity:** Decay processes are viewed as a synchronization and resolution problem. The decay occurs when the wave functions achieve a critical phase alignment, which, from our macroscopic perspective, appears random.
 * **Scale-Dependent Uncertainty:** The seemingly fundamental quantum uncertainty is reinterpreted as an emergent property stemming from the imperfect resonance between the observer's scale and the quantum system's scale. This perspective allows for the theoretical possibility of deterministic outcomes if perfect scale synchronization could be achieved, thus "eliminating probabilistic effects entirely."
 
 This unified view aligns with ISE's broader philosophy: reality is fundamentally deterministic and structured by continuous differentiation, but its manifestation at various scales can appear probabilistic due to the inherent relational and observer-dependent nature of existence.

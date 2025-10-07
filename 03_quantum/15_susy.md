@@ -7,9 +7,9 @@
 
 The pursuit of a unified description of the fundamental forces has long shaped theoretical physics. However, the traditional models — ranging from the Standard Model and Grand Unified Theories (GUTs) to supersymmetry (SUSY) — are built upon assumptions that, when scrutinized ontologically, reveal deep inconsistencies. They project numerical coincidences onto physical reality, conflate structurally divergent scales, and prioritize formal symmetry over foundational differentiation.
 
-This work undertakes a critical deconstruction of these assumptions. It exposes how concepts like the unification of coupling constants, the convergence at high energies, and the justification of SUSY are not emergent truths, but rather model-dependent fittings devoid of real ontological grounding. Through a systematic examination, it becomes clear that spacetime, force, and coupling must be understood not as absolute structures but as emergent relational phenomena governed by two fundamental principles: Information and Differentiation.
+This chapter undertakes a critical deconstruction of these assumptions. It exposes how concepts like the unification of coupling constants, the convergence at high energies, and the justification of SUSY are not emergent truths, but rather model-dependent fittings devoid of real ontological grounding. Through a systematic examination, it becomes clear that spacetime, force, and coupling must be understood not as absolute structures but as emergent relational phenomena governed by two fundamental principles: Information and Differentiation.
 
-From this reduced foundation emerges the theory: a framework that replaces the fragmented classical and quantum models with a resonance-based, scale-sensitive ontology. The theory seamlessly bridges general relativity, quantum field theory, and the structure of matter by dissolving artificial separations and revealing the deeper coherence behind observable phenomena.
+From this reduced foundation emerges the theory: a framework that replaces the fragmented classical and quantum models with a resonance-based, scale-sensitive ontology. The ISE Framework seamlessly bridges general relativity, quantum field theory, and the structure of matter by dissolving artificial separations and revealing the deeper coherence behind observable phenomena.
 
 The following presents the logical path toward that realization, step by step, unmasking the limitations of current theoretical constructs and establishing a consistent ontological architecture for understanding the nature of reality.
 
@@ -29,21 +29,18 @@ None of these theoretical expectations have been experimentally confirmed to dat
 
 Coupling constants determine the strength of fundamental interactions between particles in quantum field theories. Three main coupling constants are relevant in the Standard Model:
 
-**Electromagnetic Coupling (α – Fine-Structure Constant)**
+* ***Electromagnetic Coupling (α – Fine-Structure Constant)**
+	* Measures the strength of the coupling between charged particles and the photon.  
+	* Low-energy value: α ≈ 1/137.
 
-* Measures the strength of the coupling between charged particles and the photon.  
-* Low-energy value: α ≈ 1/137.
+* ***Weak Coupling (g₂)**
+	* Coupled to the W and Z bosons.  
+	* Relevant in radioactive decays and neutrino interactions.  
+	* Parametrized together with the Weinberg angle.
 
-**Weak Coupling (g₂)**
-
-* Coupled to the W and Z bosons.  
-* Relevant in radioactive decays and neutrino interactions.  
-* Parametrized together with the Weinberg angle.
-
-**Strong Coupling (g₃)**
-
-* Responsible for binding quarks within protons, neutrons, and other hadrons.  
-* Stronger at low energies and weaker at high energies (asymptotic freedom).
+* ***Strong Coupling (g₃)**
+	* Responsible for binding quarks within protons, neutrons, and other hadrons.  
+	* Stronger at low energies and weaker at high energies (asymptotic freedom).
 
 **Renormalization and Energy Dependence**
 
@@ -62,7 +59,6 @@ With supersymmetry (specifically the MSSM), the additional degrees of freedom mo
 **Behavior Beyond the GUT Point**
 
 Above the approximate unification point (\~10¹⁶ GeV):
-
 * The three couplings are replaced by a single unified GUT coupling.  
 * The unified coupling continues running according to the specific GUT renormalization group equations.  
 * Depending on the GUT structure, the coupling may grow or decrease. Some GUTs ensure asymptotic freedom or stability to avoid divergences (Landau poles).
@@ -153,8 +149,6 @@ At higher μ, α(μ) grows.
 | Weak (SU(2)) | Increases | Similar to EM |
 | Strong (QCD) | Decreases | Asymptotic freedom |
 | Gravity | Presumably increases | Not precisely determined |
-
-### 
 
 **Energy Unification and Conceptual Issues**
 
@@ -316,9 +310,9 @@ Together, they define:
 
 In this reduced view, the universe is built from two elemental principles: **Information** (electromagnetism) and **Differentiation** (gravitation/spatiality). All other "forces" are derived, structured modifications of these two primordial forms.
 
-This leads naturally to the framework:
+This leads naturally to the ISE framework:
 
-* **Information (EM)** → Protoform  
+* **Information (EM)** → Protoinformation  
   * Manifestation through distinction  
   * Field-based, relational, and transferable  
 * **Differentiation (Gravitation)** → Scale Structure  
@@ -335,7 +329,7 @@ ISE is the **logical and ontological emergence** from the disentanglement of cla
 
 **Bridging ISE with the Standard Model and General Relativity**
 
-From this ontological foundation, it becomes clear how the modelconnects to established models of physics. There are two main bridging paths:
+From this ontological foundation, it becomes clear how the model connects to established models of physics. There are two main bridging paths:
 
 **1\. Bridge to General Relativity and Quantum Gravity (Differentiation Side)**
 
@@ -376,6 +370,7 @@ ISE bridges **downward to General Relativity and gravitation** via the non-metri
 
 **Model Fitting in SUSY and Its Ontological Implications**
 
+Lets get one step back and reconsider.
 The commonly cited "unification of couplings at \~10¹⁶ GeV" within SUSY is not an independent prediction but rather the result of deliberate parametric fitting, exploiting multiple degrees of freedom to:
 
 * Modify the β-functions  
@@ -402,8 +397,7 @@ These parameters were tuned to ensure that a formal GUT unification occurs.
 * This is not progress in understanding but mathematical tracing toward a pre-selected goal.
 
 The coupling convergence in SUSY is not evidence of physical truth but a demonstration of model fitting that trivializes structure through expanded parameter space. Errors and incompatibilities arise because the model is syntactically constructed rather than ontologically grounded.
-
-**Broader Implications: Fundamental Error of SUSY-Based Theories**
+Broader Implications: Fundamental Error of SUSY-Based Theories
 
 **Forcing Unification Despite Scale Incompatibility**
 

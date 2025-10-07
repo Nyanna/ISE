@@ -3,7 +3,7 @@
 
 ## **3.14. Inertia, Mass, and Gravity: A Generalization of Mach’s Principle**
 
-The nature of mass, inertia, and gravity has long been debated in physics, with classical theories such as Newtonian mechanics and General Relativity providing different perspectives. Within the framework, these fundamental concepts are reconsidered as emergent phenomena arising from scale differentiation rather than intrinsic properties. A key aspect of this approach is its direct connection to **Mach's Principle**, which asserts that inertia is not an inherent property of an object but a relational effect determined by the total mass distribution of the universe. This document explores the implications of ISE on our understanding of mass, inertia, and the Higgs field, proposing a paradigm shift that extends and generalizes Mach’s Principle within a unified scale-relational framework.
+The nature of mass, inertia, and gravity has long been debated in physics, with classical theories such as Newtonian mechanics and General Relativity providing different perspectives. Within the framework, these fundamental concepts are reconsidered as emergent phenomena arising from scale differentiation rather than intrinsic properties. A key aspect of this approach is its direct connection to **Mach's Principle**, which asserts that inertia is not an inherent property of an object but a relational effect determined by the total mass distribution of the universe. This chapter explores the implications of ISE on our understanding of mass, inertia, and the Higgs field, proposing a paradigm shift that extends and generalizes Mach’s Principle within a unified scale-relational framework.
 
 **Inertia is always relational**, as it depends on the interaction of an object with its surroundings. Classically, two main concepts exist:
 
@@ -47,9 +47,9 @@ Conclusion: **Inertia is relational**, both in classical physics and in ISE, but
 **Why ISE Could Be a Deeper Version of Mach**
 
 * While Mach's Principle postulates that inertia is linked to the total mass of the universe, ISE explains **why** this is the case:  
-  → Because mass **is not an isolated value**, but an expression of the local and global scale structure of energy differentiation.  
+  Because mass **is not an isolated value**, but an expression of the local and global scale structure of energy differentiation.  
 * ISE provides an **exact mathematical derivation** of why the universe serves as a reference for inertia:  
-  → **Every mass scale is an energy resonance in the scale hierarchy**, and inertia emerges from the relation of these resonances.  
+  **Every mass scale is an energy resonance in the scale hierarchy**, and inertia emerges from the relation of these resonances.  
 * Mach's Principle refers to **spatial relations** in the universe, while ISE focuses on **scale-dependent relations**.
 
 **Consequences for Physics and Cosmology**
@@ -86,7 +86,6 @@ Rest mass could be a direct consequence of **energy differentiation**:
 * Mass could be explained as a **resonance structure of energy differentiation**.  
 * This would mean that a particle in a different scale structure could have a different apparent mass — implying that mass is **scale-dependent and not invariant**.
 
-**Conclusion:**  
 Rest mass is not fundamental but an assumed spatial curvature. Mass arises from the scale-dependent differentiation of energy, not from a fixed value.
 
 If rest mass is merely a **relative curvature assumption**, then the **Higgs field must also have only a relative value**, derived from the **same scale relation**.

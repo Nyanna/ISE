@@ -33,8 +33,6 @@ In the framework, this is interpreted as follows:
 * **Dynamic nature of measurement**: A measurement does not merely affect a particle’s state but its **resonance integration within the scale hierarchy**.  
 * **No absolute position-momentum relationship**: Instead of a fixed lower bound (ℏ / 2\) for $\Delta x \cdot \Delta p$, the minimum uncertainty in a scale field depends on the local structure.
 
-**Conclusion**
-
 The uncertainty principle does not arise from a predefined wave mechanics but from the **relative scale projection** of an object. It is a direct consequence of the fact that all physical entities are defined only by their **relationship to other scales**, rather than by an inherent absolute structure.
 
 In simpler terms: **Uncertainty is scale dependence.**
