@@ -3,13 +3,13 @@
 
 ## **2.1. Infinite Scale**
 
-Understanding **continuous differentiation** as proposed in the model requires thinking beyond the typical frameworks of space and time. Differentiation isn't just about splitting physical objects or numbers into smaller parts; it’s a concept rooted in the evolution of reality itself. Here’s an explanation of how to imagine or understand this:
+Understanding **continuous differentiation** as proposed in the model requires thinking beyond the typical frameworks of space and time. Differentiation isn't just about splitting physical objects or numbers into smaller parts; it’s a concept rooted in the evolution of reality itself. Here’s an explanation of how to imagine or understand this.
 
 **Energy Differentiation as Reality’s Flow**
 
 In the model, **energy** is the underlying fabric of the universe, and reality emerges through a constant process of **differentiation**. Instead of imagining the universe as a static thing with set rules, think of it as an evolving system where energy keeps unfolding into new forms.
 
-* **Continuous differentiation** means that what we observe — particles, forces, distances, and even time — are **constantly shifting and dividing** into more specific states. There’s no end to this process. Every time energy "differentiates," it splits into finer, more defined versions of itself, creating new forms of reality.
+* **Continuous differentiation** means that what we observe — particles, forces, distances, and even time — are **constantly shifting and dividing** into more specific states. There’s no end to this process. Every time energy "differentiates," it splits into finer, more defined versions of itself, creating new forms of reality. Raising a imagined configuration space.
 
 **Layers of Complexity**
 
@@ -34,7 +34,5 @@ To visualize continuous differentiation, picture a fractal. A fractal is a mathe
 In continuous differentiation, there’s **no final "smallest" or "largest" state** — the universe keeps evolving. You could imagine it like an endless zoom-in/zoom-out effect. On a large scale, the universe expands and forms galaxies, but zoom in and you find quantum fluctuations still unfolding. It’s an infinite process, meaning there’s no single origin or endpoint.
 
 * Think of it as **layers of energy nesting within one another**, and at any given moment, differentiation could happen at any scale, adding new complexity to the universe.
-
-**Conclusion**
 
 Continuous differentiation suggests that reality is an endless process of unfolding energy, creating new states that manifest as the physical world we observe, including space, time, and gravity. It’s like watching a never-ending flow of evolution, where everything constantly splits into finer and more intricate structures, without ever reaching a static or fully "complete" state. The universe, therefore, is not a fixed object but a dynamic process of differentiation that never stops.

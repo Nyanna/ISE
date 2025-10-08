@@ -48,7 +48,7 @@ Across the Planck scale, the inflationary epoch, and quantum fluctuations, the m
 
 **Room for Separation and Order in the Planck Spectrum**
 
-In the **Planck scale** (the smallest possible units of space and time), **ISE proposes that there is enough "room" for separation and order** in the effects between energy states. What this means is that, even at these incredibly tiny scales, space and time can **emerge** through the **organization of energy effects**.
+In the **Planck scale** (the smallest measurable units of space and time), **ISE proposes that there is enough "room" for separation and order** in the effects between energy states. What this means is that, even at these incredibly tiny scales, space and time can **emerge** through the **organization of energy effects**.
 
 * **Separation of Effects**:  
   * The Planck spectrum is where **energy states differentiate** into what we observe as **space and time**. These fundamental building blocks are **not yet space or time**, but instead potential energy fields waiting to be **organized into interactions** that produce spacetime as we know it.  

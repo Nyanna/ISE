@@ -3,7 +3,7 @@
 
 ## **2.6. Euclidean Geometry and Space Curvature**
 
-In the context of framework**)**, every anomaly in Euclidean geometry can be understood as a result of potential energy vectors and interpreted as **space curvature**. Here's an explanation of how this works:
+In the context of framework, every anomaly in Euclidean geometry can be understood as a result of potential energy vectors and interpreted as **space curvature**. Here's an explanation of how this works:
 
 In classical Euclidean geometry, space is flat, with parallel lines that never meet and constant distances between points. However, its proposed that **space is not a fundamental backdrop** but an emergent property of the differentiation of potential energy.
 
@@ -30,8 +30,6 @@ The concept of **curvature** isn't tied to an external force or spacetime fabric
 **Practical Example**
 
 Take the curvature around a massive object like a planet. In General Relativity, this is interpreted as spacetime bending around the mass due to its gravity. In the framework, this curvature is instead understood as the result of **potential energy vectors** being concentrated and misaligned around the mass. This creates the **appearance of curved space**, but it is fundamentally an effect of energy distribution rather than spacetime geometry itself.
-
-**Conclusion**
 
 Any anomaly in the perfect flatness of Euclidean geometry — whether caused by mass, energy concentration, or other factors — can be interpreted as **curvature of space**, but this curvature arises from **potential energy vectors** rather than an intrinsic property of space.
 

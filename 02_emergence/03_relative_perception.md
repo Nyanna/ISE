@@ -29,7 +29,7 @@ In both the model and in human perception, **time is not a fundamental, objectiv
 
 **Classical View of Potential Energy**
 
-In standard Newtonian (or classical) mechanics, **potential energy** is a scalar function. It does not possess a direction in physical space, but rather a single value determined by the distance rrr from a central force or by the positions of interacting masses. For instance, gravitational potential energy in a two-body system is typically given by
+In standard Newtonian (or classical) mechanics, **potential energy** is a scalar function. It does not possess a direction in physical space, but rather a single value determined by the distance r from a central force or by the positions of interacting masses. For instance, gravitational potential energy in a two-body system is typically given by
 
 $$Ep(r)=−G M mr,E_p(r) = -\frac{G,M,m}{r},Ep​(r)=−rGMm​$$
 
@@ -46,3 +46,4 @@ In this framework, labeling something as a “vector” does not necessarily imp
 It is crucial to understand that these two views do not contradict each other — rather, they operate at different **levels of abstraction**. Physically, potential energy remains a scalar, as it does not have a direction in real space. Mathematically, however, the ISE “vector” notation provides a **computational tool** that simplifies handling potential energy in multidimensional problems. This abstraction allows for a unified treatment of distance-dependent energy terms in any spatial setting (1D, 2D, 3D, or higher), making the overall analysis or numerical integration more systematic.
 
 In essence, while **classical physics** emphasizes the scalar nature of potential energy, **ISE** adopts an expanded notation to ensure consistent calculations across various spatial configurations. Understanding this difference helps clarify why the term “vector” is used for an entity that, under standard physical definitions, remains a scalar quantity.
+ISE chooses to attach to the traditional physical term of potential energy because of it's relative closeliness to the metaphorical meaning in the model.

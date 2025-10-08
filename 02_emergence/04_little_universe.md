@@ -1,7 +1,7 @@
 
 ---
 
-## **2.4. Example: Little Universe**
+## **2.4. The Little Universe**
 
 To explain **distance and differentiation** using a universe consisting of two, three, or four particles, the model breaks down how energy differentiates to form space, time, and physical properties.
 
@@ -19,7 +19,7 @@ The interaction between these two particles is defined by **potential energy vec
 With **three particles**, the complexity increases. Now, the potential energy isn’t just divided between two points but spread across three. Each particle forms **potential energy vectors** with the other two particles, creating a triangular relationship.
 
 * The **potential energy** in this system now forms a web between the particles, and this web **defines the space** they occupy.  
-* **Distances** are not fixed but depend on the energy distribution between the particles. The "space" between them is essentially the energy that is differentiated into potential energy vector particles.
+* **Distances** are not fixed but depend on the energy distribution between the particles. The "space" between them is essentially the energy that is differentiated into potential energy vector states or interpreted as particle like components of the system.
 
 This triangular arrangement represents the first time the universe can be seen as having more than one **dimensional aspect**. Instead of just a linear distance, there is now a two-dimensional plane between the particles, adding more complexity to how distance and interaction are perceived.
 
