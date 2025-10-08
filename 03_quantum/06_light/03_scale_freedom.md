@@ -1,7 +1,5 @@
 
----
-
-## **3.8. Scale Freedom and the Relativity of Constraints**
+### **3.6.3. Scale Freedom and the Relativity of Constraints**
 
 One of the fundamental tenets of the model is its concept of **scale freedom** or **scalability**, which posits that the **laws of physics** remain consistent across different **scales** of observation. This principle directly challenges the traditional understanding of **global constraints** in physics, such as the **speed of light** and the notion of **infinite energy** required to reach it. When analyzed through the lens of ISE, these constraints are revealed to be **scale-dependent**, which means they hold validity only within a **specific frame of reference**. This perspective suggests that what we observe as **physical limits** might only be artifacts of the **scale** or **frame** we are viewing from, with no absolute or universal significance.
 

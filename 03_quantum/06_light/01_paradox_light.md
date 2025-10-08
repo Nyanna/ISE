@@ -1,7 +1,5 @@
 
----
-
-## **3.6. Paradox Speed of Light**
+### **3.6.1 Paradox Speed of Light**
 
 The paradox of **light speed** in relation to itself arises from the fact that **nothing faster than light exists**, making it impossible to measure light against anything more fundamental or faster. In essence, the speed of light becomes a **self-referential standard**, a fundamental constant that can only be measured **in relation to itself**. This creates a paradox where light's speed is simultaneously the most precise and the most arbitrary measure, because there is nothing else against which to compare or benchmark it.
 
@@ -21,7 +19,7 @@ However, this creates an interesting paradox: if light speed is a built-in resol
 
 In conclusion, **light speed is a self-referential constant** that defines both the **accuracy of measurement** and the **limits of observation** in our universe. It’s arbitrary in the sense that it could be "a cat per dog," yet it's absolute because there’s no faster entity to provide a reference point. The speed of light is the ultimate **resolution limit**, a boundary imposed by the universe itself on how finely we can measure and understand it.
 
-### **Blue Shift and the Scale-Resolution Limit of Light**
+#### **Blue Shift and the Scale-Resolution Limit of Light**
 
 When an observer falls into a black hole, the incoming radiation from the external universe appears increasingly **blue shifted**. From the perspective of standard general relativity, this effect is not interpreted as an acceleration of photons beyond their invariant speed $c$, but rather as a direct consequence of **gravitational time dilation**. The infalling observer’s proper time flows ever more slowly with respect to distant observers, which results in the perception that incoming photons carry progressively higher energy and frequency.
 
@@ -213,7 +211,7 @@ Let $\Lambda = dN/d\tau$ represent the interaction rate (counting rate) per unit
 * Observed frequency increase is therefore equivalent to more interactions per unit proper time.  
 * This result is reinterpreted as higher effective velocity of energy quanta, while $c$ remains a measurement horizon rather than a fundamental limit of nature.
 
-### Measurable is t not c
+#### Measurable is t not c
 
 **Physically real and measurable is t as constant, not c.**
 
@@ -594,7 +592,7 @@ Another consequence is the negation of quantization altogether and its unveiling
 * If the time resolution shifts, the counting method shifts as well.  
 * Quantization is therefore a **scale phenomenon**: it only appears because we cut the continuity of energy into grid packets.
 
-**Proofline for the Infinite Scale Expansion (ISE)**
+**Proofline for the Infinite Scale Expansion**
 
 * The ISE asserts that every structure is **scale-relative**, i.e. no absolute particle nature or limit exists.  
 * The photon argument shows exactly this:  

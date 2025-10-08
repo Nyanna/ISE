@@ -1,7 +1,5 @@
 
----
-
-## **3.7. Relativistic effects observed at approaching light speed**
+### **3.6.2. Relativistic effects observed at approaching light speed**
 
 **The** model and the relativistic effects observed at **approaching light speed**. Let's break down the idea:
 
