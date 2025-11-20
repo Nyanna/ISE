@@ -1,7 +1,7 @@
 
 ---
 
-## Chapter: Rethinking π — Continuity, Commensurability, and Basis-Relative Mathematics
+## **6.6. Rethinking π — Continuity, Commensurability, and Basis-Relative Mathematics**
 
 This chapter argues that the “infinity” of π is not an intrinsic property of π itself, but a byproduct of our representational choices: continuous space, real-number coordinates, and an integer-based arithmetic. The status of π as irrational (and, within the classical framework, transcendental) emerges inside a particular choice of primitives and metrics. By changing the base field, the units, or the primitive objects (e.g., privileging curvature or angular measure), the classification of π and related quantities changes accordingly. We formalize this relational view, clarify the distinction between object-level theorems and meta-level choices of primitives, and situate π within alternative mathematical systems. A guiding analogy contrasts polygonal approximations (discrete, uniform units) with splines (continuous curvature), framing how arithmetic regularities reflect our preferred discretizations rather than any universal structure of geometry.
 
