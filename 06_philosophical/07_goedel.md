@@ -3,6 +3,11 @@
 
 ## **Boundaries of Gödel's Framework**
 
+**The Logician's Kōan**
+A student asked: "Master, is Gödel's theorem true?"
+The master replied: "If you say yes, you admit logic cannot prove its own validity. If you say no, you used logic to reach that conclusion. Now tell me – with what will you answer?"
+The student opened his mouth. The master rang the bell.
+
 The landscape of mathematical logic underwent a fundamental transformation with Kurt Gödel's incompleteness theorems in 1931, establishing seemingly insurmountable limitations for formal axiomatic systems. However, recent developments in non-classical logic systems suggest that these limitations may be artifacts of specific foundational assumptions rather than universal mathematical truths. This chapter examines how multidimensional logical frameworks, particularly those employing observer-dependent truth valuations, may operate outside the scope of Gödel's theorems while maintaining internal consistency.
 
 **The Classical Foundation and Its Assumptions**
