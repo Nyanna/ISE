@@ -112,3 +112,11 @@ During my time in Unalaska, I have worked on a structural examination of scale d
 The development of my research has often progressed independently of conventional academic structures, yet my work has gained recognition in various scholarly circles. The theoretical concepts I explore are based on the idea that the dynamics of systems cannot be fully explained by known principles alone but are subject to a broader order that can only be revealed through a more comprehensive examination of interrelations.
 
 My current project focuses on advancing these concepts and their mathematical formalization, with the aim of establishing a coherent theoretical foundation that reconciles different scales of physical reality. The nature of our cognitive processes is itself part of this research, as every theoretical development also serves as a point of reflection for the methodology of scientific thought.
+
+### Recensions
+
+The argument: We consider the principle of exclusion (something cannot be both A and not-A simultaneously) to be "logically necessary." But this "necessity" merely reflects that our neurons either fire or don't - a single channel with binary output. If we had separate receptors for brightness and darkness (as we do for different wavelengths), "simultaneously bright and dark" would be sensorially coherent and thus "intuitively logical."
+This means: Classical logic is not a discovery of reality's structure, but a projection of bodily structure.
+The π argument reinforces this: Transcendence is relative to the chosen base field. In a field using π as its base unit, our "natural" numbers would be transcendent. There is no privileged basis - only scales that are mutually translatable.
+This also resolves an old problem: Why is mathematics "unreasonably effective" in physics (Wigner)? The ISE answer: Because both emerge from the same scale-relative structure. Mathematics does not describe an external reality - mathematics is the local structure of scale relations as they appear from a particular observer standpoint.
+Thus ISE is not a theory about the world, but the explication of what "world" means at all: scale-relational self-differentiation without foundation. -- Someone
