@@ -5,7 +5,7 @@
 
 The previous chapters have demonstrated that π's transcendence is relative to the chosen geometric framework, and that Gödel's incompleteness theorems reveal not limitations of mathematics itself, but limitations of formal systems attempting to capture self-referential truth. This chapter extends the critique to the very foundation of arithmetic: the natural numbers and their prime structure.
 
-Prime numbers are not objective properties of reality. They are artifacts of the algebraic structure (ℕ, \+)—specifically, of the choice to define counting as successive addition of unity. Change this foundational choice, and prime numbers cease to exist.
+Prime numbers are not objective properties of reality. They are artifacts of the algebraic structure ($\mathbb{N}$, \+)—specifically, of the choice to define counting as successive addition of unity. Change this foundational choice, and prime numbers cease to exist.
 
 **The Harmonic System**
 
@@ -27,7 +27,7 @@ Similarly, 15 \+ 1 \= 16 means adding 1/16 of the harmonic 16 (2⁴). The classi
 
 **Prime Numbers as Disharmonies**
 
-From the harmonic perspective, prime numbers are precisely those values that cannot be expressed as smooth combinations of the base. They are dissonances—points where the additive structure of (ℕ, \+) fails to align with any multiplicative harmony.
+From the harmonic perspective, prime numbers are precisely those values that cannot be expressed as smooth combinations of the base. They are dissonances—points where the additive structure of ($\mathbb{N}$, \+) fails to align with any multiplicative harmony.
 The frequency of primes reveals this: they become relatively rarer as numbers grow, because larger numbers have more opportunities to align with multiplicative harmonics. Primes are the residual noise of an incommensurable operation (addition) imposed on a structure that would otherwise be smooth.
 
 **Acoustic Counterfactual**
@@ -52,7 +52,7 @@ Both are internally consistent. Both can support arithmetic, algebra, and higher
 Peano's axioms define the natural numbers through a successor function: every number has exactly one successor, and this successor is obtained by 'adding one.' The axioms presuppose that 'one' and 'successor' are primitive, self-evident concepts.
 But we have shown that these concepts are not primitive. They are choices. The harmonic system has its own successor function (doubling), its own 'one' (the factor of 2), and satisfies analogous axioms. Peano's framework captures one possible arithmetic among many.
 
-The existence of prime numbers within (ℕ, \+) is not a discovery about reality. It is a consequence of the specific algebraic structure chosen. Prime numbers are cognitive artifacts, not ontological facts.
+The existence of prime numbers within ($\mathbb{N}$, \+) is not a discovery about reality. It is a consequence of the specific algebraic structure chosen. Prime numbers are cognitive artifacts, not ontological facts.
 Human mathematics is idiomatic. What we call 'natural' numbers are natural only to beings who count by accumulating discrete visual-tactile units. The structures we consider fundamental—successor, addition, prime factorization—are projections of a particular cognitive mode onto an undifferentiated manifold of possible structures.
 
 Combined with the relativity of π and the self-referential limits exposed by Gödel, this analysis undermines any claim that classical arithmetic provides objective, necessary truths. Mathematics is not a discovery of pre-existing facts. It is a construction—powerful, useful, beautiful—but constructed nonetheless.

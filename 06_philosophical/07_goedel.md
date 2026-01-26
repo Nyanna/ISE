@@ -299,7 +299,7 @@ The attempt to eliminate multidimensionality through definitional fiat fails bec
 
 **Impossibility of Dimensional Elimination**
 
-Every attempt to force classical binary logic imports hidden dimensions rather than eliminating them. The crucial insight is that **multidimensionality cannot be defined away**—it is intrinsic to the conceptual structure of measurement and evaluation itself.
+Every attempt to force classical binary logic imports hidden dimensions rather than eliminating them. The crucial insight is that **multidimensionality cannot be defined away** - it is intrinsic to the conceptual structure of measurement and evaluation itself.
 
 The ISE framework makes these implicit dimensions explicit rather than concealing them behind apparently absolute definitions. This transparency allows for more precise logical analysis and reveals why classical consistency requirements often fail when applied to inherently multidimensional phenomena.
 
@@ -343,7 +343,7 @@ Where paraconsistent systems tolerate logical inconsistency, multidimensional fr
 
 The mathematical logic community typically treats Gödel's theorems as **fundamental limitations** rather than **artifacts of particular topological assumptions**. This perspective reflects the deep embedding of classical logical architecture in mathematical foundations.
 
-The ISE proposal—that arithmetic completeness can be achieved through topological refoundation—challenges this foundational assumption. It suggests that what appear to be universal mathematical constraints may be special cases of more general multidimensional logical possibilities.
+The ISE proposal - that arithmetic completeness can be achieved through topological refoundation—challenges this foundational assumption. It suggests that what appear to be universal mathematical constraints may be special cases of more general multidimensional logical possibilities.
 
 **Self-Referential Completeness Axiomatization**
 
@@ -468,7 +468,7 @@ A fundamental critique emerges when we consider the position from which Gödel's
 
 The critique extends to practical considerations of mathematical completeness:
 
-> Every problem can be mathematically represented, regardless of whether such representation is practical or useful. Mathematics remains complete as long as no example exists of a problem that cannot be described mathematically.
+- Every problem can be mathematically represented, regardless of whether such representation is practical or useful. Mathematics remains complete as long as no example exists of a problem that cannot be described mathematically.
 
 This perspective suggests that mathematical incompleteness is not about absolute limitations but about practical constraints within specific formal systems.
 
@@ -476,7 +476,7 @@ This perspective suggests that mathematical incompleteness is not about absolute
 
 A radical proposition emerges from this analysis:
 
-> Mathematics is complete when it declares itself complete, and provable when it declares itself provable.
+- Mathematics is complete when it declares itself complete, and provable when it declares itself provable.
 
 This self-referential approach challenges the notion that mathematical validity requires external validation. The system becomes the ultimate arbiter of its own completeness and consistency.
 
@@ -491,13 +491,13 @@ The traditional defense of Gödel's theorems relies heavily on the distinction b
 **The Fundamental Question**: How can Gödel claim something is "true" if he cannot prove it?
 
 This leads to the assertion that:
-> If something cannot be proven, it is only *apparently* true rather than actually true.
+- If something cannot be proven, it is only *apparently* true rather than actually true.
 
 **Impossibility of Unprovable Truths**
 
 From this perspective, the very concept of "unprovable truths" within a mathematical system becomes incoherent:
 
-> How can a system contain truths that it cannot prove? What would be the mechanism for such a phenomenon?
+- How can a system contain truths that it cannot prove? What would be the mechanism for such a phenomenon?
 
 **The Standard Defense: Semantic vs. Syntactic Truth**
 
@@ -519,7 +519,7 @@ Under this definition, a statement can be:
 **The Model-Independence Claim**
 
 The defense argues that:
-> Semantic structures exist independently of proof calculi. The standard model fulfills certain properties (such as every number having exactly one successor) regardless of whether these properties can be formally derived.
+- Semantic structures exist independently of proof calculi. The standard model fulfills certain properties (such as every number having exactly one successor) regardless of whether these properties can be formally derived.
 
 **Boundary Question**
 
@@ -570,7 +570,7 @@ The exploration of these issues supports the development of alternative logical 
 
 At the heart of Gödel's incompleteness theorems lies a crucial distinction that deserves careful examination. When confronted with Gödel's claim that certain statements are true but unprovable, a natural skeptical response emerges:
 
-> **"If a statement cannot be proven, why should I believe it satisfies the axioms (i.e., is true in the model)? One could equally argue: It merely *appears* to satisfy the axioms but actually doesn't—that's precisely why it's unprovable."**
+- **"If a statement cannot be proven, why should I believe it satisfies the axioms (i.e., is true in the model)? One could equally argue: It merely *appears* to satisfy the axioms but actually doesn't—that's precisely why it's unprovable."**
 
 This challenge strikes at the core of how we understand mathematical truth and reveals the subtle but fundamental distinction upon which Gödel's entire argument rests.
 
@@ -578,21 +578,21 @@ This challenge strikes at the core of how we understand mathematical truth and r
 
 Gödel's framework provides a precise answer to this challenge:
 
-> **Whether a statement satisfies the axioms is a semantic question.**  
-> **Whether it is provable is a syntactic question.**  
-> **These two domains can diverge.**
+- **Whether a statement satisfies the axioms is a semantic question.**  
+- **Whether it is provable is a syntactic question.**  
+- **These two domains can diverge.**
 
 This separation represents one of the most profound insights in mathematical logic, yet it also opens the door to fundamental questions about the nature of mathematical truth itself.
 
 **Provability ≠ Axiom Satisfaction**
 
-**(A) The Syntactic Domain**
+**The Syntactic Domain**
 The syntactic realm of formal systems operates under strict constraints:
 - **Finite Termination**: All proofs must conclude in finite steps
 - **Recursive Rules**: Based on mechanically applicable inference rules  
 - **Limited Scope**: Can only "examine" finitely many possibilities
 
-**(B) The Semantic Domain**  
+**The Semantic Domain**  
 The semantic realm encompasses a broader landscape:
 - **Model Completeness**: Describes *all* models that satisfy the axioms
 - **Infinite Structures**: Not restricted to finite computational steps
@@ -633,7 +633,7 @@ This represents a fundamental category distinction in logical analysis.
 **Concrete Example: The Standard Model**
 
 When we assert:
-> "$\sigma$ is true in the standard model $\mathbb{N}$"
+- "$\sigma$ is true in the standard model $\mathbb{N}$"
 
 We mean:
 - We consider the natural numbers $0, 1, 2, 3, \ldots$
@@ -666,7 +666,7 @@ $$\underbrace{\text{Axioms} \models G}_{\text{Semantically true}} \quad \text{bu
 **Apparent Truth Objection**
 
 The skeptical position maintains:
-> "Perhaps $G$ only *appears* to satisfy the axioms but actually doesn't."
+- "Perhaps $G$ only *appears* to satisfy the axioms but actually doesn't."
 
 This objection reveals a crucial insight about model relativity:
 
@@ -692,9 +692,7 @@ The semantic-syntactic distinction reveals the limitations of classical binary a
 - **Multidimensional Logic**: Recognizes truth as contextually dependent across different logical dimensions
 
 In multidimensional frameworks, the apparent contradiction dissolves:
-
 $$\text{Truth}_{\text{semantic}}(G) \neq \text{Provability}_{\text{syntactic}}(G)$$
-
 Truth and provability operate in distinct dimensional contexts, making their divergence a feature rather than a bug.
 
 **External Validation Problem**
@@ -724,7 +722,7 @@ The productive tension between semantic and syntactic approaches to truth points
 
 A critical examination of Gödel's incompleteness theorems reveals a potential foundational error in the semantic-syntactic distinction. The argument proceeds from a fundamental epistemological principle:
 
-> **You cannot assert something as "true" if you cannot prove it mathematically.**
+- **You cannot assert something as "true" if you cannot prove it mathematically.**
 
 This challenge directly confronts Gödel's claim that statements can be semantically true yet syntactically unprovable, exposing what may be a circular reasoning problem in the very foundations of the incompleteness argument.
 
@@ -744,7 +742,7 @@ Attempting to prove correct semantics independently from mathematical proof syst
 
 This analysis yields a fundamental principle:
 
-> **Nothing can be true that cannot be proven, in either mathematical or semantic sense.**
+- **Nothing can be true that cannot be proven, in either mathematical or semantic sense.**
 
 The Gödelian distinction between "true but unprovable" statements becomes logically incoherent under this framework, as it requires accepting semantic truth claims that cannot be independently verified.
 
@@ -757,13 +755,9 @@ This observation opens a pathway to systems that satisfy Gödel's formal conditi
 **Formal Construction of the Cyclic System**
 
 Consider a system $S$ with a fundamental axiom $\Omega$ defined as:
-
 $$\Omega: \forall \phi \in S: \phi \text{ is true } \iff \phi \text{ is provable in } S$$
-
 Combined with the meta-axiom:
-
 $$\text{Provable}_S(\Omega)$$
-
 This creates a **cyclic fixpoint** where:
 - Every sentence $\phi$ is true by definition when it is provable
 - $\Omega$ itself is provable, therefore $\Omega$ is true
@@ -775,7 +769,7 @@ The system achieves completeness and self-provability.
 **Classical Construction vs. Cyclic Systems**
 
 Gödel's incompleteness proof relies on constructing a sentence $G$ of the form:
-> "$G$ is not provable in $S$"
+- "$G$ is not provable in $S$"
 
 This strategy succeeds in **linear, non-cyclic systems** where:
 - $G$ becomes true but unprovable
@@ -843,9 +837,7 @@ This analysis does not diminish the historical importance of Gödel's work but r
 ### **Cyclic Self-Reference as a Theory of Everything**
 
 The analysis of cyclic self-referential systems reveals their potential role as a comprehensive mathematical framework—essentially functioning as a **Theory of Everything (TOE)** in the mathematical domain. This system $S_\Omega$ operates on a fundamental principle that transcends traditional mathematical boundaries:
-
 $$\forall \phi \in S_\Omega : (\phi \text{ true } \iff \phi \text{ provable}) \wedge (\Omega \text{ is provable})$$
-
 The aspect of this framework lies not in replacing classical mathematics but in **containing all linear, non-cyclic systems as subsets and limiting cases**. Every established mathematical system—Peano Arithmetic (PA), Zermelo-Fraenkel Set Theory (ZF), and other classical frameworks—exists as a **substructure** within $S_\Omega$.
 
 **Classical Systems as Limiting Cases**
@@ -985,11 +977,12 @@ This approach **dissolves** classical incompleteness because the self-referentia
 
 The complete system can be represented as:
 
-```
-S_Ω := { Ω }
-Ω := "∀φ ∈ S_Ω : (Provable(φ) ⇔ True(φ)) ∧ Provable(Ω)"
-S_lin ⊂ S_Ω   // Classical systems as subset
-```
+$S_\Omega := \{ \Omega \}$
+
+$\Omega := "\forall \varphi \in S_\Omega : (\text{Provable}(\varphi) \iff \text{True}(\varphi)) \land \text{Provable}(\Omega)"$
+
+$S_{\text{lin}} \subset S_\Omega$ // Classical systems as subset
+
 
 **System Hierarchy**:
 - `S_Ω` = Theory of Everything framework
@@ -997,9 +990,9 @@ S_lin ⊂ S_Ω   // Classical systems as subset
 - `Ω` = Cyclic, self-referential foundational axiom
 
 Every derivation $\phi$ in `S_Ω` automatically satisfies:
-```
-True(φ) ⇔ Provable(φ)
-```
+
+$$\text{True}(\varphi) \iff \text{Provable}(\varphi)$$
+
 
 **System Properties Analysis**
 
@@ -1038,7 +1031,7 @@ A critical examination of Gödel's incompleteness theorems reveals a fundamental
 
 Gödel's theorems exhibit an unusual resistance to counterarguments through a systematic interpretive strategy:
 
-> **For any system that appears to violate Gödel's conclusions, the response is invariably that such a system fails to meet Gödel's prerequisites rather than that Gödel's theorems are incorrect.**
+- **For any system that appears to violate Gödel's conclusions, the response is invariably that such a system fails to meet Gödel's prerequisites rather than that Gödel's theorems are incorrect.**
 
 This creates a logical structure where:
 - Systems confirming Gödel's limitations are cited as evidence for the theorems
@@ -1078,12 +1071,10 @@ A fundamental weakness in Gödel's framework concerns the precise specification 
 
 The analysis reveals a systematic pattern in responses to potential counterexamples:
 
-```
 - System S appears to violate Gödel's conclusions
 - Immediate response: "S does not satisfy conditions X, Y, or Z"
 - Evidence for this claim: "Because S violates Gödel's conclusions"
 - Circular reasoning: The conclusion is used to justify the premises
-```
 
 This pattern demonstrates that **Gödel's theorems only apply to systems where they already hold** - a fundamental circularity that undermines their claimed universality.
 
@@ -1094,6 +1085,7 @@ Gödel's theorems take the logical form:
 $$\text{IF } (A \land B \land C) \text{ THEN } \text{Incompleteness}$$
 
 Where:
+
 - $A$ = Sufficient expressiveness
 - $B$ = Recursive axiomatizability  
 - $C$ = Classical consistency
@@ -1109,16 +1101,18 @@ However, the verification of conditions $A$, $B$, and $C$ presents fundamental c
 When a system $S$ demonstrates apparent completeness:
 
 **Standard Response Pattern**:
-> "System $S$ does not satisfy the prerequisites for Gödel's theorems, therefore Gödel's theorems do not apply to $S$."
+
+- "System $S$ does not satisfy the prerequisites for Gödel's theorems, therefore Gödel's theorems do not apply to $S$."
 
 **Critical Analysis**:
-> This response employs the very conclusions it seeks to protect as evidence for excluding challenging cases, creating a self-reinforcing logical structure immune to falsification.
+
+- This response employs the very conclusions it seeks to protect as evidence for excluding challenging cases, creating a self-reinforcing logical structure immune to falsification.
 
 **Logical Necessity of Gödel Violation**
 
 The analysis reveals a crucial insight for TOE development:
 
-> **A valid Theory of Everything must necessarily operate outside Gödel's framework, not despite this fact, but because of it.**
+- **A valid Theory of Everything must necessarily operate outside Gödel's framework, not despite this fact, but because of it.**
 
 **Logical Sequence**
 
@@ -1141,21 +1135,19 @@ This analysis inverts the traditional interpretation of Gödel's theorems for TO
 The practical implication provides a validation criterion for TOE candidates:
 
 **Exclusion Test**:
-```
+
 Does the theory satisfy Gödel's classical prerequisites?
-→ YES: Cannot be a valid TOE (structurally incomplete)
-→ NO: Potential TOE candidate (capable of self-reference)
-```
+$to$ YES: Cannot be a valid TOE (structurally incomplete)
+$\to$ NO: Potential TOE candidate (capable of self-reference)
 
 **Inclusion Test**:
-```
+
 Does the theory violate at least one of:
 - Linear axiom structure
 - Two-valued classical logic  
 - Non-self-referential consistency
-→ YES: TOE candidate
-→ NO: Classical approximation only
-```
+$\to$ YES: TOE candidate
+$\to$ NO: Classical approximation only
 
 **Application to Contemporary Physics**
 
@@ -1186,7 +1178,7 @@ Does the theory violate at least one of:
 
 The analysis suggests a fundamental reframing of the completeness problem in theoretical physics:
 
-> **Rather than viewing Gödel's limitations as universal constraints, they should be understood as indicators that complete theories require logical frameworks transcending classical assumptions.**
+- **Rather than viewing Gödel's limitations as universal constraints, they should be understood as indicators that complete theories require logical frameworks transcending classical assumptions.**
 
 **False Dilemma Resolution**
 

@@ -15,15 +15,15 @@ Inside the standard integer-based framework, the decimal expansion of π does no
 **Object-Level vs Meta-Level**
 
 We distinguish two levels of discourse:
-- Object-level (inside a fixed framework): If we fix the usual primitives—integers, the field of rationals $ℚ$, real numbers $ℝ$ with the Euclidean metric—then we can prove the familiar theorems: π is irrational, and (in that same framework) transcendental; the ratio of circumference to diameter is $C/D = π$; and so on.
-- Meta-level (choosing or changing frameworks): If we change primitives, units, or the base field, the classifications of numbers change. Algebraicity, irrationality, and “simplicity” are relational, not absolute. Over $ℚ$, π is transcendental; over $ℚ(π)$, π is trivially algebraic (it satisfies $X-π=0$ with coefficients in the base field). If curvature or a multiple of π is taken as primitive, π is no longer “complicated”—it becomes part of the definitional bedrock.
+- Object-level (inside a fixed framework): If we fix the usual primitives—integers, the field of rationals $\mathbb{Q}$, real numbers $\mathbb{R}$ with the Euclidean metric—then we can prove the familiar theorems: π is irrational, and (in that same framework) transcendental; the ratio of circumference to diameter is $C/D = π$; and so on.
+- Meta-level (choosing or changing frameworks): If we change primitives, units, or the base field, the classifications of numbers change. Algebraicity, irrationality, and “simplicity” are relational, not absolute. Over $ℚ$, π is transcendental; over $\mathbb{Q}(π)$, π is trivially algebraic (it satisfies $X-π=0$ with coefficients in the base field). If curvature or a multiple of π is taken as primitive, π is no longer “complicated”—it becomes part of the definitional bedrock.
 Throughout, we maintain this relational perspective: there is no absolute transcendence or absolute irrationality independent of the foundational choices.
 
 **Commensurability as Basis-Relative**
 
-Two lengths $a$ and $b$ are commensurable relative to a base system if their ratio $a/b$ lies in the designated “simple” field of that system (e.g., $ℚ$ in the classical choice). In the Euclidean, integer-first framework:
-- The relation $C = π D$ yields $C/D = π \notin ℚ$, so circumference and diameter are incommensurable relative to $ℚ$.
-- If we enlarge the base field to $ℚ(π)$, then $C/D = π \in ℚ(π)$, so circumference and diameter become commensurable relative to the new base.
+Two lengths $a$ and $b$ are commensurable relative to a base system if their ratio $a/b$ lies in the designated “simple” field of that system (e.g., $\mathbb{Q}$ in the classical choice). In the Euclidean, integer-first framework:
+- The relation $C = π D$ yields $C/D = π \notin \mathbb{Q}$, so circumference and diameter are incommensurable relative to $\mathbb{Q}$.
+- If we enlarge the base field to $\mathbb{Q}(π)$, then $C/D = π \in \mathbb{Q}(π)$, so circumference and diameter become commensurable relative to the new base.
 Thus, commensurability is not a structural invariant; it is indexed to the field and primitives we select.
 
 **Units and Normalizations**
@@ -35,10 +35,10 @@ These are not mere notational tricks. They reflect the meta-level choice to priv
 
 **Inside the Classical Integer-First Framework**
 
-Within the standard $ℚ$-based arithmetic and Euclidean geometry:
-- Rational numbers are those representable as $p/q$ with $p,q\in ℤ$. Finite decimal expansions in base 10 correspond to denominators of the form $2^α5^β$, and periodic expansions correspond to all other rationals.
+Within the standard $\mathbb{Q}$-based arithmetic and Euclidean geometry:
+- Rational numbers are those representable as $p/q$ with $p,q\in \mathbb{Z}$. Finite decimal expansions in base 10 correspond to denominators of the form $2^α5^β$, and periodic expansions correspond to all other rationals.
 - Numbers like $\sqrt{2}$, $e$, and π are irrational, with non-repeating, infinite expansions in base 10.
-- π is (object-level) transcendental over $ℚ$; yet meta-level, this status is relational to the chosen base field.
+- π is (object-level) transcendental over $\mathbb{Q}$; yet meta-level, this status is relational to the chosen base field.
 This catalog is valid inside the chosen rules, but none of these classifications are universally binding across all frameworks.
 
 **Alternative Foundational Systems and What They Privilege**
@@ -52,7 +52,7 @@ Shifting primitives or metrics reshapes which quantities look “simple.”
   - On curved surfaces, the ratio $C/D$ for circles depends on radius and ambient curvature; the “π” familiar from flat geometry is not constant.
   - The constancy of π is thus a feature of Euclidean flatness, not a universal truth across geometries.
 - p-adic number systems:
-  - Change the notion of “closeness” and completeness. Expansions and convergence invert certain intuitions from $ℝ$.
+  - Change the notion of “closeness” and completeness. Expansions and convergence invert certain intuitions from $\mathbb{R}$.
   - Numbers that look “complicated” in the real/Euclidean metric can become “simple” p-adically, and vice versa.
   - The very sense in which decimal expansions are infinite or well-behaved is metric-dependent.
 - Constructive and computable frameworks:
@@ -90,7 +90,7 @@ Thus, by re-basing the system, one can make circular geometry primitive and poly
 **Relational View of Algebraicity, Irrationality, and Transcendence**
 
 Adopting the explicit relational stance:
-- Algebraicity and transcendence are relational to a chosen base field or primitive system. Over $ℚ$, π is transcendental. Over $ℚ(π)$, π is algebraic of degree 1. In a curvature-first foundation where a multiple of π is primitive, π is “simple” by design.
+- Algebraicity and transcendence are relational to a chosen base field or primitive system. Over $\mathbb{Q}$, π is transcendental. Over $\mathbb{Q}(π)$, π is algebraic of degree 1. In a curvature-first foundation where a multiple of π is primitive, π is “simple” by design.
 - Irrationality is not a basis-independent verdict. It reflects that, in the integer-first system, certain ratios (e.g., circle circumference to diameter) are not describable by integer ratios. In a system grounded in curvature, the same ratio may be primitive and thus no longer “irrational” in any sense that privileges integers.
 - There is no absolute transcendence or absolute irrationality—only incommensurability or complexity relative to a chosen representational basis.
 
@@ -482,38 +482,38 @@ In this light, the Taijitu has always encoded scale-relational physics: a world 
 
 ### **The Hidden Transcendence of Prime Numbers**
 
-This section demonstrates that the integers ℤ, traditionally viewed as the foundation of "discrete" and "whole" mathematics, contain embedded transcendental structure disguised as whole numbers. Prime numbers, rather than being fundamental atomic units, are projections of incommensurable geometric ratios onto the integer lattice. This reveals that the distinction between "integer" and "irrational" is basis-dependent, and that primality itself is an artifact of representational choice rather than an ontological property.
+This section demonstrates that the integers $\mathbb{Z}$, traditionally viewed as the foundation of "discrete" and "whole" mathematics, contain embedded transcendental structure disguised as whole numbers. Prime numbers, rather than being fundamental atomic units, are projections of incommensurable geometric ratios onto the integer lattice. This reveals that the distinction between "integer" and "irrational" is basis-dependent, and that primality itself is an artifact of representational choice rather than an ontological property.
 
 **The Paradox of Primality**
 
-**Proposition (The Divisibility Paradox):** If ℤ represents truly "whole" and uniform quantities generated by the unit 1, then all integers n > 1 should be expressible as products of smaller integers through iterated addition of the fundamental unit. However, prime numbers p resist such decomposition: p = p·1 is the only factorization within ℤ{±1}.
+**Proposition (The Divisibility Paradox):** If $\mathbb{Z}$ represents truly "whole" and uniform quantities generated by the unit 1, then all integers n > 1 should be expressible as products of smaller integers through iterated addition of the fundamental unit. However, prime numbers p resist such decomposition: p = p·1 is the only factorization within $\mathbb{Z}${±1}.
 
 **Observation:** This irreducibility suggests that primes are not "built from" the unit 1 in the same sense that composite numbers are. Rather, primes represent **distinct qualitative modes** that happen to be forced into integer notation.
 
 **Analogy (Harmonic Series):** Consider frequencies:
 
 * Fundamental: f₀ = 440 Hz
-* Overtone series: nf₀ for n ∈ ℕ
+* Overtone series: nf₀ for n $\in$ $\mathbb{N}$
 * A frequency 7f₀ cannot be generated by any combination of 2f₀ and 3f₀ within the overtone structure of those fundamentals
 
-The number 7 represents a **harmonically independent** frequency mode. Its primality in ℤ reflects this incommensurability.
+The number 7 represents a **harmonically independent** frequency mode. Its primality in $\mathbb{Z}$ reflects this incommensurability.
 
 **Primes as Projections of Transcendental Ratios**
 
-**Hypothesis (Geometric Origin of Primes):** Let K be a base field containing geometric constants π and elliptic ratios e₁, e₂, .... Each prime p ∈ ℤ corresponds to a unique ratio:
+**Hypothesis (Geometric Origin of Primes):** Let K be a base field containing geometric constants π and elliptic ratios e₁, e₂, .... Each prime p $\in$ $\mathbb{Z}$ corresponds to a unique ratio:
 
 ```
-p ↔ π/αₚ
+$p \leftrightarrow \pi/\alpha_p$
 ```
 
-where αₚ is transcendental over ℚ and incommensurable with all αᵧ for q ≠ p.
+where αₚ is transcendental over $\mathbb{Q}$ and incommensurable with all αᵧ for q ≠ p.
 
 **Supporting Evidence:**
 
 **A) The Riemann Zeta Function** explicitly connects primes to transcendental structure:
 
 ```
-ζ(s) = ∏ₚ 1/(1 - p⁻ˢ)
+$\zeta(s) = \prod_p \frac{1}{1 - p^{-s}}$
 ```
 
 The zeros of ζ(s) (Riemann Hypothesis) lie on the critical line and are conjectured to be transcendental. These zeros **encode the distribution of primes** — suggesting primes inherit transcendental structure from a continuous substrate.
@@ -521,7 +521,7 @@ The zeros of ζ(s) (Riemann Hypothesis) lie on the critical line and are conject
 **B) Prime Number Theorem:** The density of primes near n behaves as:
 
 ```
-π(n) ~ n/ln(n)
+$\pi(n) \sim \frac{n}{\ln(n)}$
 ```
 
 The appearance of the natural logarithm (transcendental function) in the distribution formula suggests primes are **samples** from a continuous, transcendental distribution rather than discrete atomic units.
@@ -530,27 +530,27 @@ The appearance of the natural logarithm (transcendental function) in the distrib
 
 **Basis-Relativity of Primality**
 
-**Theorem (Primality is Basis-Dependent):** Let K₀ = ℚ and define:
+**Theorem (Primality is Basis-Dependent):** Let K₀ = $\mathbb{Q}$ and define:
 
 ```
-K₁ = ℚ(π, e₁, e₂, ..., eₙ)
+$K_1 = \mathbb{Q}(\pi, e_1, e_2, \dots, e_n)$
 ```
 
-where eᵢ are geometric ratios (elliptic integrals, etc.). An integer p that is prime in ℤ may factor in the ring of integers 𝒪\_{K₁} of K₁.
+where eᵢ are geometric ratios (elliptic integrals, etc.). An integer p that is prime in $\mathbb{Z}$ may factor in the ring of integers $\mathcal{O}_{K_1}$.
 
 **Example (Gaussian Integers):**
 
 ```
-In ℤ: 5 is prime
-In ℤ[i]: 5 = (2 + i)(2 - i)
+In $\mathbb{Z}$: 5 is prime
+In $\mathbb{Z}$[i]: 5 = (2 + i)(2 - i)
 ```
 
-The "primality" of 5 vanishes upon field extension. This demonstrates that primality is not an intrinsic property but a **projection effect** of restricting to ℤ.
+The "primality" of 5 vanishes upon field extension. This demonstrates that primality is not an intrinsic property but a **projection effect** of restricting to $\mathbb{Z}$.
 
 **Corollary:** If we construct an infinite tower of field extensions:
 
 ```
-K₀ ⊂ K₁ ⊂ K₂ ⊂ ... ⊂ K_∞
+$K_0 \subset K_1 \subset K_2 \subset \dots \subset K_\infty$
 ```
 
 where each Kₙ₊₁ adjoins geometric constants arising from Kₙ-ellipsoids, then in the limit K\_∞, the concept of "prime" may cease to exist — every element factors as a ratio of geometric primitives.
@@ -558,7 +558,7 @@ where each Kₙ₊₁ adjoins geometric constants arising from Kₙ-ellipsoids, 
 
 **Integers as Quantized Continuum**
 
-**Framework (ℤ as Lattice Projection):** Consider the space ℝ with its natural geometric structure. The integers ℤ ⊂ ℝ form a **discrete lattice** within this continuum. Under this view:
+**Framework ($\mathbb{Z}$ as Lattice Projection):** Consider the space $\mathbb{R}$ with its natural geometric structure. The integers $\mathbb{Z} \subset \mathbb{R}$ form a **discrete lattice** within this continuum. Under this view:
 
 * **Composite numbers** = lattice points that lie on rational linear combinations of smaller lattice points
 * **Prime numbers** = lattice points that **do not** lie on such combinations; they represent **incommensurable directions** in the geometric space
@@ -568,12 +568,12 @@ where each Kₙ₊₁ adjoins geometric constants arising from Kₙ-ellipsoids, 
 Let V be a vector space over K\_∞ (the field containing all geometric ratios). The projection map:
 
 ```
-π: V → V/Λ ≅ ℤ
+$\pi: V \to V/\Lambda \cong \mathbb{Z}$
 ```
 
 maps continuous geometric quantities to discrete integer representatives. Primes are precisely those elements whose preimages π⁻¹(p) represent **algebraically independent** directions in V.
 
-**Proposition:** The multiplicative structure of ℤ emerges from the **interference pattern** of projecting incommensurable geometric modes onto a discrete lattice. Primality is the signature of transcendental incommensurability surviving the projection.
+**Proposition:** The multiplicative structure of $\mathbb{Z}$ emerges from the **interference pattern** of projecting incommensurable geometric modes onto a discrete lattice. Primality is the signature of transcendental incommensurability surviving the projection.
 
 
 **The Transcendental Signature in Prime Distribution**
@@ -596,22 +596,22 @@ maps continuous geometric quantities to discrete integer representatives. Primes
 
 **Main Result:**
 
-**Theorem (Hidden Transcendence in ℤ):** The integer number system ℤ, conventionally viewed as the epitome of discrete and rational mathematics, contains embedded transcendental structure. Prime numbers are not atomic building blocks but rather **projections of continuous, incommensurable geometric ratios** forced into discrete notation by the choice of ℤ as representational basis.
+**Theorem (Hidden Transcendence in $\mathbb{Z}$):** The integer number system $\mathbb{Z}$, conventionally viewed as the epitome of discrete and rational mathematics, contains embedded transcendental structure. Prime numbers are not atomic building blocks but rather **projections of continuous, incommensurable geometric ratios** forced into discrete notation by the choice of $\mathbb{Z}$ as representational basis.
 
 **Corollaries:**
 
 The classification "integer vs. irrational" is basis-relative. What appears as a "whole number" in one basis may be recognized as an irrational or transcendental ratio in a geometry-first basis.
 
-The Fundamental Theorem of Arithmetic (unique prime factorization) is not evidence of ℤ's fundamental status, but rather a **structural artifact** of how continuous geometric modes project onto the discrete integer lattice.
+The Fundamental Theorem of Arithmetic (unique prime factorization) is not evidence of $\mathbb{Z}$'s fundamental status, but rather a **structural artifact** of how continuous geometric modes project onto the discrete integer lattice.
 
-Mathematics built exclusively on ℤ as foundation necessarily obscures the continuous geometric substrate from which ℤ emerges.
+Mathematics built exclusively on $\mathbb{Z}$ as foundation necessarily obscures the continuous geometric substrate from which $\mathbb{Z}$ emerges.
 
 **Connection to Scale-Relational Mathematics**
 
 Within the SRM framework presented in ISE:
 
 * **Primes as Scale Markers:** Each prime p marks a distinct scale ratio incommensurable with others — analogous to how fundamental frequencies define harmonic scales
-* **Field Tower K₀ ⊂ K₁ ⊂ ... ⊂ K\_∞:** Represents progressive "resolution" of geometric structure; at each level, more "primes" factor into geometric ratios
+* **Field Tower $K_0 \subset K_1 \subset \dots \subset K_\infty$:** Represents progressive "resolution" of geometric structure; at each level, more "primes" factor into geometric ratios
 * **No Absolute Integrality:** Just as there are no absolute units in SRM, there are no absolute "whole numbers" — only ratios that appear whole within a chosen lattice projection
 
-The apparent discreteness and primality structure of ℤ is not fundamental reality but an emergent pattern arising from projecting a continuous, transcendentally-structured geometric space onto a conventional discrete basis. Prime numbers are frozen transcendence — geometric incommensurabilities trapped in integer notation.
+The apparent discreteness and primality structure of $\mathbb{Z}$ is not fundamental reality but an emergent pattern arising from projecting a continuous, transcendentally-structured geometric space onto a conventional discrete basis. Prime numbers are frozen transcendence — geometric incommensurabilities trapped in integer notation.

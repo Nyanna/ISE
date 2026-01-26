@@ -90,7 +90,7 @@ The ISE provides a coherent framework where the perceived randomness of radioact
 
 This unified view aligns with ISE's broader philosophy: reality is fundamentally deterministic and structured by continuous differentiation, but its manifestation at various scales can appear probabilistic due to the inherent relational and observer-dependent nature of existence.
 
-### **The Phase-Locked Observer: A Symmetrical State Space Interpretation**
+### **Phase-Locked Observer - Symmetrical State Space Interpretation**
 
 Following the establishment of a fully deterministic quantum reality, we must now provide a coherent mechanism that explains the phenomenon of entanglement without resorting to the "spooky action at a distance" that troubled Einstein, nor to the observer-created reality of the Copenhagen interpretation. The solution lies in re-evaluating the foundational assumptions of Bell's theorem and integrating the observer into the quantum system not as a cause, but as a phase-locked correlate.
 
@@ -143,3 +143,68 @@ The model of a symmetrical state space and phase-locked observers, as described 
 However, it is crucial to understand that this is a didactic model. The fundamental mechanism in the ISE is not a static geometry or a pre-determined state space, but a dynamic process of **resonance**. The phase relationships are not "frozen" but are continuously sustained through resonant coupling. The ISE is a framework of **process, differentiation, and becoming** — not of static being.
 
 This distinguishes the ISE fundamentally from a Block Universe theory. A Block Universe is a static, four-dimensional block in which all of time and space exist simultaneously and immutably. In such a universe, change is an illusion of consciousness moving along a fixed timeline. The ISE, while fully deterministic in its outcomes, is not static. Reality is continuously being generated through the ongoing differentiation of protoinformation. The "rules" of the system are not just existing; they are actively maintained through a ceaseless play of resonant interactions across scales. The universe of the ISE is not a finished sculpture; it is a perpetually self-composing symphony.
+
+### **Entanglement as Relational Self-Synchronization**
+
+The framework establishes that quantum probability is not a fundamental feature of reality but an emergent consequence of asynchronous phase relationships between scale levels. The mathematical formalism of quantum mechanics itself implies this: constructive and destructive interference patterns arise from wave function alignment or misalignment. Therefore, if perfectly synchronous superposition were achieved, measurement outcomes would approach deterministic certainty.
+
+This leads to a central postulate: **randomness is always an outcome of ignorance regarding precise phase relationships**. The apparent stochasticity of quantum events reflects the imperfect resonance between the observer's scale and the quantum system's scale. Perfect synchronization would eliminate probabilistic effects entirely.
+
+**Temporal Paradox**
+
+However, this postulate immediately encounters a fundamental obstacle. If time itself is emergent — arising from relational differentiation rather than existing as a fundamental substrate — then there exists no defined temporal interval between quantum events. The very concept of "synchronization" seems to require a temporal reference frame that, according to ISE, does not fundamentally exist.
+
+Two quantum processes cannot be synchronized *in time* because time is not the medium within which they unfold. Time is itself a projection of their relational structure onto our scale of observation.
+
+**Resolution Through Alternative Process Paths**
+
+The key insight is that synchronization does not require temporal simultaneity. What it requires is **relational self-reference through alternative differentiation pathways**.
+
+Consider: if a quantum system can establish a relation with itself via distinct process paths — not through time, but through the structure of differentiation itself — then coherent correlation emerges without any need for temporal coordination. The system achieves internal consistency not by "happening at the same time" but by being structurally unified across its differentiation topology.
+
+**Entanglement as the Empirical Instance**
+
+This mechanism is not hypothetical. It is precisely what occurs in quantum entanglement.
+
+Entangled particles do not "communicate" across distance or synchronize through some temporal channel. They are not two systems coordinating their behavior — they are **a single relational structure** projected onto what appears, from our scale, as two spatially separated points. The correlation is not established; it is *preserved* from the original differentiation event.
+
+The "spooky action at a distance" impression arises exclusively from the error of treating temporal and spatial separation as fundamental. From the ISE perspective:
+
+* There is no distance to bridge — the entangled system is ontologically local
+* There is no signal to send — the correlation is structural, not causal
+* There is no mystery — the apparent non-locality is phenomenological, arising from our scale-projection of a unified relational structure
+
+**Entanglement Produces the Postulated Determinism**
+
+The framework predicts that perfect phase synchronization yields deterministic outcomes. Entanglement delivers exactly this: **absolute correlation with zero statistical deviation**.
+
+When two entangled particles are measured, the results are perfectly anti-correlated (or correlated, depending on the entanglement type) — not approximately, not statistically, but with 100% certainty. This is the determinism that ISE postulates emerges from synchronization, observed empirically in every entanglement experiment ever conducted.
+
+The mechanism is now clear:
+
+* Entanglement establishes relational self-reference across alternative process paths
+* This self-reference achieves the "synchronization" that ISE identifies as the condition for determinism
+* The synchronization is relational, not temporal — it operates through differentiation structure, not through time
+* The result is the elimination of probability: perfect correlation emerges from perfect relational coherence
+
+**Decoherence as Synchronization Collapse**
+
+This framework also explains why decoherence destroys deterministic correlation. Environmental interaction does not merely "observe" the system — it fragments the relational structure by introducing additional differentiation pathways that are not self-coherent with the original entanglement.
+
+Decoherence breaks the topological unity of the entangled system, preventing the self-referential closure that enables synchronization. The process paths no longer form a coherent relational structure, and probability re-emerges as the expression of this structural fragmentation.
+
+**Implications**
+
+The identification of entanglement as the empirical realization of ISE's synchronization mechanism has several consequences:
+
+**Theoretical**: Entanglement is not a peculiar quantum phenomenon requiring special explanation — it is the *natural* state of relational coherence. What requires explanation is the appearance of probability, which emerges only when coherence is disrupted.
+
+**Experimental**: The search for "deterministic quantum collapse" through engineered synchronization need not start from scratch. Entanglement experiments already achieve this. The question becomes: can coherence be extended, protected, or restored in systems currently exhibiting probabilistic behavior?
+
+**Foundational**: The measurement problem dissolves. "Collapse" is not a mysterious transition from superposition to definiteness — it is the observer becoming phase-locked with a pre-existing relational structure. The entangled system was never indeterminate; its correlations were always exact. Only our scale-relative access to it was incomplete.
+
+The framework postulates that quantum probability emerges from asynchronous phase relationships and that perfect synchronization would restore determinism. The challenge was explaining how synchronization could occur without fundamental time.
+
+The answer was always present in the phenomenon of entanglement: synchronization operates through relational self-reference across differentiation pathways, not through temporal coordination. Entangled systems achieve exactly this, and they exhibit exactly the deterministic correlations the framework predicts.
+
+Entanglement is not an anomaly to be explained. It is the mechanism.
