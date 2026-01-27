@@ -1,7 +1,7 @@
 
 ---
 
-## **3.7. Dependency Propagation as the Unified Principle of Physical Reality**
+## **3.7. Dependency Propagation as the Unified Principle**
 
 This chapter demonstrates that the fundamental physical quantities — time, mass, space, and gravitation — are not ontologically distinct substrates but projective manifestations of a singular underlying process: dependency propagation through differentiation structure. We establish that the speed of light c functions not as a velocity limit but as the irreducible rate of dependency update, from which all physical phenomena emerge as structural consequences. The framework dissolves the apparent separation between relativistic mechanics, quantum mechanics, and gravitation by revealing them as scale-dependent projections of the same dependency architecture. We provide a reinterpretation of quantum mechanical phenomena — including superposition, uncertainty, entanglement, and decoherence — as manifestations of incomplete or distributed update processes within dependency networks.
 
