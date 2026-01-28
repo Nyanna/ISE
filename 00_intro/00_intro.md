@@ -51,11 +51,16 @@ In essence, scalar synchronized differentiation allows us to conceptualize the u
 
 ### Dynamic Relation Of Scales
 
-Another fundamental aspect of the model is the "dynamic relation of scales." This concept posits that the universe evolves not through a static framework of space and time but through the continuous interaction and adjustment of scales. As energy differentiates, the relationship between scales adjusts dynamically, enabling the emergence of new dimensions, structures, and causal interactions.
+A fundamental aspect of the model is the "dynamic relation of scales." Crucially, scale is not a quasi-metric framework (large/small, fine/coarse) but an epistemically-ontological mode of existence: **Scale is the unity of relational position and differentiation capacity.** These two aspects are not independent—what a structure can differentiate defines its scalar position, and its position delimits what it can differentiate. To exist at a scale *is* to possess a specific capacity for distinction.
 
-This dynamic interplay ensures that scales are not isolated; rather, they are in constant flux, responding to the differentiation occurring within them. For example, as energy differentiates at smaller scales to create atomic structures, it simultaneously influences larger-scale phenomena such as gravitational fields or galactic formations. This bidirectional flow of influence means that no single scale holds primacy; instead, the universe evolves through the relational adjustments across scales.
+This definition entails that scale boundaries are not locations. A "boundary" would exist where differentiation capacity ends—but this endpoint is itself not differentiable, hence not a point. Scales therefore overlap continuously rather than discretely.
 
-By incorporating the dynamic relation of scales, ISE provides a framework that unifies micro- and macroscopic phenomena, offering a lens through which the complex interplay of forces, dimensions, and structures can be understood as a cohesive, evolving system.
+The universe evolves through the continuous interaction and adjustment of scales. As differentiation propagates, the relationship between scales adjusts dynamically, enabling the emergence of new dimensions, structures, and causal interactions. Resonance structures that exceed a scale's differentiation capacity appear as invariant laws or fundamental forces—not because something is hidden, but because resolving their internal structure lies outside that scale's constitutive mode of existence. This applies symmetrically: what appears as "fundamental constant" from below appears as "unmeasurable substructure" from above.
+
+This bidirectional opacity ensures that no single scale holds primacy. The apparent lawfulness of physics at any scale reflects resonance shadows from adjacent scales whose internal constitution remains principally invisible from that vantage point.
+
+By incorporating the dynamic relation of scales, ISE unifies micro- and macroscopic phenomena through a framework where forces, dimensions, and structures emerge as projections of a single evolving differentiation process viewed from varying capacities of distinction.
+
 
 ## **Key Concepts**
 
