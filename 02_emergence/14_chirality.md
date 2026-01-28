@@ -270,6 +270,7 @@ A persistent concern: if weak interactions violate parity (mirror symmetry), doe
 **The Resolution:**
 
 Symmetry exists at the **system level** rather than particle level.
+Parity violation is not a failure of symmetry but a signature of describing an open differentiation sector as if it were closed.
 
 **Individual Particles:**
 
