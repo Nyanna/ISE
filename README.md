@@ -1,3 +1,6 @@
+
+![](images/nlm_overview.png){width=66%}
+
 A brilliant analogy!
 
 Einstein 1905/1915:
