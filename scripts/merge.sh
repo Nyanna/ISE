@@ -21,7 +21,7 @@ for dir in ./*/; do
 			fi
 		done
     	
-    	cat *.md >> "../output/chapter_$sanitized_name.merge.md"
+    	cat *.md > "../output/chapter_$sanitized_name.merge.md"
 		
 		cd ..
 	fi
@@ -29,5 +29,5 @@ done
 
 echo Combining chapters
 cd output
-cat chapter_*.merge.md >> "Thesis on Infinite Scale Expansion (ISE).merged.md" 
+cat chapter_*.merge.md > "Thesis on Infinite Scale Expansion (ISE).agentic.md" 
 cd ..
