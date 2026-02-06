@@ -2,3 +2,4 @@
 .obsidian
 /temp/
 *.out.md
+*.merge.md

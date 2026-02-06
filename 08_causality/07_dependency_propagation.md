@@ -59,6 +59,18 @@ Superposition states arise when multiple update paths through the dependency net
 
 Measurement corresponds to the moment when sufficient nodes achieve coherent update such that a definite position becomes projectable at the observer's scale. Wave function collapse is update completion. The measurement apparatus, itself a dependency structure, couples with the measured system and forces resolution of the update path through its own coherence requirements.
 
+**The Apparatus as Dependency Structure**
+
+Critically, the measurement apparatus is not a "classical" device external to quantum mechanics but itself a dependency network with its own update dynamics. Whether the probe is a photon, electron beam, or macroscopic detector, it possesses:
+
+* Dependency depth (mass/inertia from its node network)
+* Continuous update dynamics across its structure
+* Resonance coupling requirements for interaction
+
+When probe and target couple, two dependency networks engage in continuous resonance interaction. Throughout this coupling, both structures maintain complete differential specification — each node influences neighboring nodes according to dependency propagation rules at rate c. This continuous interaction contains full trajectory information encoded in the update dynamics.
+
+**The Heisenberg uncertainty constrains the projection of this continuous update interaction onto discrete classical eigenvalues**, not the interaction itself. The statistical distribution (wave function) describes viable update paths; measurement selects a path by forcing coherence through the apparatus's own dependency requirements. Copenhagen's error was ontologizing this projection limitation as fundamental indeterminacy while treating the apparatus as categorically distinct from the quantum system.
+
 **Entanglement as Coupled Updates**
 
 Entangled particles are coupled nodes that update together. Their correlations do not require signal propagation because they share dependency structure — updates to one are updates to both, not because information travels between them but because they constitute a single extended dependency pattern. Bell inequality violations follow naturally: the correlations are structural, not communicative.

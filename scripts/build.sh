@@ -1,6 +1,10 @@
 #!/bin/bash
 clear
 
+echo Merging Agentic Version
+./scripts/merge.sh
+
+echo Building PDF
 for dir in ./*/; do
 	dir_name=$(basename "$dir")
 	if [[ "$dir_name" =~ ^[0-9]{2} ]]; then
