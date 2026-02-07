@@ -1,7 +1,7 @@
 
 ---
 
-### **Idiomatic Nature of Arithmetic**
+## **Idiomatic Nature of Arithmetic**
 
 The previous chapters have demonstrated that π's transcendence is relative to the chosen geometric framework, and that Gödel's incompleteness theorems reveal not limitations of mathematics itself, but limitations of formal systems attempting to capture self-referential truth. This chapter extends the critique to the very foundation of arithmetic: the natural numbers and their prime structure.
 
