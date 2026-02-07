@@ -1,7 +1,7 @@
 
 ---
 
-## **Boundaries of Gödel's Framework**
+## **6.7. Boundaries of Gödel's Framework**
 
 **The Logician's Kōan**
 A student asked: "Master, is Gödel's theorem true?"
