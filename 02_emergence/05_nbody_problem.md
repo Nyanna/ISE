@@ -254,7 +254,7 @@ What Is Missing
 
 ISE claims categorical dissolution of the N-body problem through structural insight: linearity is preserved at the relational level, nonlinearity emerges only in spatial projection. This claim is **philosophically and structurally valid** but **operationally incomplete**.
 
-## Philosophical Significance
+### Philosophical Significance
 
 The progression Newton → Lagrange → ISE represents a consistent movement: **from the apparent to the structural**.
 
