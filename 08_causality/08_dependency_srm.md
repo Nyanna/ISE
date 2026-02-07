@@ -1,7 +1,7 @@
 
 ---
 
-## **3.8. Scale-Relational Formalization of Dependency Propagation**
+## **8.8. Scale-Relational Formalization of Dependency Propagation**
 
 This chapter provides the formal bridge between the conceptual framework of dependency propagation (Chapter "Dependency Propagation") and Scale-Relational Mathematics (SRM). We establish that the continuous scale group admits discrete observables through self-resonance conditions, that the photon serves as the natural torsor origin without privileging any absolute unit, and that coupling conditions between scales remain ontologically open rather than derivable from mathematical structure alone.
 
