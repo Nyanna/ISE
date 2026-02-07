@@ -148,6 +148,7 @@ These establish how wavelength, focusing, pulse duration, and amplitude jointly 
 The scale‑relational account agrees with standard predictions where detectors and modes are properly modeled. Its distinctive value is an intuitive ontology and new organizing principles. Nonetheless, it suggests precise stress‑tests:
 
 - Temporal Lens Covariance: Apply known time‑stretch/compress operations to single‑photon wavepackets and bright coherent pulses. Verify that detection statistics remain covariant once the detector’s temporal resolution is transformed. Deviations indicate scale‑dependent divisibility beyond standard QED plus detector response.
+- 
 - Resolution‑Volume Equivalence: Vary $A$ and $\tau$ at fixed $\int I\, dA\, dt$. Test whether click statistics are invariant under constant resolution volume, as the scale‑relational view predicts for suitably engineered modes.
 - Nonlinear Threshold Mapping: In SHG, two‑photon absorption, and PDC, explore how detection windows and local energy density control “merging/splitting” probabilities at fixed total energy. Map these to the predicted divisibility governed by amplitude within $V_{\text{res}}$.
 - High‑$\mathrm{NA}$ Single‑Photon Focusing: Validate $I_{\max} \propto \lambda^{-3}$ for single‑photon pulses at varying $\lambda$, fixed $\tau$ and $\mathrm{NA}$. This quantifies “energy per resolution” scaling.
