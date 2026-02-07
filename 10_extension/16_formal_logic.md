@@ -1,7 +1,7 @@
 
 ---
 
-## **Beyond Logical Collapse**
+## **10.16. Beyond Logical Collapse**
 
 **A Scale-Relational Critique of the Penrose-Lucas Argument and the Limits of Formal Logic in Consciousness Studies**
 
