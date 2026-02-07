@@ -1,7 +1,7 @@
 
 ---
 
-# 5.1. Fractal Nature: Scale‑Free (Scale‑Relational) Differentiation
+## **5.1. Fractal Nature: Scale‑Free (Scale‑Relational) Differentiation**
 
 This chapter refines and completes the notion of “fractal” in the ISE framework by making a crucial distinction: the model does not claim literal, one‑to‑one geometrical self‑similarity of concrete objects across all cosmic and microscopic scales. Instead, it asserts a scale‑relational form of self‑resonance: the universe differentiates its energy through recurrent principles that reappear across scales as invariant relations, even while the concrete forms, forces, and effective laws change. In this sense, “fractal” refers to the persistence of organizing principles and scale transformations that preserve key patterns of interaction, not to direct morphological identity between, for example, a galaxy and an atom.
 
