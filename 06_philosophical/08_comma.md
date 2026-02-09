@@ -28,8 +28,8 @@ The integer ratios are thus direct consequences of:
 When a string is plucked, energy distributes across harmonic modes according to initial conditions. However, these modes exhibit mathematical relationships that are fundamentally incommensurable. The energy cannot reconverge perfectly because the mathematical ratios of natural oscillation modes — derived from prime factorization — are inherently incompatible:
 
 * 2 and 3 are distinct prime numbers
-* They are multiplicatively independent in ℤ
-* Any number system containing ℤ or ℚ inherits this independence
+* They are multiplicatively independent in $\mathbb{Z}$
+* Any number system containing $\mathbb{Z}$ or $\mathbb{Q}$ inherits this independence
 * Therefore log₂(3) remains irrational across all such systems
 
 This represents **structural entropy** — irreversibility encoded not in statistical disorder but in the geometric architecture of the state space itself. Unlike thermodynamic entropy arising from many-body statistics, this incommensurability is a one-body phenomenon: it emerges from the mathematical structure of allowable states, not from ensemble averaging.
@@ -126,10 +126,10 @@ While the 3:2 ratio is psychoacoustically consonant (simple overtone relationshi
 
 The incommensurability of 2 and 3 transcends choice of number system:
 
-* In ℚ (rationals): log₂(3) is irrational
+* In $\mathbb{Q}$ (rationals): log₂(3) is irrational
 * In algebraic extensions: log₂(3) is transcendental, not algebraic
-* In finite fields 𝔽ₚ: Periodicity emerges but destroys frequency structure
-* In p-adic numbers ℚₚ: Different metric, but 2 and 3 remain multiplicatively independent
+* In finite fields $\mathbb{F}_p$: Periodicity emerges but destroys frequency structure
+* In p-adic numbers $\mathbb{Q}_p$: Different metric, but 2 and 3 remain multiplicatively independent
 
 **Best Rational Approximations**
 
