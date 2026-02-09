@@ -1,7 +1,7 @@
 
 ---
 
-## 8.2. Space–Entropy Coupling: Concept and Theoretical Derivation
+### 8.2.1. Space – Entropy Coupling: Concept and Theoretical Derivation
 
 This chapter defines and derives the notion of space–entropy coupling within a scale‑relational universe and places it on a mathematical footing. The central idea is that the number of distinguishable microstates—and thus entropy—is not independent of the geometric and scale structure of the underlying space, but co‑varies with it through information‑theoretic and gravitational bounds. The result is a framework in which entropy, space, and time are relational: the accessible entropy depends on the available “distance information,” the relevant scale of resolution, and the dynamical geometry.
 

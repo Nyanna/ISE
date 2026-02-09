@@ -1,7 +1,7 @@
 
 ---
 
-## **8.4. Gravitation as Entropic Differentiation — A Scale-Integrated Reformulation**
+## **8.2.3. Gravitation as Entropic Differentiation — A Scale-Integrated Reformulation**
 
 **Ontological Correction in Entropy-Gravitation Dynamics**
 
