@@ -1,7 +1,7 @@
 
 ---
 
-## **Ontological Reduction of Forces and Particle Properties**
+## **2.15. Ontological Reduction of Forces and Particle Properties**
 
 *This chapter develops the ISE reduction of all Standard Model forces and particle properties to two ontological primitives: spatial relation (differentiation of parts to each other) and energetic relation (differentiation of parts to the whole). It establishes the potential vector as the formal carrier of subquantum gravitation, derives the mechanism of attraction and repulsion from resonance closure compatibility, explains force field range through self-normalization of propagating resonance patterns, and reframes the entire particle zoo as a differentiation density spectrum. The analysis connects to and extends the dimensional asymmetry framework from Chapter "Charge-Parity Structure and Entropy", the potential matrix formalism from Chapter "The N-Body Problem", the magnetic monopole analysis, and the mass-complexity relation from Chapter "The Higgs Mechanism as a Scaling Artifact".*
 
