@@ -151,3 +151,31 @@ This leads to:
 The **logarithmic scale structure** is used to **resonantly neutralize** certain frequency bands. The resulting **gaps or enhancements** in the fluctuation statistics serve to reveal the **structural scale-dependence** of the zero-point (per ISE).
 
 This is not a force comparison — it is a **statistical structure analysis in frequency space**.
+
+
+**Differential Test: Synchronous Boundary Modulation in the Dynamical Casimir Effect**
+
+The dynamical Casimir effect — the generation of real photons from vacuum through non-adiabatic modulation of boundary conditions — provides a further opportunity to distinguish classical QED predictions from those of the ISE. The critical case arises not from the standard anti-phase modulation of cavity boundaries, but from their *synchronous* (in-phase) displacement.
+
+In standard QFT, the dynamical Casimir effect is derived entirely from the time-dependent mode structure of the cavity. When both boundaries oscillate in phase with identical amplitude, the cavity length remains constant. No mode frequencies shift, no Bogoliubov mixing occurs, and the prediction is strictly zero photon production — regardless of the magnitude of acceleration applied to the boundaries. The individual acceleration of each boundary carries no physical consequence in this framework, because the effect is defined purely through the relational mode structure internal to the cavity.
+
+The ISE arrives at a different prediction. While the internal differentiation geometry of the cavity is preserved under rigid co-displacement, the cavity as a whole undergoes acceleration relative to the surrounding scale field. This acceleration generates an incommensurability between the cavity's internal resonance structure and the external differentiation hierarchy — analogous to the impossibility of truly rigid bodies in general relativity, but here grounded in scale-relational terms rather than metric ones. The zero-point, being scale-relative rather than absolute, shifts with respect to the embedding environment even when the internal geometry is unchanged. Latent differentiation structure, previously below the observability threshold, is projected into the accessible frequency range.
+
+The ISE therefore predicts a weak but non-zero photon signal in the synchronous case, with the following distinguishing characteristics:
+
+* **Broadband spectrum** — unlike the resonant peaks produced by anti-phase modulation (which select specific cavity modes), the synchronous signal does not arise from internal mode coupling and should therefore lack sharp resonance structure.
+* **Acceleration dependence** — the signal scales with the acceleration amplitude of the co-moving boundaries, not with the cavity length or its resonant frequencies.
+* **Cavity-length independence** — since the internal mode structure is unaffected, the signal should be insensitive to cavity length at fixed acceleration, in direct contrast to the standard dynamical Casimir effect where cavity length determines the resonance condition.
+
+| Parameter | QED Prediction | ISE Prediction |
+| :---- | :---- | :---- |
+| Photon production (synchronous) | Exactly zero | Weak, non-zero |
+| Spectral character | — | Broadband, non-resonant |
+| Scaling parameter | — | Boundary acceleration amplitude |
+| Cavity-length dependence | — | Absent at fixed acceleration |
+
+**Experimental Feasibility**
+
+The test requires no fundamentally new apparatus. Existing SQUID-based implementations of the dynamical Casimir effect — such as the setup used by Wilson et al. (2011), where a superconducting quantum interference device modulates the effective electrical length of a transmission line — can be adapted by switching from anti-symmetric to symmetric modulation of both endpoints. The symmetric configuration has not been systematically investigated, precisely because QED treats it as a trivial null case. A careful measurement of the photon flux in this configuration, with the anti-phase result as calibration baseline, constitutes a clean differential test.
+
+This test is complementary to the geometrically scaled fluctuation experiment described above. Where the static Casimir experiment probes the scale-dependence of the zero-point through spatial geometry, the synchronous dynamical test probes it through temporal modulation — specifically, through the relational incommensurability between an accelerated cavity and its embedding differentiation field. Together, they address the same foundational question from orthogonal experimental directions: whether the vacuum zero-point is absolute or scale-relative.
