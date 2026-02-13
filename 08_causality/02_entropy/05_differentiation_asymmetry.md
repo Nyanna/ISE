@@ -22,7 +22,7 @@ Consider a differentiation process acting on protoinformation:
 
 * {A, B} differentiates into {A₁, A₂, B₁, B₂}
 * *Forward operation:* single step creates four elements
-* *Reverse operation:* requires minimum ⌈log₂(4)⌉ = 2 steps to return to protoinformation
+* *Reverse operation:* requires minimum $\lceil \log_2(4) \rceil$ = 2 steps to return to protoinformation
 * **Incommensurability emerges:** structural asymmetry becomes irreducible
 
 This reveals the core structural fact: **Differentiation depth d ≥ 2 creates path-dependent phase differences that cannot be eliminated through single-step reversal.**
@@ -39,7 +39,7 @@ For differentiation creating n elements at depth d:
 
 **Backward (reintegration to origin):**
 
-* Steps required: ⌈log₂(n)⌉ = d
+* Steps required: $\lceil \log_2(n) \rceil$ = d
 * Structural complexity: O(log n)
 * Information lost: intermediate dependency relations
 

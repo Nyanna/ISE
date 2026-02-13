@@ -9,7 +9,7 @@
 
 ISE posits protoinformation as a scale-free, continuous substrate $\Phi(\infty)$ — white noise with infinite frequency content. Physical structure emerges through **differentiation as sampling(projection)**: applying discrete sampling rates $R_k$ to extract finite-frequency representations.
 
-**Definition (Sampling Hierarchy):**A differentiation of order $k$ corresponds to a sampling rate $R_k$ applied to the substrate:
+**Definition (Sampling Hierarchy):** A differentiation of order $k$ corresponds to a sampling rate $R_k$ applied to the substrate:
 
 $$\Phi_k[n] = \Phi(\infty) \Big|_{t = n/R_k}$$
 
@@ -206,7 +206,11 @@ This difference frequency is **new structure** — a lower-frequency pattern eme
 
 **Cascading Differentiation**
 
-$$\begin{align} \text{Iteration 1:} \quad & f_1, f_2 \rightarrow f_{\text{diff},1} \ \text{Iteration 2:} \quad & f_1, f_{\text{diff},1} \rightarrow f_{\text{diff},2} \ \text{Iteration 3:} \quad & f_{\text{diff},1}, f_{\text{diff},2} \rightarrow f_{\text{diff},3} \ & \vdots \ \text{Iteration} , \infty: \quad & \text{unbounded generation of new frequencies} \end{align}$$
+$$\begin{aligned}\text{Iteration 1:} \quad & f_1, f_2 \rightarrow f_{\text{diff},1} \\
+\text{Iteration 2:} \quad & f_1, f_{\text{diff},1} \rightarrow f_{\text{diff},2} \\
+\text{Iteration 3:} \quad & f_{\text{diff},1}, f_{\text{diff},2} \rightarrow f_{\text{diff},3} \\
+& \vdots \\
+\text{Iteration } \infty: \quad & \text{unbounded generation of new frequencies}\end{aligned}$$
 
 Because arithmetic distances between frequency bands are generically incommensurate, differentiation **never terminates**. Each new difference frequency can interfere with existing frequencies to produce still finer structure.
 
@@ -248,7 +252,7 @@ This is **time dilation** in ISE: not as relativistic spacetime curvature but as
 
 **Components:**
 
-* 1 proton: $\mathcal{P}_p(f)$ with peaks at quark frequencies ( $f \sim 10^{23}$ Hz), gluon frequencies ( $f \sim 10^{24}$ Hz), spatial localization ( $f_{\text{spatial}} $), positive charge ( $f_{\text{charge}} $)
+* 1 proton: $\mathcal{P}_p(f)$ with peaks at quark frequencies ( $f \sim 10^{23}$ Hz), gluon frequencies ( $f \sim 10^{24}$ Hz), spatial localization ( $f_{\text{spatial}}$), positive charge ( $f_{\text{charge}}$)
 * 1 electron: $\mathcal{P}_e(f)$ with peaks at lepton frequencies ( $f \sim 10^{21}$ Hz), spatial localization ( $f_{\text{spatial}}$), negative charge ( $f_{\text{charge}}$)
 
 **Binding:** The electron and proton are phase-locked in the spatial band:
@@ -267,7 +271,7 @@ $$f_{\text{photon}} = |f_{\text{state2}} - f_{\text{state1}}|$$
 
 **Process:** The neutron's frequency profile is metastable — its constituent quark frequency bands are not in lowest-energy phase configuration.
 
-\*\*Decay:\*\*
+**Decay:**
 
 $$\mathcal{P}_n \rightarrow \mathcal{P}_p + \mathcal{P}_e + \mathcal{P}_{\bar{\nu}_e}$$
 
@@ -305,7 +309,7 @@ $$\mathcal{P}_{\gamma_1}(\phi) + \mathcal{P}_{\gamma_2}(\phi) = \text{constant p
 
 **Measurement:** "Measuring" photon 1's polarization means phase-locking the measurement apparatus's frequency profile to $\mathcal{P}_{\gamma_1}$ in the polarization band.
 
-\*\*Correlation:\*\* Because $\mathcal{P}_{\gamma_2}$'s phase is constrained by the phase-sum condition, measuring $\mathcal{P}_{\gamma_1}$ immediately determines $\mathcal{P}_{\gamma_2} $'s phase in the polarization band.
+**Correlation:** Because $\mathcal{P}_{\gamma_2}$'s phase is constrained by the phase-sum condition, measuring $\mathcal{P}_{\gamma_1}$ immediately determines $\mathcal{P}_{\gamma_2}$'s phase in the polarization band.
 
 **No signal:** The correlation is not transmitted. Both photons' profiles were created with the phase constraint from the outset. Measurement reveals pre-existing structure, not instantaneous influence.
 
@@ -372,7 +376,9 @@ $$A_1(t) \text{ and } A_2(t) \text{ both shift}$$
 
 This preserved difference amid shifting absolutes **necessarily produces oscillation**:
 
-$$\begin{align} A_1(t) &= A_0 + \Delta A \cdot \sin(\omega t) \ A_2(t) &= A_0 - \Delta A \cdot \sin(\omega t) \ \Rightarrow A_1 - A_2 &= 2\Delta A \cdot \sin(\omega t) \end{align}$$
+$$\begin{aligned} A_1(t) &= A_0 + \Delta A \cdot \sin(\omega t) \\
+A_2(t) &= A_0 - \Delta A \cdot \sin(\omega t) \\
+\Rightarrow A_1 - A_2 &= 2\Delta A \cdot \sin(\omega t)\end{aligned}$$
 
 The oscillation is not fundamental — it emerges from the constraint that **differential structure must be preserved** while absolute values shift due to differentiation offsets.
 
