@@ -43,13 +43,13 @@ This is not merely epistemologically revolutionary – it is ontologically final
 
 ISE is not a theory in the classical sense but a shift in perspective: the dissolution of any static foundation in favor of a dynamic, scale-dependent reality.
 
-### Scalar Synchronized Differentiation
+### **Scalar Synchronized Differentiation**
 
 The concept of "scalar synchronized differentiation" lies at the heart of the framework. This term encapsulates the idea that energy differentiates across all scales in a synchronized manner, where the differentiation at one scale inherently influences and is connected to the differentiation at other scales. This interconnected process creates a cascading network of relationships, where energy at every level of observation contributes to the emergence of structures, phenomena, and interactions.
 
 In essence, scalar synchronized differentiation allows us to conceptualize the universe not as a collection of isolated systems but as an integrated whole. Each differentiation is scalar — it occurs within a particular range of magnitudes — but these differentiations are synchronized, maintaining coherence across scales. For instance, the differentiation that gives rise to quantum fluctuations is inherently connected to the processes that define cosmic structures. This interconnectedness eliminates the need for singularities or independent, disconnected forces, presenting a cohesive vision where all phenomena arise from the same underlying process.
 
-### Dynamic Relation Of Scales
+### **Dynamic Relation Of Scales**
 
 A fundamental aspect of the model is the "dynamic relation of scales." Crucially, scale is not a quasi-metric framework (large/small, fine/coarse) but an epistemically-ontological mode of existence: **Scale is the unity of relational position and differentiation capacity.** These two aspects are not independent—what a structure can differentiate defines its scalar position, and its position delimits what it can differentiate. To exist at a scale *is* to possess a specific capacity for distinction.
 
@@ -61,6 +61,27 @@ This bidirectional opacity ensures that no single scale holds primacy. The appar
 
 By incorporating the dynamic relation of scales, ISE unifies micro- and macroscopic phenomena through a framework where forces, dimensions, and structures emerge as projections of a single evolving differentiation process viewed from varying capacities of distinction.
 
+
+### **The Universe as Frequency**
+
+The frequency-domain formalism developed in the later Chapters, reveals that the ISE's ontological reduction reaches a natural endpoint: the universe is not made of anything — it is frequency.
+
+Every category of physical description reduces to phase relations among frequency components:
+
+* **Amplitude** is not an independent quantity but the constructive phase alignment of frequency components — a projection effect of phase coherence.
+* **Space** is phase difference in a spatial frequency band. Position is a coherence peak; distance is relative phase displacement.
+* **Motion** is differential phase rotation across spatial frequency components, following directly from the Fourier shift theorem: translation is phase multiplication proportional to frequency.
+* **Time** is the sequential sampling of frequency profiles by a scale-bound observer — not an axis, but the serialization of differentiation.
+* **Mass** is the total bandwidth of a stable frequency profile — the depth of coherent structure across bands.
+* **Force** is the phase geometry between frequency bands at a given observational scale. Coupling constants are the precise arithmetic of phase transfer between bands as projected through our characteristic sampling rate.
+* **Particles** are frequency profiles whose phase coherence is stable under continued differentiation — resonance patterns that persist.
+* **Physical law** is the regularity that becomes visible at shallow differentiation depth, where the phase arithmetic is simple enough to project as a repeatable pattern onto the observational scale.
+
+Nothing remains that is not frequency. This is not a metaphor but a consequence of the ISE's founding premise: if differentiation is the sole ontological primitive, and frequency is the direct measure of differentiation rate, then frequency is the natural — and only — language in which the universe describes itself.
+
+The undifferentiated substrate — protoinformation as white noise with infinite bandwidth — is all frequency simultaneously, without phase structure. Differentiation is the emergence of phase relations. Physics is phase geometry. The universe is not composed of substance arranged in space and time. It is the structure that arises when frequency enters into relation with itself.
+
+This convergence is not accidental. The frequency-domain representation was not chosen as a convenient formalism and then found to be expressive. It was derived as the necessary consequence of the ISE's ontology — and it turned out to be exhaustive. Every physical concept maps onto a phase operation; no physical concept requires anything beyond phase operations. The formalism and the ontology are identical.
 
 ## **Key Concepts**
 
