@@ -75,3 +75,29 @@ The φ²R model is appended below. Within the effective field theory interpretat
 The model does not achieve what was intended: a demonstration that gravity is quantized by inheritance from quantized energy fields, with no independent gravitational degrees of freedom at any scale. This failure is not due to a computational error or a missing symmetry argument. It is a consequence of the mathematical framework itself, which enforces the separation between spacetime geometry and internal field structure at the level of its foundational definitions.
 
 The problem that remains is not a problem of physics. It is a problem of mathematics: the construction of a formalism in which the distinction between spatial and internal degrees of freedom does not exist as a primitive, and in which curvature — if the concept survives at all — is purely relational and cannot be decomposed into source-free and source-dependent parts.
+
+### Addendum: On the Background Separation and the Status of C²
+
+There is an observation that may affect the conclusion above. It does not resolve the problem, but it reframes where exactly the problem sits.
+
+**Observation**
+
+In the standard calculation that produces $C^2$ as a counterterm, one separates the metric $g_{\mu\nu}$ from the quantum fields and treats it as a fixed background. Matter fields fluctuate on this background, and their loop corrections generate divergences classified by the operator basis of the background metric. $C^2$ appears in this basis because diffeomorphism invariance permits it.
+
+However, in Case B there is no independent metric. The background geometry exists because the scalar field φ has a vacuum expectation value. The metric is a derived quantity: $g_{\mu\nu}$ inherits its dynamics entirely from the $\frac{1}{2}\xi\phi^2 R$ coupling. The background on which the virtual particles propagate is φ itself.
+
+The virtual particles in the loop diagrams are fluctuations of the energy-carrying fields — the same fields that φ serves as a proxy for. Their loop corrections are not corrections to an independent gravitational background. They are corrections to φ, mediated by the very matter that φ represents. The loop closes: φ generates the background, matter fluctuates on it, and the resulting correction feeds back into φ.
+
+**Technical Implication**
+
+The standard procedure computes the effective action $\Gamma[g_{\mu\nu}]$ by integrating out the matter fields and expressing the result as a functional of the metric alone. It is in this step — the elimination of matter in favor of a standalone metric — that $C^2$ appears as an independent operator. The information that the metric is not independent but determined by φ is discarded.
+
+If the effective action is instead computed as $\Gamma[\phi]$, without ever introducing $g_{\mu\nu}$ as an independent variable, the divergence structure may differ. The graviton in Case B is not a fundamental field with its own propagator — it is a composite object arising from fluctuations of $\phi^2 R$ around the VEV. Its propagator is derived, not primitive. Whether the derived propagator exhibits the four-derivative pole structure that produces the ghost is not obvious and depends on the organization of the calculation.
+
+Concretely: the Weyl tensor $C_{\mu\nu\rho\sigma}$ describes source-free curvature. In Case B, all curvature is sourced by φ. If the calculation never separates curvature from its source, it is unclear whether $C^2$ can appear as a standalone operator in the divergence structure, or whether it necessarily decomposes into operators involving φ.
+
+**Status**
+
+This observation does not constitute a proof that $C^2$ is absent from the effective action of Case B. It identifies the background-field separation as the specific technical step that may be responsible for its appearance, and suggests that a calculation which maintains the identity $g_{\mu\nu} = g_{\mu\nu}[\phi]$ throughout — never treating the metric as an independent degree of freedom — could yield a different counterterm structure.
+
+Such a calculation does not exist in the literature. It would not require a new formalism; it would require a reorganization of the standard background-field method for induced gravity models, in which the background metric is never promoted to an independent variable. The result — whether $C^2$ survives as an independent operator or not — would be a concrete, verifiable answer to the question raised in this chapter.
