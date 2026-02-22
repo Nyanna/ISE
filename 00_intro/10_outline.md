@@ -3,252 +3,277 @@
 
 Numbering matches to the chapter numbering.
 
-1. **Introduction to model**
+1. **Introduction to ISE**
 
-   * It proposes continuous scale differentiation, rather than a temporal/spatial expansion.
+   * Proposes continuous scale differentiation rather than temporal/spatial expansion. All physical phenomena — space, time, mass, forces, information — emerge as projections of differentiation across scales.
 
-   * Space, time, and forces emerge from energy differentiation, not as fundamental properties.
+   * Replaces substance-based ontology with an ontology of relation: what exists is not "things" but resonant differentials within a continuous, unbounded differentiation structure.
 
-   * Universe has a hierarchical structure with energy differentiating at various scales.
+   * Frequency-domain foundation: "the universe is frequency." All physical phenomena reduce to phase relations among frequency components; amplitude is constructive phase coherence, not an independent quantity.
 
-   * No singularities; instead, energy transitions smoothly between states.
+   * No singularities; smooth transitions. Black holes are regions where differentiation stalls; the Big Bang is reinterpreted as a localized differentiation event.
 
-   * Challenges Big Bang Theory by positing no singular origin; rather, Big Bang is a localized differentiation event.
+   * Hierarchical resonance structure across scales with fractal-like self-similarity. Apparent natural laws are "resonance shadows" from adjacent scales whose internal structure exceeds local differentiation capacity.
 
-   * Philosophically, ISE removes the need for a singular creation event, suggesting ongoing evolution of energy.
+   * Coherence as precondition: coherence is not produced by differentiation but is the necessary precondition enabling differentiation through coherent division.
 
-   * Expands on relativity, proposing that spacetime is an emergent property from energy differentiation.
+   * Self-referential coherence: ISE uniquely describes itself as an emergent product of the same differentiation process it postulates.
 
-   * Fractal nature implies continuous, scale-based differentiation with self-similarity across scales.
+   * Scale-Relational Mathematics (SRM): treats ratios as primitive and scale transformations as fundamental. Photon as torsor origin, S-weights as mass (dependency depth), resonance conditions for observability.
 
-   * Reductionist, minimalist approach to particles and information; energy differentiation as the fundamental concept.
+   * Departure from the Big Bang: no singular origin. CMB reinterpreted as imprint from a previous evolutionary phase.
 
-   * ISE encourages freedom of interpretation, challenges traditional frameworks, and embraces infinite complexity.
+   * Philosophical openness: encourages new thinking, replaces complexities of traditional cosmology with an adaptable concept of reality's emergence.
+
+   * Extends relativity to its logical conclusion: no privileged scale, no absolute reference frame.
+
+   * Scale as epistemically-ontological unity: what a structure can differentiate defines its scalar position, and its position delimits what it can differentiate.
+
+   * **Scale as Frequency Domain**: Differentiation capacity becomes sampling rate, Qoore becomes frequency profile, scale overlap becomes harmonic containment, resonance shadows become sub-resolution spectral content. N-dimensional differentiation structure is completely represented in the frequency spectrum. The four fundamental forces are band structures within a single continuous spectrum.
 
 2. **Emergence of Space, Time, and Gravity**
 
-   * Gravity is an emergent property of energy differentiation in the model, not a fundamental force.
-
-   * Space, time, and gravity emerge from differentiated energy states in a scale-free quantum field.
+   * Gravity is emergent from energy differentiation, not a fundamental force. Space, time, and gravity emerge from differentiated energy states in a scale-free quantum field.
 
    * Below Planck length, spacetime is undifferentiated; it emerges with sufficient energy differentiation.
 
-   * Time results from changes in potential energy, not a constant dimension.
+   * Time results from changes in potential energy; emerges as relational phenomenon between interacting systems, analogous to interference patterns between wavefronts.
 
-   * Gravity manifests as a result of energy differentiation, stronger in higher energy regions.
-
-   * ISE challenges traditional gravitational and relativity models, treating spacetime curvature as emergent.
+   * ISE challenges traditional gravitational and relativity models, treating spacetime curvature as emergent from energy flows across scales.
 
    * Quantum fluctuations are manifestations of protoinformation, contributing to macroscopic structures.
 
-   * ISE removes the need for singularities like in black holes, interpreting them as regions with minimal energy differentiation.
+   * Singularities eliminated: black holes become regions of minimal energy differentiation; spacetime smoothly transitions through energy redistribution.
 
-   * The model presents reality as an evolving system of continuous energy differentiation, forming structures at multiple scales.
+   * **Infinite Scale**: Continuous differentiation as recursive, fractal-like process without smallest or largest states.
 
-   * Time is seen as the perception of changing energy states, emerging through differentiation.
+   * **Energy-Driven Emergence of Time**: Time and energy equivalent at Planck scale; time emerges when energy differentiates into distinguishable states.
 
-   * The N-body problem is approached through an energy potential matrix rather than traditional gravitational forces.
+   * **The N-Body Problem**: Approached through an energy potential matrix rather than gravitational forces. Progression Newton → Lagrange → ISE as movement from observables to energetic relationships to pure differentiation. Lagrange points as resonance nodes. Claims categorical dissolution: linearity preserved at relational level, nonlinearity emerges only in spatial projection.
 
-   * Space curvature is viewed as the result of anomalies in potential energy vectors, not an inherent property.
+   * **Euclidean Geometry and Space Curvature**: Every anomaly in Euclidean geometry results from imbalances in potential energy vectors. Orbital dynamics reframed as pendulum-like oscillations within the potential vector.
 
-   * Dimensionality, space, and time are emergent properties arising from lower-dimensional processes or energy differentiation.
+   * **Emergent Time**: Deepens temporal emergence as relational phenomenon; addresses emergent curvature and global topology.
+
+   * **Imagine the Fundamentals**: Accessible ocean analogy for core ISE concepts.
+
+   * **Holographic Principle and Emergence of Dimensionality**: Intersection between ISE and holographic principle; recursive scale differentiation extends beyond boundary encoding.
+
+   * **LIGO Showing Scales**: Large-scale quantum coherence as case study in scale resonance; squeezed light as empirical evidence.
+
+   * **Randomness and Acceleration**: Randomness is not fundamental but a scale phenomenon; complete determinacy at protoinformational ground state, apparent randomness from phase relationships and resolution limits.
+
+   * **Magnetic Monopoles and Symmetry**: Persistent asymmetry of Maxwell's equations reflects differentiation hierarchy. Electric charge is first-order differentiation, magnetism is necessarily second-order. Search for monopoles commits a category error.
+
+   * **Chirality**: Parity violation reinterpreted as operational signature of charge structure resolution. W/Z bosons probe internal ordering features invisible to electromagnetic interactions. Apparent asymmetry at particle level restored at system level through charge reversal.
+
+   * **From Substrate to Spectral Representation**: Establishes ontological and representational foundations. Protoinformation as continuous white noise with infinite frequency content. Differentiation as continuous scalar process. Dimensionality emerges recursively: one dimension creates scalar reference, two create wave structure, N create observable physics. Frequency domain as natural representation encoding differentiation rate without privileging spatial or temporal coordinates.
+
+   * **The Frequency Domain**: Full formalism — frequency profiles as universal representation of physical entities, phase-locking as binding mechanism, successive incommensurability generating fractal structure through cascading difference frequencies, time emerging as serialization of the differentiation cascade. Time dilation reinterpreted as sampling-rate dependence of differentiation serialization.
+
+   * **Ontological Reduction of Forces and Particle Properties**: Reduction of all Standard Model forces and particle properties to two spectral primitives — inter-band phase structure (spatial relation of parts to each other) and intra-band amplitude ratio (energetic relation of parts to the whole). Derives attraction/repulsion from spectral closure compatibility, force field range through phase-coherence decay, particle zoo as spectral density spectrum. No global frequency — differentiation is local. Static charge as isotropic intra-band amplitude, motion as phase-structure anisotropy, magnetic moment as directional spectral asymmetry. Spin magnetism as intrinsic phase anisotropy. Force range unified through scale descent and geometric dilution. Mass as total spectral density dissolves the dual mass mechanism (Higgs-generated vs binding-energy).
 
 3. **Protoinformation and Quantum Mechanics**
 
-   * Protoinformation: Undifferentiated state of energy before differentiation into space, time, and matter.
+   * Protoinformation: undifferentiated state of energy before differentiation into space, time, and matter. Relative state dependent on observer's scale.
 
-   * Energy Differentiation: Protoinformation differentiates into various states, creating spacetime and matter.
+   * Energy differentiation: protoinformation differentiates into various states, creating spacetime and matter.
 
-   * Quantum Fluctuations: Not reliant on spatial expansion, fundamental at all scales, affecting macroscopic and microscopic phenomena.
+   * Quantum fluctuations: scale-independent, not reliant on spatial expansion, fundamental at all scales.
 
-   * Wave-Particle Duality: Emergent from protoinformation, explaining quantum behavior.
+   * Wave-particle duality: emergent from protoinformation, explained as scale-dependent manifestation of energy differentiation.
 
-   * Quantum Fields: Quantum fluctuations exist independently of spatial expansion, challenging traditional inflation models.
+   * Quantization: observer-dependent tool, not intrinsic feature of reality.
 
-   * Quantization: In ISE, quantization is an observer-dependent tool, not an intrinsic feature of reality.
+   * Forces: fundamental forces are scale-dependent differentiations of potential energy.
 
-   * Energy Relativity: Particle energy depends on its relationship to the universe, not quantized.
+   * Photon representation: chains of potential vectors representing frequency, energy, polarization.
 
-   * Forces: Fundamental forces are scale-dependent differentiations of potential energy, emerging at specific scales.
+   * Elementary particles: spatial information distributions represented by potential vectors.
 
-   * Scale-Free Reality: Differentiation occurs continuously without fixed boundaries.
+   * Speed of light: self-referential standard, resolution limit for observation. Explored through light's self-reference and blue shift, approaching c, scale freedom, and the infinite c. Proper time as primitive observable, scale-differentiation energy reservoir for global conservation.
 
-   * Wave-Particle Duality: Explained as scale-dependent manifestation of energy differentiation.
+   * Entanglement: non-local relationship via potential energy vectors.
 
-   * Photon Representation: Photons can be understood as chains of potential vectors representing frequency, energy, and polarization.
+   * **Quantum Determinism and the Illusion of Randomness**: Challenges orthodox assumption of fundamental randomness. Decay processes reinterpreted as synchronization and resolution problems. Halflife stability as evidence for deterministic mechanisms. Apparent randomness from asynchronicity of interacting wave functions and limited observer resolution.
 
-   * Elementary Particles: Particles are spatial information distributions represented by potential vectors, defining mass, charge, spin, and interactions.
+   * **The Relational Nature of Quantum Uncertainty**: Quantum uncertainty as relational phenomenon from interaction between system and observer. Heisenberg uncertainty principle derived from proto-informational first principles.
 
-   * Speed of Light: Self-referential standard with no external reference point, acting as a resolution limit for observation.
+   * **The Higgs Mechanism as a Scaling Artifact**: Higgs field reinterpreted not as mass generator but as universal scaling function translating informational complexity into inertia. Divisor perspective: mass = Energy / Higgs scale. VEV (~246 GeV) as scale-dependent projection, not fundamental constant. No metastability or vacuum decay — continuous division structure. Mass as informational complexity counted in quanta of differentiation (ΔI). Universal Mass-Complexity Function: Mass ∝ f(C, ΔI). Unifies "intrinsic" Higgs-mass and "emergent" binding-mass as points on same spectrum. Reformulation: V_ISE(φ) = E_proto / S(φ).
 
-   * Relativistic Effects: Time dilation near light speed interpreted through energy scaling dynamics, potentially altering perceived energy requirements.
+   * **Inertia and Mass**: Mass and inertia emerge directly from structure's relation to scale hierarchy. Higgs field and mass formation as consequences, not causes. Dark matter and dark energy as potential scale projection errors.
 
-   * Scale Freedom: Physical constraints like speed of light are scale-dependent, not absolute, and vary by frame of reference.
+   * **SUSY — Deconstruction of Unification Attempts**: Critical deconstruction of supersymmetry, GUTs, and conventional unification programs. Exposes model-dependent assumptions behind coupling constant convergence and hierarchy problem. Reduces all physical structure to two fundamental principles: Information (electromagnetism as carrier) and Differentiation (gravitation as structural separation). Strong and weak interactions emerge as specialized modifications.
 
-   * Entanglement: Non-local relationship between particles via potential energy vectors, involving infinite connections across the universe.
+   * **The Gradient-Wobble**: Translates familiar cast of atoms, particles, fields into phases, frequencies, and polarization riding on gradients. Accessible bridge between classical pictures and ISE vocabulary.
+
+   * **Ultimate Utilitarianism**: Time-and-causality program taking relational gradient patterns ("wobbles") as sole primitives. Observation modeled as interference between gradient wobble and observer wobble. Causality as interference-linearity: structured continuation is geometric necessity of relational continuity under a given projection. Time as projective appearance of ordered interference relations. No ontic "things," no pre-existing spacetime container.
+
+   * **Quantum Wave Unification and Ontological Basis-Invariance**: Demonstrates that distinction between particle types can be reframed as resonance modes within a single continuous quantum wave. All physical parameters — including dimensionality — are projection artifacts of proto-information, the sole ontological primitive.
 
 4. **Cosmological Implications: Dark Energy and Dark Matter**
 
-   * The model offers explanations for dark energy and dark matter as manifestations of energy differentiation, not as separate entities.
+   * Dark energy as manifestation of energy differentiation across cosmic scales, not separate entity. Dynamic scaling process manifesting differently on cosmic vs. local scales.
 
-   * Dark energy is viewed as a result of energy differentiation across cosmic scales, challenging the traditional expansion-driven explanation.
+   * Dark matter as emergent property linked to differentiated energy states; no new particles or forces needed.
 
-   * Dark matter is seen as an emergent property linked to differentiated energy states rather than requiring new particles or forces.
+   * Space can expand without being perceived due to constant relative order of effects.
 
-   * Space can expand without being perceived due to the constant relative order of effects between particles or energy states.
+   * Gravitational time dilation and delayed homogenization of gravitational potentials may explain observed redshifts.
 
-   * Gravitational time dilation and delayed homogenization of gravitational potentials may explain observed redshifts without invoking dark energy.
+   * Non-linear time allows for regions where temporal flow varies, explaining early galaxy formation.
 
-   * The model suggests time is non-linear, allowing for regions where temporal flow varies, which could explain early galaxy formation.
+   * Friedmann equations challenged: ISE sees space and time as emergent, requiring new mathematical framework.
 
-   * The Friedmann equations face challenges within ISE, as ISE sees space and time as emergent and scale-dependent, requiring a new mathematical framework.
+   * Unified view of cosmic expansion: dark energy and inflation as phases of same force.
 
-   * ISE proposes a unified view of cosmic expansion, where dark energy and inflation are seen as phases of the same force, simplifying the understanding of the universe's evolution.
+   * **Redshift and Dark Energy Hypothesis**: Energy lost through cosmological redshift transitions into unmeasurable states, potentially reemerging as dark energy.
 
-   * **Redshift and Dark Energy Hypothesis**: Explores the idea that energy lost through cosmological redshift transitions into unmeasurable states, potentially reemerging as dark energy, providing a dynamic and unified explanation for cosmic expansion and energy redistribution.
+   * **Dark Energy and Hawking Radiation as Interference**: Vacuum energy discrepancy (120 orders of magnitude) addressed. Casimir extrapolation only 6 orders too high, indicating missing scale-dependent reduction mechanism. Dark energy as scale-dynamic interference process from subquantum resonances. Vacuum fluctuations as interfering dark energy — destructive interference cancels most vacuum energy.
 
-   * **Hawking Radiation as a Scale-Dependent Interference** – Exploring how vacuum fluctuations at the event horizon are not random but structured interference phenomena, leading to the selective breakdown of long-wavelength modes into high-energy Hawking radiation, revealing deep connections between quantum field theory, spacetime curvature, and the thesis.
+   * **Predicting a Direct Connection to Hawking Radiation**: Hawking radiation reinterpreted as interference distortion near event horizon, not classical thermal process. Destructive interference disrupted by gravity allows energy to persist. Hawking radiation as both thermal and interference phenomenon — thermal nature from statistics of fluctuations, emission from interference process. Casimir experiments could indirectly confirm the statistical pattern of Hawking radiation. ISE perspective on negative energy as inverse phase projection.
+
+   * **Dark Matter as Scale-Shifted Energy**: Dark matter as scale-shifted form of energy rather than fixed particle. Explains galaxy retention without particle model, early structures and lensing, interaction with black holes without accretion issues, absence of local accumulation. Standard dark matter model contradictions resolved.
 
 5. **Unified Explanation of Cosmic Structures**
 
-   * The model rejects singularities, proposing continuous energy differentiation instead.
+   * Singularities rejected; continuous energy differentiation instead.
 
-   * Black holes are regions of stalled energy differentiation, not singularities.
+   * Black holes: regions of stalled energy differentiation. External freeze vs internal completion. Frozen interior collapse model. Symmetry restoration and no-hair. Causal separation with two physically relevant frames.
 
-   * Universe evolves as an infinite, smooth energy flow without a specific starting point like the Big Bang.
+   * Black holes and white holes interconnected through potential energy inversion.
 
-   * Gravity influences beyond singularities, challenging the notion of them as endpoints.
+   * Cosmic structures emerge from fractal-like energy differentiation at all scales.
 
-   * Black holes and white holes are interconnected through potential energy inversion.
+   * Singularities as scale phenomena: crossing a horizon shifts an object out of coherence with our scale. Geodesic persistence and possible re-emergence via evaporation.
 
-   * Cosmic structures emerge from fractal-like energy differentiation, applicable at all scales.
+   * Big Bang as scale-start, not absolute origin. Pocket universe limitations and the Primordial Problem.
 
-   * Fractal behavior of cosmic structures mirrors self-similarity across galaxies, stars, and atoms.
+   * Bounce models (LQG) conceptually consistent with ISE's endless differentiation.
 
-   * Singularities are observer-dependent, not absolute breakdowns of physics.
+   * **Charge-Parity Structure and Entropy**: CP violation and baryon asymmetry as consequences of dimensional asymmetry in resonance structures. Antimatter as orientational inversion along one dependency dimension, not ontologically separate. Symmetry as the exceptional case: perfect symmetry becomes exponentially unlikely as pattern complexity increases (p^n scaling). Near-symmetry explained by shared origin of C, P, T from same differentiating substrate. Resonance domains and baryon asymmetry: dimensional locking propagation replaces Sakharov conditions framework. Entropy reinterpreted as dimensional asymmetry propagation — structural continuity between CP violation at particle scale and entropy at macroscopic scale. Supersedes earlier Chapter on baryonic asymmetry. Torsor-anchored S-weights, resonance closure conditions, and scale-covariant derivative employed.
 
-   * The model sees the Big Bang as part of an infinite differentiation, not a singular origin.
-
-   * Time flow varies with energy states; space expands uniformly, challenging the need for dark energy.
-
-   * Baryon asymmetry: The framework offers a novel perspective on the matter-antimatter imbalance by focusing on protoinformation differentiation and scalar dynamics, while rejecting the necessity of a Big Bang singularity or multiverse structures.
-
-   * Photon Energy Loss and Cosmic Expansion**,** Explanation of redshift as a manifestation of continuous energy dissipation in the framework.
+   * **Photon Energy Loss and Cosmic Expansion**: Redshift as manifestation of continuous energy dissipation.
 
 6. **Philosophical Implications: The Nature of Reality**
 
-   * Space and time are emergent, not fundamental.
+   * Space and time are emergent, not fundamental. Reality is continuous energy differentiation.
 
-   * Reality is a continuous process of energy differentiation.
-
-   * Observer's perception influences the nature of reality.
+   * Observer's perception influences nature of reality; reality is relative and observer-dependent but observer-independent in its existence.
 
    * Universe's complexity arises from recursive differentiation.
-
-   * Reality is relative and observer-dependent.
 
    * Minimalism in physics: focus on observable effects.
 
    * Causality emerges from energy differentiation.
 
-   * Tayi symbolizes multidimensional differentiation.
+   * **Tayi and the Subquantum Stream**: Tayi symbolizes multidimensional differentiation — infinity symbol extending across multiple dimensions representing continuous flux of creation, differentiation, and dissolution. Subquantum Stream as driving force behind continuous unfolding of scales.
 
-   * Karii represents absolute nothingness, is calm, cool, and beyond existence or non-existence.
+   * **Karii**: Represents absolute nothingness — the Omega, final dissolution point. Broken circle indicating incompleteness of all things approaching it. Infinite ocean of nothingness, bottomless abyss.
+
+   * **Relativity of π and Mathematics**: Transcendence and irrationality as relational to chosen base field. π transcendental over Q, algebraic over Q(π). Basis-dependence of apparent complexity: "specialness" is representational alignment, not intrinsic. Mathematics as construction, not discovery — effective because constructed to capture aspects of reality. SI units make the relational thesis vivid. Scale-Relational Mathematics: scale group as gauge group, connection form, curvature encoding scale anomalies. Conformal and projective geometry as canonical stage.
+
+   * **The Pythagorean Comma as Rosetta Stone** (6.8): (3/2)^12 ≠ 2^7 reveals how incommensurability emerges whenever continuous processes encounter discrete quantization. Structural entropy — irreversibility encoded in geometric architecture, not statistical disorder. Parallels to quantum mechanics: measurement problems as symptoms of forcing continuous ψ(x,t) onto discrete outcomes. Quantization creates incommensurability, not the reverse. Western discretization bias exposed through non-Western musical traditions. Mathematics as human-made construction — Wigner's "unreasonable effectiveness" inverted. ISE proposes: "fundamental" discretizations may be imposed by measurement frameworks, not intrinsic to nature.
+
+   * **Recensions**: Classical logic as projection of bodily structure. Exclusion principle reflects binary neuronal output. ISE as explication of what "world" means: scale-relational self-differentiation without foundation.
 
 7. **The Multiverse Hypothesis**
 
-   * ISE extends to a multiverse hypothesis: each universe is a differentiated energy state within an infinite hierarchy of scales.
+   * ISE extends to multiverse hypothesis: each universe is a differentiated energy state within infinite hierarchy of scales.
 
-   * Multiverse as a hierarchy: universes are elementary particles of larger scales, and each particle could be a universe of a smaller scale.
+   * Multiverse as hierarchy: universes are elementary particles of larger scales; each particle could be universe of smaller scale.
 
-   * Singularities and black holes act as gateways to new universes.
+   * Singularities and black holes as gateways to new universes.
 
-   * Quantum fluctuations may lead to universe creation, similar to Big Bangs.
+   * Recursive, self-similar structure across scales. Time, space, and energy density are scale-dependent.
 
-   * The multiverse has a recursive, self-similar structure across scales.
+   * Continuity between universes rejected: each scale is self-contained with no shared properties.
 
-   * Time, space, and energy density are scale-dependent.
+   * Probabilistic interpretations and parallel universes incompatible with ISE: only realized differentiations exist.
 
-   * Physics may be scale-invariant, but manifestations vary by scale.
-
-   * Observer's perception of reality is scale-dependent, affecting their experience of time, space, and matter.
-
-   * Continuity between universes is rejected: each scale is self-contained with no shared properties.
-
-   * Probabilistic interpretations and parallel universes are incompatible with ISE, as only realized differentiations exist.
-
-   * Unobservable entities (e.g., other universes) have no real existence.
+   * Unobservable entities have no real existence.
 
 8. **Causality, Time, and the Observer**
 
    * Causality is not linear but arises from relationships between energy states.
 
-   * The observer perceives time as an emergent sequence of events, not determining reality.
+   * Observer perceives time as emergent sequence; does not determine reality.
 
-   * Time is an emergent property tied to energy differentiation, not a dimension.
-
-   * The observer interacts with pre-existing scales, akin to the Block Universe concept.
-
-   * Time is relative, emerging differently based on energy state dynamics.
-
-   * Linear universe expansion contrasts with variable time flow across regions.
+   * Time as emergent property tied to energy differentiation, not a dimension. Observer interacts with pre-existing scales, akin to Block Universe.
 
    * Reality is observer-independent, existing through energy differentiation.
 
-   * Dice Roll example illustrates the observer collapsing possibilities into one reality, without alternative realities.
+   * Dice Roll example: observer collapses possibilities into one reality, without alternative realities.
 
-   * Entropy in classical thermodynamics is challenged; space contraction can lead to lower entropy.
+   * Entropy challenged: space contraction can lead to lower entropy. Gravitational collapse may lead to reduced entropy and higher order.
 
-   * Entropy and time are linked to spatial dynamics, questioning the notion of irreversible entropy increase.
+   * **Dependency Propagation as the Unified Principle**: Fundamental physical quantities — time, mass, space, gravitation — are projective manifestations of a singular process: dependency propagation through differentiation structure. Speed of light c as irreducible rate of dependency update, not velocity limit. Eliminates computational ontology: no agent performs operations; structure is its own transformation. Time as seriality of dependency chains. Mass as dependency depth (node count). Space as relational structure of vector network. Gravitation as universal c-rate interaction. Quantum mechanics reinterpreted: wave function as update state distribution, superposition as parallel update paths, measurement as update completion, entanglement as coupled updates sharing dependency structure, decoherence as environmental path selection. Photon as limiting case with minimal dependency depth — single node, no internal time, no mass. Photon wavelength as coupling distance in dependency network, not spatial extension.
 
-   * Gravitational collapse may lead to reduced entropy and higher order, challenging traditional thermodynamic views.
+   * **Scale-Relational Formalization of Dependency Propagation**: Formal bridge between dependency propagation and SRM. Scale group S ≅ (ℝ₊, ×) with photon as torsor origin. S-Weight defined: w(P) = d(P) · w_γ. Continuity becomes discrete through self-resonance conditions. Correspondence table linking dependency concepts to SRM formalization. Resolves update circularity: no update occurring in time; dependency structure is its own transformation. Resonance closure as condition, not event. Implications for quantum mechanics: superposition as multiple viable resonance paths, measurement as coupling forcing path selection, entanglement as shared resonance structure.
 
 9. **Conclusion: A Framework for Understanding Reality**
 
-   * The model questions traditional interpretations of cosmological observations.
+   * Questions traditional interpretations of cosmological observations.
 
-   * Cosmic Microwave Background (CMB) could represent energy differentiation across scales, not Big Bang.
+   * CMB: could represent energy differentiation across scales, not Big Bang relic. Homogeneity explained by natural equilibrium from continuous differentiation.
 
-   * Primordial nucleosynthesis may result from scale differentiation, no singular beginning needed.
+   * Primordial nucleosynthesis: result of scale differentiation under specific conditions, no singular beginning needed.
 
-   * Redshift could indicate energy state changes, not universe expansion.
+   * Redshift: energy state changes, not universe expansion. Decoupled from need for expanding universe.
 
-   * ISE suggests different interpretations for CMB, redshift, nucleosynthesis, and cosmic structures.
+   * ISE as instrumental tool for thought, not traditional proof-based science.
 
-   * ISE aims to serve as an instrumental tool for thought, not traditional proof-based science.
+   * Pursuit of lower energy states and homogeneity as outcomes of continuous energy differentiation.
 
-   * Pursuit of lower energy states and homogeneity seen as outcomes of continuous energy differentiation.
+   * Stability is relative; energy states change across different scales over infinite timeframes.
 
-   * Stability is relative, energy states change across different scales over infinite timeframes.
+   * Existing mathematical frameworks may not fit ISE; Scale-Relational Mathematics developed as native formalism.
 
-   * Existing mathematical frameworks may not fit ISE, new algebra needed.
+   * **Cosmological Evidence as Convenient Storytelling**: CMB is evidence of recombination, not Big Bang. Redshift interpretable as expansion of voids. Nucleosynthesis as condition for element distribution, not tied to singular origin. Large-scale structures from scaled anisotropies without inflation. Same observations fit multiple theoretical frameworks; interpretation is narrative-driven.
 
-   * ISE presents reality as an evolving system where time, space, and forces emerge from a quantum field.
-
-   * Philosophical implications: observer-dependence, emergent complexity, relativity of reality.
-
-   * Challenges fixed laws, offering reinterpretations for singularities, dark energy/matter, and unifying physics.
+   * **Empirical Resonance: Gjergo & Kroupa**: JWST-based study (2025) identifies thermalized light from early galaxies as potential CMB source, corroborating ISE's 2024 prediction that CMB is not direct Big Bang relic. Undermines ΛCDM model's primordial interpretation. Dark matter as scale-shifted artifact: if CMB data compromised, "need" for specific dark matter ratio also compromised.
 
 10. **Possible Extensions**
 
-    * Incompatibility of Quantum Mechanics and Gravity: Quantum mechanics and gravity are distinct, scale-dependent manifestations of energy differentiation; integration is unnecessary.
+    *Provisional investigations and speculative extensions from various developmental stages. Should be read as explorations, not integral components of the primary thesis.*
 
-    * Time Dilation: Significant differences in time flow occur due to gravitational and velocity time dilation, with implications for ISE where time is seen as emergent and scale-dependent.
+    * **Baryon Asymmetry**: *Superseded by (Charge-Parity Structure and Entropy)*. Early-stage reasoning on matter-antimatter imbalance through protoinformation differentiation. Retained for historical context.
 
-    * Graviton Detection: Gravitons are seen as measurable gravitational excitations within the framework, but practical detection is difficult due to gravity's weakness.
+    * **Quantum Mechanics and Gravity as Scale-Dependent Manifestations**: Working hypothesis that QM (small scales) and gravity (large scales) arise as distinct scale expressions of energy differentiation. Tentative potential-energy vector background principle.
 
-    * Density as a Function of Time: ISE links density and time, suggesting that different cosmic scales affect energy release and temporal processes, impacting evolution.
+    * **Relativistic Time Shifts Across the Galaxy and in Voids**: Combines gravitational and kinematic time dilation suggesting order-percent timing gradients. Heuristic illustrations of time as context- and scale-dependent.
 
-    * Human Perception Limits: Human perception is limited; extraterrestrial signals or other forms of intelligence may be undetected due to mismatched scales or different communication mediums.
+    * **Graviton as Smallest Measurable Gravitational Excitation**: Pragmatic, observer-dependent view. Measurement construct rather than commitment to gravity's particle ontology.
 
-    * Superluminal Speeds and Scale Shifts: Superluminal travel may imply scale shifts, but information is likely destroyed when transitioning scales.
+    * **Density, Temporal Scales, and the Pace of Evolution**: Linkage between system density and characteristic timescales. Speculates on faster (high-energy/plasma) and slower (crystalline/chemical) evolutionary regimes.
 
-    * Photon’s Wave-Action Function: The photon represents energy differentiation within ISE, bridging classical physics and broader cosmic energy scales through its wave-action function.
+    * **Human Perceptual and Technological Bandwidth**: Narrowness of human sensing/technology. Extraterrestrial signals may lie in undetected media or temporal rhythms. Reinterprets SETI parameters under scale/timescale mismatches.
+
+    * **Superluminal Motion and Scale Isolation**: Superluminal transition recast as leaving a given scale, with interaction loss and informational dissolution.
+
+    * **Photon Wave-Action Function and Scale Embedding**: Broadened photon descriptor integrating classical EM features with potential-energy vectors and relative energy across scales.
+      * **Photon Ontology and Effective Mass**: Reinterprets radiation pressure, gravitational deflection, horizon capture via effective mass-equivalent.
+
+    * **Quantum Tunneling Fusion at Controlled, Low Energies**: Acknowledges low Gamow probabilities; reframes tunneling as potentially scale-/observer-dependent. Sketches routes to enhance tunneling.
+
+    * **Unitarity as Formal, Not Ontological, Principle**: S†S = I characterizes idealized contexts; real collapse implies departures from strict unitarity.
+
+    * **Scale-Structured Casimir Fluctuations and Zero-Point Relativity**: Experiment using fractal/logarithmic nanogeometries to probe non-Gaussian, scale-correlated Casimir statistics. Synchronous boundary modulation test: ISE predicts weak but non-zero photon signal (broadband, acceleration-dependent, cavity-length independent) where QED predicts exactly zero. Spatial modulation test addressing spatiotemporal asymmetry in Bogoliubov formalism. Hierarchy of cavities: electromagnetic (photons), QCD confinement (quarks/gluons), gravitational horizon (all fields). Dynamical Casimir effect as phase rotation on scale level.
+
+    * **Critique of the Graviton Hypothesis**: Gravitation as continuous metric formation across scales rather than particle-mediated exchange.
+
+    * **Limits of Mathematical Holography**: Volumetric-to-boundary encodings depend on chosen coordinates/metrics. Horizons as formal boundaries, not ontic substrates.
+
+    * **The Quark Field as Non-Local Resonator**: Localization plus uncertainty entails long-wavelength components under confinement. Non-local resonance couplings; "virtuality" as scale-resolution artifact.
+
+    * **Geodesic Divergence and Black-Hole Information**: Information destruction located within interior divergent curvature in finite proper time, not at horizon. Tidal forces diverge, separating bound particles. Singularity as sign that classical theory fails, not physical object. Implications for white-hole and wormhole narratives.
+
+    * **Mathematics as Construction**: Structures considered fundamental (successor, addition, prime factorization) are projections of a particular cognitive mode. Undermines claims that classical arithmetic provides objective, necessary truths.
 
 11. **Study Plan: Mastering the Thesis**
 
-    * 8-week guided plan to explore the thesis through structured reading, reflection, and research on concepts like energy differentiation, protoinformation, causality, and compatibility with modern physics, concluding with a synthesis of ISE’s alternative cosmological framework.
+    * 8-week guided plan to explore the thesis through structured reading, reflection, and research on concepts like energy differentiation, protoinformation, causality, and compatibility with modern physics, concluding with a synthesis of ISE's alternative cosmological framework.
 
 12. **Glossary**
 
-    * Glossary of Key Terms related to thesis, highlighting concepts like energy differentiation, emergent properties, protoinformation, and the reinterpretation of traditional physical phenomena (e.g., gravity, dark matter, causality) within a continuously differentiating multiscale framework.
+    * Glossary of Key Terms related to thesis, highlighting concepts like energy differentiation, emergent properties, protoinformation, Scale-Relational Mathematics, S-weights, resonance closure, frequency profiles, dependency propagation, and the reinterpretation of traditional physical phenomena (e.g., gravity, dark matter, causality, CP violation) within a continuously differentiating multiscale framework.
