@@ -10,6 +10,33 @@ The reconsolidation model faces a scaling problem it has never addressed. A huma
 
 The evolutionary implausibility is equally severe. What selective pressure would favor a system that physically rewrites stored configurations — a process requiring protein synthesis, synaptic remodeling, and hours of consolidation per engram — when the same functional result can be achieved by modifying a single parameter of the interpretive process? Evolution optimizes for energy efficiency. A system that changes the interpreter rather than the storage is cheaper by orders of magnitude, immediately consistent across all stored configurations, and scales without cost as the organism ages.
 
+## The Deductive Proof from the Storage Mechanism
+
+Before examining the classical models in detail, it is worth establishing that the interpreter conclusion follows deductively from the storage mechanism itself — not as an empirical hypothesis requiring confirmation, but as a logical consequence of how biological memory is physically encoded.
+
+The argument requires only two premises that all models of memory accept:
+
+**Premise 1.** Synaptic strengthening (long-term potentiation, structural synaptic remodeling, protein synthesis-dependent consolidation) encodes a specific activation pattern: the precise synaptic thresholds, the precise pathway configuration, the precise excitation state that obtained at the time of encoding. This is the engram. It is a chemical and structural record of which synapses fired, in what sequence, at what strength.
+
+**Premise 2.** An activation pattern is relationally defined. It has meaning only relative to the network topology in which it is embedded. The chemistry encodes "synapse X has threshold Y," but what "synapse X at threshold Y" *means* — what experience, what association, what behavioral output it produces — depends entirely on what happens when the network traverses that pathway. The same synaptic configuration, embedded in a different network state, produces a different output.
+
+**Conclusion.** Semantics is a property of the traversal apparatus, not of the stored pattern. The engram is a key; what the key opens is determined by the lock. The meaning of any memory is constituted by the network that reads it, not by the chemistry that stores it.
+
+This conclusion is not defeasible by empirical evidence because it follows from the logical structure of the storage mechanism itself. Any system that stores activation patterns in a network must locate the semantics of those patterns in the network's interpretive dynamics, not in the stored patterns. The patterns are meaningless outside their interpretive context — they are configurations of thresholds and weights that produce output only when traversed by a system capable of traversal.
+
+Three consequences follow with deductive force:
+
+First, if the network changes — through development, aging, learning, or injury — the semantics of a stored engram change even though the engram itself remains physically identical. This is not a prediction to be tested; it is a logical necessity. And it is precisely what is observed in context-dependent memory, state-dependent recall, developmental changes in memory interpretation, and the progressive inaccessibility of early childhood memories despite intact engrams (Yates et al. 2025).
+
+Second, if the activation thresholds of the traversal apparatus change — through neuromodulatory shifts, emotional state changes, pharmacological intervention — the semantics of a stored engram change even though both the engram and the network topology remain identical. This is what is observed in mood-congruent memory bias, in the bidirectional valence switching demonstrated by Redondo et al. (2014), and in the global affective recoloring of memories following emotional shifts.
+
+Third, if the network drifts sufficiently far from the state in which an engram was encoded, the engram becomes semantically inaccessible — not because it has degraded, but because the interpretive apparatus can no longer produce a meaningful traversal of the stored configuration. The engram persists physically but is functionally silent. This is precisely what Tonegawa's laboratory demonstrated with optogenetically tagged engrams: configurations that were behaviorally inaccessible could be artificially reactivated by bypassing the normal traversal mechanism, confirming that the storage was intact but the interpretive access had been lost.
+
+The critical implication for the models examined below is this: any model that accepts chemical-synaptic storage of memory — and all models do — has already committed itself to locating semantics in the interpretive network rather than in the stored configurations. The reconsolidation and integration models contradict their own foundational premise. They accept that memories are chemically encoded activation patterns, then claim that the meaning of those patterns resides in the patterns themselves rather than in the apparatus that reads them. This is incoherent. If you store a pattern, and meaning depends on the reader, then changing the reader changes the meaning — and that is the interpreter model, derived not from empirical observation but from the logical structure of the storage mechanism itself.
+
+What follows in the subsequent sections is therefore not the development of a competing hypothesis but the systematic demonstration that the classical models fail precisely where the deductive proof predicts they must — at the interface between stored pattern and interpretive context — while the interpreter model succeeds because it is already entailed by the mechanism all parties accept.
+
+
 ### The Conflation of Reconsolidation with Re-Reading
 
 A central objection to reconsolidation concerns the evidentiary basis itself. The key experimental paradigm — administering protein synthesis inhibitors during retrieval and observing subsequent memory impairment — does not distinguish between disrupting the re-stabilization of a labile engram and disrupting the biological machinery required to *read* that engram. The act of traversing an engram — the interpretive process that produces the experience of remembering — requires the same protein-dependent cellular machinery that reconsolidation theory claims is devoted to re-writing. Blocking protein synthesis during retrieval therefore blocks the read operation. What has been demonstrated is that the interpreter can be damaged, rendering the engram temporarily inaccessible. What has *not* been demonstrated is that the engram itself was destabilized and required physical re-stabilization.
