@@ -269,7 +269,7 @@ Similarly, Libet's 500-millisecond delay is not a cycle time but a propagation l
 
 The continuous nature of the process is not a minor technical correction. It is essential to understanding why consciousness feels seamless rather than stroboscopic, why time appears to flow rather than tick, and why the search for a "neural correlate of consciousness" as a discrete event has consistently failed. There is no discrete event. There is only the continuous differential, and we are it.
 
- **Memory as Interpreter Output: Against Reconsolidation and Integration**
+### **Memory as Interpreter Output: Against Reconsolidation and Integration**
 
 The preceding account of engrams as reproducible transformational dispositions — configurations that produce different outputs depending on the current gain state — carries a consequence for memory science that extends beyond the scope of consciousness proper but demands articulation, because the dominant models in the field rest on assumptions that are incompatible with this framework and, more critically, incompatible with basic scaling constraints.
 
