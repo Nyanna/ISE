@@ -57,6 +57,10 @@ Third, this structural absence is not a gap that could be filled with more data.
 
 This is not a mystery. It is a design constraint. And Chalmers' hard problem is, in this reading, the philosophical reification of an architectural limitation. The "explanatory gap" between mechanism and experience is real — but it is an epistemic gap inherent to self-referential systems, not an ontological gap in reality.
 
+The constraint can be stated with formal precision: a differential operator applied to itself yields identically zero. The system cannot generate a difference signal against its own current state, because self-differentiation is null by definition. This is not a contingent limitation — it is a logical necessity of any difference-based architecture. The "I" is invisible to itself not because it is hidden, but because there is no non-zero differential to detect. The felt impression that something exists *behind* experience — an observer, a subject, a witness — is the system's misattribution of this null result: it searches for the process generating experience, finds no signal, and reifies the absence as a positive entity.
+
+This is why self-knowledge is necessarily indirect. The mirror test illustrates the point with empirical precision: sensorially, the reflected image triggers a conspecific response — the default differential processing registers an external agent. Self-recognition requires an additional recursive step: the system must extract the correlation between its motor output and the mirror's visual input and *infer* that the source is itself. No organism sees itself in a mirror. It concludes itself, through a temporal cross-correlation that produces an external differential where direct self-differentiation cannot. Every form of introspective access follows the same structure — the system processes its own outputs from the prior cycle as input, always one step removed, always operating on an object rather than the process itself.
+
 **Solution or Elimination?**
 
 This reframing forces a choice in terminology. Is the hard problem *solved* or *eliminated*?
