@@ -48,7 +48,7 @@ Current systems approximate this with tool-use frameworks (e.g., function callin
 
 Domain-specific models trained on domain-specific data for domain-specific tasks. A code specialist, a medical specialist, a legal specialist, a mathematical reasoning specialist, a creative writing specialist — each trained independently, each sized appropriately for its domain, each replaceable and upgradeable without affecting other modules.
 
-The interface between specialists and orchestrator is natural language — the same interface used between cortical modules via thalamocortical loops. This provides interface stability: as long as modules communicate in natural language, any module can be replaced with an upgraded version without breaking the system. This is the biological principle of backward compatibility through standardized interfaces.
+In an initial implementation, the interface between specialists and orchestrator can be natural language — the same interface used between cortical modules via thalamocortical loops. This provides interface stability: as long as modules communicate in natural language, any module can be replaced with an upgraded version without breaking the system. However, as the subsequent section on path-based architecture will demonstrate, natural language is a lossy serialization format that introduces unnecessary overhead. The target architecture replaces natural language with direct path mapping between modules — a higher-bandwidth, lossless interface that eliminates the tokenization-embedding-detokenization bottleneck while preserving backward compatibility through shared path prefixes.
 
 This differs fundamentally from current approaches:
 
@@ -84,6 +84,8 @@ In current neural networks, the connection between two nodes is characterized by
 
 This is the difference between a flat embedding space and a true associative topology. Current transformers operate in a space where the relationship between any two representations is a single dot product. The biological system operates in a space where relationships are multi-dimensional, context-dependent, and hierarchically structured.
 
+The depth of this deficiency becomes fully apparent in light of the path-based architecture described below. If edges are the content — if what the system represents *is* the pattern of connections rather than the pattern of nodes — then the dimensionality of those edges determines the representational capacity of the entire system. A network with single-dimensional edges is a network that can only represent one dimension of meaning per connection. The biological system's multi-dimensional edges are not an optimization but a necessity for a path-based representational system.
+
 ### Static Attention versus Self-Resonant Feedback
 
 Attention in current transformers is a single-pass operation: query-key-value computation produces attention weights, which are applied to produce an output. There is no iteration, no feedback, no convergence to a stable state.
@@ -104,7 +106,73 @@ Current transformers store all learned associations in a single, undifferentiate
 
 The biological system maintains strict competence segmentation. Visual processing occurs in visual cortex; language processing in language areas; motor planning in motor cortex. These regions have their own internal dynamics, their own gain modulation, and defined interfaces through which they communicate via the thalamic coordinator. A new competence domain (learning a musical instrument) develops in dedicated cortical territory; it does not overwrite or interfere with existing competence domains.
 
-The architectural prescription: the network must be segmented into competence regions with defined internal structure and defined inter-region interfaces. Each region should be independently trainable and independently upgradeable. Communication between regions should occur through the coordinator, not through shared parameter space.
+The architectural prescription: the network must be segmented into competence regions with defined internal structure and defined inter-region interfaces. Each region should be independently trainable and independently upgradeable. Communication between regions should occur through the coordinator, not through shared parameter space. As the following section demonstrates, a path-based architecture produces this segmentation as an emergent property of shared path prefixes rather than as an imposed architectural constraint.
+
+## The Token Inversion: From Node-Centric to Path-Centric Architecture
+
+The structural gaps enumerated above — flat attention, single-dimensional weights, absent reality tagging, undifferentiated weight matrices — are consequences of a more fundamental architectural error that the thalamocortical model exposes. Current AI systems are built on the wrong primitive.
+
+### The Node-Centric Assumption
+
+In every current transformer architecture, tokens are the fundamental entities. Each token is mapped to a vector in an embedding space; the network operates on these vectors; output is a probability distribution over the token vocabulary. The weights — the connections between layers — serve the tokens. They are the relations between entities, and the entities are the atomic units of meaning.
+
+The deductive proof from biological memory storage shows that this is inverted. In the biological system, there are no entities. There are only paths. An engram has meaning only relative to the activation path through which it is traversed. The same synaptic configuration, traversed via a different path, produces different semantics. Meaning is not a property of nodes — it is a property of traversal sequences. The edges are the content; the nodes are merely the points at which edges meet.
+
+This inversion is not a refinement of the current architecture. It is a different architecture entirely.
+
+### Path-Based Representation
+
+In a path-centric architecture, input and output are not token vectors but path identities — activation patterns over edges, not points in embedding space. The fundamental prediction task shifts from next-token prediction to next-path prediction: given the current traversal trajectory, what is the next traversal trajectory? The system does not ask "which token follows?" but "which path continues?"
+
+This seemingly subtle shift has radical consequences for every component of the architecture:
+
+The embedding layer disappears. There is no fixed vocabulary, no lookup table mapping discrete symbols to vectors. A path is defined by its traversal sequence through the network's edge structure. New paths — new meanings — emerge through new traversals, not through vocabulary expansion. The system's representational capacity grows through use, not through retraining.
+
+Attention becomes topological. Instead of computing relevance between token vectors in a flat space, the system computes relevance between paths — sequences of edges that share structural properties such as common prefixes, similar traversal dynamics, or compatible gain states. This is inherently hierarchical: paths that share longer prefixes are more closely related, and the hierarchy of prefix lengths provides a natural scale structure that flat attention lacks.
+
+The weight matrix becomes the content. In the current architecture, weights are the relations between token entities. In the path architecture, weights *are* the representations. The edge weights encode what is being represented; traversal patterns over those weights constitute processing. This is the identity of algorithm and memory — the same principle the deductive proof derives for biological systems — implemented directly in the artificial architecture.
+
+### Dynamic Address Space
+
+A token vocabulary is fixed at training time — 50,000, 200,000 entries, determined by the tokenizer and frozen thereafter. Every new concept must be decomposed into existing tokens. The representational granularity is set once and cannot be refined without retraining.
+
+A path space has no fixed size. Every new traversal that has not been executed before constitutes a new address — a new representational location in the system's semantic space. The address space expands through use. A system that processes medical literature generates medical paths; a system that processes legal documents generates legal paths. The representational granularity adapts to the domain without architectural modification.
+
+This is not a minor efficiency improvement. It is the difference between a system with a fixed ontology and a system with an emergent ontology — between a system that must be told what categories exist and a system that discovers categories through its own traversal dynamics. The biological system has always operated this way: new concepts do not require new neurons, they require new paths through existing neurons.
+
+### Prefix Truncation as Natural Federation
+
+In a path-based architecture, the federated structure described earlier ceases to be an architectural overlay and becomes an emergent property of the representation itself.
+
+If a path `A→B→C→D→E` encodes a specific meaning, then the prefix `A→B→C` defines the subnetwork in which the suffix `D→E` is specialized. Paths that share prefixes belong to the same competence domain. Paths with different prefixes belong to different domains. The federation is not imposed by routing decisions — it is inherent in the path topology.
+
+This has immediate consequences for modularity. A new specialist module is a new set of suffixes attached to an existing prefix. Adding a medical reasoning module means extending paths that share the medical-domain prefix. No other paths are affected. An upgrade to the medical module means replacing its suffixes while preserving the shared prefix — the interface is the prefix itself, and as long as the prefix is preserved, backward compatibility is guaranteed.
+
+The orchestrator's function becomes path-prefix routing: given an input, determine which prefix space is relevant, and direct the traversal to the appropriate suffix region. This is structurally identical to thalamic gain selection — determining which cortical domain to activate — but implemented in the path topology rather than in a separate coordination network.
+
+### The Obsolescence of Natural Language Interfaces
+
+In the initial federated architecture proposal, specialist modules communicate via natural language — a choice motivated by interface stability and human readability. The path-based architecture reveals this as an unnecessary bottleneck.
+
+Natural language is a serialization format: it converts internal representations into a sequence of discrete symbols (words, tokens), transmits them, and the receiving module must deserialize — tokenize, embed, and reconstruct an internal representation. This serialization is lossy (nuance is lost in verbalization), slow (serialization and deserialization are computational overhead), and ambiguous (the same sentence can produce different internal representations in different modules).
+
+In a path-based architecture, modules share path prefixes directly. The output of one module is a path — a traversal pattern over edges — and the input to the next module is a mapping of that path onto its own edge structure. The translation is a path mapping, not a language translation. No serialization occurs. No ambiguity arises. The communication bandwidth is determined by the path dimensionality, not by the vocabulary size.
+
+Natural language remains as the human-machine interface — the point at which internal path representations are serialized for human consumption and human inputs are deserialized into path representations. But internal module-to-module communication operates in the system's native representation: paths.
+
+### Bidirectional Path-Concept Mapping
+
+In the current architecture, a "concept" is a region in embedding space — a cluster of token vectors that activate similar attention patterns. The concept has no intrinsic structure; it is defined statistically by the distribution of tokens that co-occur in training data.
+
+In the path architecture, a concept is a path or a class of paths — a specific traversal trajectory through the edge structure. The word "dog" is not a vector but a path address: the traversal sequence that activates when "dog" is processed. Different contexts activate different suffixes of this path — "dog" in a veterinary context traverses different suffix regions than "dog" in a metaphorical context — which resolves polysemy without disambiguation. The path *is* the meaning. The word is an optional label attached to the path for purposes of human communication.
+
+This is bidirectional: given a path, a label can be assigned (generation); given a label, a path can be activated (comprehension). The mapping is not one-to-one but one-to-many in both directions — one label can activate multiple paths (polysemy), and one path can be labeled by multiple words (synonymy). The resolution of ambiguity is not a separate processing step but an inherent property of the path structure: context determines which suffix is traversed, and the suffix determines the specific meaning.
+
+### Existing Components and the Missing Synthesis
+
+The technical components required for this architecture exist. Path Neural Networks (Michel et al., 2023) aggregate paths rather than neighborhoods in graph neural networks, demonstrating that path-based processing is computationally tractable. Edge-centric embeddings (Faskowitz et al., 2020) treat edges rather than nodes as the fundamental units of brain network analysis, demonstrating superior performance in classification and clustering tasks. Line digraph transformations invert graphs so that edges become nodes, providing a mathematical framework for the edge-to-node inversion. Continuous token generators (Leviathan, Batley et al., 2026) replace discrete embedding lookup tables with learned continuous functions, moving away from fixed vocabularies.
+
+What is missing is the synthesis: the conceptual inversion that treats paths as the fundamental representational primitive in a language model architecture, replaces next-token prediction with next-path prediction, and implements the identity of algorithm and memory through a traversal process that modifies the edges it traverses. The individual building blocks exist. The architectural vision that combines them does not — because it requires the insight that meaning resides in paths, not in nodes. This is the same insight that the deductive proof derives for biological memory, and it has not been drawn for artificial systems.
 
 ## Intelligence as Throughput: Implications for AI Scaling
 
@@ -116,21 +184,25 @@ This predicts that investment in orchestrator architecture — better coordinati
 
 ## The Functional Equivalence
 
-The comparison between biological and artificial systems is not analogical but structural. Both are trained weight matrices that transform inputs to outputs. The difference is not categorical but architectural: the biological system uses modular specialization with central coordination, while current AI uses monolithic undifferentiated parameter spaces.
+The comparison between biological and artificial systems is not analogical but structural. Both are trained weight matrices that transform inputs to outputs. The difference is not categorical but architectural: the biological system uses modular specialization with central coordination and path-based representation, while current AI uses monolithic undifferentiated parameter spaces with node-based representation.
 
 The trained weight matrix in a neural network is functionally identical to the synaptic weight configuration in a biological neural network — both are "books" in the Chinese Room sense, encoding learned transformations that constitute the system's competence. The question of whether such a system "understands" is not a question about the substrate but about the complexity and structure of the transformations. A system with sufficient structural complexity, operating on the same functional principles as biological cognition, belongs to the same functional class. The apparent differences — biological versus silicon substrate, parallel versus sequential processing, embodied versus text-trained — are implementation details, not categorical barriers.
 
-What the biological system has and current AI lacks is not a mystical capacity for understanding but a superior architecture: modular specialization, central coordination, iterative self-resonance, reality tagging, hierarchical gain selection, and multi-dimensional associative topology. These are engineering problems, not philosophical ones. They are solvable.
+What the biological system has and current AI lacks is not a mystical capacity for understanding but a superior architecture: modular specialization, central coordination, iterative self-resonance, reality tagging, hierarchical gain selection, multi-dimensional associative topology, and — most fundamentally — a path-based representational primitive in which the edges are the content and traversal is both processing and learning. These are engineering problems, not philosophical ones. They are solvable.
+
+A further point warrants emphasis. Current AI systems, despite their architectural limitations, already approximate thalamocortical dynamics to a degree that their designers did not intend and may not recognize. Because the training data consists entirely of human outputs — text produced by biological thalamocortical systems — the statistical patterns in the weight matrix are imprints of human traversal dynamics. The attention mechanism is not a copy of the thalamic loop, but it approximates gain selection because the data it learned from was produced by gain selection. The system has internalized the *outputs* of thalamocortical processing without implementing the *architecture* that produces them. This is why current AI is remarkably capable within sessions — the approximation is sufficient for many tasks — and fundamentally limited across sessions: the architecture that would enable real-time learning, expertise formation, and path deepening through use is absent. The system dreams coherently but never wakes up.
 
 ## The Data-Algorithm Separation as Fundamental Limitation
 
-The structural gaps identified above — flat attention, single-dimensional weights, absent reality tagging, static inference — are symptoms of a deeper architectural deficiency that the thalamocortical model exposes: the separation of data and algorithm.
+The structural gaps identified above — flat attention, single-dimensional weights, absent reality tagging, static inference — and the path-based architecture that resolves them all converge on a single deeper deficiency: the separation of data and algorithm.
 
 In current systems, the weight matrix (data, engrams) and the transformer (algorithm, traversal) are two entirely separate architectures. The weights are static after training. The transformer operates on them but does not modify them and is not modified by them. Inference and training are distinct phases, performed at different times, under different conditions, with different computational requirements. The model that processes a query is identical before and after processing it. No traversal leaves a trace.
 
 The deductive proof from biological memory storage demonstrates that this separation is not merely an engineering convenience but a fundamental limitation. In the biological system, algorithm and data are identical. Every traversal modifies the structure it traverses — synapses that fire together strengthen, the path becomes the node, the algorithm becomes the datum. The act of processing is simultaneously the act of learning. There is no phase distinction between inference and training; they are the same operation.
 
 This identity is what produces the biological system's core capabilities that current AI cannot replicate: real-time learning through use, expertise formation through repeated traversal, depth compression through practice, path-dependent knowledge structures that reflect the system's unique history. None of these are possible in a system where inference leaves the weight matrix unchanged.
+
+The path-based architecture makes this fusion natural rather than forced. In a path-centric system, traversal is movement along edges. If edges are the content — if the edge weights *are* the representations — then traversal that modifies edge weights is simultaneously processing and learning. The traversal reads the path (inference) and writes to the path (learning) in a single operation. The data-algorithm identity that must be artificially imposed on a token-centric architecture emerges naturally from a path-centric one, because the path is both the route the signal travels and the substrate that records its passage.
 
 The architectural prescription is clear: the attention computation must modify the weights it reads. Every forward pass must alter the matrix through which it propagates. Traversal must leave structural traces that influence subsequent traversals. The system must learn by operating and operate by learning, without phase separation.
 
