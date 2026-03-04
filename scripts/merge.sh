@@ -28,6 +28,6 @@ for dir in ./*/; do
 done
 
 echo Combining chapters
-cd output
-cat chapter_*.merge.md > "Thesis on Infinite Scale Expansion (ISE).agentic.md" 
-cd ..
+cat output/chapter_*.merge.md > "output/Thesis on Infinite Scale Expansion (ISE).agentic.md" 
+echo Combine Appendix
+cat appendix/*.md > "output/Thesis on Infinite Scale Expansion (ISE) - Appendix.agentic.md" 
