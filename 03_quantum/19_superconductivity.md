@@ -22,7 +22,7 @@ The critical temperature is estimated through the McMillan-Allen-Dynes formula:
 
 $$T_c = \frac{\omega_{\log}}{1.2} \exp\left[-\frac{1.04(1+\lambda)}{\lambda - \mu^*(1+0.62\lambda)}\right]$$
 
-where $\omega_{\log}$ is the logarithmically averaged phonon frequency, $\lambda$ the electron-phonon coupling constant, and $\mu^{\ast}$ the Coulomb pseudopotential — a phenomenological parameter that absorbs the effect of screened electron-electron repulsion. The value of $\mu^*$ is not derived from the theory but assigned, typically between 0.10 and 0.15. This single free parameter carries substantial weight: small changes in $\mu^*$ shift $T_c$ predictions by tens of Kelvin.
+where $\omega_{\log}$ is the logarithmically averaged phonon frequency, $\lambda$ the electron-phonon coupling constant, and $\mu^{\ast}$ the Coulomb pseudopotential — a phenomenological parameter that absorbs the effect of screened electron-electron repulsion. The value of $\mu^*$ is not derived from the theory but assigned, typically between 0.10 and 0.15. This single free parameter carries substantial weight: small changes in $\mu^{\ast}$ shift $T_c$ predictions by tens of Kelvin.
 
 **The Predictive Record**
 
