@@ -26,7 +26,7 @@ where $\omega_{\log}$ is the logarithmically averaged phonon frequency, $\lambda
 
 **The Predictive Record**
 
-The standard narrative presents the hydrogen-rich superhydrides as a triumph of Eliashberg theory: in 2014, Duan et al. predicted that H$_3$S should exhibit $T_c$ of 191–204 K at ~200 GPa, and in 2015 Drozdov et al. measured $T_c \approx 203$ K at 155 GPa. The temperature value appears to match. However, a closer examination reveals significant complications.
+The standard narrative presents the hydrogen-rich superhydrides as a triumph of Eliashberg theory: in 2014, Duan et al. predicted that $\text{H}_3\text{S}$ should exhibit $T_c$ of 191–204 K at ~200 GPa, and in 2015 Drozdov et al. measured $T_c \approx 203$ K at 155 GPa. The temperature value appears to match. However, a closer examination reveals significant complications.
 
 The predicted pressure (~200 GPa) deviates from the experimental pressure (155 GPa) by nearly 25%. Since $T_c$ rises with pressure in these systems, a model that is correct at 200 GPa should predict a substantially lower $T_c$ at 155 GPa. The coincidence of the temperature value at the wrong pressure is not a clean prediction — it indicates either an overestimation of $T_c$ at the predicted pressure, a misprediction of the phase transition pressure, or a fortuitous cancellation of errors. Different theoretical groups arrived at conflicting predictions for the phase transition pressure and crystal symmetry.
 
