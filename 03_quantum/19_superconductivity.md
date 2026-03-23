@@ -214,7 +214,63 @@ The limitation is fundamental: $N(E_F)$ is a scalar that counts available states
 
 This protocol uses exclusively DFT-level data — no electron-phonon coupling calculations required, eliminating the computational bottleneck of current workflows. The screening is not for "strong coupling" but for "closure-favorable geometry," a qualitatively different target that is cheaper to compute and, if the ISE framework is correct, more predictive.
 
-The protocol constitutes a falsifiable research program: if ISE's identification of resonance closure as the mechanism is correct, materials passing all six criteria at high scores should exhibit superconductivity upon appropriate doping, even if they are not flagged by conventional $N(E_F)$ and $\lambda$ screening. Conversely, materials with high $N(E_F)$ but poor deficit complementarity should resist superconductivity despite favorable conventional indicators. The existing databases — containing thousands of computed band structures alongside experimental $T_c$ values or confirmed absence of superconductivity — provide the immediate testing ground.
+The protocol constitutes a falsifiable research program: if ISE's identification of resonance closure as the mechanism is correct, materials passing all six criteria at high scores should exhibit superconductivity upon appropriate doping, even if they are not flagged by conventional $N(E_F)$-and-$\lambda$ screening. Conversely, materials with high $N(E_F)$ but poor deficit complementarity should resist superconductivity despite favorable conventional indicators. The existing databases — containing thousands of computed band structures alongside experimental $T_c$ values or confirmed absence of superconductivity — provide the immediate testing ground.
+
+**Closure Configuration Count and Supercurrent Path Geometry**
+
+**From Six Parameters to One: The Configuration Count**
+
+The six screening parameters introduced above are not independent variables. They are projections of a single underlying quantity: the **effective closure configuration count** — the number of independent pathways through which the self-consistency condition on the band geometry can be simultaneously satisfied.
+
+Each band crossing the Fermi level represents a potential closure channel. But not every band contributes equally. A band contributes a closure configuration only if it possesses complementary deficit structure (adequate nesting), sufficient spectral weight concentration near $E_F$ (Van Hove proximity), and restricted scattering phase space (low dimensionality). The six parameters evaluate these conditions per band. The configuration count is their sum across all bands — weighted by quality.
+
+This reduction to a single scalar generates a sharp, testable prediction: **$T_c$ should correlate with the effective configuration count, not with coupling strength.** High $T_c$ arises not because the pairing interaction is strong, but because the band geometry provides many independent closure pathways. Thermal fluctuations can destroy individual pathways, but the system remains superconducting as long as at least one pathway is closed. More pathways means higher temperatures can be tolerated before all are simultaneously disrupted.
+
+### Empirical Correlation
+
+The known superconductor families are ordered by this criterion with striking consistency:
+
+**Conventional elemental superconductors** ($T_c < 10$ K): typically one band at $E_F$, simple Fermi surface, one closure pathway. Mercury, lead, niobium — single s-band systems with minimal configuration space.
+
+**MgB$_2$** ($T_c = 39$ K): two distinct band groups at $E_F$ — the quasi-2D $\sigma$-bands and the 3D $\pi$-bands, with two separate gaps. Two independent closure channels. $T_c$ roughly quadruples relative to elemental superconductors.
+
+**Iron-based superconductors** ($T_c$ up to 56 K, thin-film FeSe $> 100$ K): at least three of the five Fe 3d orbitals are active near $E_F$, forming multiple Fermi surface sheets with distinct orbital characters. Five bands crossing the Fermi level, complex nesting between electron and hole pockets. The configuration space is large, but the nesting quality and orbital overlap vary across families — which explains why $T_c$ varies dramatically within the iron-based class despite similar band counts.
+
+**Cuprates** ($T_c$ up to 133 K at ambient pressure): superficially a single-band system ($d_{x^2-y^2}$), but with orbital hybridization ($d_{z^2}$ admixture), a Van Hove singularity at or near $E_F$ at optimal doping, and Fermi surface reconstruction through Lifshitz transitions under doping. The effective configuration count is not determined by band number alone but by the topological complexity of the Fermi surface — which reconfigures qualitatively across the doping diagram. At optimal doping, the Van Hove singularity sits at $E_F$ and the Fermi surface topology maximizes nesting. This has been noted independently: a detailed comparison of electronic band structures across cuprate and iron-based families concludes that the general mechanism of $T_c$ enhancement is likely related to the proximity of Van Hove singularities to the Fermi level — and that this is not related to the density of states but to "some kind of resonance caused by the proximity of the Fermi surface to a topological Lifshitz transition." The author uses the word "resonance" without having a framework for it.
+
+**Hydrides under pressure** ($T_c$ up to 250 K): LaH$_{10}$ has one of the most complex Fermi surfaces among known superconductors — multiple nested cage-like sheets with numerous closure channels. The extreme pressure enforces dimensional reduction per channel (Pathway II), while the multiplicity of channels provides the configuration count. The combination — many pathways, each geometrically enforced — produces the highest known $T_c$ values.
+
+The pattern is consistent: $T_c$ scales with the product of configuration count and per-channel closure quality, not with coupling strength. This is the single scalar that the six parameters collapse onto.
+
+**Supercurrent Path Geometry**
+
+The configuration count has a direct physical consequence that has not been recognized in the standard framework: **the supercurrent does not necessarily flow along the macroscopic conductor axis.**
+
+If the closure pathway that is currently active — the band configuration through which the self-consistency condition is satisfied — has its nodal structure oriented at an angle to the crystal axis, then the Cooper-pair condensate propagates along that angle, not along the wire. The macroscopic current is the projection of the microscopic closure path onto the conductor geometry. In a material with a single closure pathway aligned with the crystal axis, the two coincide. In a material with multiple pathways at different orientations, the effective current path is the resultant of all active pathways — which may meander, zigzag, or spiral through the material.
+
+This is not a theoretical extrapolation. It is directly observed:
+
+**Nickelate superconductors.** In Nd$_{0.8}$Sr$_{0.2}$NiO$_2$, angle-resolved transport measurements reveal that the electrical conductivity peaks at 125° relative to the crystal principal axis in the normal state — but this angle shifts to 160° near the zero-resistance temperature. The superconducting phase stiffness maximizes along 160°, a direction that coincides with neither the electronic nematicity axis nor the crystal lattice symmetry. The supercurrent follows the closure geometry, not the crystal geometry, and the two are misaligned by a measurable angle.
+
+**Bi-2212 round wires.** Bi$_2$Sr$_2$CaCu$_2$O$_x$ is the only high-$T_c$ superconductor that functions as a round wire with high critical current density — all others must be fabricated as tapes aligned along the crystal anisotropy. The mechanism enabling this is "c-axis brick-wall current flow": when in-plane transport is blocked by grain boundaries, the supercurrent switches to a zigzag path along the c-axis, hopping between misoriented grains through their basal-plane faces. The grain-to-grain misorientation (~15° FWHM) is far beyond the conventionally accepted strong-coupling range, yet the wire carries high current. The standard framework calls this a "conundrum." The ISE reading: the closure configuration count of Bi-2212 is high enough that at least one pathway remains closed even when the current must meander through misoriented grains.
+
+**Intrinsic Josephson junctions in cuprates.** In highly anisotropic cuprates such as BSCCO, the supercurrent between CuO$_2$ planes flows via Josephson tunneling across the blocking layers. A single crystal naturally forms a stack of nanoscale Josephson junctions. The current does not traverse the crystal continuously but hops discretely from plane to plane — each hop adding path length and introducing a phase shift that depends on the interlayer coupling geometry.
+
+**Superconducting diodes.** In vertical Josephson junctions with non-centrosymmetric barriers (Td-WTe$_2$), the supercurrent flows more easily in one direction than the other — a non-reciprocity directly coupled to the crystal structure of the barrier. The current path asymmetry reflects the asymmetry of the closure geometry in momentum space. The barrier's crystal structure imposes a preferred direction on the closure pathway, breaking the assumption that supercurrent is geometrically isotropic.
+
+### Implications for Magnetic Field Generation
+
+If the supercurrent path is not aligned with the macroscopic conductor geometry, this has direct consequences for magnetic field generation — the primary technological application of superconductors.
+
+In a solenoid, the magnetic field is $B = \mu_0 n I$, calculated under the assumption that the current flows in circular loops perpendicular to the solenoid axis. If the actual current path deviates from this assumption — following the closure geometry rather than the conductor geometry — then:
+
+1. **The effective field per ampere is material-dependent beyond $\lambda$ and $\xi$.** Two superconductors carrying the same current through the same coil geometry may produce different magnetic fields if their closure path geometries differ. The deviation is determined by the angle between the dominant closure pathway and the conductor axis.
+
+2. **Materials with high configuration counts may produce weaker fields per cross-section.** If many closure pathways are active at different orientations, the net current direction is the vector sum of the individual pathway contributions. Pathways at large angles to the conductor axis contribute less to the macroscopic field while still carrying dissipationless current. The material is superconducting — zero resistance — but the effective current density contributing to field generation is reduced by the geometric factor.
+
+3. **The effect is measurable as a discrepancy between calculated and observed field strength.** For a known current, conductor geometry, and winding pattern, the expected field is calculable from classical electrodynamics. Any systematic deviation — material-dependent, reproducible, and correlated with band structure anisotropy — would constitute direct evidence for closure path geometry influencing macroscopic electromagnetic properties.
+
+This prediction connects the microscopic band geometry to a macroscopic, technologically relevant observable. It is falsifiable: if the closure path geometry has no influence on field generation, all superconductors with the same critical current density in the same coil geometry should produce identical fields. If the prediction is correct, materials with known anisotropic closure paths (cuprates, nickelates) should show systematic field deviations relative to isotropic superconductors (elemental metals) — and the magnitude of the deviation should correlate with the angle between the dominant closure pathway and the conductor axis as determined from band structure calculations.
 
 **Stochastic Resonance Closure and the Limits of Dimensional Reduction**
 
