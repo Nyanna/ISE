@@ -226,7 +226,7 @@ Each band crossing the Fermi level represents a potential closure channel. But n
 
 This reduction to a single scalar generates a sharp, testable prediction: **$T_c$ should correlate with the effective configuration count, not with coupling strength.** High $T_c$ arises not because the pairing interaction is strong, but because the band geometry provides many independent closure pathways. Thermal fluctuations can destroy individual pathways, but the system remains superconducting as long as at least one pathway is closed. More pathways means higher temperatures can be tolerated before all are simultaneously disrupted.
 
-### Empirical Correlation
+**Empirical Correlation**
 
 The known superconductor families are ordered by this criterion with striking consistency:
 
@@ -258,7 +258,7 @@ This is not a theoretical extrapolation. It is directly observed:
 
 **Superconducting diodes.** In vertical Josephson junctions with non-centrosymmetric barriers ( $\mathrm{Td-WTe_2}$ ), the supercurrent flows more easily in one direction than the other — a non-reciprocity directly coupled to the crystal structure of the barrier. The current path asymmetry reflects the asymmetry of the closure geometry in momentum space. The barrier's crystal structure imposes a preferred direction on the closure pathway, breaking the assumption that supercurrent is geometrically isotropic.
 
-### Implications for Magnetic Field Generation
+**Implications for Magnetic Field Generation**
 
 If the supercurrent path is not aligned with the macroscopic conductor geometry, this has direct consequences for magnetic field generation — the primary technological application of superconductors.
 
