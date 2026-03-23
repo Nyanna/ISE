@@ -38,7 +38,7 @@ Furthermore, the raw Eliashberg calculation in the harmonic approximation does n
 
 Only when all three corrections are applied simultaneously does $T_c$ fall within the experimental range. Each correction is physically motivated, but each also narrows the gap between prediction and known experimental result. The process is better characterized as convergent retroaction — iteratively refining the calculation with knowledge of the target — than as genuine prediction.
 
-For LaH$_{10}$, the situation is similar: different groups predicted $T_c$ values ranging from 200 K to 290 K depending on methodology and parameter choices. With an experimental value of ~250 K, essentially every calculation can claim partial agreement.
+For $\text{LaH}_{10}$, the situation is similar: different groups predicted $T_c$ values ranging from 200 K to 290 K depending on methodology and parameter choices. With an experimental value of ~250 K, essentially every calculation can claim partial agreement.
 
 The Allen-Dynes formula itself carries a systematic bias: it was originally calibrated on low-$T_c$ superconductors and systematically underpredicts $T_c$ for high-$T_c$ hydrides. This has been corrected through machine-learning-derived modifications to the formula — a procedure that replaces a physics-based prediction with a data-fitted correction.
 
