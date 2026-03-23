@@ -33,7 +33,7 @@ The predicted pressure (~200 GPa) deviates from the experimental pressure (155 G
 Furthermore, the raw Eliashberg calculation in the harmonic approximation does not reproduce the experimental $T_c$. Agreement was achieved only after successive corrections:
 
 1. **Anharmonic phonon corrections**: hydrogen atoms under megabar pressure deviate strongly from harmonic behavior. Including anharmonicity renormalizes the phonon frequencies and substantially modifies $\lambda$.
-2. **Vertex corrections**: the adiabatic (Migdal) approximation breaks down in H$_3$S because the phonon energy scale approaches the electronic energy scale. Lowest-order vertex corrections to the electron-phonon coupling are substantial.
+2. **Vertex corrections**: the adiabatic (Migdal) approximation breaks down in $\text{H}_3\text{S}$ because the phonon energy scale approaches the electronic energy scale. Lowest-order vertex corrections to the electron-phonon coupling are substantial.
 3. **Full-bandwidth treatment**: the standard constant-density-of-states approximation fails for materials with pronounced features near the Fermi level. Retaining the full electronic structure changes $T_c$ by tens of Kelvin.
 
 Only when all three corrections are applied simultaneously does $T_c$ fall within the experimental range. Each correction is physically motivated, but each also narrows the gap between prediction and known experimental result. The process is better characterized as convergent retroaction — iteratively refining the calculation with knowledge of the target — than as genuine prediction.
