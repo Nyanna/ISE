@@ -32,9 +32,9 @@ The predicted pressure (~200 GPa) deviates from the experimental pressure (155 G
 
 Furthermore, the raw Eliashberg calculation in the harmonic approximation does not reproduce the experimental $T_c$. Agreement was achieved only after successive corrections:
 
-1. **Anharmonic phonon corrections**: hydrogen atoms under megabar pressure deviate strongly from harmonic behavior. Including anharmonicity renormalizes the phonon frequencies and substantially modifies $\lambda$.
-2. **Vertex corrections**: the adiabatic (Migdal) approximation breaks down in $\text{H}_3\text{S}$ because the phonon energy scale approaches the electronic energy scale. Lowest-order vertex corrections to the electron-phonon coupling are substantial.
-3. **Full-bandwidth treatment**: the standard constant-density-of-states approximation fails for materials with pronounced features near the Fermi level. Retaining the full electronic structure changes $T_c$ by tens of Kelvin.
+* **Anharmonic phonon corrections**: hydrogen atoms under megabar pressure deviate strongly from harmonic behavior. Including anharmonicity renormalizes the phonon frequencies and substantially modifies $\lambda$.
+* **Vertex corrections**: the adiabatic (Migdal) approximation breaks down in $\text{H}_3\text{S}$ because the phonon energy scale approaches the electronic energy scale. Lowest-order vertex corrections to the electron-phonon coupling are substantial.
+* **Full-bandwidth treatment**: the standard constant-density-of-states approximation fails for materials with pronounced features near the Fermi level. Retaining the full electronic structure changes $T_c$ by tens of Kelvin.
 
 Only when all three corrections are applied simultaneously does $T_c$ fall within the experimental range. Each correction is physically motivated, but each also narrows the gap between prediction and known experimental result. The process is better characterized as convergent retroaction — iteratively refining the calculation with knowledge of the target — than as genuine prediction.
 
@@ -205,12 +205,12 @@ The limitation is fundamental: $N(E_F)$ is a scalar that counts available states
 
 **An Integrated Screening Protocol.** None of these parameters is individually sufficient. The closure criterion is inherently multidimensional — it depends on the joint geometry of the band structure, Fermi surface, and density of states. An ISE-informed screening workflow would combine them into a composite closure score:
 
-1. Pre-screen by $N(E_F)$ (necessary but not sufficient — eliminates insulators and low-DOS metals).
-2. Evaluate DOS symmetry in a window $\pm \varepsilon_0$ around $E_F$ (deficit complementarity proxy).
-3. Compute Van Hove distances and Lifshitz transition proximities (doping targets for closure optimization).
-4. Analyze Fermi surface nesting quality via $\chi_0(\mathbf{q})$ (momentum-space complementarity).
-5. Assess Fermi surface dimensionality (ambient-pressure dimensional reduction).
-6. For semiconductor hosts: evaluate dopant ionization energies against band gap (band merging criterion).
+* Pre-screen by $N(E_F)$ (necessary but not sufficient — eliminates insulators and low-DOS metals).
+* Evaluate DOS symmetry in a window $\pm \varepsilon_0$ around $E_F$ (deficit complementarity proxy).
+* Compute Van Hove distances and Lifshitz transition proximities (doping targets for closure optimization).
+* Analyze Fermi surface nesting quality via $\chi_0(\mathbf{q})$ (momentum-space complementarity).
+* Assess Fermi surface dimensionality (ambient-pressure dimensional reduction).
+* For semiconductor hosts: evaluate dopant ionization energies against band gap (band merging criterion).
 
 This protocol uses exclusively DFT-level data — no electron-phonon coupling calculations required, eliminating the computational bottleneck of current workflows. The screening is not for "strong coupling" but for "closure-favorable geometry," a qualitatively different target that is cheaper to compute and, if the ISE framework is correct, more predictive.
 
@@ -264,11 +264,11 @@ If the supercurrent path is not aligned with the macroscopic conductor geometry,
 
 In a solenoid, the magnetic field is $B = \mu_0 n I$, calculated under the assumption that the current flows in circular loops perpendicular to the solenoid axis. If the actual current path deviates from this assumption — following the closure geometry rather than the conductor geometry — then:
 
-1. **The effective field per ampere is material-dependent beyond $\lambda$ and $\xi$.** Two superconductors carrying the same current through the same coil geometry may produce different magnetic fields if their closure path geometries differ. The deviation is determined by the angle between the dominant closure pathway and the conductor axis.
+* **The effective field per ampere is material-dependent beyond $\lambda$ and $\xi$.** Two superconductors carrying the same current through the same coil geometry may produce different magnetic fields if their closure path geometries differ. The deviation is determined by the angle between the dominant closure pathway and the conductor axis.
 
-2. **Materials with high configuration counts may produce weaker fields per cross-section.** If many closure pathways are active at different orientations, the net current direction is the vector sum of the individual pathway contributions. Pathways at large angles to the conductor axis contribute less to the macroscopic field while still carrying dissipationless current. The material is superconducting — zero resistance — but the effective current density contributing to field generation is reduced by the geometric factor.
+* **Materials with high configuration counts may produce weaker fields per cross-section.** If many closure pathways are active at different orientations, the net current direction is the vector sum of the individual pathway contributions. Pathways at large angles to the conductor axis contribute less to the macroscopic field while still carrying dissipationless current. The material is superconducting — zero resistance — but the effective current density contributing to field generation is reduced by the geometric factor.
 
-3. **The effect is measurable as a discrepancy between calculated and observed field strength.** For a known current, conductor geometry, and winding pattern, the expected field is calculable from classical electrodynamics. Any systematic deviation — material-dependent, reproducible, and correlated with band structure anisotropy — would constitute direct evidence for closure path geometry influencing macroscopic electromagnetic properties.
+* **The effect is measurable as a discrepancy between calculated and observed field strength.** For a known current, conductor geometry, and winding pattern, the expected field is calculable from classical electrodynamics. Any systematic deviation — material-dependent, reproducible, and correlated with band structure anisotropy — would constitute direct evidence for closure path geometry influencing macroscopic electromagnetic properties.
 
 This prediction connects the microscopic band geometry to a macroscopic, technologically relevant observable. It is falsifiable: if the closure path geometry has no influence on field generation, all superconductors with the same critical current density in the same coil geometry should produce identical fields. If the prediction is correct, materials with known anisotropic closure paths (cuprates, nickelates) should show systematic field deviations relative to isotropic superconductors (elemental metals) — and the magnitude of the deviation should correlate with the angle between the dominant closure pathway and the conductor axis as determined from band structure calculations.
 
@@ -312,9 +312,9 @@ The standard theoretical framework treats superconductivity as a binary phenomen
 
 ISE reframes this situation. The broadened transition is not an anomaly but the natural manifestation of a distinct physical regime — *stochastic resonance closure* — that lies between full coherent superconductivity and the normal state. In this regime:
 
-1. The dimensional reduction that enforces closure operates locally but not globally. Individual domains achieve geometrically enforced complementarity, but the domains are not mutually phase-coherent.
-2. The macroscopic order parameter $\Psi$ is not spatially uniform but fluctuates in amplitude and phase across the sample, reflecting the stochastic geometry of the closure domains.
-3. Transport properties interpolate continuously between the superconducting and normal states, governed by the percolation statistics of the closure domain network.
+* The dimensional reduction that enforces closure operates locally but not globally. Individual domains achieve geometrically enforced complementarity, but the domains are not mutually phase-coherent.
+* The macroscopic order parameter $\Psi$ is not spatially uniform but fluctuates in amplitude and phase across the sample, reflecting the stochastic geometry of the closure domains.
+* Transport properties interpolate continuously between the superconducting and normal states, governed by the percolation statistics of the closure domain network.
 
 This is structurally analogous to the relationship between a fully ordered ferromagnet, a partially ordered state with magnetic domains, and a paramagnet — but realized in the Cooper-pair channel rather than the spin channel. The analogy is not accidental: both phenomena involve the breakdown of macroscopic phase coherence into local, fluctuating coherence islands whose collective behavior is governed by connectivity rather than by the properties of any single domain.
 
