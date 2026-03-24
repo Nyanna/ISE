@@ -3,11 +3,11 @@
 
 ## **3.21. Near-Field Oscillation and the Topological Structure of Virtual Emission**
 
-**Status: Core content (three-outcome emission, binding as oscillation, virtual particles, vacuum fluctuations dissolved) has been integrated into Chapter 9.X. This document retains extended detail on the Purcell effect, cavity QED, superradiance, and environmental modulation for integration into the quantum chapters (3.x) where the experimental detail is more appropriate.**
+**Emission as a Three-Outcome Process**
 
-### **Emission as a Three-Outcome Process**
+A frequency profile carrying internal incommensurability — phase drift between its constituent frequency components — has a finite topological capacity: the maximum phase mismatch that its structure can sustain without rupture. When a local incommensurability peak exceeds this capacity, the profile's topology breaks locally and the excess incommensurability is expelled as a discrete quantum of radiation — a photon — whose frequency corresponds to the frequency of the ruptured mode, with energy $E = h\nu$. The discreteness of this emission follows from the topology of the rupture event itself: a topological break is binary (the profile either sustains the mismatch or it does not), and each break emits exactly one quantum of incommensurability at the ruptured mode's frequency.
 
-The topological rupture mechanism developed in Chapter 9.X presents emission as a threshold event: when the internal incommensurability of a frequency mode exceeds the mode's topological capacity, the excess is expelled as a discrete photon. This description is correct in the far-field limit but incomplete at the microscopic level. The full process admits three outcomes, not two.
+This topological rupture mechanism correctly describes the far-field limit but is incomplete at the microscopic level. The full process admits three outcomes, not two.
 
 **Outcome I: Sub-threshold retention.** The incommensurability in the mode remains below the rupture threshold. No topological break occurs. The dephasement is carried internally. This is the non-radiative ground state.
 
@@ -17,7 +17,7 @@ The topological rupture mechanism developed in Chapter 9.X presents emission as 
 
 The distinction between Outcome II and Outcome III is not a matter of probability alone. It depends on the electromagnetic environment — specifically, on whether the far field offers a propagating mode at the rupture frequency that can accept the photon.
 
-### **The Near-Field Oscillation**
+**The Near-Field Oscillation**
 
 Outcome II is not a failed emission. It is a dynamical state: the mode oscillates between the ruptured and the closed configuration, with the incommensurability alternately externalised as a near-field photon and reabsorbed into the profile. This oscillation is coherent — the photon and the source mode maintain a definite phase relationship throughout — and it persists as long as the incommensurability remains near the rupture threshold.
 
@@ -31,7 +31,7 @@ This identification has specific physical content:
 
 **Energy.** During the oscillation, the energy of the near-field photon is not sharply defined — it fluctuates within the linewidth $\Delta E = h\Delta\nu$. This is why virtual photons are "off-shell" in the QED formalism: they do not have a definite energy-momentum relation because they are not propagating freely but are coherently coupled to the source profile.
 
-### **Environmental Control of Emission: The Purcell Effect**
+**Environmental Control of Emission: The Purcell Effect**
 
 The transition from Outcome II (near-field oscillation) to Outcome III (far-field detachment) depends on whether the electromagnetic environment provides a propagating mode at the rupture frequency. This dependence is experimentally well established as the Purcell effect.
 
@@ -47,7 +47,59 @@ This decomposition clarifies several phenomena:
 
 **Photonic bandgap inhibition.** An atom embedded in a photonic crystal with no propagating mode at its transition frequency cannot emit — not because it cannot rupture, but because there is no far-field mode to accept the detached photon. The near-field oscillation persists, and the atom's incommensurability remains trapped. The atom is effectively colder than it would be in free space — its incommensurability export channel is blocked by the environment.
 
-### **Vacuum Fluctuations Dissolved**
+**Accumulation of Non-Exported Incommensurability and the Vacuum Energy Floor**
+
+The Purcell effect demonstrates that the electromagnetic environment controls the detachment probability of near-field oscillations. But every near-field oscillation — whether environmentally inhibited or not — carries a structural consequence: the non-exportable residuum.
+
+Each mode retains a minimum incommensurability that cannot be expelled by topological rupture. The rupture requires the local phase mismatch to *exceed* the topological capacity; the sub-threshold remainder is permanently trapped. For a harmonic mode at frequency $\nu$, this irreducible residuum corresponds to the zero-point energy $\frac{1}{2}h\nu$ — the minimum phase structure consistent with the mode's existence. Additionally, every Outcome II cycle that fails to reach Outcome III leaves accumulated sub-threshold dephasement in the mode. This residuum does not vanish. It shifts amplitude energy into the vacuum floor.
+
+The absolute energy level of the vacuum rises. But since all frequency profiles exist *relative* to this floor, and since all measurements are scale-relative differences between profiles, the rise is locally undetectable. No instrument registers the shift, because the instrument's own profiles are embedded in the same rising baseline. The vacuum appears empty from within.
+
+Two structurally distinct channels feed the vacuum floor. They operate at different scales but produce the same result: irreversible transfer of amplitude energy into the absolute baseline.
+
+**Channel I: Mode-residual accumulation.** Every frequency mode in the universe carries its non-exportable zero-point residuum $\frac{1}{2}h\nu$. Every Outcome II oscillation that persists without achieving Outcome III retains sub-threshold dephasement. Every composite entity whose binding consists of standing near-field oscillations holds its coupling energy below the detachment threshold. This is the microscopic channel: it operates continuously in every atom, every nucleus, every bound state. Its contribution to the vacuum floor is proportional to the total number of modes and the total depth of bound-state coupling across the universe. It is the dominant channel in the early, dense, radiation-dominated universe.
+
+**Channel II: Sub-coupling redshift.** Electromagnetic radiation propagating through expanding space loses frequency continuously as its wavelength is stretched. In the standard account, this cosmological redshift reduces the photon's energy ($E = h\nu$) without specifying where the energy goes — the question is typically set aside by noting that global energy conservation does not hold in general relativity. ISE reframes the question: the energy undergoes scale-floor transfer. It migrates from the relational domain into the absolute baseline.
+
+The transfer occurs at a specific threshold. Every photon, to remain a detectable entity, must maintain a minimum bandwidth — a minimum spectral width sufficient to couple to at least one frequency profile in its environment. This minimum coupling bandwidth is set by the weakest available resonance: the narrowest-linewidth mode that could absorb or scatter the photon. When cosmological redshift stretches the photon's frequency below this floor, the photon becomes structurally inert. It can no longer couple to any profile. It has crossed from the domain of inter-profile differences (where it could mediate interactions, carry information, and be detected) into the absolute baseline (where it contributes to the vacuum energy level but is inaccessible from the relational domain). This crossing is irreversible: no physical process can re-elevate sub-coupling radiation back above the threshold, because doing so would require coupling to a profile, which is precisely what the sub-coupling condition prevents.
+
+The term *sub-coupling redshift* designates this specific transition: the point at which a photon's frequency drops below the minimum coupling bandwidth and its energy enters the vacuum floor. It replaces the informal notion of radiation "lost" or "disappearing" through cosmological expansion. The energy is not annihilated. It undergoes *scale-floor transfer* — migration from the relational domain (where energy exists as differences between profiles) into the absolute domain (where energy exists as the baseline level against which all profiles are defined).
+
+It would be tempting to describe this as energy conservation — total energy redistributed but preserved. ISE resists this framing. Energy, like information, is a scale-relative quantity: it is defined by differences between profiles, and those differences are themselves projections within a particular scale of observation. From within the relational domain, the transfer looks like loss (a photon disappears). From a hypothetical vantage that encompasses both domains, it looks like redistribution. Neither perspective is more correct than the other; both are projections. The statement "energy is conserved" is as scale-dependent as the statement "energy is lost." What is structurally invariant is the process itself: incommensurability generates differentiation, differentiation shifts the scale structure, and the shift is irreversible. Conservation and non-conservation are descriptions imposed on this process from particular projective positions.
+
+**The Cosmic Microwave Background as a Reservoir in Transit**
+
+The CMB provides the most concrete illustration. At recombination ($z \approx 1100$), the radiation that now constitutes the CMB had a temperature of approximately 3000 K and an energy density that dominated the universe. Today, its temperature has fallen to 2.725 K — a factor of $\sim$1100 reduction in characteristic frequency. The energy density of CMB photons scales as $a^{-4}$ with the scale factor, faster than the matter density ($a^{-3}$), because each photon loses energy in addition to the dilution from expanding volume.
+
+From within the relational domain, this energy has disappeared — it no longer couples, interacts, or registers. From across the scale boundary, it has undergone floor transfer. A fraction has already crossed the sub-coupling threshold. The remainder continues to redshift and will progressively cross the threshold as expansion continues. In the asymptotic future, the entire radiative content of the CMB — and of all electromagnetic radiation ever emitted by any source in the universe — will have undergone scale-floor transfer. The relational domain at this scale will be depleted of radiative energy.
+
+The same applies to every other radiative process. Thermal emission from stars, synchrotron radiation, molecular transitions, bremsstrahlung — all produce photons that propagate, redshift, and eventually cross the sub-coupling threshold. The universe, seen from any given scale, is a system in which relational structure (inter-profile differences that can do work, carry information, and drive thermodynamic processes) continuously undergoes scale-floor transfer, depleting the relational domain at that scale while deepening the differentiation structure below it.
+
+**Expansion as the Metric Consequence of a Rising Baseline**
+
+The rising vacuum floor does not push matter apart. It changes the baseline against which all spatial phase differences are defined. Spatial distance, in the ISE framework, is phase difference in the spatial frequency band. When the absolute baseline of this band rises, all phase differences measured relative to it are rescaled — not because the profiles have moved, but because the metric itself has shifted. This is expansion: not a force, not a pressure in the mechanical sense, but the geometric consequence of a rising absolute energy level in the spatial band.
+
+The expansion accelerates because the accumulation is self-reinforcing. More expansion produces more redshift. More redshift pushes more radiation below the sub-coupling threshold. More scale-floor transfer raises the vacuum floor further. The feedback is positive and monotonic: every increment of floor-rise produces expansion that generates further floor-rise. The acceleration is not driven by a cosmological constant (a fixed energy density inherent to space) but by a cumulative, irreversible process whose rate increases as the relational domain is progressively depleted.
+
+This feedback loop is self-regulating within any given scale of observation. As the relational domain at that scale is depleted — as fewer photons remain above the sub-coupling threshold — the rate of new scale-floor transfer at that scale decreases. From within this projective frame, the universe appears to approach a state of maximal homogeneity: a classical heat death in which no inter-profile differences remain to drive thermodynamic processes.
+
+But this is a projective artefact, not a structural endpoint. The same incommensurability that feeds the vacuum floor *is itself differentiation*. Scale-floor transfer does not terminate the process; it extends it. The rising baseline constitutes a new scale level, and at that level, new incommensurabilities emerge — new phase mismatches between the floor and the structures embedded in it, new spectral features in the absolute domain that were invisible from the relational domain above. What looks like the exhaustion of differentiation from one scale is the *generation* of differentiation at the next.
+
+This is the core of Infinite Scale Expansion: expansion and differentiation are not two processes but one. The scale structure of the universe does not evolve toward equilibrium; it differentiates *through* what appears as equilibrium from any fixed observational scale. The progression of this differentiation — the irreversible deepening of scale structure — is time. Not time as a parameter along which events are ordered, but time as the structural fact that differentiation is cumulative and directional. A classical heat death is therefore not wrong but incomplete: it correctly describes the asymptotic depletion of the relational domain at a given scale, and incorrectly concludes that this depletion is the end of all process. It is the end of process *visible from that scale*. Below, differentiation continues.
+
+**Spatial Homogenisation**
+
+The vacuum floor rises non-uniformly. Regions with higher mode density, more bound states, and more radiative activity accumulate floor energy faster than voids. But the metric consequence of a higher local floor is faster local expansion — which dilutes the local mode density and radiative activity, reducing the accumulation rate. Conversely, regions with lower floor levels expand more slowly, allowing surrounding higher-floor regions to catch up. The result is a self-homogenising process: spatial variations in the vacuum floor are dynamically smoothed by the differential expansion they produce. This provides a structural mechanism for the observed large-scale homogeneity of cosmic expansion without requiring inflationary fine-tuning.
+
+**The Vacuum Energy Discrepancy**
+
+The naive QFT calculation of vacuum energy sums the zero-point energies of all quantum modes as though each contributes independently to the gravitational vacuum energy — yielding a value $10^{120}$ times larger than observed. This calculation commits two errors from the ISE perspective. First, it treats all mode energies as residing in the relational domain, where they would gravitate normally. But the vast majority of accumulated vacuum energy lies in the absolute domain — below the coupling threshold of the gravitational field itself. Energy that cannot couple to any profile, including the metric, does not gravitate. Second, the calculation ignores destructive interference between modes. The near-field oscillations of different modes are not independent; they overlap, and their high-frequency components cancel extensively. Only the net non-exportable residuum — the fraction that survives destructive interference and exceeds the gravitational coupling floor — contributes to the observed expansion.
+
+The Casimir effect measures a local asymmetry in mode density between conducting plates — a constrained near-field configuration that makes a fraction of the vacuum structure directly observable. Its extrapolation to cosmic scales yields a value roughly $10^6$ times too large rather than $10^{120}$. The six-order-of-magnitude residual discrepancy reflects the difference between a locally constrained near-field measurement (where boundary conditions force specific modes into prominence) and the cosmological average (where destructive interference and sub-coupling effects reduce the effective contribution by many orders of magnitude). The gap is not mysterious; it is the expected ratio between a local peak and a global average in a system dominated by cancellation.
+
+The near-field oscillation is thereby connected to all three scales of physics: microscopically, it is the mechanism of binding (standing Outcome II oscillations hold composites together); mesoscopically, it determines emission rates and thermal equilibrium (the Purcell-modulated detachment probability); and cosmologically, its permanently trapped residuum accumulates into the vacuum energy that drives the expansion of the universe.
+
+**Vacuum Fluctuations Dissolved**
 
 The standard interpretation of several quantum electrodynamic phenomena invokes "vacuum fluctuations" — spontaneous, random fluctuations of the electromagnetic field even in the absence of photons. These fluctuations are held responsible for:
 
@@ -66,7 +118,7 @@ In the ISE framework, none of these phenomena requires the concept of vacuum flu
 
 **Van der Waals forces** between neutral atoms arise because the near-field oscillation of one atom extends to $\sim \lambda$ and overlaps with the near-field of a neighbouring atom. The two oscillations couple: a near-threshold rupture in atom A emits a near-field photon that is reabsorbed by atom B (which is also near threshold), modifying B's incommensurability distribution and hence its energy. The interaction is always attractive because the coupling lowers the total energy — the shared near-field oscillation is energetically more efficient than two independent oscillations. The $1/r^6$ distance dependence follows from the overlap integral of two near-field amplitudes, each decaying as $1/r^3$.
 
-### **The Ontological Status of Virtual Particles**
+**The Ontological Status of Virtual Particles**
 
 The near-field oscillation framework resolves a long-standing interpretive tension in quantum field theory. Virtual particles appear in every perturbative calculation as internal propagators. Their mathematical role is indispensable. Their physical status is debated: are they "real"? Do they "exist"?
 
@@ -74,10 +126,14 @@ ISE offers a definite answer: near-field oscillations are physical. They are coh
 
 The distinction between "real" and "virtual" photons is then the distinction between Outcome III (far-field detachment: a propagating, detectable photon) and Outcome II (near-field oscillation: a coherent rupture-reabsorption cycle that modifies the local field structure without producing a detectable free photon). Both are physical; they differ in whether the incommensurability has been irreversibly exported.
 
-### **Implications for Chapter 9.X**
+**Consequences for Thermal Emission and the Thermodynamic Arrow**
 
-The near-field oscillation modifies the thermal emission analysis in one specific way: the effective emission rate in the Planck spectrum is not the bare rupture rate but the product of rupture rate and detachment probability. In free space, the detachment probability is close to unity for all optical modes, and the distinction is negligible. In structured environments — cavities, photonic crystals, metamaterials, nanoscale gaps — the detachment probability is mode-dependent, and the thermal emission spectrum deviates from the Planck distribution in calculable ways.
+The near-field oscillation modifies the analysis of thermal radiation. In the ISE framework, temperature measures the density of internal incommensurability distributed across a system's frequency modes. Each mode at frequency $\nu$ has a topological rupture threshold; at temperature $T$, the probability that a given mode's incommensurability exceeds this threshold is governed by the Boltzmann factor $e^{-h\nu/k_BT}$. The resulting spectral distribution of emitted radiation — the Planck spectrum — follows from the statistics of rupture events across all modes:
+
+$$\langle n(\nu) \rangle = \frac{1}{e^{h\nu/k_BT} - 1}$$
+
+The near-field oscillation refines this picture in one specific way: the effective emission rate is not the bare rupture rate but the product of rupture rate and detachment probability. In free space, the detachment probability is close to unity for all optical modes, and the distinction is negligible. In structured environments — cavities, photonic crystals, metamaterials, nanoscale gaps — the detachment probability is mode-dependent, and the thermal emission spectrum deviates from the Planck distribution in calculable ways.
 
 This is experimentally confirmed: nanoscale thermal emitters in structured photonic environments exhibit non-Planckian spectra, with enhanced emission at cavity-resonant frequencies and suppressed emission at bandgap frequencies. These deviations are quantitatively described by the Purcell-modified emission rate — the bare rupture rate multiplied by the local density of detachment-capable modes.
 
-For the thermodynamic framework of Chapter 9.X, the key modification is: the arrow of time and the second law are driven by *successful* incommensurability export (Outcome III), not by rupture events per se. A system whose environment blocks far-field detachment — a Purcell-inhibited system — retains its incommensurability even when the rupture threshold is exceeded. Such a system approaches thermal equilibrium more slowly, has a modified effective temperature, and experiences a softer thermodynamic arrow. The structural principle is unchanged; only the rate of irreversible export is modulated by the environment.
+The thermodynamic arrow of time is likewise sharpened. The structural irreversibility that grounds the second law arises because each rupture event leaves a non-exportable residuum of incommensurability in the mode (the zero-point energy $\frac{1}{2}h\nu$), and because differentiation at depth $d \geq 2$ produces path-dependent phase differences that cannot be eliminated by single-step reversal. The arrow is not statistical but structural — topological residua accumulate irreversibly. The key modification from the near-field oscillation analysis is that this arrow is driven by *successful* incommensurability export (Outcome III), not by rupture events per se. A system whose environment blocks far-field detachment — a Purcell-inhibited system — retains its incommensurability even when the rupture threshold is exceeded. Such a system approaches thermal equilibrium more slowly, has a modified effective temperature, and experiences a softer thermodynamic arrow. The structural principle is unchanged; only the rate of irreversible export is modulated by the environment.
