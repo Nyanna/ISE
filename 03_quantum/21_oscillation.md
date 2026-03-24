@@ -1,7 +1,7 @@
 
 ---
 
-## **X.X. Near-Field Oscillation and the Topological Structure of Virtual Emission**
+## **3.21. Near-Field Oscillation and the Topological Structure of Virtual Emission**
 
 **Status: Core content (three-outcome emission, binding as oscillation, virtual particles, vacuum fluctuations dissolved) has been integrated into Chapter 9.X. This document retains extended detail on the Purcell effect, cavity QED, superradiance, and environmental modulation for integration into the quantum chapters (3.x) where the experimental detail is more appropriate.**
 
