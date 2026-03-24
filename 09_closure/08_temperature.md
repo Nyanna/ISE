@@ -1,7 +1,7 @@
 
 ---
 
-## **9.X. Temperature, Quantisation, and the Arrow of Time as Topological Properties of Incommensurability**
+## **9.8. Temperature, Quantisation, and the Arrow of Time as Topological Properties of Incommensurability**
 
 The preceding chapters establish three foundational results: that differentiation across scales produces structural incommensurability as an unavoidable byproduct; that resonance closure eliminates coupling channels between a system and its environment, producing macroscopic quantum coherence; and that the frequency-resolved coupling structure between fundamental entities is accessible through material-specific projections. This chapter demonstrates that these results, taken together, yield a unified mechanistic account of temperature, entropy, thermal radiation, quantisation, the arrow of time, and the thermodynamic laws — not as independent principles but as aspects of a single structural property: the topological capacity of frequency profiles for incommensurability.
 
