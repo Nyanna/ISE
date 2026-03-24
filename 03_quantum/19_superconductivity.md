@@ -84,6 +84,40 @@ which admits either the trivial solution $\Delta = 0$ (normal state: no resonanc
 
 **Macroscopic Phase Coherence.** In the superconducting state, the resonance closure extends across the entire sample. The macroscopic order parameter $\Psi = |\Psi|e^{i\varphi}$ with a globally defined phase $\varphi$ is the direct expression of this: the closed profile structure is not local but system-wide. This is the analogue in the electromagnetic frequency band of the color-neutral closure condition that defines hadrons in the strong-interaction band — but realized at macroscopic coherence length rather than at femtometer scales.
 
+**Energy Propagation Through Valence Node Chains**
+
+The preceding analysis establishes that superconducting current is described by a phase gradient of the macroscopic order parameter: $\mathbf{j} = \frac{n_s e}{m} \nabla\varphi$. The London equation relates current to vector potential, not to electric field — a phase relationship, not a transport equation. The Josephson current $I = I_c \sin(\Delta\varphi)$ depends exclusively on the phase difference between two condensates. These formal properties are well established. The ISE framework identifies their structural origin.
+
+In a metallic lattice, every bound electron occupies an atomic orbital whose spatial extent is characterised by its nodal structure — the regions where the wavefunction changes sign. When two adjacent atoms share valence electrons, the overlap between their orbital nodes constitutes the bonding channel. In ISE terminology, these are *resonance nodes*: points in the lattice where the frequency profiles of neighbouring atoms overlap in phase. A *shared resonance node* is a chemical bond; a *chain of shared resonance nodes* spanning the material is the structural substrate for conductivity.
+
+In a normal conductor, electrons traverse this chain of resonance nodes, but each node transition involves coupling to the lattice — phonon emission, absorption, scattering. Each such event is a decoherence channel: the propagating electron loses phase information to the lattice. This is electrical resistance.
+
+In the superconducting state, the resonance closure eliminates these decoherence channels. The consequence is not merely that electrons move without friction, but something more fundamental: the chain of resonance nodes becomes a continuous frequency profile through which energy propagates without requiring charge transport. The individual electrons are quantum-mechanically identical; no electron possesses an identity that could "travel" from one node to another. What propagates is the phase configuration — a disturbance in the closed frequency profile that moves through the node chain at a velocity determined by the condensate's plasma frequency, not by the drift velocity of any particle.
+
+This reading is consistent with three established experimental observations:
+
+First, in normal metals the electromagnetic signal propagates at $\sim c$ while the electron drift velocity is of order mm/s. The energy arrives before the charge carriers could possibly have traversed the circuit. This is already understood classically as field propagation in a waveguide, but the superconducting case sharpens the point: the London equation $\mathbf{j} \propto \mathbf{A}$ is a constitutive relation between the field and the condensate phase, not a transport equation.
+
+Second, shot noise — the signature of discrete charge transfer — is suppressed in superconducting channels. If individual charge carriers were traversing the material, their discrete passage would generate shot noise proportional to the current. The suppression indicates that what traverses the material is not a sequence of discrete charges but a collective phase excitation.
+
+Third, the Meissner effect generates spontaneous screening currents without a driving electric field. These currents arise as the phase gradient of the order parameter adjusts to expel the magnetic flux — a response of the phase field, not a mechanical displacement of charge carriers.
+
+The distinction between *energy propagation through the profile* and *charge transport through the lattice* dissolves a persistent confusion in the pedagogy of superconductivity. Resistance is not the difficulty of moving electrons; it is the availability of decoherence channels. Superconductivity is not the ease of moving electrons; it is the absence of decoherence channels. What flows without dissipation is not charge but phase coherence — and the chain of resonance nodes through which it flows is the valence node structure of the lattice.
+
+**Gap Symmetry as Valence Node Geometry**
+
+In conventional s-wave superconductors, the energy gap $\Delta$ is isotropic — equal in all directions of the Brillouin zone. The ISE reading is direct: the valence node chain is geometrically uniform, offering equivalent resonance closure paths in all lattice directions.
+
+In cuprate superconductors, the gap has d-wave symmetry: $\Delta(\mathbf{k}) \propto \cos(2\phi)$, with nodes (zero-gap lines) along the $(100)$ and $(010)$ directions and maxima along $(110)$. The standard interpretation treats this as a momentum-space property of the pairing interaction. ISE identifies its origin in the real-space geometry of the $\text{CuO}_2$ planes.
+
+The Cu–O bond network in the $\text{CuO}_2$ plane defines the available resonance node paths. The $d_{x^2-y^2}$ orbital of copper, which dominates the electronic structure near the Fermi level, has lobes pointing along the Cu–O bond directions — the $(110)$ directions relative to the Cu sublattice. These are the directions of maximal orbital overlap, maximal resonance node density, and correspondingly maximal gap. Along the $(100)$ directions — between the Cu–O bonds — the orbital overlap is minimal, and the gap vanishes.
+
+The d-wave gap symmetry in Fourier space is the direct projection of the valence node geometry in real space. The "nodal" directions in the Brillouin zone are not directions where the pairing fails, but directions along which no direct resonance node path exists. Current flow along these directions proceeds via zigzag paths through the available nodes — along the bond directions — producing macroscopically isotropic superconductivity despite microscopically anisotropic closure geometry.
+
+This interpretation generates a testable correlation: the gap anisotropy of any superconductor should map onto its valence orbital geometry. The s-wave gap of elemental superconductors corresponds to nearly isotropic s- and p-orbital overlap. The d-wave gap of cuprates corresponds to the directional $d_{x^2-y^2}$ orbital. The multi-gap structure of $\text{MgB}_2$ — with distinct gaps on the $\sigma$ and $\pi$ bands — corresponds to two geometrically distinct bonding networks (in-plane $sp^2$ and out-of-plane $p_z$) with different node structures. In each case, the momentum-space gap structure is the Fourier transform of the real-space resonance node geometry.
+
+This correspondence is not a metaphor. The gap function $\Delta(\mathbf{k})$ and the real-space orbital overlap integral $\langle \phi_i | \phi_j \rangle$ are related by a lattice Fourier transform. The ISE contribution is not to introduce a new mathematical relationship but to identify the ontological priority: the resonance node geometry is the physical substrate; the k-space gap function is its projective representation.
+
 **Why Eliashberg Works When It Works.** The Eliashberg framework succeeds for conventional superconductors because density functional theory accurately computes the electronic band structure — and the band structure *is* the projective representation of the phase-space geometry. Every correction that improves Eliashberg predictions (anharmonicity, vertex corrections, full bandwidth) amounts to a more accurate description of this geometry. The convergence toward experiment reflects not the correctness of the phonon-mediation ontology but the increasing fidelity of the geometric description. ISE predicts that any sufficiently accurate characterization of the phase-space geometry will yield correct $T_c$ values — regardless of whether the theoretical language uses phonons, spin fluctuations, or resonance closure. The failures of Eliashberg in the unconventional regime occur precisely where the phase-space geometry cannot be captured by a single-boson-exchange perturbation expansion — where the closure involves multiple frequency bands simultaneously and the projective decomposition into a single mediator breaks down.
 
 **Two Pathways to Closure**
@@ -124,8 +158,55 @@ The following table establishes the systematic mapping between ISE terminology a
 | Coherence length $\xi$ | Correlation range of dynamic stabilization (Pathway I only) |
 | Closure in EM band at macro scale | Superconductivity |
 | Closure in strong band at fm scale | Color confinement (hadron formation) |
+| Resonance node chain | Valence bond network; orbital overlap path |
+| Defect-free domain length | Coherence length $\xi$ (reinterpreted) |
+| Closure path geometry | Orbital symmetry determining gap anisotropy |
+| Phase-slip event | Localised, transient disruption of resonance closure |
+| Stochastic accumulation | Condensate nucleation and growth |
+| Closure domain | Local region of established resonance closure |
+| Percolation threshold | Superconducting transition in finite/disordered systems |
+| Resonance trapping | Cooper pair formation (reinterpreted as passive capture) |
 
 The structural identity between superconductivity and confinement — both instances of resonance closure at different scales and in different frequency bands — is not a metaphor. It is a direct consequence of the framework's scale-relational architecture. The mathematics is the same: a self-consistency condition on frequency profiles that admits either a trivially open or a non-trivially closed solution.
+
+**Coherence Length as Defect-Free Domain Size**
+
+The BCS coherence length $\xi = \hbar v_F / \pi \Delta$ is standardly interpreted as the spatial extent of a Cooper pair — the characteristic distance between the two correlated electrons. This interpretation, while computationally useful, carries an ontological commitment to the pair-as-object picture that ISE does not share.
+
+In the resonance closure framework, $\xi$ admits a different and experimentally more informative reading: it is the *mean defect-free domain length* — the characteristic spatial scale over which the resonance closure can be sustained without interruption by a phase slip event.
+
+The distinction matters because it changes the physics of the sub-$\xi$ regime. If $\xi$ is the size of a pair, then a sample with dimensions $L < \xi$ cannot contain a complete pair, and superconductivity should be categorically absent below a size threshold. If $\xi$ is the mean defect-free domain length, then a sample with $L < \xi$ should show *intermittent* superconductivity — stochastic closures that form and dissolve, producing a finite, temperature-dependent resistance rather than a sharp transition.
+
+The experimental evidence decisively favours the second interpretation. In superconducting nanowires with cross-sectional dimensions below $\xi$:
+
+* The resistive transition broadens progressively with decreasing wire diameter, rather than disappearing at a critical size.
+* Thermally activated phase slips (TAPS) produce measurable resistance below $T_c$ that follows the LAMH activation formula with a barrier proportional to $L/\xi$ — exactly the scaling expected if $\xi$ governs the probability of a defect occurring within a domain of length $L$.
+* Quantum phase slips (QPS) persist even as $T \to 0$, producing resistance that does not freeze out — indicating that the closure is disrupted by quantum fluctuations even in the absence of thermal energy, consistent with stochastic closure dynamics rather than pair-based thermodynamics.
+* Individual phase-slip centres contribute discrete, quantised resistance values (e.g., $\sim 6.5\,\text{k}\Omega$ per centre in NbN nanowires), directly confirming that resistance arises at localised defect sites within an otherwise closed profile, not from a global loss of pairing.
+
+The coherence length $\xi$ then stands in the same relation to the superconducting state as the mean free path $\ell$ stands to normal conduction: a statistical property of the medium that determines transport characteristics, not a structural property of the carrier.
+
+**Correlation between Closure Path Geometry and Coherence Length**
+
+If $\xi$ measures the defect-free domain size rather than the pair size, then its magnitude should correlate with the geometric complexity of the resonance closure path, not merely with the coupling strength.
+
+The standard relationship $\xi \propto 1/\Delta$ (short coherence length implies large gap) is well established. But the question of *why* different material classes exhibit such dramatically different $\xi$ values — from $\sim 1000\,\text{nm}$ in elemental superconductors to $\sim 1\,\text{nm}$ in cuprates — is typically answered by invoking coupling strength alone.
+
+ISE offers a complementary explanation: materials with more complex resonance node geometry — longer effective closure paths due to directional bonding, zigzag propagation through anisotropic orbital structures — should exhibit shorter $\xi$, because the geometric complexity tightens the closure condition and makes the defect-free domain inherently more compact.
+
+The empirical data are consistent with this prediction:
+
+| Material class | Orbital geometry | Closure path | $\xi$ (nm) |
+|---|---|---|---|
+| Elemental metals (Al, Sn, Nb) | Isotropic s/p overlap | Direct, all directions | 100–1600 |
+| $\text{MgB}_2$ | Mixed $\sigma$/$\pi$ bands | Partially directional | 5–12 |
+| Iron pnictides (FeAs layers) | Multi-orbital d states | Layered, moderate anisotropy | 2–5 |
+| Cuprates ($\text{CuO}_2$ planes) | Directional $d_{x^2-y^2}$ | Zigzag through bond network | 1–2 |
+| Superhydrides ($\text{H}_3\text{S}$, $\text{LaH}_{10}$) | Compressed H s-orbital | Geometrically constrained | 1–3 |
+
+The monotonic decrease of $\xi$ with increasing geometric complexity of the closure path is systematic across all known superconductor families. The standard explanation attributes this entirely to increasing coupling strength $\lambda$, which increases $\Delta$ and thereby decreases $\xi$. But the ISE reading identifies the underlying variable: the closure path geometry determines the tightness of the resonance condition, which manifests as both a larger gap *and* a shorter defect-free domain. The coupling strength and the coherence length are both projections of the same geometric property.
+
+A direct test of this interpretation is available in systems where the closure path geometry changes without a proportional change in coupling strength. The superhydride $\text{H}_3\text{S}$ provides a candidate: at 155 GPa, $T_c = 201\,\text{K}$ and $\xi = 18.4\,\text{Å}$; at 160 GPa, $T_c$ decreases to 174 K and $\xi$ increases to 21.2 Å. The coherence length anti-correlates with $T_c$ across the pressure range, and $T_c$ is non-monotonic in pressure — consistent with an optimal closure geometry at 155 GPa that is disrupted by further compression. The standard coupling-strength explanation must invoke a non-monotonic change in $\lambda$ at 160 GPa; the geometric explanation attributes it to a structural distortion of the hydrogen sublattice that lengthens the effective closure path.
 
 **High-Temperature Superconductors and Structural Predictions**
 
@@ -324,7 +405,29 @@ The key distinction from standard theory is that ISE does not require an ad hoc 
 
 This constitutes a falsifiable prediction: the transition from Regime I to Regime II should correlate with independently measurable structural indicators — specifically, the onset of lattice disorder, phase coexistence, domain formation, or structural incommensuration at the relevant pressure. The prediction is not that every pressure increase broadens the transition, but that broadening occurs specifically when the geometric uniformity of the dimensional reduction breaks down. Conversely, if a structural transition completes and a new uniform phase is established, the transition should sharpen again — as is observed in elemental sulfur above 155 GPa. The existing experimental evidence reviewed above is consistent with this prediction across multiple material families.
 
-## Appendix: Resonance Closure Beyond Solid-State Band Structures
+**Stochastic Accumulation and Condensate Nucleation**
+
+The standard BCS treatment describes the superconducting transition as a cooperative instability: below $T_c$, the Fermi sea is unstable to pair formation, and the gap opens simultaneously across the entire Fermi surface. This is a mean-field description appropriate to the thermodynamic limit. The resonance closure framework retains this description for macroscopic, structurally uniform samples, where it is empirically accurate. However, it identifies a more detailed microscopic process that becomes experimentally accessible in finite-size and disordered systems.
+
+The process is stochastic accumulation rather than cooperative instability:
+
+*Nucleation.* At temperatures near $T_c$, individual electrons traversing the lattice encounter resonance node configurations in which their frequency profile can close with that of a complementary electron (opposite spin, complementary spectral deficit). If the closure occurs, the resulting composite profile occupies a state whose energy lies below the uncorrelated configuration by an amount of order $\Delta$. The electron pair is *trapped* — not by an attractive potential, but by the energetic cost of reopening the spectral deficits that the closure has sealed. At temperatures just below $T_c$, these trapping events are rare and short-lived: thermal fluctuations can supply the energy $\Delta$ required to break the closure. The result is a stochastic population of transient, localised closure domains.
+
+*Growth.* Each localised closure modifies the spectral environment of neighbouring resonance nodes. An existing closure domain sharpens the complementary spectral deficits of adjacent unclosed profiles, increasing the probability that a neighbouring electron will be captured into a closed configuration. This is a positive feedback mechanism: existing closures promote further closures in their vicinity. The closure domain grows.
+
+*Percolation.* As the temperature decreases below $T_c$, the trapping rate exceeds the thermal disruption rate, and the closure domains grow and merge. When a connected network of closed domains spans the sample, macroscopic phase coherence is established and resistance drops to zero. The sharp transition observed in bulk samples reflects the percolation threshold of this domain network — a geometric property of the connectivity, not a thermodynamic singularity.
+
+This picture makes specific predictions that distinguish it from the mean-field BCS description:
+
+First, the superconducting transition should exhibit spatial inhomogeneity during nucleation: regions of the sample should develop local gaps before others, with the gap magnitude varying spatially. Scanning tunnelling spectroscopy (STS) on cuprate and conventional superconductors confirms this prediction. In $\text{Bi}_2\text{Sr}_2\text{CaCu}_2\text{O}_{8+\delta}$, STS reveals nanometre-scale gap inhomogeneity with spatial variations in gap magnitude that do not correlate with the crystallographic structure or chemical disorder — the electronic length scales are emergent, not imposed by the lattice. In doped Mott insulators, nucleation of pseudogap puddles around dopant clusters has been directly imaged, providing a real-space visualisation of the initial closure domains.
+
+Second, the transition in finite-size systems should be gradual rather than sharp, with the degree of gradualness increasing as the system size decreases below $\xi$. Nanowire experiments confirm this systematically: the resistive transition broadens with decreasing cross-sectional area, and the resistance below $T_c$ increases smoothly rather than vanishing abruptly.
+
+Third, phase-slip events in nanowires should show temporal correlations — because a slip that disrupts the closure at one site affects the closure probability at neighbouring sites. The LAMH theory treats phase slips as independent Poisson events. The accumulation model predicts that slips should cluster in space and time, and that the recovery time after a slip should be shorter than the initial nucleation time (because the neighbouring profile structure retains partial closure). Systematic analysis of phase-slip statistics in nanowire experiments — specifically, the distribution of inter-slip intervals and the spatial correlation of slip centres — would test this prediction against existing data.
+
+The stochastic accumulation model does not replace the mean-field BCS description; it provides the microscopic dynamics underlying it. In the thermodynamic limit ($L \gg \xi$, uniform structure), the accumulation process converges to the mean-field result: the percolation threshold sharpens into a thermodynamic phase transition, the gap opens uniformly, and the standard BCS phenomenology is recovered. The accumulation dynamics become experimentally relevant only where the mean-field assumptions fail — in nanoscale systems, during the transient approach to equilibrium, and in structurally inhomogeneous materials.
+
+**Appendix: Resonance Closure Beyond Solid-State Band Structures**
 
 The preceding analysis is formulated in the language of solid-state physics — band structures, Fermi surfaces, valence bands, doping. This reflects the domain in which the experimental evidence is richest and the predictions most immediately testable. However, the resonance closure condition itself is not specific to solid-state systems. It requires only three ingredients: fermionnic statistics, a Fermi surface with complementary states, and an interaction that couples those states. Wherever these conditions are met, the closure phenomenology should appear — regardless of whether the fermions are electrons, atoms, or quarks, and regardless of whether the phase space is structured by a crystal lattice.
 
