@@ -159,7 +159,65 @@ The Doppler cooling limit is reached when the remaining incommensurability is co
 
 In every case, the mechanism is the same: identify a channel through which incommensurability can be selectively exported, and drain the system through that channel. The minimum achievable temperature is set by the finest discriminator available and the non-exportable residuum of the lowest-frequency mode.
 
-**Synthesis: One Principle, Seven Phenomena**
+**The Hierarchy of Matter as a Hierarchy of Rupture Thresholds**
+
+The topological rupture mechanism is not confined to the electromagnetic frequency band. Every frequency band in which resonance closure operates — every scale at which stable composite structures exist — has its own topological capacity, its own rupture threshold, and its own characteristic emission quanta.
+
+An atom that is heated beyond the capacity of its phononic band does not simply emit more photons. Its lattice closure ruptures: the solid melts, the molecular bonds dissociate. The topological break occurs in the phononic frequency band, and the emitted quanta are phonons (lattice vibrations) and infrared photons. The electronic structure of the individual atoms remains intact — the rupture has not reached the electromagnetic band of the atomic closure.
+
+At higher temperatures, the atomic valence closure itself ruptures. The incommensurability exceeds the topological capacity of the electron-nuclear binding — the atom ionises. The emitted quanta are ultraviolet and X-ray photons. The nucleus remains intact — the rupture has not reached the strong-interaction band.
+
+At still higher temperatures ($\sim 10^{10}$ K), the nuclear closure ruptures. Nucleons dissociate from the nucleus. The emitted quanta are gamma photons and nuclear fragments. The individual nucleons — protons and neutrons — remain intact as long as their internal quark-gluon closure is not breached.
+
+At the Hagedorn temperature ($\sim 10^{12}$ K), the hadronic closure itself ruptures. The incommensurability within individual hadrons exceeds the topological capacity of the colour-confinement closure. Quarks and gluons are liberated into a quark-gluon plasma. The emitted quanta are in the strong-interaction frequency band — pions, gluon radiation. This is the deconfinement transition, routinely produced in heavy-ion collisions at RHIC and the LHC.
+
+The complete sequence of matter phases is therefore a nested sequence of rupture thresholds:
+
+| Phase transition | Band that ruptures | Characteristic emission | Threshold energy scale |
+|---|---|---|---|
+| Solid → liquid | Phononic (lattice cohesion) | Phonons, IR photons | $\sim$ meV |
+| Liquid → gas | Molecular binding | IR/visible photons | $\sim$ 10–100 meV |
+| Gas → plasma | Atomic valence closure | UV/X-ray photons | $\sim$ 1–100 eV |
+| Plasma → nuclear plasma | Nuclear binding closure | Gamma photons, nuclear fragments | $\sim$ MeV |
+| Nuclear → quark-gluon plasma | Hadronic confinement closure | Pions, gluon radiation | $\sim$ 100 MeV |
+
+Each row is structurally identical: incommensurability accumulates within a specific frequency band until the topological capacity of the resonance closure at that scale is exceeded, the closure ruptures, and the composite structure dissociates into its constituents. Each transition emits quanta in the band of the ruptured closure.
+
+**The Unity of Phase Transitions**
+
+There is no principled distinction between the melting of ice and the deconfinement of quarks. Both are topological ruptures of resonance closure driven by excess incommensurability. The physics is identical; only the frequency band and the energy scale differ. The Clausius-Clapeyron equation that governs solid-liquid transitions and the lattice QCD calculations that govern the deconfinement transition are projections of the same structural process onto different scale-specific formalisms.
+
+This unity has been partially recognised in the condensed matter and high-energy physics communities through the shared formalism of spontaneous symmetry breaking and order parameters. But in the standard framework, the analogy is formal — a mathematical coincidence of similar equations governing unrelated physics. In ISE, the analogy is structural identity: the same topological rupture mechanism operates at every scale, because resonance closure is the universal condition for composite stability at every scale.
+
+**Protoinformation in Self-Resonance: Why the Universe Is Substantial**
+
+The hierarchy of rupture thresholds — from lattice vibrations to quark deconfinement — reveals the material universe as a hierarchy of nested resonance closures. Each layer of matter (molecules, atoms, nuclei, hadrons) is a resonance closure in a specific frequency band, stabilised by a specific topological capacity, vulnerable to a specific rupture threshold. What we experience as the substantiality of the physical world — the solidity of matter, the persistence of structure, the resistance to disruption — is the depth of this nesting: many layers of closure, each protecting the next, each requiring its own threshold energy to breach.
+
+This is precisely what ISE means when it states that reality emerges through protoinformation entering self-resonance.
+
+Protoinformation — undifferentiated, structureless, without scale — begins to differentiate. Differentiation produces incommensurability. Incommensurability produces frequency structure. Frequency structure that satisfies self-resonance conditions produces stable profiles — entities that persist because their internal phase relations are self-consistent. These are the first resonance closures.
+
+Each stable closure becomes a substrate for further differentiation at a coarser scale. Quarks close into hadrons (strong-band closure). Hadrons close into nuclei (nuclear-band closure). Nuclei and electrons close into atoms (electromagnetic-band closure). Atoms close into molecules, lattices, and condensed matter (phononic/valence-band closure). Each layer is a resonance closure built upon the closures below it — and each layer has its own thermodynamic identity: its own temperature capacity, its own rupture threshold, its own characteristic radiation.
+
+**Substance as Closure Depth**
+
+The substantiality of an object — its resistance to disruption, its persistence, its capacity to interact and be measured — is proportional to the number of nested closure layers it contains. A proton is more substantial than a photon because it has more layers of internal closure (quark confinement, colour neutrality) that must be breached before it ceases to exist. An atom is more substantial than a proton because it adds electromagnetic closure. A crystal is more substantial than an isolated atom because it adds lattice closure.
+
+This is not a metaphor. The energy required to destroy an object scales with the number of closure layers: ionising an atom costs eV, dissociating a nucleus costs MeV, deconfining a hadron costs hundreds of MeV. Each closure layer contributes a rupture threshold that must be exceeded — and the total substantiality is the sum of all thresholds.
+
+**Temperature as the Inverse of Substance**
+
+Temperature, as internal incommensurability, is the structural opposite of resonance closure. Closure is phase coherence across frequency components; temperature is phase drift. Closure produces stability; temperature erodes it. Cooling a system deepens its closure — the frequency profiles become more coherent, more internally consistent, more resonant. Heating a system erodes its closure — the profiles drift, the nodes dephasise, and eventually the topological capacity is exceeded and the structure ruptures.
+
+The superconducting transition, viewed in this light, is not an exotic quantum phenomenon. It is the most accessible demonstration of the general principle: below $T_c$, the electronic valence-node closure achieves sufficient coherence to become topologically robust, and the system enters a new layer of closure (the macroscopic phase coherence of the condensate). Above $T_c$, the incommensurability erodes this closure, and the layer dissolves. Every phase transition in the hierarchy is the same process at a different scale.
+
+**The Universe as Self-Resonance Cascade**
+
+The totality of physical structure — from quarks to galaxy clusters — is a cascade of self-resonance: protoinformation differentiating into frequency structure, frequency structure closing into stable profiles, stable profiles differentiating further and closing at coarser scales, each layer of closure becoming the substrate for the next. Temperature is the internal friction of this process — the incommensurability that differentiation inevitably produces and that closure inevitably resists. The arrow of time is the accumulation of the friction that closure cannot fully export. And the material universe — everything that has mass, occupies space, persists in time, and resists disruption — is the set of all resonance closures that have survived their own internal incommensurability.
+
+This is not a creation narrative. It is a structural description: the universe is substantial because self-resonance is stable, and it is warm because differentiation is incommensurable. Both statements follow from the same principle — the topological properties of frequency profiles — and neither requires anything beyond that principle.
+
+**Synthesis: One Principle, Severall Phenomena**
 
 The topological capacity of frequency profiles for incommensurability — a single structural property — generates:
 
@@ -177,6 +235,10 @@ The topological capacity of frequency profiles for incommensurability — a sing
 
 * **The arrow of time:** the monotonic accumulation of non-exportable incommensurability, topologically irreversible because no operation drains sub-threshold dephasement.
 
-These seven phenomena span thermodynamics, statistical mechanics, quantum mechanics, and cosmology. They are conventionally treated as separate principles — the Planck postulate, the Boltzmann H-theorem, the Nernst theorem, the Born rule, the past hypothesis. In the framework developed here, they are aspects of a single structural property, derived from the topology of frequency profiles rather than postulated independently.
+* **The hierarchy of matter:** nested resonance closures across frequency bands, each with its own rupture threshold, whose sequential breach under increasing incommensurability produces the complete phase diagram of the physical universe from crystals to quark-gluon plasma.
 
-The framework does not contradict the mathematical formalism of statistical mechanics or quantum mechanics. The Boltzmann distribution, the Planck spectrum, the Fermi-Dirac and Bose-Einstein distributions, and the uncertainty relations are all recovered. What changes is the ontological status of these results: they are not foundational axioms but structural consequences of the incommensurability topology of frequency profiles. The axioms are replaced by a single structural principle — that frequency profiles have finite topological capacity for incommensurability, and that excess incommensurability is expelled in discrete, mode-specific rupture events — from which the entire thermodynamic and quantum-statistical edifice follows.
+These phenomena span thermodynamics, statistical mechanics, quantum mechanics, nuclear physics, and cosmology. They are conventionally treated as separate principles — the Planck postulate, the Boltzmann H-theorem, the Nernst theorem, the Born rule, the past hypothesis, the confinement conjecture. In the framework developed here, they are aspects of a single structural property, derived from the topology of frequency profiles rather than postulated independently.
+
+The framework does not contradict the mathematical formalism of statistical mechanics or quantum mechanics. The Boltzmann distribution, the Planck spectrum, the Fermi-Dirac and Bose-Einstein distributions, the uncertainty relations, and the phase-transition phenomenology are all recovered. What changes is the ontological status of these results: they are not foundational axioms but structural consequences of the incommensurability topology of frequency profiles. The axioms are replaced by a single structural principle — that frequency profiles have finite topological capacity for incommensurability, and that excess incommensurability is expelled in discrete, mode-specific rupture events — from which the entire thermodynamic, quantum-statistical, and material edifice follows.
+
+The universe is substantial because self-resonance is stable. It is warm because differentiation is incommensurable. It is irreversible because topological residua accumulate. And it is structured — layered, hierarchical, rich — because each resonance closure creates the substrate for the next. One principle. The rest follows.
