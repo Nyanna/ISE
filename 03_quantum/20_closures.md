@@ -13,6 +13,30 @@ Resonance closure eliminates all such channels simultaneously. The closed defici
 
 The energy gap $\Delta$ is therefore not a shield around Cooper pairs. It is the energy cost of opening a decoherence channel in a system whose channel structure is completely closed. Below $T_c$, the thermal environment cannot pay this cost, and the superposition persists macroscopically. This is why superconductors exhibit macroscopic quantum effects — persistent currents, flux quantization, Josephson effects — that are otherwise confined to microscopic systems: the closure condition extends quantum coherence to macroscopic scales by eliminating the decoherence pathways that normally destroy it.
 
+**The Microscopic Substrate: Valence Node Chains**
+
+The preceding section establishes resonance closure as the elimination of decoherence channels. This section identifies the physical substrate through which the closure operates and through which the resulting coherence propagates.
+
+In a crystalline solid, every atom presents a set of bound electronic orbitals whose spatial extent is characterised by nodal surfaces — loci where the wavefunction changes sign. When two adjacent atoms bring their orbitals into spatial overlap, the shared nodal region constitutes a coupling channel: electrons can transition between the two atoms through this region. In ISE terminology, this shared region is a *resonance node* — a point in the lattice where two frequency profiles overlap in phase.
+
+A chemical bond is a shared resonance node. A metallic conductor is a lattice in which resonance nodes form a connected network spanning the material. Conductivity is energy propagation through this network. Resistance is the disruption of propagation at nodes where coupling to external degrees of freedom (lattice vibrations, impurities, other electrons) extracts phase coherence from the propagating profile.
+
+The critical observation is what propagates. In the standard picture, electrons are transported through the lattice — they carry charge from one location to another, encountering scattering events along the way. But electrons are quantum-mechanically identical. There is no electron identity that could travel. What propagates is a phase disturbance in the frequency profile that spans the resonance node chain. The distinction is not semantic: in a normal metal, the electromagnetic signal arrives at $\sim c$ while the electron drift velocity is of order mm/s. The energy has already traversed the circuit before any individual electron could have moved appreciably. What arrives first is the phase configuration; what follows, slowly and dissipatively, is the rearrangement of charge density — a secondary consequence, not the primary mechanism.
+
+In the superconducting state, the resonance closure seals the decoherence channels at every node. The result is a continuous, uninterrupted frequency profile spanning the entire material. Energy propagates through this profile as a phase disturbance — not as a transported particle. The London equation $\mathbf{j} = (n_s e / m)\nabla\varphi$ describes precisely this: the current is a phase gradient of the order parameter, not a particle flux. The Josephson relation $I = I_c \sin(\Delta\varphi)$ makes the point explicit: current between two superconductors depends only on their phase difference. No transport equation is involved.
+
+Shot noise — the statistical signature of discrete charge transfer — is suppressed in superconducting channels, confirming that no sequence of discrete carriers traverses the material. The Meissner effect generates screening currents without a driving electric field — a spontaneous phase-gradient response, not a mechanical displacement. Every macroscopic observable of the superconducting state is a property of the phase field; none requires the concept of charge transport.
+
+**The Valence Node as Eigenfrequency**
+
+The resonance nodes through which closure operates are not arbitrary spatial overlaps. They are the nodal structures of the specific orbitals that participate in the bonding — the valence orbitals. The electron is present in all its valence nodes simultaneously; the nodal structure is the spatial representation of the electron's eigenfrequency in the atomic potential. When two atoms share a valence node, they share access to the same eigenfrequency — and it is this shared eigenfrequency that constitutes the coupling channel.
+
+This identification has a direct consequence: the geometry of the resonance node chain is determined by the orbital symmetry of the valence electrons, not by the lattice geometry alone. A lattice of atoms with isotropic s-orbitals produces an isotropic node chain. A lattice of atoms with directional d-orbitals ($d_{x^2-y^2}$ in cuprates) produces a directional node chain. The gap anisotropy observed in momentum space — s-wave for elemental superconductors, d-wave for cuprates — is the Fourier transform of the real-space valence node geometry.
+
+This is developed in detail in the companion analysis in Chapter 3.19, where the d-wave gap symmetry of cuprate superconductors is shown to map directly onto the Cu–O bond geometry in the $\text{CuO}_2$ plane. The $(110)$ directions of maximal gap correspond to the Cu–O bond directions where the $d_{x^2-y^2}$ orbital has maximal overlap. The $(100)$ nodal lines of zero gap correspond to directions where no direct valence node path exists. Supercurrent along the nodal directions proceeds via zigzag paths through the available nodes, producing macroscopically isotropic superconductivity from microscopically anisotropic closure geometry.
+
+For the photon-electron coupling analysis that follows, the key structural point is this: the geometry of the valence node chain determines simultaneously which electronic scattering channels are sealed (superconductivity) and which photonic absorption channels are modified (optical properties). The transparent superconductor is the material in which both determinations yield closure.
+
 **From Electron Closure to Photon Decoupling**
 
 If resonance closure seals the coupling channels of the electronic system, a natural question arises: coupling channels *to what*? In the context of electrical resistance, the channels connect to the lattice (phonons), to impurities, and to other electrons. Closure eliminates these electron-lattice and electron-electron decoherence pathways, producing zero resistance.
@@ -64,6 +88,56 @@ $$\text{High } T_c \longleftrightarrow \text{High configuration count} \longleft
 $$\text{Transparency} \longleftrightarrow \text{Few optical channels} \longleftrightarrow \text{Low configuration count} \longleftrightarrow \text{Low } T_c$$
 
 The constraint can be partially circumvented by engineering bands that contribute to closure but whose mutual optical transitions are forbidden by symmetry — orbital selection rules, parity constraints, or spin selection rules that prevent photon-mediated transitions between the paired states. Flat d-bands with specific crystal-field symmetry, as in LiTi$_2$O$_4$, achieve this naturally. Whether materials exist that achieve it at higher $T_c$ is an open question with direct technological implications.
+
+**Intrinsic Orbital Closure: Superconductivity Without a Mediator**
+
+The configuration-count constraint — high $T_c$ requires many closure pathways, which implies many optical channels, which implies opacity — assumes that closure must be dynamically stabilised by recruiting a large phase-space volume. This is Pathway I of the two-pathway framework: dynamic stabilisation through phonon-mediated (or magnon-mediated, or fluctuation-mediated) correlation across the Fermi surface.
+
+But Pathway II — dimensional reduction — demonstrates that closure can also be geometrically enforced by restricting the available phase space. The superhydrides under megabar pressure are the current exemplars. The resonance trapping mechanism developed above suggests a third route that has not been systematically explored: *intrinsic orbital closure*.
+
+The question is: can a material be designed whose valence orbitals are intrinsically closure-compatible — whose eigenfrequency structure satisfies the resonance closure condition without requiring thermal activation, phonon mediation, or external pressure?
+
+The formal condition is: a valence orbital that is (1) fully occupied by spin-complementary electrons (no spectral deficit within the orbital), and (2) geometrically coupled to its neighbours through overlapping resonance nodes that form a continuous chain. Condition (1) ensures that the individual orbital is internally closed — no open channel exists for intra-orbital decoherence. Condition (2) ensures that the closure extends through the lattice — the node chain is uninterrupted and the phase field is continuous.
+
+A fully occupied orbital with no spectral deficit is, trivially, the ground state of any closed-shell configuration. Every filled orbital in every insulator satisfies condition (1). What distinguishes an intrinsic superconductor from an insulator is condition (2): in the insulator, the filled orbitals do not share resonance nodes with their neighbours — the electrons are localised, and no phase field spans the material. In the intrinsic superconductor, the filled orbitals *do* share resonance nodes, forming a continuous closed profile through which energy propagates without decoherence.
+
+This combination — filled orbitals with shared resonance nodes — sounds paradoxical: a material that conducts through fully occupied states. But the paradox is an artefact of the transport picture. In the valence-node-chain model, conduction is not charge transport through partially occupied states; it is energy propagation through a continuous phase field. The distinction between conductor and insulator is not partial vs. full occupation, but connected vs. disconnected resonance node chain. A material with fully occupied, resonance-connected valence orbitals would be simultaneously an insulator in the transport sense (no charge carriers available for drift) and a superconductor in the phase sense (a continuous, decoherence-free frequency profile spanning the material).
+
+**Existing Approximations to Intrinsic Closure**
+
+This combination has not been deliberately engineered, but several material classes approximate it:
+
+*Topological surface states.* The surface of a three-dimensional topological insulator hosts metallic states that are topologically protected against backscattering. In ISE terms, the surface band structure provides a resonance node chain whose closure is enforced by the bulk topology — the node chain cannot be broken without closing the bulk gap. Coupling a topological insulator surface to a conventional superconductor (via the proximity effect) induces a gap in the surface states, producing a closure that inherits the topological protection. The resulting state — topological superconductivity — is a partial realisation of intrinsic orbital closure.
+
+*Flat-band systems.* In materials and artificial lattices with flat electronic bands — kagome lattices, twisted bilayer graphene at the magic angle, Lieb lattice extensions — the vanishing bandwidth implies that all states within the band have equal energy. The orbital structure that produces the flat band also produces non-orthogonalisable Wannier functions: the frequency profiles of electrons in the flat band are intrinsically entangled and cannot be decomposed into independent, localised states. In diamond-chain lattice models, fermions in a flat band exhibit significant Cooper-pair binding energy and extended pair-pair correlations, driven not by an attractive interaction but by the geometric entanglement of the flat-band orbitals. This is the closest existing theoretical realisation of intrinsic orbital closure: the flat-band geometry itself provides the closure condition, without a mediator.
+
+*Molecular conductors.* Single-molecule junctions — individual molecules contacted between metallic electrodes — exhibit conductance determined by the molecular orbital structure. When the molecular orbital is fully occupied and resonance-connected to the electrodes, the conductance can reach the quantum limit $G_0 = 2e^2/h$ per channel. The resistance in these systems is entirely at the contacts (the boundary between the closed molecular profile and the open metallic profile) — the molecule itself is effectively a single resonance node with zero internal resistance.
+
+**Design Criteria for Intrinsic Orbital Closure at Elevated Temperature**
+
+The design target is a material in which:
+
+* *The relevant valence orbitals are fully occupied with spin-complementary electrons.* This is the Pauli condition: each spatial orbital is doubly occupied, eliminating spectral deficits.
+
+* *The occupied orbitals share resonance nodes with their neighbours forming a connected chain.* This is the connectivity condition: the orbital overlap must span the lattice without interruption.
+
+* *The closure gap — the energy required to open a decoherence channel in the closed node chain — exceeds room-temperature thermal energy.* This is the robustness condition: $\Delta > k_B T_{\text{room}} \approx 25$ meV.
+
+* *The orbital geometry selectively eliminates electronic scattering channels while preserving (or independently eliminating) photonic coupling channels.* This is the transparency-compatibility condition from the existing analysis in this chapter.
+
+Condition of the closure gap is the most demanding. In BCS-type superconductors, $\Delta$ is set by the coupling strength and is typically 1–30 meV ($T_c$ up to $\sim 200$ K). In intrinsic orbital closure, $\Delta$ would be set by the orbital energy splitting — the crystal-field gap, the spin-orbit splitting, or the covalent bond energy — which can reach eV scales. A material in which the valence node closure is protected by a crystal-field gap of 0.5 eV would be superconducting up to $\sim 6000$ K — well above any conceivable application temperature.
+
+This estimate should be treated with appropriate caution. The formal analogy between closure gaps and crystal-field gaps does not guarantee that a material satisfying the conditions can be physically realised. The challenge is the occupied orbitals: orbitals that are fully occupied tend to be localised (as in insulators), and orbitals that form connected networks tend to be partially occupied (as in metals). The flat-band route circumvents this tension by producing bands that are simultaneously narrow (high density of states, favouring full occupation) and extended (connected across the lattice). Whether this can be achieved with gaps in the eV range and at ambient pressure is an open question.
+
+The practical research programme implied by these criteria is: systematic computational screening of flat-band materials — kagome compounds, pyrochlore oxides, breathing lattice variants, and Lieb-lattice analogues — for band structures in which a flat, fully occupied band shares resonance nodes with adjacent lattice sites. Modern density functional theory databases (Materials Project, JARVIS-DFT, AFLOW) contain thousands of computed band structures that can be screened against these criteria without new experiments.
+
+**The Coherence Length in the Intrinsic Closure Regime**
+
+The two-pathway framework identifies $\xi$ as a meaningful parameter only in Pathway I (dynamic stabilisation), where it measures the spatial range of the phonon-mediated correlation. In Pathway II (dimensional reduction), $\xi$ loses interpretive significance as the closure becomes geometric.
+
+In intrinsic orbital closure, $\xi$ takes on yet a different meaning. The closure is neither dynamically sustained nor geometrically enforced by external compression; it is structurally intrinsic to the orbital configuration. The "coherence length" in this regime is the mean distance over which the orbital node chain is structurally uninterrupted — determined by crystallographic defect density, grain boundaries, and disorder, not by the coupling strength or the gap magnitude. A perfect crystal with intrinsic orbital closure would have $\xi = \infty$ — the closure extends uninterrupted across the entire sample, and the concept of "coherence length" becomes synonymous with the sample size.
+
+This connects to the reinterpretation of $\xi$ as the mean defect-free domain length: in intrinsic closure, the "defects" are not thermal pair-breaking events but structural interruptions of the node chain (vacancies, dislocations, grain boundaries, surfaces). The material would be superconducting everywhere that its crystal structure is intact, and resistive only at structural defects and interfaces.
 
 **Anisotropic Closure and Photonic Waveguiding**
 
@@ -135,6 +209,38 @@ This inversion explains why the unconventional superconductivity problem has res
 
 The transparent superconductor LiTi$_2$O$_4$ is the most direct empirical demonstration of this identity: a single material in which both the electronic scattering channels (superconductivity) and the photonic absorption channels (transparency) are simultaneously eliminated by the same band geometry. It is not a material that happens to be both superconducting and transparent. It is a material whose band geometry is closed in both the electronic and photonic coupling sectors — and the two closures are aspects of the same flat-band structure.
 
+**Resonance Trapping: The Mechanism of Closure Formation**
+
+The structural identity of transparency and superconductivity — both as absence of coupling channels — raises an immediate mechanistic question: how does the closure form? In BCS theory, the answer is phonon-mediated attraction: a dynamical mechanism that actively binds electrons into pairs. ISE has inverted the causality, identifying closure as the absence of scattering rather than the presence of binding. But the process by which a material transitions from the open (normal) to the closed (superconducting) state requires its own account.
+
+The mechanism is *resonance trapping* — a passive accumulation process rather than an active pairing mechanism.
+
+Consider a metallic lattice above $T_c$. Electrons traverse the valence node chain, scattering at each node where the coupling to the lattice or to other electrons provides a decoherence channel. The system is in the open state: every node is a potential scattering site, and the thermal energy of the lattice ensures that decoherence channels are continuously accessible.
+
+Now consider what happens when two electrons, through the stochastic dynamics of thermal motion, find themselves in a valence node configuration in which their frequency profiles are complementary — where the spectral deficit of one is filled by the spectral content of the other. This complementary configuration satisfies the resonance closure condition locally. The closed configuration lies at lower energy than the unclosed one by an amount of order $\Delta$. The electrons are not attracted to each other; they have fallen into a configuration that is energetically favourable and from which escape requires energy $\Delta$. They are *trapped* by the geometry of the node, not bound by a force.
+
+At temperatures above $T_c$, the thermal energy $k_B T > \Delta$ ensures that the trapping is transient: thermal fluctuations supply the energy needed to reopen the closure within a characteristic lifetime. The electrons escape, and the node returns to the open state.
+
+At temperatures below $T_c$, the thermal energy $k_B T < \Delta$ makes escape statistically improbable. The closure persists. Crucially, each persisting closure modifies the spectral environment of neighbouring nodes: an existing closure sharpens the complementary spectral deficits of adjacent profiles, increasing the probability that a neighbouring electron pair will be captured into a closed configuration. This is a positive feedback: existing closures promote further closures. The trapping domains grow.
+
+The macroscopic superconducting transition is the percolation threshold of this domain network: the temperature at which the growth rate of closure domains exceeds their thermal disruption rate, and a connected path of closed nodes spans the sample. Below this threshold, the entire valence node chain is sealed, the phase field is continuous, and resistance vanishes. Above it, the closures are transient and isolated, and the material conducts normally.
+
+**Experimental Signatures of Stochastic Accumulation**
+
+This nucleation-and-growth picture generates specific experimental signatures that distinguish it from the mean-field BCS description:
+
+*Spatial inhomogeneity during nucleation.* Scanning tunnelling spectroscopy (STS) on $\text{Bi}_2\text{Sr}_2\text{CaCu}_2\text{O}_{8+\delta}$ reveals nanometre-scale variations in the superconducting gap magnitude that do not correlate with the crystallographic structure or chemical disorder. The electronic length scales are emergent, not imposed by the lattice. In doped Mott insulators, STS directly images the nucleation of pseudogap puddles around dopant clusters — localised regions of partial closure embedded in a normal-state matrix. These are the closure domains predicted by the accumulation model.
+
+*Gradual transition in finite systems.* In nanowires with dimensions below the coherence length $\xi$, the resistive transition broadens progressively with decreasing cross-section, and individual phase-slip centres contribute discrete, quantised resistance values. Each slip is a localised disruption of the closure — a defect in the node chain — and the finite resistance below $T_c$ reflects the stochastic dynamics of closure formation and disruption in a system too small to sustain uninterrupted closure.
+
+*Temporal correlations in phase-slip events.* The LAMH theory treats phase slips as independent Poisson-distributed events. The accumulation model predicts correlations: a slip that disrupts closure at one node affects the closure probability at neighbouring nodes (because the spectral environment has been modified), and the recovery time after a slip should be shorter than the initial nucleation time (because the surrounding profile structure retains partial closure). The statistics of inter-slip intervals in nanowire experiments constitute a direct test.
+
+**Implications for the Photon-Electron Coupling Framework**
+
+The resonance trapping mechanism has a specific implication for the photon-electron coupling structure analysed in this chapter. If closure forms through passive accumulation at geometrically favourable nodes rather than through an active pairing mechanism, then the optical reorganisation that accompanies the superconducting transition is not a secondary consequence of pair formation but a *co-extensive* process: the same node configurations that trap electronic profiles also restructure the photonic coupling channels. The closure does not first form and then modify the optical properties; the formation *is* the modification.
+
+This explains the otherwise anomalous observation that superconductivity-induced optical effects extend to energies far above the gap ($2.5$ eV in iron arsenide, with $2\Delta \approx 20$ meV). The optical modification is not mediated by the gap — it is a direct consequence of the spectral reorganisation at the valence nodes, which affects every electronic transition that passes through the reconfigured nodes, regardless of its energy.
+
 **The Scale-Relational Insight**
 
 The transparent superconductor reveals something deeper than a material property. It reveals the *frequency-resolved coupling structure* between two fundamental entities: the photon and the electron.
@@ -187,6 +293,32 @@ If $\alpha$ is the integral of $C(\omega)$, and $C(\omega)$ is determined by the
 
 This chapter does not derive $\alpha$. It identifies the observable — the frequency-resolved photon-electron overlap function $C(\omega)$ — and the experimental methodology for extracting it. The derivation of $\alpha$ from the resonance closure conditions on the photon and electron frequency profiles belongs to the formal development of scale-relational mathematics and is beyond the scope of the present work. But the identification of LiTi$_2$O$_4$ and analogous transparent superconductors as the empirical window into this structure is, to the author's knowledge, novel.
 
+**From Mediator to Geometry: The Paradigm Inversion in Material Design**
+
+The standard paradigm for superconductor design, inherited from BCS theory, is: *find a mediator* (phonon, magnon, fluctuation) *that produces an attractive interaction strong enough to overcome the Coulomb repulsion between electrons at temperatures relevant to applications.* This paradigm drives the search for materials with high electron-phonon coupling constants, high Debye temperatures, and high characteristic phonon frequencies. The superhydrides represent its greatest success — and, at megabar pressures, its practical limit.
+
+The complete model inverts this paradigm. Superconductivity is not produced by a mediator. It is the structural condition of a valence node chain in which all decoherence channels are sealed. The mediator (phonon, magnon, etc.) is the standard-framework's projection of the node geometry onto a perturbation-theoretic formalism — a correct description of the self-consistency condition rewritten in a language that attributes causality to the perturbation rather than the structure.
+
+The inverted design paradigm is: *find an orbital geometry whose resonance node chain is intrinsically closure-compatible, with a closure gap exceeding the thermal energy at the target operating temperature.* This paradigm does not search for a mediator; it searches for a geometry. The relevant computational tools are band structure calculations and orbital overlap analyses, not electron-phonon coupling calculations.
+
+The inversion has three specific consequences for research strategy:
+
+*First,* the computational bottleneck of current high-throughput superconductor screening — the electron-phonon coupling calculation, which is computationally expensive and often unreliable — is eliminated. The closure-compatibility criterion operates on the band structure alone, which is routinely computed by DFT for thousands of materials in existing databases.
+
+*Second,* the material space to be searched is expanded. Current searches focus on metals and semimetals with high densities of states at the Fermi level. The intrinsic closure criterion also admits narrow-gap semiconductors, topological insulators, and flat-band systems — material classes that are outside the standard search space but which may contain the orbital geometries most favourable to closure.
+
+*Third,* the role of pressure is reinterpreted. In the standard paradigm, pressure enhances superconductivity by increasing the phonon frequencies and the electron-phonon coupling constant. In the closure paradigm, pressure works by restructuring the orbital geometry — collapsing the phase space and enforcing dimensional reduction. This reinterpretation predicts that chemical pressure (internal lattice strain from ion size mismatch) and epitaxial strain (substrate-induced lattice distortion in thin films) should be as effective as hydrostatic pressure in modifying $T_c$, when they produce equivalent changes in the orbital node geometry. This prediction is confirmed by the extensive literature on strain-tuned superconductivity in thin films and heterostructures.
+
+**Closure-Based Material Design and the Transparent Superconductor Programme**
+
+The transparent superconductor $\text{LiTi}_2\text{O}_4$ occupies a unique position in this framework. It is the only known material that simultaneously satisfies the electronic closure condition (superconductivity) and the photonic closure condition (visible transparency) at ambient pressure. Its low $T_c$ (13 K) reflects the configuration-count constraint: few closure pathways, few optical channels, low $T_c$, high transparency.
+
+The intrinsic orbital closure route offers a potential escape from this constraint. If the closure gap is set by the orbital energy splitting (crystal-field or spin-orbit) rather than by the dynamic pairing strength, then $T_c$ is no longer tied to the closure configuration count. A material with a *single* closure pathway — a single, connected, fully occupied flat band — could achieve a large closure gap (and hence high $T_c$) without requiring the multiple bands that produce opacity.
+
+The design target is therefore specific: a material with one or very few flat bands at $E_F$, fully occupied, resonance-connected to neighbouring sites, with crystal-field or spin-orbit splittings exceeding 100 meV, and with orbital selection rules that suppress interband optical transitions. This would be a room-temperature transparent superconductor — the technological prize that the standard paradigm cannot conceptualise because it lacks the framework to separate the electronic closure from the photonic coupling.
+
+Whether such a material exists in the space of thermodynamically stable compounds is unknown. But the screening criteria are computationally well defined, and the databases to search already exist. The transparent superconductor programme, reframed within the closure paradigm, becomes a systematic computational search with specific targets rather than a serendipitous discovery effort.
+
 **The Protophoton and the Running of $\alpha$**
 
 Quantum electrodynamics predicts that the fine-structure constant is not constant. The measured value $\alpha \approx 1/137$ applies at low energies (large distances). At higher energies — shorter distances, probing deeper into the vacuum structure — the effective coupling increases logarithmically:
@@ -230,6 +362,25 @@ The relationship between the ISE and QED descriptions can be organized as a hier
 | QED measured | $\alpha \approx 1/137$ | Low-energy limit of the running coupling |
 
 Each level is a projection of the one above it. QED operates at the bottom two levels — it measures $\alpha$ and computes $\alpha(\mu)$. ISE claims that two additional levels exist above: the frequency-resolved coupling $C(\omega)$ and the protophoton profile itself. The material-specific optical data (absorption edges, transparency windows, superconductivity-induced anomalies) provide empirical access to $C(\omega)$ — the level immediately above the QED description.
+
+**Extended Terminological Correspondence: Microscopic Closure Mechanism**
+
+| ISE Term | Standard Framework Equivalent |
+|---|---|
+| Resonance node | Orbital overlap region; bond channel |
+| Valence node chain | Connected network of valence orbital overlaps |
+| Energy propagation through profile | Supercurrent as phase gradient $\mathbf{j} \propto \nabla\varphi$ |
+| Resonance trapping | Cooper pair formation (reinterpreted: passive capture, not active binding) |
+| Closure domain | Local region of established resonance closure; superconducting island |
+| Stochastic accumulation | Condensate nucleation via domain growth and percolation |
+| Defect-free domain length | Coherence length $\xi$ (reinterpreted: not pair size) |
+| Node chain geometry | Orbital symmetry determining gap anisotropy (s-wave, d-wave, etc.) |
+| Intrinsic orbital closure | Closure without mediator; flat-band superconductivity generalised |
+| Closure gap from orbital splitting | Gap protected by crystal-field or spin-orbit energy, not pairing strength |
+| Phase-slip event | Localised, transient rupture of the node chain closure |
+| Resonance pressure | Energetic asymmetry favouring closed vs. open node configuration |
+| Contact resistance | Impedance mismatch at boundary between closed and open profiles |
+| Node chain connectivity | Percolation condition for macroscopic superconductivity |
 
 **Testable Distinction**
 
