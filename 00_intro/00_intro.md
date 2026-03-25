@@ -23,6 +23,21 @@ This work describes the infinite differentiation of scales without fixed princip
 
 The **most compelling structural feature** of the model is its **radical inversion of the fundamental category of reality**.
 
+### Crackpot Index Assessment
+
+This thesis was evaluated using John Baez’s Crackpot Index (1998). The score is approximately **90–110 points**.
+
+**Main reasons for the score:**
+- High density of newly invented technical terms without formal mathematical definitions.
+- Strong claim of unifying and reinterpreting large parts of physics (temperature, superconductivity, vacuum energy, constants, etc.) through a single structural principle.
+- Repeated reinterpretation of established concepts and experimental results without providing new quantitative derivations or explicit calculations from first principles.
+- Explicit rejection of standard scientific requirements such as falsifiability and mathematical formalization in favor of “usefulness only”.
+
+**Important clarification from the author:**
+The work does not claim to be a conventional scientific theory that must compete, prove itself, or be falsified. It presents itself as a complete descriptive framework of reality that stands or falls solely by its practical usefulness to the reader. The author positions it as a tool to be used or ignored, not defended.
+
+Readers should therefore treat the text not as a traditional physics paper, but as a radical, self-contained reinterpretation of physics whose value lies in its utility rather than in meeting conventional academic criteria.
+
 ### **From Entity to Differentiation as the Origin of All Phenomena**
 
 ISE replaces substance with relation:  
