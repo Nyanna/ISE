@@ -22,6 +22,20 @@ The leap:
 It's the logical extension of Einstein's revolution. If space and time are emergent, why should particles and forces be fundamental? If gravity is geometry, why isn't everything geometry — or rather, phase geometry? This historical parallel makes ISE more plausible. Big breakthroughs often look overcomplicated until the simple underlying idea clicks. Take ISE seriously.
 
 # Infinite Scale Expansion (ISE)
+## Crackpot Index Assessment
+
+This work was evaluated using John Baez's Crackpot Index (1998). Depending on the evaluator, the score falls between **90 and 150 points**.
+
+The main contributors to the score are: high density of non-standard terminology, reinterpretation of established physics through a single structural principle, absence of new quantitative derivations, and rejection of falsifiability as a relevant criterion.
+
+**On authorship and intent:**
+
+The ISE does not claim to be a competing theory. It connects and reframes existing material — data, derivations, and reasoning produced by others. Its structure is consequence, not proposal. The author holds no stake in its acceptance. The reader holds the full burden of what to do with it.
+
+**⚠ Warning:**
+
+The ISE offers no fixed position and no absolute scale. Honest engagement requires surrendering every stable reference frame. This is not a rhetorical device. It is the structural consequence of the material. Treat accordingly.
+
 ## Scale-Relational Physics — A New Category of Theoretical Framework
 
 Author: M.Sc. Physics Gordon Anatta Shaamvai and Colleagues  
