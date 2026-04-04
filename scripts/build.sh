@@ -25,4 +25,4 @@ sed 's/ϰ/$\\kappa$/g' |
 sed 's/𝜌/$\\rho$/g' |
 sed 's/ϱ/$\\rho$/g' |
 sed 's/^\*\*\*$/\\pagebreak/' |
-pandoc --output="output/Thesis on Infinite Scale Expansion (ISE).plain.pdf" -s -d scripts/pandoc.yml
+pandoc --output="output/Thesis on Infinite Scale Expansion (ISE).full.pdf" -s -d scripts/pandoc.yml
