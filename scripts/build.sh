@@ -9,7 +9,7 @@ echo Generate PDF version
  
 cat "output/Thesis on Infinite Scale Expansion (ISE).agentic.md" |
 sed 's/ℏ/$\\hbar$/g' |
-sed 's/→/$\\to$/g' |
+sed 's/→/$\\textrightarrow$/g' |
 sed 's/↔/$\\leftrightarrow$/g' |
 sed 's/⇒/$\\Rightarrow$/g' |
 sed 's/⇔/$\\Leftrightarrow$/g' |
