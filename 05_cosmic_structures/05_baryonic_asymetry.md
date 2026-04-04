@@ -85,7 +85,7 @@ The critique here is not that ΛCDM fails observationally, but that it prioritiz
 
 The ISE framework exemplifies how to move in this direction, reframing asymmetry as an emergent property of scalar differentiation and threshold dynamics rather than as the outcome of external symmetry breaking appended to the cosmological model.
 
-### Symmetry as a Narrative Foundation in Physics
+### **Symmetry as a Narrative Foundation in Physics**
 
 Symmetry holds a unique position in the framework of modern physics. It serves not only as a mathematical tool but also as an aesthetic ideal that has profoundly influenced the way we conceptualize the universe. Symmetry's appeal lies in its simplicity and its capacity to unify disparate phenomena under a single principle. For centuries, symmetry has shaped the narratives physicists construct about the cosmos, and one of its most potent applications is the idea of a dualistic relationship between matter and antimatter.
 
@@ -193,7 +193,7 @@ Over time, the accumulation of these imbalances amplifies the preference for one
 
 The exact energy level is irrelevant. As long as the energy level remains perfectly divisible, no matter or antimatter forms because everything annihilates. Even the slightest break or indivisibility in the energy level leads to a preference for one particle type. This independence from the energy scale ensures that the phenomenon applies universally, regardless of specific conditions.
 
-### Emergence of Local Asymmetry Through Scalar Differentiation
+### **Emergence of Local Asymmetry Through Scalar Differentiation**
 
 The framework posits that asymmetry arises intrinsically from scalar differentiation — a process where the universe's fundamental proto-information condenses into spatially and temporally localized forms. This differentiation introduces local asymmetries, which, once established, lead to an exponential reinforcement of the dominant particle type.
 

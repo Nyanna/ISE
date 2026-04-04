@@ -131,7 +131,7 @@ If vacuum fluctuations exhibit **long-range coherent interference**, the event h
 
 If true, this could even suggest a connection to **zero-point fields or non-local correlations in quantum fields**, offering an alternative perspective on the thermodynamic interpretation of Hawking radiation.
 
-### Horizon, Singularity, and Hawking Radiation
+### **Horizon, Singularity, and Hawking Radiation**
 
 In the framework, Hawking radiation is not interpreted as a literal pair-production process or as a bookkeeping artifact of negative energy. Instead, it arises from the phase distortion of quantum fluctuations near the black hole horizon. Because these fluctuations possess intrinsic spatial extent, the strong redshift gradients at the boundary alter their phase relationships. This distortion effectively couples part of the fluctuation’s amplitude into our causal scale, where it manifests as outward radiation.
 

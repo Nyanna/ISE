@@ -2,8 +2,8 @@
 
 ![](images/title.png){width=66%}
 
-# Thesis on Infinite Scale Expansion (ISE)
-## Exploring the Implications of Scale-Free Quantum Fields
+# **Thesis on Infinite Scale Expansion (ISE)**
+## **Exploring the Implications of Scale-Free Quantum Fields**
 
 *M.Sc. Physics Gordon Anatta Shaamvai and Colleagues  
 Institute of Theoretical Physics, University of Unalaska*
@@ -23,7 +23,7 @@ This work describes the infinite differentiation of scales without fixed princip
 
 The **most compelling structural feature** of the model is its **radical inversion of the fundamental category of reality**.
 
-### Crackpot Index Assessment
+### **Crackpot Index Assessment**
 
 This thesis was evaluated using John Baez’s Crackpot Index (1998). The score is approximately **90–110 points**.
 
@@ -126,29 +126,29 @@ The model redefines our understanding of the universe by proposing that space, t
 
 ## **Resonance Across Scales**
 
-### The Universe as a Resonance Structure
+### **The Universe as a Resonance Structure**
 
 The framework conceptualizes the universe not as a fixed space-time construct, but as a **resonance structure** within a continuous differentiation field. Rather than existing as a self-contained system, our perceived reality is defined by **stable resonance patterns** — phase-locked frequency profiles that persist under continued differentiation. These patterns establish what we experience as physical reality.
 
-### Quantum Mechanics as a Scale Boundary
+### **Quantum Mechanics as a Scale Boundary**
 
 * At the smallest observable scales, particles appear **wave-like, probabilistic, and delocalized**, indicating that they are at the **edge of our scale's differentiation capacity**.
 * **Superposition, entanglement, and quantum fluctuations** are manifestations of the dependency structure underlying observable reality: superposition reflects multiple viable resonance paths not yet resolved; entanglement reflects shared resonance structure across spatially separated nodes; fluctuations reflect the continuous substrate from which differentiation projects observable content.
 * Quantum uncertainty emerges as a **relational phenomenon** — arising from the interaction between the dependency structure of the observed system and the finite sampling rate of the observer, rather than being an intrinsic property of nature itself.
 
-### High-Energy Physics as Scale Transition
+### **High-Energy Physics as Scale Transition**
 
 * Extreme energy densities — such as those found in **black holes, the Planck scale, and the early universe** — push matter and space-time toward the **limits of resonance stability at our scale**.
 * As energy increases, space-time ceases to behave in a continuous and predictable manner, suggesting a **transition to deeper differentiation structures** whose internal constitution is not resolvable from our scale.
 * Singularities and event horizons are not absolute boundaries but **scale transitions** where our differentiation capacity reaches its constitutive limits. What appears as a breakdown of physics is the projection of a smooth underlying process onto an observer whose sampling rate cannot resolve it.
 
-### The Role of Resonance in the Perception of Reality
+### **The Role of Resonance in the Perception of Reality**
 
 * What we perceive as "physical existence" is a **function of resonance closure** — the condition under which a differentiation pattern achieves self-consistency and projects as an observable.
 * Entities and processes that do not achieve resonance closure within our scale remain imperceptible to us, even though they may be fully functional within another scale's differentiation mode.
 * This explains why black holes and the quantum vacuum appear to operate under fundamentally different principles — both are regions where **our scale's resonance structure encounters its own limits**, one from above and one from below.
 
-### Black Holes and the Big Bang as Scale Phenomena
+### **Black Holes and the Big Bang as Scale Phenomena**
 
 * **Black holes** function as loci of **scale transition**, where differentiation is suppressed for external observers but continues internally. The frozen exterior collapse and the finite proper-time interior represent two physically relevant frames — not contradictions but projections of the same process from different scale perspectives.
 * **The Big Bang** represents a scale-start — an emergent differentiation where the universe transitioned into its current stable resonance configuration. It is not an absolute origin but a localized event within an ongoing, infinite differentiation process.

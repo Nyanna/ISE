@@ -170,7 +170,7 @@ Expansion also acts in bound regions. It is a misconception to believe that expa
 
 This perspective underscores that expansion is a fundamental property of the entire spacetime structure and is not confined to unbound regions. Even in gravitationally bound areas, expansion operates universally, with its effects accumulating over vast timescales. The "slower expansion" within bound regions is therefore not a real reduction in the expansion rate but a local compensation by gravitational forces, maintaining the cohesion of structures against the stretching of space.
 
-### The Role of Photons in Cosmic Expansion
+### **The Role of Photons in Cosmic Expansion**
 
 Photons, as carriers of electromagnetic energy, are central to understanding the interplay between matter, energy, and cosmic expansion. As the universe expands, photons lose energy due to redshift, a direct consequence of their wavelength stretching with the fabric of space. This phenomenon underscores the continuous energy dissipation that aligns with the framework, emphasizing that energy is neither localized nor static but constantly redistributed across scales.
 
