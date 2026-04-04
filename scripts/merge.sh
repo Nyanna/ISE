@@ -21,7 +21,8 @@ for dir in ./*/; do
 			fi
 		done
     	
-    	cat *.md > "../output/chapter_$sanitized_name.merge.md"
+    	cat *.md |
+    	sed "s|!\[\](images/|!\[\]($sanitized_name/images/|g" > "../output/chapter_$sanitized_name.merge.md"
 		
 		cd ..
 	fi

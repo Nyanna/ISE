@@ -1,7 +1,7 @@
 
 ---
 
-## **6.11. Consciousness as Thalamocortical Recursive Differentiation*
+## **6.11. Consciousness as Thalamocortical Recursive Differentiation**
 
 **A Mechanistic Dissolution of the Hard Problem**
 

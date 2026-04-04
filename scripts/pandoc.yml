@@ -1,7 +1,7 @@
 standalone: true
 pdf-engine: xelatex
 #output-file: output/Thesis on Infinite Scale Expansion (ISE).plain.pdf
-include-in-header: ../scripts/header.tex
+include-in-header: scripts/header.tex
 from: markdown
 wrap: none
 metadata:

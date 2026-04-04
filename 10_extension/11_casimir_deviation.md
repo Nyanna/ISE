@@ -1,7 +1,7 @@
 
 ---
 
-## **10.10. Statistical Deviations in Casimir Fluctuations under Geometrically Scaled Structure**
+## **10.11. Statistical Deviations in Casimir Fluctuations under Geometrically Scaled Structure**
 
 The proposed experiment investigates whether Casimir fluctuations exhibit statistical deviations under variable geometric scale structures that are incompatible with classical quantum field theoretical assumptions. The objective is to demonstrate that the vacuum zero-point is not absolute, but scale-relative — a core premise of the model. Specifically, it aims to show that systematic shifts in the mean and distribution of the Casimir force arise from microscopically varied differentiation structures (e.g., fractal, logarithmic, or pseudo-random surfaces) while keeping the macroscopic geometry (area, distance) constant.
 
