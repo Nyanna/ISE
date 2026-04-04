@@ -1,7 +1,5 @@
 
----
-
-## **8.2.5. Differentiation Asymmetry and the Structural Origin of Irreversibility**
+### **8.2.5. Differentiation Asymmetry and the Structural Origin of Irreversibility**
 
 The preceding section established that entropy measures structural incommensurabilities produced by differentiation. This section demonstrates that differentiation itself is fundamentally asymmetric: the operation of dividing protoinformation exhibits an intrinsic directional bias that generates irreversibility through purely structural rather than statistical mechanisms. This asymmetry explains why the thermodynamic arrow of time is ontologically grounded rather than emergent from contingent initial conditions.
 

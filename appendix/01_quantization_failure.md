@@ -76,7 +76,7 @@ The model does not achieve what was intended: a demonstration that gravity is qu
 
 The problem that remains is not a problem of physics. It is a problem of mathematics: the construction of a formalism in which the distinction between spatial and internal degrees of freedom does not exist as a primitive, and in which curvature — if the concept survives at all — is purely relational and cannot be decomposed into source-free and source-dependent parts.
 
-### Addendum: On the Background Separation and the Status of C²
+### **Addendum: On the Background Separation and the Status of C²**
 
 There is an observation that may affect the conclusion above. It does not resolve the problem, but it reframes where exactly the problem sits.
 

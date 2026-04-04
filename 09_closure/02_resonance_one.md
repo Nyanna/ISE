@@ -1,7 +1,7 @@
 
 ---
 
-## **9.2. Empirical Resonance — The Gjergo & Kroupa Study as** 
+## **9.2. Empirical Resonance — The Gjergo & Kroupa Study
 
 **A Corroboration of Principles**
 

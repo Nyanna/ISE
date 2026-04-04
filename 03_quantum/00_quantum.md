@@ -3,7 +3,7 @@
 
 ![](images/title.png){width=66%}
 
-# 3\. Protoinformation and Quantum Mechanics
+# **3\. Protoinformation and Quantum Mechanics**
 
 ISE introduces the concept of **protoinformation** — the pre-existent state of energy before it differentiates into space, time, or physical matter. Protoinformation underlies quantum mechanics, allowing for fluctuations that later manifest as observable particles and forces. According to this theory, protoinformation exists at all scales and is responsible for the emergence of quantum phenomena, such as wave-particle duality.
 

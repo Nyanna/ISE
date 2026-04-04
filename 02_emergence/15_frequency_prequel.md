@@ -1,7 +1,7 @@
 
 ---
 
-**2.15. From Substrate to Spectral Representation**
+## **2.15. From Substrate to Spectral Representation**
 
 *This chapter addresses a fundamental challenge in representing ISE's substrate ontology: how to depict differentiation when all representational frameworks presuppose structure that differentiation itself generates. We establish protoinformation as scale-free substrate, examine the conceptual problems inherent in "zero-dimensional excitation," trace the emergence of dimensionality through recursive differentiation, and demonstrate why frequency-domain representation provides the only internally consistent mapping from substrate to observable physics. This chapter serves as the ontological prequel to the frequency-domain formalism developed in subsequent analysis.*
 

@@ -3,7 +3,7 @@
 
 ![](images/title.png){width=66%}
 
-# 2\. Emergence of Space, Time, and Gravity
+# **2\. Emergence of Space, Time, and Gravity**
 
 In classical mechanics, gravity is seen as a fundamental force; however, the model sees it as an emergent property of energy differentiation. Distances between objects, gravitational effects, and even time emerge from the relationship between differentiated energy states within a scale-free quantum field. This marks a departure from the traditional gravitational models and time as an inherent dimension, suggesting that time itself is born from changes in potential energy over different scales.
 

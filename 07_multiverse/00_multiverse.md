@@ -3,7 +3,7 @@
 
 ![](images/title.png){width=66%}
 
-# 7. The Multiverse Hypothesis
+# **7\. The Multiverse Hypothesis**
 
 Within ISE, the so-called multiverse can be reformulated as a hierarchy of scale sectors inside a single, scale-free energetic substrate. What appear as distinct “universes” are reinterpreted as effective domains associated with different observational or dynamical resolutions. Each domain is defined by the differentiation of potential energy into stable structures and processes at its characteristic scale. This perspective preserves the heuristic utility of “universes within universes” while imposing a strict prohibition on any physical coexistence or causal exchange between such domains as if they were parallel worlds. The result is a mathematically coherent, scale-theoretic account: self-similarity and recursion are realized as renormalization mappings and coarse-graining operations on one underlying field, not as ontologically separate spacetimes.
 

@@ -1,7 +1,7 @@
 
 ---
 
-## **Dark Processing Bandwidth**
+## **A.6. Dark Processing Bandwidth**
 
 The thalamocortical interpreter model predicts that consciousness — the reportable, introspectable component of neural processing — constitutes a vanishingly small fraction of total brain computation. The classical bandwidth estimates (Zimmermann 1989, popularized by Nørretranders in *The User Illusion*) place total sensory input to cortex at approximately 11 Mbit/s and conscious reportable throughput at approximately 50 bit/s — a ratio of roughly 200,000:1. This means that 99.9975% of thalamocortical processing is unreportable. The conscious self operates on a summary of a summary of what the full system computes.
 

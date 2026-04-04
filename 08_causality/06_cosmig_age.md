@@ -21,8 +21,8 @@ To understand the nature of cosmic age, one must first distinguish between two f
 The calculated age of the universe, 13.8 billion years, is a coordinate time. It is derived from the **Lambda-Cold Dark Matter (ΛCDM)** model, which has become the standard model of cosmology. This model's dynamics are described by the Friedmann equations, which relate the expansion rate of the universe to its composition. The calculation proceeds as follows:
 
 * **Observational Inputs:** Cosmologists measure key parameters of our current universe, primarily:  
-  * The **Hubble Constant ($H_0$​)**, which represents the current rate of expansion.  
-  * The **density parameters** ($\Omega$) for different components: baryonic matter (​ $\Omega_b$), dark matter ($\Omega_c$), and dark energy ($\Omega_\Lambda$).  
+  * The **Hubble Constant ($H_0$)**, which represents the current rate of expansion.  
+  * The **density parameters** ($\Omega$) for different components: baryonic matter ( $\Omega_b$), dark matter ($\Omega_c$), and dark energy ($\Omega_\Lambda$).  
 * **Backward Calculation:** These present-day values are used as boundary conditions for the Friedmann equations. The equations are then integrated backward in time to model how the scale factor of the universe, $a(t)$, evolved from its initial state.  
 * **Defining the Origin:** The beginning, t=0, is defined as the theoretical point in the past where the scale factor $a(t)$ approaches zero, corresponding to a state of infinite density and temperature — the initial singularity.
 
@@ -58,7 +58,7 @@ We can estimate the rate of this perceived "aging reversal" by modeling the far 
 
 In this model, the scale factor grows exponentially: $a(t) \sim e^{H t}$, where *H* is the constant expansion rate in the dark-energy-dominated era. For an observer at a future time, a past interval of coordinate time $\Delta t$ appears to shrink by a factor of $e^{-H \Delta t}$.
 
-Let's calculate how much the perceived age of the universe (currently τcurrent​≈13.8 billion years) shrinks for every day that passes ($\Delta t$ =1 day).
+Let's calculate how much the perceived age of the universe (currently τcurrent≈13.8 billion years) shrinks for every day that passes ($\Delta t$ =1 day).
 
 * **Hubble Constant ($H_0$):** We use the current value as an approximation for the future constant H. $H_0\approx$ 70 km/s/Mpc.  
 * **Conversion to SI Units:** $H_0\approx 2.269×10^{−18} s^{−1}$.  
@@ -74,7 +74,7 @@ Total Shrinkage $=(13.8×10^9 years)×(1.960×10^{−13})\approx0.002705$ years
 
 To make this value more intuitive, we convert it into hours:
 
-$0.002705 years×365.25\frac{days}{year}​×24\frac{hours}{day}​\approx23.7 hours$
+$0.002705 years×365.25\frac{days}{year}×24\frac{hours}{day}\approx23.7 hours$
 
 The result is remarkable. According to this model, for every day that passes in our local reference frame, the total reconstructed age of the universe, from the perspective of a sufficiently advanced future epoch, shrinks by nearly **24 hours**. The universe effectively becomes a day younger for every day it gets older.
 

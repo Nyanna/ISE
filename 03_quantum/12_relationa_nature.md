@@ -15,10 +15,10 @@ To understand uncertainty, we must first define its core ontological concepts:
 
 * **Proto-Information (**$\epsilon$**)**: The most fundamental substance of reality. It is the measure of differentiation or complexity within a system. For the purpose of connecting to standard physics, the total amount of proto-information in a pattern is considered directly proportional to its total energy.  
 * **Resonance Area (**$A_R$**)**: The spatial extent over which a proto-informational pattern maintains coherence. It represents the effective "size" or footprint of a quantum system.  
-* **Proto-Information Density ($P_p$)**: The concentration of proto-information within a given resonance area ($\rho_p = {d\varepsilon}/{dA_R}$​). This corresponds to the internal complexity or the number of differentiated "nodes" per unit of area, which correlates to the frequency components of a wave packet.
+* **Proto-Information Density ($P_p$)**: The concentration of proto-information within a given resonance area ($\rho_p = {d\varepsilon}/{dA_R}$). This corresponds to the internal complexity or the number of differentiated "nodes" per unit of area, which correlates to the frequency components of a wave packet.
 
 The fundamental relationship between these quantities is:
-$$\varepsilon \propto \rho_p \cdot A_R$$​
+$$\varepsilon \propto \rho_p \cdot A_R$$
 
 This equation states that the total energy of a system is proportional to the product of its informational density and its spatial area of coherence.
 
@@ -50,10 +50,10 @@ This result provides a profound insight. The uncertainty product $\Delta x \cdot
 
 This resolves the apparent paradox between the determinism of ISE and the observed indeterminacy of quantum mechanics:
 
-* **Fundamental Determinism**: The evolution of the proto-informational field — the universe itself — is entirely deterministic. Its state ($A_R$,$P_p$​) at any moment is precisely defined.  
+* **Fundamental Determinism**: The evolution of the proto-informational field — the universe itself — is entirely deterministic. Its state ($A_R$,$P_p$) at any moment is precisely defined.  
 * **Emergent Indeterminacy**: The "uncertainty" described by Heisenberg is not an intrinsic property of the system in isolation. It manifests only during an **interaction** (i.e., a measurement). The act of observation involves an interaction between the observer's own "informational density" and that of the system. The measured values of position uncertainty ($\Delta_x$) and momentum uncertainty ($\Delta_p$) are the deterministic outcome of this specific, relational context.
 
-Therefore, uncertainty is not a lack of knowledge but a **consequence of relationality**. If one could know the exact parameters of both the system ($A_R$,$P_p$​​) and the observer's interaction scale, the outcome of the measurement would be, in principle, fully predictable. The paradox vanishes because determinism and uncertainty operate on different levels of reality: determinism on the fundamental, absolute level of proto-information, and uncertainty on the emergent, relational level of observation.
+Therefore, uncertainty is not a lack of knowledge but a **consequence of relationality**. If one could know the exact parameters of both the system ($A_R$,$P_p$) and the observer's interaction scale, the outcome of the measurement would be, in principle, fully predictable. The paradox vanishes because determinism and uncertainty operate on different levels of reality: determinism on the fundamental, absolute level of proto-information, and uncertainty on the emergent, relational level of observation.
 
 **The Nature of Measurement: Beyond the Copenhagen Framework**
 
@@ -111,8 +111,8 @@ This continuous mutual determination contains complete trajectory information th
 
 * **The Role of Planck's Constant**: Planck's constant ($\hbar$) is re-contextualized. It is not the fundamental quantum of action defining a universal minimum uncertainty. Instead, it is a **scaling factor** that bridges the underlying proto-informational reality with the specific observational scale of our universe. It quantifies the 'exchange rate' of the interaction between our measurement apparatuses and the systems they probe — specifically, the characteristic relationship between resonance area scales and proto-information density scales in our observable universe.
 
-* **Non-Locality and the Bell Theorem**: The model is inherently non-local, but not in the sense of "spooky action at a distance." A system defined by a resonance area ($A_R$​) is a single, coherent proto-informational entity. An interaction at one point of the resonance area can instantaneously affect the entire coherent pattern because it is one interconnected proto-informational structure, not separate parts communicating across distance. This is consistent with the experimentally verified violations of Bell's inequalities, but it provides a physical substrate (the coherent proto-informational pattern) for what otherwise appears to be an abstract correlation.
+* **Non-Locality and the Bell Theorem**: The model is inherently non-local, but not in the sense of "spooky action at a distance." A system defined by a resonance area ($A_R$) is a single, coherent proto-informational entity. An interaction at one point of the resonance area can instantaneously affect the entire coherent pattern because it is one interconnected proto-informational structure, not separate parts communicating across distance. This is consistent with the experimentally verified violations of Bell's inequalities, but it provides a physical substrate (the coherent proto-informational pattern) for what otherwise appears to be an abstract correlation.
 
 * **Measurement Outcomes as Scale Projections**: What we call "measurement outcomes" are projections of continuous proto-informational dynamics onto the discrete eigenvalue structure accessible at our observational scale. The statistical distribution of these outcomes (described by the quantum wave function) reflects the proto-informational structure of the system, not fundamental randomness but rather the mismatch between continuous relational dynamics and discrete classical readout.
 
-This relational framework for uncertainty provides a path toward a unified physical theory, grounding the probabilistic nature of quantum mechanics in a deterministic, proto-informational ontology. The next critical step is to develop the mathematical machinery to connect the ontological primitives of resonance area ($A_R$​) and proto-information density ($P_p$​​) to measurable physical quantities, thereby generating unique and falsifiable predictions.
+This relational framework for uncertainty provides a path toward a unified physical theory, grounding the probabilistic nature of quantum mechanics in a deterministic, proto-informational ontology. The next critical step is to develop the mathematical machinery to connect the ontological primitives of resonance area ($A_R$) and proto-information density ($P_p$) to measurable physical quantities, thereby generating unique and falsifiable predictions.

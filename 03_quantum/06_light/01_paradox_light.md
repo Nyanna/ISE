@@ -1,5 +1,5 @@
 
-### **3.6.1 Paradox Speed of Light**
+### **3.6.1. Paradox Speed of Light**
 
 The paradox of **light speed** in relation to itself arises from the fact that **nothing faster than light exists**, making it impossible to measure light against anything more fundamental or faster. In essence, the speed of light becomes a **self-referential standard**, a fundamental constant that can only be measured **in relation to itself**. This creates a paradox where light's speed is simultaneously the most precise and the most arbitrary measure, because there is nothing else against which to compare or benchmark it.
 
@@ -211,7 +211,7 @@ Let $\Lambda = dN/d\tau$ represent the interaction rate (counting rate) per unit
 * Observed frequency increase is therefore equivalent to more interactions per unit proper time.  
 * This result is reinterpreted as higher effective velocity of energy quanta, while $c$ remains a measurement horizon rather than a fundamental limit of nature.
 
-#### Measurable is t not c
+#### **Measurable is t not c**
 
 **Physically real and measurable is t as constant, not c.**
 

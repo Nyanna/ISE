@@ -1,7 +1,5 @@
 
----
-
-### 8.2.2. Gravitational Collapse, Entropy, and Causality
+### **8.2.2. Gravitational Collapse, Entropy, and Causality**
 
 This chapter unifies a thermodynamic analysis of gravitational collapse with a rigorous theoretical derivation of an alternative entropy concept—overlap-free entropy, denoted $S_{\mathrm{CS}}$—that counts only fundamentally distinguishable, causally admissible configurations. The goals are:
 - to make precise in which sense collapse-generated radiation and gravitational waves can be highly ordered and low in entropy per unit energy,

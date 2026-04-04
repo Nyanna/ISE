@@ -1,7 +1,7 @@
 
 ***
 
-# 12\. Glossary of Key Terms
+# **12\. Glossary of Key Terms**
 
 1. **Infinite Scale Expansion**:  
   A theory that proposes the universe expands infinitely through the continuous differentiation of energy. Unlike traditional models, ISE suggests that space, time, and even gravity are emergent properties of this energy differentiation rather than fundamental aspects of reality.  

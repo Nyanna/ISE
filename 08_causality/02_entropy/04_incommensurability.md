@@ -1,7 +1,5 @@
 
----
-
-## **8.2.4. Entropy as Structural Incommensurability**
+### **8.2.4. Entropy as Structural Incommensurability**
 
 We demonstrate that entropy emerges necessarily from differentiation itself through the structural production of incommensurabilities. This reconceptualization resolves the Hawking-Bekenstein entropy paradox, grounds the second law ontologically rather than statistically, and explains the area law as a natural consequence of scale-relative differentiation boundaries. The framework dissolves the black hole information paradox as a category error arising from scale-absolute rather than scale-relative ontology.
 

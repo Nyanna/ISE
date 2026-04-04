@@ -1,7 +1,7 @@
 
 ---
 
-## **Memory as Interpreter Output: Against Reconsolidation and Integration**
+## **A.3. Memory as Interpreter Output: Against Reconsolidation and Integration**
 
 The preceding account of engrams as reproducible transformational dispositions — configurations that produce different outputs depending on the current gain state — carries a consequence for memory science that extends beyond the scope of consciousness proper but demands articulation, because the dominant models in the field rest on assumptions that are incompatible with this framework and, more critically, incompatible with basic scaling constraints.
 
@@ -150,13 +150,13 @@ The distinction is one of degree, not of kind. Every deliberate traversal occurs
 
 The interpreter model is not merely a theoretical alternative — it is more consistent with the accumulated empirical evidence than the models it replaces. The following survey demonstrates that existing findings, including those routinely cited in support of reconsolidation, are better explained by interpreter-mediated traversal of stable engrams.
 
-### Reconsolidation: Boundary Conditions as Evidence Against Universality
+### **Reconsolidation: Boundary Conditions as Evidence Against Universality**
 
 The reconsolidation literature has accumulated a set of boundary conditions so restrictive that the phenomenon begins to resemble an artifact of narrow experimental parameters rather than a general memory mechanism. Reconsolidation requires a prediction error (PE) signal at retrieval — without mismatch between expectation and experience, no destabilization occurs (Pedreira et al., 2004; Sevenster et al., 2013). It is further constrained by memory age and strength: older and more strongly consolidated memories resist destabilization, requiring escalating PE magnitudes or failing to destabilize entirely (Suzuki et al., 2004; Wang et al., 2009). The reactivation session must fall within precise temporal parameters — too brief or too extended, and reconsolidation does not occur (Merlo et al., 2014). In humans, clinical translation has produced over fourteen non-replications by 2025, with mixed outcomes for propranolol-based PTSD interventions and inconsistent results across fear conditioning paradigms.
 
 Within the interpreter model, these boundary conditions are expected rather than puzzling. PE is not a trigger for engram destabilization but a signal that the current interpreter parameters are miscalibrated — the gain structure predicted an output that the traversal did not produce. This mismatch initiates interpreter recalibration, not engram rewriting. The resistance of strong memories to "reconsolidation" reflects their broad structural footprint on the interpreter: they are traversed through multiple gain pathways, making their output robust against local interpreter mutations. The temporal constraints on reactivation reflect the dynamics of the interpreter's recalibration process, not a window of engram lability. The replication failures in humans reflect the additional complexity of the human interpreter — more modulatory dimensions, more contextual variables, more degrees of freedom in gain configuration — not a failure of the underlying phenomenon.
 
-### Engram Persistence and Molecular Stability
+### **Engram Persistence and Molecular Stability**
 
 Engram cells — neurons activated during encoding that are reactivated during retrieval — persist over weeks and months with stable synaptic adaptations, including long-term potentiation, epigenetic marks, and structural changes in dendritic geometry (Tonegawa et al., 2015; Josselyn & Tonegawa, 2020). Molecular tagging mechanisms, including kinase activity and epigenetic modifications, ensure long-term structural stability without requiring periodic re-stabilization (Sacktor & Hell, 2017; Guan et al., 2022). These findings are directly predicted by the interpreter model: engrams are stable physical configurations whose persistence is maintained by molecular mechanisms, not by repeated reconsolidation cycles. The observation that engram cells can be optogenetically reactivated weeks after encoding — producing the original behavioral output even when the memory is behaviorally "forgotten" — demonstrates that the configuration persists while the interpreter has moved to a state that no longer naturally traverses it (Liu et al., 2012; Roy et al., 2016).
 

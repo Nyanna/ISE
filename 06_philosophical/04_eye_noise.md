@@ -1,7 +1,7 @@
 
 ---
 
-## **6.4. Stil dont see it? Just close your eyes**
+## **6.4. Still dont see it? Just close your eyes**
 
 **The Origin Noise – Seeing the Infinite Scale**
 

@@ -1,7 +1,7 @@
 
 ---
 
-## **7.1. Unification Without Parameter Binding** 
+## **7.1. Unification Without Parameter Binding**
 
 Recent work in multiverse cosmology has identified an apparent tension between unified theories and the existence of observers. The argument proceeds as follows: unified theories bind parameters together through shared underlying structure. When one parameter varies, correlated parameters shift simultaneously. This binding drastically reduces the region of parameter space compatible with complex chemistry, stable matter, and stellar nucleosynthesis  — the prerequisites for life.
 

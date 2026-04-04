@@ -1,7 +1,7 @@
 
 ---
 
-## 8.2. Entropy
+## **8.2. Entropy**
 
 This chapter reconceptualizes entropy within the scale-relational framework of Information Structure Evolution, grounding thermodynamic irreversibility in the structural properties of differentiation rather than statistical mechanics or observer ignorance. Beginning with space–entropy coupling, we establish entropy's dependence on geometric structure, scale resolution, and information-theoretic bounds. Gravitational collapse reveals how long-range interactions impose global constraints that reduce accessible configuration space, introducing an overlap-free entropy $S_{\mathrm{CS}}$ that can decrease during collapse while standard thermodynamic entropy increases. This apparent paradox resolves through recognizing gravitation itself as entropic differentiation — a scale-integrated process where structure formation enables higher-scale entropic emergence rather than opposing it.
 

@@ -215,7 +215,7 @@ The fraction of fuel atoms that undergo fusion per pulse is the second critical 
 
 The critical threshold for practical energy generation lies approximately at gain > 50 and reaction fraction > 0.01%. Below this, net power output is insufficient even with massive parallelization.
 
-### Pulse Signature Optimization: Resonant Shock Cascades
+### **Pulse Signature Optimization: Resonant Shock Cascades**
 
 The preceding energy balance assumes a single coherence pulse per fusion cycle. However, the reaction yield can be dramatically enhanced — potentially by orders of magnitude — through structured multi-pulse sequences that exploit the phononic resonance structure of the host lattice. This technique may shift the operating regime from the moderate or pessimistic scenarios into the optimistic range, or even guarantee threshold crossing where single pulses would fail.
 

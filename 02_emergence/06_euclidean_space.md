@@ -33,7 +33,7 @@ Take the curvature around a massive object like a planet. In General Relativity,
 
 Any anomaly in the perfect flatness of Euclidean geometry — whether caused by mass, energy concentration, or other factors — can be interpreted as **curvature of space**, but this curvature arises from **potential energy vectors** rather than an intrinsic property of space.
 
-### The One-Dimensional Universe and the Transition to N-Dimensionality
+### **The One-Dimensional Universe and the Transition to N-Dimensionality**
 
 The thesis posits that the universe is fundamentally N-dimensional, where N corresponds to the quantifiable relational information inherent in the cosmos. This principle aligns with the consequences of curved spacetime in Einstein’s General Theory of Relativity, which shows that the universe cannot be fully described using only three spatial dimensions. The ISE extends this notion by asserting that dimensionality itself is not absolute but emergent from the relational structure of reality.
 
@@ -140,7 +140,7 @@ The framework embraces this flexibility in representation, demonstrating that en
 
 In the 1D universe modeled by ISE, the tangential energy is inherently unified with radial energy, whether represented through velocity or distance. This equivalence provides freedom in modeling and visualization while maintaining consistency in the underlying energy framework. The flexibility underscores the ISE principle that energy relationships transcend specific spatial configurations and remain fundamentally linear in isolated systems.
 
-### The Emergence of Spatiality and Differentiation Through Transformation
+### **The Emergence of Spatiality and Differentiation Through Transformation**
 
 The transformation of tangential energy into a single-dimensional framework within the ISE offers a profound insight: the unification of energy components along a single axis is a potential **precursor to spatial differentiation**. This transformation highlights how the emergence of multidimensional space might be rooted in more fundamental energy relationships that remain linear at their core.
 

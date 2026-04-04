@@ -256,7 +256,7 @@ Up to this point, the discussion has examined randomness primarily from historic
 
 This framework reframes randomness as the emergent projection of interactions between acausal levels, observable only when distinct systems intersect without a shared causal structure. Physical examples, theoretical analogues, and methodological approaches have been explored to map this perspective onto measurable phenomena. The resulting picture is one in which statistical uniformity may conceal an infinite continuum of small-scale contributions, and probability distributions can reflect inaccessible internal orders. This sets the stage for a shift from the physical–historical framing to an anthropomorphic–logical examination, where randomness will be reconsidered through the lens of logical structure and human conceptualization, positioned alongside the earlier scale-based account.
 
-### Is it Unlikely that True Randomness Exists?
+### **Is it Unlikely that True Randomness Exists?**
 
 * **Epistemological Aspect**  
   Throughout history, every process once thought to be fundamentally random — whether dice rolls, planetary motion irregularities, or Brownian motion — has, with improved understanding, been reframed as determined by underlying causes. Quantum mechanics, despite its probabilistic formalism, can be seen as another step in this sequence rather than an endpoint. There is no compelling reason to believe that at the quantum level the chain of causal explanation must cease, and strong reason to expect that the appearance of randomness is due to hidden structural determinants still beyond our measurement reach.  

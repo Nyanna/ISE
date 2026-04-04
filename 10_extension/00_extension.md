@@ -3,7 +3,7 @@
 
 ![](images/title.png){width=66%}
 
-# 10\. Possible Extensions
+# **10\. Possible Extensions**
 
 
 Chapter 10 — Introductory Summary
@@ -20,7 +20,7 @@ The broader implications explored—from alternative life evolution timescales t
 
 This chapter surveys how the Infinite Scale Expansion (ISE) framework reframes familiar physical questions through scale-dependent differentiation of energy and protoinformation, with space and time treated as emergent. Across topics, measurement, probability, and even “particles” are interpreted as observer- and scale-relative manifestations, while gravitation and quantum phenomena are positioned as distinct scale expressions of a common differentiating substrate.
 
-## Content
+**Content**
 
 - 10.1 Baryon asymmetry
   - Exploratory framing of matter–antimatter imbalance as an asymmetric differentiation of energy/protoinformation in a non-singular, continuously evolving cosmos.

@@ -143,7 +143,7 @@ In this view, physical reality is not constituted by definitive states and unive
 
 ISE thus offers a new conceptual foundation — resonance instead of determinism, locality over globalism, and coherence over completeness — as the basis for understanding time, law, and reality.
 
-### Information Dissipation, Correlational Topology, and Effective Non-Unitarity
+### **Information Dissipation, Correlational Topology, and Effective Non-Unitarity**
 
 This chapter extends the analysis of resonant irreversibility by confronting a widespread but imprecise slogan: that quantum systems, unlike macroscopic systems, cannot lose information. In standard formalism this slogan is traced to global unitarity. In practice, however, real systems are never closed, their dynamics are coarse-grained, and the physically relevant maps are non-invertible. Within a resonant ontology, information is neither a sacred invariant nor a conserved substance; it is a scale-bound, correlation-defined functional that can be created, dispersed, diluted, or overwritten by structural drift. The supposed absolute prohibition on information loss arises from conflating a mathematical property of idealized models with an ontological claim about real processes.
 

@@ -90,7 +90,7 @@ LIGO provides a striking example of long-range, stable quantum coherence that ca
 
 Further research into quantum coherence at extreme scales could reveal whether probability in quantum mechanics is truly fundamental or merely a consequence of incomplete resonance within a deeper, ordered structure of reality.
 
-### Phase Drift and the Illusion of Quantum Randomness
+### **Phase Drift and the Illusion of Quantum Randomness**
 
 Quantum mechanics postulates that measurement outcomes are fundamentally probabilistic, yet it fails to explain the origin or mechanism behind this randomness. One striking example is the measurement of two identical photons, which, despite having precisely the same initial parameters, can yield different results due to an unexplained stochastic process. This paper explores the concept of phase drift in quantum systems and argues that what is perceived as quantum randomness is actually a form of determinism with an infinite number of hidden variables, as proposed by the thesis. The thesis suggests that probability in quantum mechanics is merely an emergent effect of minute, uncontrolled variations in the fundamental parameters of the universe, making quantum randomness a computationally intractable but ultimately deterministic phenomenon.
 
@@ -177,7 +177,7 @@ If there is an ultimate limit to what can be known, it is the Primordial Problem
 
 This is the deepest boundary of all science and epistemology. Everything is resonance, yet the absolute frequency remains undefinable.
 
-### Reinterpreting Quantum Noise and Squeezed Light
+### **Reinterpreting Quantum Noise and Squeezed Light**
 
 The standard interpretation of quantum mechanics (QM) posits the Heisenberg Uncertainty Principle (HUP) as a fundamental and irreducible feature of reality. Experiments such as LIGO, with their precise measurement and manipulation of quantum noise, are held as the ultimate validation of this principle. This part, however, posits that this view stems from a successful but ontologically incomplete operationalism. We will argue that the phenomena observed in LIGO do not refute the framework; on the contrary, when viewed through the lens of ISE, they provide compelling evidence for its core tenets. We will demonstrate that the success of techniques like "squeezed light" can be reinterpreted not as a manipulation of a fundamental uncertainty, but as the experimental act of **scalar synchronization**, thus inverting the standard critique.
 

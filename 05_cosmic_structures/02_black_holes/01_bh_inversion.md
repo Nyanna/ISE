@@ -7,17 +7,17 @@ These ideas reflect the non-traditional and deeply interconnected interpretation
 
 The relative view of black holes suggests a radical perspective shift. From the universe’s viewpoint, a black hole is perceived as a **spherical region** with a non-dimensional point of infinite density (the singularity) at its center. Time, as observed from outside, slows down and essentially halts as an object approaches the event horizon, making the singularity appear as a distant, unapproachable entity.
 
-In contrast, **from the perspective of the singularity**, the **entire universe** is seen as a **small, white, dimensions-less point**. Time from this viewpoint moves extremely quickly, making the universe seem like a brief flash or "a short flicker of white light." This inversion of perspectives reveals that black holes and the universe are deeply interconnected through a symmetry of time dilation and space compression​​.
+In contrast, **from the perspective of the singularity**, the **entire universe** is seen as a **small, white, dimensions-less point**. Time from this viewpoint moves extremely quickly, making the universe seem like a brief flash or "a short flicker of white light." This inversion of perspectives reveals that black holes and the universe are deeply interconnected through a symmetry of time dilation and space compression.
 
 **Inversion of Black Holes and White Holes**
 
-In the framework, black holes and white holes are understood as two sides of the same coin — an **inversion of potential energy** rather than distinct entities. A black hole, typically seen as an object where potential energy draws matter inward, is mirrored by a white hole, where the same potential energy flows outward. This leads to the interpretation that the **Big Bang** could also be seen as an inversion of potential energy, much like a white hole​​.
+In the framework, black holes and white holes are understood as two sides of the same coin — an **inversion of potential energy** rather than distinct entities. A black hole, typically seen as an object where potential energy draws matter inward, is mirrored by a white hole, where the same potential energy flows outward. This leads to the interpretation that the **Big Bang** could also be seen as an inversion of potential energy, much like a white hole.
 
 **Singularity and Information Transmission**
 
-ISE posits that **singularities** are not absolute boundaries where physical laws break down but represent points where conventional physics encounters extreme conditions. It challenges the **No-Hair Theorem**, suggesting that **gravitational information** about the dynamics within a black hole could indeed leave the event horizon. In this view, the inversion between black holes and white holes, as well as the information encoded in gravitational waves, allows a continuous flow of information across what were once considered impermeable boundaries​​.
+ISE posits that **singularities** are not absolute boundaries where physical laws break down but represent points where conventional physics encounters extreme conditions. It challenges the **No-Hair Theorem**, suggesting that **gravitational information** about the dynamics within a black hole could indeed leave the event horizon. In this view, the inversion between black holes and white holes, as well as the information encoded in gravitational waves, allows a continuous flow of information across what were once considered impermeable boundaries.
 
-This alternative view implies that black holes may not only represent endpoints for matter but also gateways to other states of the universe, with **gravitational effects** transmitting critical information even across singularities​​. But this is not a focus topic.
+This alternative view implies that black holes may not only represent endpoints for matter but also gateways to other states of the universe, with **gravitational effects** transmitting critical information even across singularities. But this is not a focus topic.
 
 **Singularities and Higher Relative Energy Levels**
 

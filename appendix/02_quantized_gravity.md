@@ -317,7 +317,7 @@ $$\omega_{BD} = \frac{1}{8\xi} = \frac{3}{4}, \quad \alpha_0^2 = \frac{2}{9}, \q
 Therefore φ must be massive — and this is also mandatory from a QFT perspective: Radiative corrections from matter loops automatically generate $\delta m_\varphi^2 \propto m_f^2$. For **massive** φ with $m_\varphi r \gg 1$ (solar-system scales):
 $$|\gamma - 1| \sim e^{-m_\varphi r} \ll 10^{-5} \quad\text{(Cassini-compatible for } m_\varphi \gtrsim 10^{-18}\text{ eV)}$$
 
-### Three-Layer Interpretation
+### **Three-Layer Interpretation**
 
 **Layer 1 (sobering):** The naive power counting is identical to standard GR. Through VEV expansion, the h³, h⁴ vertices reappear — with exactly the same dimensions. The φ vertices are copies of these. Naively, nothing has been gained.
 

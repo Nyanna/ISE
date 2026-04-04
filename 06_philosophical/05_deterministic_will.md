@@ -187,7 +187,7 @@ Paradoxically, transformation can only begin where it is recognized that no tran
 
 This question bypasses the illusions of control and choice and enters directly into the structural reality of being. True change is not an interruption of causality, but the unfolding of coherence.
 
-### The Multiplicity of Being and the Illusion of the Self
+### **The Multiplicity of Being and the Illusion of the Self**
 
 **The Self as a Referential Illusion**
 

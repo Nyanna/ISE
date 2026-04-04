@@ -31,7 +31,7 @@ Time travel into the future is not an anomaly but an intrinsic aspect of spaceti
 
 The exploration of relativistic time travel underscores fundamental limitations in the ΛCDM model and highlights the strengths of the framework. By embracing the locality and dynamism of spacetime, the ISE offers a paradigm that reconciles relativistic phenomena with the evolving structure of the universe. This chapter establishes the foundation for further integrating relativistic principles into the broader context of ISE, reshaping our understanding of time, space, and cosmic evolution.
 
-### Reformulating Space and Gravity Through Temporal Differentiation
+### **Reformulating Space and Gravity Through Temporal Differentiation**
 
 The reformulation of space as a differentiation of time provides a unified framework for understanding the universe at both macroscopic and microscopic levels. In this perspective, the dimension of space dissolves, leaving only the temporal structure as the fundamental fabric of reality. This temporal-centric view has profound implications for understanding gravity and its role in the cosmos.
 

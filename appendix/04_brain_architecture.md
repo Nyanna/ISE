@@ -1,7 +1,7 @@
 
 ---
 
-## **From Storage Mechanism to Consciousness**
+## **A.4. From Storage Mechanism to Consciousness**
 
 The thalamocortical interpreter model was developed as an account of memory and consciousness. What follows is not an extension of that account but the demonstration that it is not a model at all — it is a logical consequence of the storage mechanism that all of neuroscience already accepts. The argument proceeds deductively from the universally agreed premise that memories are stored as synaptic modifications in neural networks, and derives, without additional assumptions, the interpreter, the identity of algorithm and memory, the determination of cortical function by prenatal architecture, the impossibility of consolidation, the nature of identity, culture, creativity, aging, and — ultimately — the resolution of the hard problem of consciousness.
 

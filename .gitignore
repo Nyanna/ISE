@@ -1,5 +1,6 @@
 /chat/
 .obsidian
+.idea
 /temp/
 *.out.md
 *.merge.md

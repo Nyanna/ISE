@@ -33,7 +33,7 @@ To visualize this, imagine two tuning forks of different sizes placed near each 
 
 As a further example, consider a pool of water. Dropping pebbles at different points creates overlapping wavefronts. These interference patterns are not the result of any single pebble’s history, but of how their waves converge *now*. Our experience of time and causality is akin to interpreting these patterns as if they had a linear cause, when in fact they are emergent fields of interaction without a privileged origin.
 
-### Emergent Curvature and the Illusion of Global Topology
+### **Emergent Curvature and the Illusion of Global Topology**
 
 The notion of a globally curved or flat universe presupposes the existence of an absolute spacetime background — a theoretical remnant of Newtonian physics and its Euclidean framework. However, in a structure governed entirely by local interactions and emergent metric properties, the idea of a universal curvature becomes logically untenable.
 

@@ -1,7 +1,7 @@
 
 ---
 
-## **Toward Thalamocortical AI: Architectural Lessons from the Interpreter Model**
+## **A.5. Toward Thalamocortical AI: Architectural Lessons from the Interpreter Model**
 
 The thalamocortical interpreter model, developed as an account of biological memory and consciousness, yields a set of architectural principles that map directly onto the deficiencies of current artificial intelligence systems. The comparison is not metaphorical. The biological system and the artificial system face the same engineering constraints — storage, retrieval, coordination, scaling, modifiability — and the biological system has solved them through an architecture that current AI has not yet adopted. This chapter extracts the concrete architectural proposals that emerge from this comparison and identifies the structural gaps in current systems that the thalamocortical framework exposes.
 
