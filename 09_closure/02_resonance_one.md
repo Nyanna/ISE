@@ -42,15 +42,15 @@ By offering a data-driven alternative for part of the CMB's origin, the study lo
 
 **Interpretation**
 
-The findings of Gjergo & Kroupa do not prove ISE — the thesis is an interpretive framework rather than a predictive model tested by a single observation. The study does provide an observational setting whose natural reading is consistent with several of ISE's postulates, which is what is examined in the following paragraphs.
+The findings of Gjergo & Kroupa do not prove ISE — the thesis is an interpretive reading rather than a predictive scheme tested by a single observation. The study does provide an observational setting whose natural interpretation is consistent with several of its postulates, which is what is examined in the following paragraphs.
 
 **The CMB as a Remnant of Scale Differentiation**
 
-Within ISE the CMB is read not as the afterglow of a singular creation event but as an imprint of past phases of energy differentiation on a cosmic scale. The Gjergo & Kroupa paper describes a concrete physical process of that character: the early, massive galaxies they model function as a large-scale differentiation event, and their thermalized, cosmologically redshifted light is the kind of distributed energy equilibrium that a scale-relative reading of the background would expect.
+On the present reading the CMB is not the afterglow of a singular creation event but an imprint of past phases of energy differentiation on a cosmic scale. The Gjergo & Kroupa paper describes a concrete physical process of that character: the early, massive galaxies they model function as a large-scale differentiation event, and their thermalized, cosmologically redshifted light is the kind of distributed energy equilibrium that a scale-relative reading of the background would expect.
 
 **The Dissolution of the Singular Big Bang Narrative**
 
-ISE does not assume a singular beginning; it reads the Big Bang as a localized differentiation event within a broader, open-ended process. The Gjergo & Kroupa analysis is relevant to this reading because it softens the standard inference from the CMB to a unique primordial moment: if part of the CMB signal originates in early structures rather than in a first-light plasma, then the evidential chain from CMB to singular beginning is not as tight as it is often presented.
+The scale-differentiation account does not assume a singular beginning; it reads the Big Bang as a localized differentiation event within a broader, open-ended process. The Gjergo & Kroupa analysis is relevant here because it softens the standard inference from the CMB to a unique primordial moment: if part of the CMB signal originates in early structures rather than in a first-light plasma, then the evidential chain from CMB to singular beginning is not as tight as it is often presented.
 
 **Matter, Asymmetry, and Structure Formation**
 
@@ -58,7 +58,7 @@ JWST's detection of early, complex structures is in tension with the linear, tim
 
 **Dark Matter as a Scale-Shifted Artifact**
 
-Within ISE, dark matter is read as an emergent feature linked to differentiated energy states rather than a new particle species — a scale-shifted form of energy that still couples gravitationally but is no longer electromagnetically active at our observational scale. The Gjergo & Kroupa study is relevant here only indirectly: by affecting the inference chain that fixes the *amount* of dark matter required by $\Lambda$CDM. If part of the CMB signal is reassigned to early structures, the specific mass-energy ratios derived from the background become less tightly constrained, which leaves more room for scale-based readings of dark matter alongside the standard particle-based one.
+On the scale-relative reading, dark matter is an emergent feature linked to differentiated energy states rather than a new particle species — a scale-shifted form of energy that still couples gravitationally but is no longer electromagnetically active at our observational scale. The Gjergo & Kroupa study is relevant here only indirectly: by affecting the inference chain that fixes the *amount* of dark matter required by $\Lambda$CDM. If part of the CMB signal is reassigned to early structures, the specific mass-energy ratios derived from the background become less tightly constrained, which leaves more room for scale-based readings of dark matter alongside the standard particle-based one.
 
 **A Note on Prior Reading and Later Data**
 
