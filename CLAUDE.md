@@ -36,7 +36,17 @@ Chapters are numbered directories (`00_intro/` through `12_glossary/`). Each con
 ### Page Breaks
 Use a line containing only `***` to insert a page break in the PDF output.
 
+### Formating
+* Page Breaks for mayor number chapters on begin of the file
+* `\n---\n` for second order chapters on beginn of the file
+* all files musst end with an addition newline to prevent MD foramating errors on merge
+* Use third order heading and below only when necessary for navigation purpose, use simple bold paragrph headings instead
+* Chapter heading are numbered H1-H3 only, lower order headings don't contain numbering
+* avoid mentioning the term 'ISE' and 'this framework' to often
+* Use LaTex($$) an inline LaTex($) for Mathematical symbols, expressiona and formulas
+
 ## Content Conventions
 - The thesis is written in English
 - File ordering within chapters is determined by numeric prefix
 - License: CC BY-NC-SA 4.0
+- The material may be structured. The amount of prose should be minimal. A middle ground between structure and a pleasant text flow for specialist readers.
