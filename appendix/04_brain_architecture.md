@@ -3,7 +3,7 @@
 
 ## **A.4. From Storage Mechanism to Consciousness**
 
-The thalamocortical interpreter model was developed as an account of memory and consciousness. What follows is not an extension of that account but the demonstration that it is not a model at all — it is a logical consequence of the storage mechanism that all of neuroscience already accepts. The argument proceeds deductively from the universally agreed premise that memories are stored as synaptic modifications in neural networks, and derives, without additional assumptions, the interpreter, the identity of algorithm and memory, the determination of cortical function by prenatal architecture, the impossibility of consolidation, the nature of identity, culture, creativity, aging, and — ultimately — the resolution of the hard problem of consciousness.
+The thalamocortical interpreter account was developed to describe memory and consciousness. What follows reframes it less as a separate model and more as a set of consequences that appear to follow from the storage mechanism already accepted across neuroscience. Starting from the standard premise that memories are stored as synaptic modifications in neural networks, the argument derives — without additional assumptions — the interpreter, the identity of algorithm and memory, the determination of cortical function by prenatal architecture, a reinterpretation of consolidation, and accounts of identity, culture, creativity, aging, and the hard problem of consciousness.
 
 **Deductive Proof**
 
@@ -197,7 +197,7 @@ The self-resonant feedback of the thalamocortical loop generates conscious proce
 
 The hard problem of consciousness asks: why does processing feel like something? The question presupposes that processing and experience are two different things — that there is mechanical processing, and then there is something additional called "experience" that accompanies it. The deductive chain shows that this presupposition is false. Experience *is* processing minus self-information. There is no additional phenomenon to explain. The feeling of "what it is like" is the irreducible self-referential gap in a coordinator that processes everything including its own output but cannot close the loop on itself with zero latency.
 
-Within the ISE framework, this connects to the deepest level: differentiation distance zero is unobservable. A node cannot differentiate itself from itself. The phenomenal I is the ISE case of zero differentiation distance in the thalamic self-reference. It is not an emergent property requiring explanation — it is the *absence* of differentiation, and absence of differentiation is, in ISE, the most fundamental state of all.
+This connects to a recurring principle in the broader thesis: differentiation distance zero is unobservable — a node cannot differentiate itself from itself. Read through that lens, the phenomenal I is a specific instance of zero differentiation distance, located in the thalamic self-reference. On this interpretation it is not an emergent property requiring additional explanation, but the signature of an absence of differentiation — a state that the thesis treats as foundational throughout.
 
 **The Complete Chain**
 

@@ -1,13 +1,13 @@
 
 ### **8.2.2. Gravitational Collapse, Entropy, and Causality**
 
-This chapter unifies a thermodynamic analysis of gravitational collapse with a rigorous theoretical derivation of an alternative entropy concept—overlap-free entropy, denoted $S_{\mathrm{CS}}$—that counts only fundamentally distinguishable, causally admissible configurations. The goals are:
+This chapter combines a thermodynamic analysis of gravitational collapse with a theoretical derivation of an alternative entropy concept—overlap-free entropy, denoted $S_{\mathrm{CS}}$—that counts only fundamentally distinguishable, causally admissible configurations. The aims are:
 - to make precise in which sense collapse-generated radiation and gravitational waves can be highly ordered and low in entropy per unit energy,
 - to formalize how long-range gravity imposes global constraints that reduce effective degrees of freedom and the reachable configuration space,
-- to articulate a framework in which an entropy defined on causally constrained, symmetry-identified microstates, $S_{\mathrm{CS}}$, can decrease during collapse even when standard thermodynamic entropies increase,
-- to detach the direction of time and causality from an a priori entropic monotonicity and instead relate them to dynamical instabilities, cosmic expansion, and causal delay.
+- to characterize an entropy defined on causally constrained, symmetry-identified microstates, $S_{\mathrm{CS}}$, that can decrease during collapse even when standard thermodynamic entropies increase,
+- to relate the direction of time and causality to dynamical instabilities, cosmic expansion, and causal delay rather than to an a priori entropic monotonicity.
 
-The result is a single, mathematically grounded narrative that places gravitational collapse, radiative order, causal structure, indistinguishability, and symmetry reduction on a common footing.
+Together, these aims place gravitational collapse, radiative order, causal structure, indistinguishability, and symmetry reduction on a common footing.
 
 **Conventional thermodynamics of collapse: what increases, what can be ordered**
 
@@ -161,7 +161,7 @@ Altogether, gravitational collapse need not be viewed as “entropy increase” 
 
 **A Reassessment of Gravitational Entropy**
 
-Gravitational collapse presents a paradox where the total thermodynamic entropy of a system increases, particularly through emitted radiation and the formation of black holes, yet the emitted energy itself can be highly ordered and coherent. To resolve this, an alternative entropy concept, referred to as overlap-free entropy `$S_{\mathrm{CS}}$`, is proposed. This measure quantifies the number of fundamentally distinguishable and causally valid configurations, providing a framework where collapse-generated radiation can be understood as low-entropy, information-rich output.
+Gravitational collapse exhibits a tension in which the total thermodynamic entropy of a system increases, particularly through emitted radiation and the formation of black holes, while the emitted energy itself can be highly ordered and coherent. To address this tension, an alternative entropy measure, overlap-free entropy `$S_{\mathrm{CS}}$`, is proposed. It quantifies the number of fundamentally distinguishable and causally valid configurations, and in this counting collapse-generated radiation appears as low-entropy, information-rich output.
 
 **Counting Fundamentally Distinguishable States**
 
@@ -173,7 +173,7 @@ Under this new counting method, gravitational collapse is re-framed as a process
 
 **Causality as the Foundation of Time's Arrow**
 
-This framework detaches the direction of time from the principle of ever-increasing entropy. Instead, the arrow of time is grounded in the more fundamental concepts of causal structure and dynamics. Processes unfold according to causal precedence, governed by dynamical instabilities and retarded interactions that propagate at a finite speed. Time progresses along a chain of causally connected events, a progression that is independent of whether `$S_{\mathrm{CS}}$` or even classical entropy is increasing or decreasing. Thus, a system can evolve "forward in time" while its number of fundamental configurations declines.
+In this reading (interpretation), the direction of time is grounded in causal structure and dynamics rather than in entropy monotonicity. Processes unfold according to causal precedence, governed by dynamical instabilities and retarded interactions that propagate at a finite speed. Time progresses along a chain of causally connected events, a progression that is, in principle, independent of whether `$S_{\mathrm{CS}}$` or classical entropy is increasing or decreasing. A system can therefore evolve "forward in time" while its number of fundamental configurations declines.
 
 **The Second Law as a Regime-Dependent Principle**
 

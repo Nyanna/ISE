@@ -3,17 +3,17 @@
 
 ## **2.12. Randomness and Acceleration**
 
-The concept of determinacy serves as the foundation for discussing randomness. A deterministic universe is one in which every state follows uniquely from previous states according to fixed physical laws, without genuine chance or alternative developments. In such a framework, what is often called “randomness” is epistemic — it arises from limits in knowledge or the complexity of interactions, not from fundamental indeterminacy.
+The concept of determinacy serves as the foundation for discussing randomness. A deterministic universe is one in which every state follows uniquely from previous states according to fixed physical laws, without genuine chance or alternative developments. Under such an assumption, what is often called “randomness” is epistemic — it arises from limits in knowledge or the complexity of interactions, not from fundamental indeterminacy.
 
 Complexity itself is derivative rather than original. It emerges from simpler initial states and rules, meaning it cannot produce true randomness if the foundation is deterministic. Real randomness, in contrast, would require a process whose outcome is not fully determined by preceding conditions, as proposed in certain interpretations of quantum mechanics where measurement yields multiple possible results from a single quantum state.
 
 However, quantum mechanics formally frames this in terms of probability distributions rather than randomness. The wave function evolves deterministically, and the probability distribution over possible outcomes is fixed by its form. The unpredictability lies only in the selection of a single outcome, while the distribution’s overall structure is predetermined. This suggests that randomness is itself governed by deterministic principles, producing fixed statistical frequencies over many trials.
 
-From the ISE perspective, this points to an ordering problem: all potential states exist within the wave structure, but the sequence in which they manifest is unknown. At the quantum level, time may not progress in the linear fashion observed macroscopically. The evolution is orderly in the mathematical sense, but the realization of specific states does not adhere to a pre-defined classical sequence, blending determinacy with apparent indeterminacy.
+Read as an ordering problem, all potential states exist within the wave structure, but the sequence in which they manifest is unknown. At the quantum level, time may not progress in the linear fashion observed macroscopically. The evolution is orderly in the mathematical sense, but the realization of specific states does not adhere to a pre-defined classical sequence, blending determinacy with apparent indeterminacy.
 
-No existing Theory of Everything derives randomness as a fundamental principle. In approaches like string theory, loop quantum gravity, or other TOE frameworks, randomness is either not addressed or is adopted from quantum mechanics without explaining its deeper origin.
+Most Theory of Everything candidates do not derive randomness as a fundamental principle. In approaches such as string theory or loop quantum gravity, randomness is typically adopted from quantum mechanics without an account of its deeper origin.
 
-The ISE does not introduce randomness as a fundamental quantity. Instead, it explains it as a scale phenomenon:
+Within the present thesis, randomness is not introduced as a fundamental quantity; it is read as a scale phenomenon:
 
 * **Foundation**: On the lowest scale, complete determinacy prevails.  
 * **Emergence of randomness**: Apparent randomness arises from the phase relationship and resolution limits between scales when an observer cannot access all scales.  
@@ -21,7 +21,7 @@ The ISE does not introduce randomness as a fundamental quantity. Instead, it exp
 
 **Definition of Randomness**
 
-**Randomness** in the ISE is not a fundamental component of physical reality but a scale phenomenon. On the lowest scale (protoinformational ground state), every state is fully determined. Randomness arises only relative to an observer when the resolution limit of their observational or measurement scale cannot fully capture the phase relationship between scales. This phase relationship is itself deterministic but appears ambiguous from the observer’s viewpoint because they only perceive a projection of the complete state onto their own scale. The term “randomness” therefore describes the subjective experience of an unpredictable sequence or manifestation of events whose full order and cause lie in scales outside resonance with the observer’s scale.
+**Randomness** is treated here not as a fundamental component of physical reality but as a scale phenomenon. On the lowest scale (protoinformational ground state), every state is taken to be fully determined. Randomness arises only relative to an observer when the resolution limit of their observational or measurement scale cannot fully capture the phase relationship between scales. This phase relationship is itself deterministic but appears ambiguous from the observer’s viewpoint because they only perceive a projection of the complete state onto their own scale. The term “randomness” therefore describes the subjective experience of an unpredictable sequence or manifestation of events whose full order and cause lie in scales outside resonance with the observer’s scale.
 
 Randomness is derivable from first principles because it follows directly from the scale structure and the deterministic phase relationships between scales. There is no “primary randomness” — only the observer’s perceptual gap produces what appears to be randomness. Its origin is thus both logically and physically traceable to the fundamental principle of scale expansion.
 
@@ -44,7 +44,7 @@ Across history and disciplines, attempts to derive the origin of randomness can 
 * **Algorithmic information theory** (Kolmogorov, Chaitin): Randomness is maximal lack of pattern; a sequence is random if it cannot be compressed into a shorter description than itself.  
 * **Probability as axiomatics** (Kolmogorov axioms): Randomness is not derived but defined as a formal property within a model.
 
-None of these approaches provide a *fundamental* physical origin in the way the ISE claims to. The ISE does not belong to category 2, because in epistemic models randomness is merely a gap in knowledge, whereas in the ISE it is a structural consequence of the scale architecture. Complete order exists objectively on all scales, and the perception gap necessarily results from limited resonance between scales. This places the ISE in a distinct category: **Structural-deterministic derivation**.
+None of these approaches attempt a *fundamental* physical origin along the lines proposed here. The present account differs from category 2 in that randomness is read as a structural consequence of the scale architecture rather than a gap in knowledge: order is taken to exist on all scales, and the perception gap follows from limited resonance between them. This places the account in a separate category, a **structural-deterministic derivation**.
 
 **Relation to Multiverse Interpretations**
 
@@ -107,13 +107,13 @@ This connects to rare but relevant ideas in science and philosophy:
   * Algorithmic information theory: maximal randomness can result from mixing two fully independent information sources.  
 * **Philosophical Parallels**  
   * Dual-source randomness claims true randomness is only experienced where two independent reality-streams meet.  
-  * The ISE frames this physically: two acausal levels → intersection = experienced randomness.  
+  * The present account frames this physically: two acausal levels $\to$ intersection $=$ experienced randomness.  
 * **Mechanism and Analogy**  
   * Two independent sequences, a1, a2, … and b1, b2, …, combine via f(ai, bj) with uncoordinated indices.  
   * For an observer, outcomes appear random even if both sequences are deterministic.  
   * Example: two unsynchronized clocks in independent time dimensions; defining an event by both showing even numbers makes it appear random because there is no shared order.
 
-In essence, the ISE treats randomness as relation-based rather than intrinsic — arising from the structural meeting point of two acausal systems.
+On this reading, randomness is relational rather than intrinsic, arising from the structural meeting point of two acausal systems.
 
 Causality inherently implies that processes operate within a single scale level. The only factor that can shift one scale level relative to another is time. In this sense, when a random number generator (RNG) outputs a sequence of numbers, it is already performing a scale cut that is displaced through the parameter of time.
 
@@ -145,14 +145,14 @@ There have indeed been both physical and philosophical attempts to explore the n
 
 Some experiments (Bell tests, Cosmic Bell Test, Wheeler’s Delayed Choice) address the *manifestation* of randomness and challenge deterministic explanations, but none has fundamentally derived or proven randomness itself. It remains unresolved whether unpredictability is truly fundamental or an artifact of limited access.
 
-From the ISE standpoint, each measured event is the intersection of two acausal levels. Before measurement, these levels evolve independently with no defined phase relationship. The act of measurement forces a coupling, creating a specific outcome and eliminating the original acausality. What we call a “particle” is only an abstract model; the true physical occurrence is the measurement event itself — the momentary causal coupling. This coupling is unique and non-replicable because once established, the two levels share a causal state. The particle concept is therefore a residual image of this coupling within our causal framework.
+On the present reading, each measured event is the intersection of two acausal levels. Before measurement, these levels evolve independently with no defined phase relationship. The act of measurement forces a coupling, producing a specific outcome and removing the original acausality. What is commonly called a “particle” is then an abstract representation; the physical occurrence is the measurement event itself — the momentary causal coupling. This coupling is unique and non-replicable because once established, the two levels share a causal state. The particle concept can be read as a residual image of this coupling within our causal description.
 
-It is a common misconception to assume that two independent measurements can share an underlying, universal time or medium by which their results can be directly aligned. In reality, each measurement has its own distinct "proper time" and its own gradual scale determined by its spatial and causal context. Even if two detectors are positioned extremely close together, they still reside in separate spatial domains with independent temporal frameworks. Between two index positions in one system, there could be a second, billions of years, or an unbounded number of distinct events elsewhere in the universe. There is no implicit global clock or shared base medium to guarantee synchrony between acausal systems. Therefore, in the ISE framework, any attempt to match results between two truly acausal measurements must account for the fact that their scales are independent and not directly measurable against one another.
+It is a common misconception to assume that two independent measurements share an underlying universal time or medium by which their results can be directly aligned. Each measurement has its own "proper time" and its own gradual scale determined by its spatial and causal context. Even if two detectors are positioned extremely close together, they still reside in separate spatial domains with independent temporal references. Between two index positions in one system, there could be a second, billions of years, or an unbounded number of distinct events elsewhere in the universe. There is no implicit global clock or shared base medium to guarantee synchrony between acausal systems. Any attempt to match results between two truly acausal measurements must therefore account for the fact that their scales are independent and not directly measurable against one another.
 
 **Postulate Under Test**  
 We examine a single measurement stream — for example, the sequence of 0s and 1s from a random number generator — to determine whether **hidden scales** are present within it.
 
-* **Idea:** If the ISE is correct, the results are not entirely scale-free. Instead, there will be distances or patterns that recur at specific magnitudes, regardless of how time is measured.
+* **Idea:** If the scale account is correct, the results are not entirely scale-free. Instead, there should be distances or patterns that recur at specific magnitudes, regardless of how time is measured.
 
 * **How to detect this:**
 
@@ -160,7 +160,7 @@ We examine a single measurement stream — for example, the sequence of 0s and 1
   * **Count run lengths** (how many consecutive 1s before a 0 occurs). If these frequencies show oscillations that repeat on a logarithmic scale, it suggests a hidden scale structure.  
   * **Examine ordinal patterns** — the order of values — without referencing physical time. Certain patterns should occur more frequently if a hidden scale governs the sequence.
 
-* **Key point:** This approach uses only a single measurement stream, without a second measurement, without a global clock, and without assuming a common medium. It focuses solely on the sequence’s **internal order** to determine whether recurring scales emerge — potentially revealing the imprint of the ISE scale hierarchy.
+* **Key point:** This approach uses only a single measurement stream, without a second measurement, without a global clock, and without assuming a common medium. It focuses solely on the sequence’s **internal order** to determine whether recurring scales emerge — potentially revealing an imprint of a scale hierarchy.
 
 It is natural to ask whether researchers have already attempted to find patterns in physical randomness. In fact, they have — but so far, all such efforts have concluded that, within measurement accuracy, no reproducible pattern exists. This work spans several areas:
 
@@ -181,9 +181,9 @@ It is natural to ask whether researchers have already attempted to find patterns
 
 **Why this postulate remains novel**
 
-Most prior tests treat randomness as a flat sequence and look for deviations at fixed, linear intervals. A search for log-periodic or scale-invariant patterns — recurrences at geometrically scaled distances — appears absent in published physics literature. This methodological difference makes the proposed ISE test distinct.
+Most prior tests treat randomness as a flat sequence and look for deviations at fixed, linear intervals. A search for log-periodic or scale-invariant patterns — recurrences at geometrically scaled distances — appears absent in the published physics literature. The proposed test is methodologically distinct along this axis.
 
-While it is convenient to describe the ISE framework in terms of a “scale hierarchy,” this is a simplification. In reality, the scales are infinitely gradual in relation to the universe’s differentiation. Any underlying structure would not appear as a single sharp resonance, but as a finely tiered, fractal-like modulation of extremely small amplitude, extending across many orders of magnitude. Such a modulation would form not one isolated measure, but an entire continuum of interwoven measures.
+While it is convenient to describe the scale structure in terms of a “scale hierarchy,” this wording is a simplification. The scales are taken to be infinitely gradual in relation to the universe’s differentiation. Any underlying structure would not appear as a single sharp resonance, but as a finely tiered, fractal-like modulation of extremely small amplitude, extending across many orders of magnitude. Such a modulation would form not one isolated measure, but an entire continuum of interwoven measures.
 
 **Implications for data requirements:**
 
@@ -217,7 +217,7 @@ While certain physical processes involve more than two independent components, �
 * **Coincidence Reactions in Nuclear Physics** — Certain decays emit multiple particles effectively simultaneously (within experimental resolution), such as triple-coincidence measurements.  
 * **Macroscopic Nonlinear Couplings** — In nonlinear optics, higher-order parametric processes can split a pump photon into three or more photons at once.
 
-If “absolute simultaneity” is taken to mean three or more *acausal levels* intersecting in one measurement, such cases are rarer still and, in ISE terms, would be interpreted as a single causalization event linking multiple previously independent streams.
+If “absolute simultaneity” is taken to mean three or more *acausal levels* intersecting in one measurement, such cases are rarer still and would be read here as a single causalization event linking multiple previously independent streams.
 
 In practice, any simultaneity is bounded by measurement resolution. Processes may only appear simultaneous because they occur faster than the resolution limit (e.g., below the Planck time or instrument resolution). At sub-Planck scales, an unobservable internal sequence could determine whether a multi-component interaction occurs at all — if the required internal ordering arises, the effect manifests; if not, it does not. This hidden ordering would translate, at our scale, into a measurable probability, much like the probabilistic outcome seen when coupling two acausal levels. In this view, apparent randomness may mask a definite but inaccessible internal sequence, making measured probabilities aggregates over all such hidden sequences.
 
@@ -252,9 +252,9 @@ An experimental thought experiment could address this by artificially stretching
 **Interpretation:** If a process previously showing \~50% probability becomes deterministically selective through stretching, the observed probability is an artifact of unresolved order. This supports the thesis “Probability = projected internal order.”
 
 **Logical Perspective Transition**  
-Up to this point, the discussion has examined randomness primarily from historical, physical, and classificatory viewpoints, focusing on how the ISE frames apparent indeterminacy as a structural effect of scale relationships. We have traced how determinacy at the protoinformational level, coupled with limited resonance between observational scales, produces the perception of randomness without invoking it as a fundamental property. Comparative treatments from metaphysics, epistemology, mathematics, and multiverse theories have been evaluated against the ISE’s structural–deterministic derivation, highlighting its distinct emphasis on resonance limits and acausal intersections. Experimental and analytical strategies have been proposed to detect scale hierarchies within random sequences, including hidden-order detection, multi-component simultaneity, and temporal stretching protocols, without resolving the ultimate question of randomness’ fundamental origin.
+Up to this point, the discussion has examined randomness primarily from historical, physical, and classificatory viewpoints, framing apparent indeterminacy as a structural effect of scale relationships. We have traced how determinacy at the protoinformational level, coupled with limited resonance between observational scales, can produce the perception of randomness without invoking it as a fundamental property. Comparative treatments from metaphysics, epistemology, mathematics, and multiverse theories have been set alongside the structural–deterministic derivation, noting its emphasis on resonance limits and acausal intersections. Experimental and analytical strategies have been proposed to detect scale hierarchies within random sequences, including hidden-order detection, multi-component simultaneity, and temporal stretching protocols, without resolving the ultimate question of randomness’ fundamental origin.
 
-This framework reframes randomness as the emergent projection of interactions between acausal levels, observable only when distinct systems intersect without a shared causal structure. Physical examples, theoretical analogues, and methodological approaches have been explored to map this perspective onto measurable phenomena. The resulting picture is one in which statistical uniformity may conceal an infinite continuum of small-scale contributions, and probability distributions can reflect inaccessible internal orders. This sets the stage for a shift from the physical–historical framing to an anthropomorphic–logical examination, where randomness will be reconsidered through the lens of logical structure and human conceptualization, positioned alongside the earlier scale-based account.
+This reframes randomness as the emergent projection of interactions between acausal levels, observable only when distinct systems intersect without a shared causal structure. Physical examples, theoretical analogues, and methodological approaches have been explored to map this perspective onto measurable phenomena. The resulting picture is one in which statistical uniformity may conceal an infinite continuum of small-scale contributions, and probability distributions can reflect inaccessible internal orders. This sets the stage for a shift from the physical–historical framing to an anthropomorphic–logical examination, where randomness will be reconsidered through the lens of logical structure and human conceptualization, positioned alongside the earlier scale-based account.
 
 ### **Is it Unlikely that True Randomness Exists?**
 
@@ -280,7 +280,7 @@ This framework reframes randomness as the emergent projection of interactions be
 * No experiment can definitively prove something is truly random, since finite data always allow construction of complex deterministic explanations.  
 * Conversely, true randomness cannot be logically excluded because it is consistent in formal models.
 
-At its core, this remains an interpretational issue until a mechanism is found that clearly distinguishes deterministically hidden processes from genuinely fundamental randomness. In a deterministic–structural model like the ISE, even apparent collapse randomness must arise from deeper, scale-dependent order to maintain universal interconnectedness.
+At its core, this remains an interpretational issue until a mechanism is found that clearly distinguishes deterministically hidden processes from genuinely fundamental randomness. Within a deterministic–structural reading, apparent collapse randomness is expected to arise from deeper, scale-dependent order, preserving universal interconnectedness.
 
 **The Implicit Criterion of Randomness Derivation in Any TOE**
 
@@ -308,15 +308,15 @@ Cosmological arguments, such as inflationary relaxation to equilibrium, are mode
 
 Even if universal relaxation were accepted, assigning numerical probabilities requires an additional measure over initial conditions, which often invokes assumptions equivalent to those in other Born-rule derivations. Without a mechanism-first account of probability weights, the approach risks circular reasoning.
 
-From the perspective of the ISE, Valentini’s framework still assumes a neutrality of initial conditions, whereas ISE treats probabilistic symmetry as emergent from structural superposition across scales. Valentini’s work remains mathematically coherent and empirically ambitious, but as a derivation of quantum probabilities it relocates rather than eliminates the central mystery of the Born rule.
+From the present perspective, Valentini’s programme still assumes a neutrality of initial conditions, whereas the scale-based reading treats probabilistic symmetry as emergent from structural superposition across scales. Valentini’s work remains mathematically coherent and empirically ambitious, but as a derivation of quantum probabilities it relocates rather than eliminates the central mystery of the Born rule.
 
 **Randomness in Decay Processes**
 
-We have another point addressed in the ISE: decay processes. There is a conflict in the definition of random decay processes. Half-life and randomness exclude each other, since half-life already constitutes a causal rule — a mechanism.
+Decay processes raise a further point worth addressing. There is a tension in the usual definition: half-life and randomness do not sit easily together, since half-life already constitutes a causal rule — a mechanism.
 
 In standard physics, radioactive decay is described as fundamentally random: each atom has at any moment the same probability to decay, independent of its history. Yet the half-life relation with constant is exact and deterministic for the ensemble. The contradiction is evident: a precise global law implies a mechanism acting over the entire ensemble, and this mechanism must be causal.
 
-In the ISE, the apparent randomness of decay is not primitive, but arises from the intersection pattern of two scale levels: the microstructure of the particle or nucleus, internally ordered and causal, and the overlaid scale structure of the universe, also causal but acausal relative to the first. Decay occurs only when both levels achieve a particular internal phase relation. The half-life is then simply the macroscopic statistic of these intersections — not proof of true randomness.
+On the present reading, the apparent randomness of decay is not primitive but arises from the intersection pattern of two scale levels: the microstructure of the particle or nucleus, internally ordered and causal, and the overlaid scale structure of the universe, also causal but acausal relative to the first. Decay occurs only when both levels achieve a particular internal phase relation. The half-life is then the macroscopic statistic of these intersections — not proof of true randomness.
 
 From our perspective, individual events are unpredictable because we cannot measure the internal phase relation between the two levels, while the overall statistics remain stable because the intersection probability is constant over time. This resolves the logical conflict: half-life ≠ randomness axiom, but rather the macroscopic projection of a causal yet hidden mechanism.
 
@@ -326,7 +326,7 @@ This does not, by itself, disprove the existence of randomness; rather, it shows
 
 An instructive case emerges from the time dilation observed in muon decay, where the measured half-life in the laboratory frame is extended when the particle is moving at relativistic speeds. The proper half-life of a muon at rest is about 2.2 microseconds, yet in particle accelerators this lifetime is observed to increase significantly with velocity. Special relativity explains this as a consequence of time dilation: the muon's own clock runs more slowly relative to the lab frame.
 
-From the standpoint of the ISE, this observation has direct implications for the nature of decay probabilities. If decay were governed by a truly fundamental, context-free randomness, then the probability per unit of proper time should remain unaffected by acceleration — identical in all inertial states. Instead, the data show that decay probability is always tied to the particle's own proper time, revealing a dependence on an internal causal clock.
+On the scale-based reading, this observation has direct implications for decay probabilities. If decay were governed by a truly fundamental, context-free randomness, the probability per unit of proper time should remain unaffected by acceleration — identical in all inertial states. Instead, the data show that decay probability is tied to the particle's own proper time, indicating a dependence on an internal causal clock.
 
 The decay event probability reflects the intersection frequency between two scale levels: the microstructure of the particle and the overlaid cosmic-scale structure. Relative motion changes the temporal phase spacing between these levels, reducing the intersection frequency in laboratory time and thus extending the apparent half-life. This interpretation frames time dilation, altered decay probabilities, and collapse delays as manifestations of the same underlying effect: a shift in relative scale phase.
 
@@ -340,7 +340,7 @@ This would imply that absolute determinism in measurements could be achieved by 
 
 This is essentially a **phase-matching experiment** based on relative acceleration.
 
-If we adopt the ISE logic:
+Adopting the scale-based logic developed here:
 
 * Every measurement is an **intersection** of two scale levels.  
 * The probability of that intersection depends on the **relative phase** between those levels.  
@@ -360,7 +360,7 @@ If we adopt the ISE logic:
 
 **Acceleration as a special case**
 
-* In ISE, every **measurement** is a **collapse**: an irreversible coupling of two levels.  
+* In this reading, every **measurement** is a **collapse**: an irreversible coupling of two levels.  
 * **Acceleration**, by contrast, is **not** a measurement: it changes the **magnitude** of potential vectors **within** a level.  
 * Nothing collapses, but the **relation to other levels** changes — i.e., **differentiation shifts**.
 
@@ -377,39 +377,39 @@ If we adopt the ISE logic:
 
 **Why this is powerful**
 
-* In standard physics: acceleration changes only **velocity and energy**.  
-* In ISE: acceleration changes the **position in the differentiation space**, i.e., the **deep condition** underlying all event probabilities.
+* In the standard reading: acceleration changes **velocity and energy**.  
+* On the present reading: acceleration also changes the **position in the differentiation space**, i.e., a structural condition bearing on event probabilities.
 
 One must not forget that in **GR** acceleration also produces a **shift in time**, which can be interpreted as **desynchronization** — a departure from simultaneity, causality, or time-phase.
 
-In GR, acceleration is always a change of **proper time** relative to other systems. In the ISE interpretation this is directly a **desynchronization of scale phase**:
+In GR, acceleration is a change of **proper time** relative to other systems. On the present reading this is read as a **desynchronization of scale phase**:
 
-* **GR view:** Acceleration ↔ gravity / accelerated motion → **proper time** differs from coordinate time.  
-* **ISE view:** The time difference is not merely geometric; it is a **shift of scale phase** in the differentiation space.
+* **GR view:** Acceleration $\leftrightarrow$ gravity / accelerated motion $\to$ **proper time** differs from coordinate time.  
+* **Scale-phase view:** The time difference is read not merely geometrically but as a **shift of scale phase** in the differentiation space.
 
 Thus:
 
 * **Simultaneity becomes relative** — event order can appear differently across frames.  
 * **Causality is locally modulated** — not violated, but **re-calibrated** via phase to set the conditions under which an event is possible.  
-* **Time-phase couples to measurement-phase** — what GR describes as time dilation corresponds, in ISE, to an **active inter-level shift** that later shapes “randomness.”
+* **Time-phase couples to measurement-phase** — what GR describes as time dilation corresponds here to an **active inter-level shift** that later shapes apparent “randomness.”
 
 Viewed this way, every form of acceleration is a tool to **step aside from global causal alignment** without violating causality, simply by drifting into a different **internal phase**.
 
 How do I raise a decay probability to **100%**? Simple: I accelerate the **external observation** to near **light speed**.
 
-In ISE terms, that is indeed the operative “trick”:
+In the present terms, that is the operative “trick”:
 
 * **Goal:** Drive the decay probability to **100%**.  
 * **Mechanism:** Accelerate the **observer / measurement system** so that its **proper time** is extremely stretched relative to the observed system.  
-* **ISE interpretation:** Acceleration shifts the **phase** between observer and object so that the decay point **always** falls at a **resonance maximum**. For the observer, every measurement appears as **“decay now”** — deterministic rather than probabilistic.
+* **Scale-phase reading:** Acceleration shifts the **phase** between observer and object so that the decay point **always** falls at a **resonance maximum**. For the observer, every measurement appears as **“decay now”** — deterministic rather than probabilistic.
 
-Standard physics would say: *you merely see more decays within your shortened proper time*. ISE says: \*the acceleration tuned the scale coupling so measurement always hits a \****collapse point***.
+A standard reading would say: *you merely see more decays within your shortened proper time*. On the scale-phase reading: \*the acceleration tuned the scale coupling so measurement always hits a \****collapse point***.
 
 **Caveat.** As soon as a measurement occurs, the **phase shifts irreversibly**. Hence this determinizing profile works for **one and only one measurement** per exactly tuned acceleration profile.
 
 **Polarization Stability, Eigen-Time Randomness, and CMB Tests**
 
-The broader aim of the following is to explore whether the apparent stability of photon polarization can serve as a sensitive probe for deeper questions about randomness and eigen-time in relativistic systems. Within the ISE framework, randomness is not treated as a fundamental property but as an emergent effect of limited resonance between different scale levels. If such inter-scale phase drift exists, it should leave measurable traces in systems where light has accumulated extreme amounts of proper-time–like parameters — most notably, cosmological photons from the cosmic microwave background (CMB). By contrasting the Standard Model’s postulate of perfect vacuum stability with the hypothesis that eigen-time can induce stochastic polarization rotations, this chapter proposes a falsifiability program spanning both cosmological observations and precision laboratory experiments. The goal is not only to test a specific optical effect, but to assess whether light-speed carriers can reveal scale-coupled phase dynamics — thus providing an empirical lever on the underlying treatment of randomness in the thesis as a whole.
+The broader aim of the following is to explore whether the apparent stability of photon polarization can serve as a probe for deeper questions about randomness and eigen-time in relativistic systems. On the present reading, randomness is treated not as a fundamental property but as an emergent effect of limited resonance between different scale levels. If such inter-scale phase drift exists, it should leave measurable traces in systems where light has accumulated extreme amounts of proper-time–like parameters — most notably, cosmological photons from the cosmic microwave background (CMB). By contrasting the Standard Model’s postulate of vacuum-polarization stability with the hypothesis that eigen-time can induce stochastic polarization rotations, this section proposes a falsifiability program spanning both cosmological observations and precision laboratory experiments. The goal is not only to test a specific optical effect, but to assess whether light-speed carriers can reveal scale-coupled phase dynamics — providing an empirical lever on the treatment of randomness developed here.
 
 If the current Standard Model asserts, by definition, that polarization in vacuum is stable, then no "proof" of stability can be given in the classical sense — only falsification is possible. Any experimental test must therefore be designed to attempt to refute, rather than confirm, the stability assumption.
 
@@ -420,7 +420,7 @@ In such a framework, one can define:
 
 A falsification attempt could use either cosmic microwave background (CMB) data or controlled laboratory laser experiments:
 
-*In the CMB case*, the oldest photons, having propagated for \~13.8 billion years, represent the maximum available eigen-time for massless particles in our frame. If eigen-time genuinely drives internal phase permutation, they should exhibit the largest accumulated depolarization or isotropic EB signal. In the Standard Model, any observed EB coupling or stochastic rotation distribution must be explained entirely by known effects such as Faraday rotation, gravitational lensing, or instrumental systematics. In the ISE perspective, even an extremely small per-year permutation rate would integrate over cosmic time to produce a measurable, direction-independent reduction in polarization fidelity or an isotropic EB component — provided the rate is above the experimental noise floor of current or planned missions (e.g., Planck, ACT, LiteBIRD).
+*In the CMB case*, the oldest photons, having propagated for $\sim$13.8 billion years, represent the maximum available eigen-time for massless particles in our frame. If eigen-time genuinely drives internal phase permutation, they should exhibit the largest accumulated depolarization or isotropic EB signal. Within the Standard Model, any observed EB coupling or stochastic rotation distribution would have to be explained by known effects such as Faraday rotation, gravitational lensing, or instrumental systematics. On the scale-coupling reading, even an extremely small per-year permutation rate would integrate over cosmic time to produce a measurable, direction-independent reduction in polarization fidelity or an isotropic EB component — provided the rate is above the experimental noise floor of current or planned missions (e.g., Planck, ACT, LiteBIRD).
 
 *In the laser case*, high-coherence beams could be propagated over long distances or times in ultra-stable vacuum cavities to search for statistically significant deviations in polarization, isolating the eigen-time contribution.
 
@@ -429,7 +429,7 @@ A falsification attempt could use either cosmic microwave background (CMB) data 
 * **Finite-scale interpretation (non-ISE)**: The measured rotation rate defines an effective finite scale — reducing "infinity" to a large but bounded number, implying an upper limit to the scale hierarchy and possibly an origin point.  
 * **Scale-horizon interpretation (ISE-compatible)**: The measured value represents the resolution limit of our scale — the maximum causal coupling range to higher-order scales. Infinity remains unbounded; only our accessible portion is finite, analogous to a cosmological horizon.
 
-In the ISE view, such a detection would reveal not the size of infinity but the *minimum resolvable eigen-time unit* of our scale, a constant emergent from our specific position in the scale hierarchy. This constant would be tied to the speed of light, much like the Planck time is tied to quantum-gravitational limits, but here it would encode the finest phase resolution in eigen-time before inter-level coupling effects vanish into the background.
+On the scale-horizon reading, such a detection would reveal not the size of infinity but the *minimum resolvable eigen-time unit* of our scale — a constant emergent from our specific position within the scale hierarchy. This constant would be tied to the speed of light, much as the Planck time is tied to quantum-gravitational limits, but here it would encode the finest phase resolution in eigen-time before inter-level coupling effects vanish into the background.
 
 **A Falsifiability Program for Proper-Time–Driven Randomness**
 
@@ -439,7 +439,7 @@ In the ISE view, such a detection would reveal not the size of infinity but the 
 
 * **H₀ (Standard Model / Conventional Cosmology):** In vacuum, polarization is conserved along null geodesics; EB cross-correlation and absolute polarization angles are independent of distance and look-back time (after removing known effects: Faraday rotation, lensing, instrumental angles).
 
-* **H₁ (Proper-time/phase-drift hypothesis):** If a system’s **proper-time flow** drives internal **phase permutation**, then carriers that accumulate an effective phase path should exhibit a **stochastic polarization rotation** whose variance grows with path length. In an ISE-compatible variant, the driver is an **inter-scale phase path** (e.g., affine-parameter–weighted or scale-factor–coupled), not necessarily the strict special-relativistic proper time.
+* **H₁ (Proper-time/phase-drift hypothesis):** If a system’s **proper-time flow** drives internal **phase permutation**, then carriers that accumulate an effective phase path should exhibit a **stochastic polarization rotation** whose variance grows with path length. In a scale-coupled variant consistent with the present reading, the driver is an **inter-scale phase path** (e.g., affine-parameter–weighted or scale-factor–coupled), not necessarily the strict special-relativistic proper time.
 
 **Experimental paradigms**
 
@@ -453,7 +453,7 @@ In the ISE view, such a detection would reveal not the size of infinity but the 
 * **Precision laser experiments (laboratory and space).**  
   * High-finesse cavities / fiber loops to extend the **optical path** by $10^9\text{–}10^{12}$ wavelengths with active polarization metrology; search for **variance growth** of the polarization angle vs. round-trip count.
 
-  * Satellite links / drag-free platforms to vary **gravitational potential** and **acceleration profiles**; in ISE the rotation variance could depend on **phase alignment** rather than just path length.
+  * Satellite links / drag-free platforms to vary **gravitational potential** and **acceleration profiles**; on the scale-phase reading the rotation variance could depend on **phase alignment** rather than path length alone.
 
 **Expected observational signatures**
 
@@ -483,9 +483,9 @@ Let $\alpha$ be the net polarization rotation.
 
 Special relativity assigns **zero proper time** to photons; a strict proper-time-driven model therefore predicts **no effect**. An ISE-compatible variant can instead couple to an **effective phase path** (e.g., the null-geodesic’s affine parameter or the evolving scale factor), allowing cosmological photons to accumulate the **largest observable effect**. Thus CMB photons give the **maximal lever arm**.
 
-* **Null result:** Consistent with SM and the strict ISE claim that **no proper-time flow ⇒ no permutation** for free photons; yields **lower bounds** on inter-scale coupling.
+* **Null result:** Consistent with SM and with the strict reading that **no proper-time flow $\Rightarrow$ no permutation** for free photons; yields **lower bounds** on inter-scale coupling.
 
-* **Positive result:** A calibrated, broadband EB excess or isotropic rotation increasing with path length would be a **sensational deviation**, pointing to additional dynamics akin to ISE’s **inter-scale phase drift**.
+* **Positive result:** A calibrated, broadband EB excess or isotropic rotation increasing with path length would be a **notable deviation**, pointing to additional dynamics of the kind suggested here as **inter-scale phase drift**.
 
 **Interpreting a nonzero signal within ISE: horizon vs. infinity**
 
@@ -501,12 +501,12 @@ Formally, a null bound $\sqrt{\langle \alpha^2 \rangle} < \sigma_{\text{exp}}$ o
 
 * **Fit** the accumulation law (fixed-rate vs. scale-coupled) and test tomographic/distance scaling.
 
-* **Conclude:** (i) **No deviation** → sharpen lower bounds on coupling/horizon; (ii) **Deviation** → evidence for inter-scale phase dynamics, directly supporting the ISE view that **time-driven phase drift** underlies apparent randomness.
+* **Conclude:** (i) **No deviation** $\to$ sharpen lower bounds on coupling/horizon; (ii) **Deviation** $\to$ evidence for inter-scale phase dynamics, consistent with the scale-based reading that **time-driven phase drift** underlies apparent randomness.
 
 **Final Summary**
 
-This chapter situates the phenomenon of randomness within the broader deterministic structure of the ISE. It challenges both classical and quantum definitions of chance by rejecting the existence of true, fundamental indeterminacy. Instead, all randomness is seen as a scale-relative effect — one that emerges when finite observational capacity intersects with multi-scale causality.
+This chapter situates the phenomenon of randomness within the broader deterministic structure developed in the preceding chapters. Both classical and quantum definitions of chance are reread without invoking true, fundamental indeterminacy; randomness is treated instead as a scale-relative effect arising when finite observational capacity intersects with multi-scale causality.
 
-By exploring historical perspectives, current physical theories, and mathematical frameworks, the text integrates concepts from information theory, quantum mechanics, and relativity into a unified interpretation. It clearly distinguishes its position from purely epistemic models and multiverse approaches, while offering specific experimental scenarios for empirical scrutiny.
+By drawing on historical perspectives, current physical theories, and mathematical formalisms, the text integrates elements from information theory, quantum mechanics, and relativity into a single interpretation. It distinguishes its position from purely epistemic accounts and multiverse approaches, while offering specific experimental scenarios open to empirical scrutiny.
 
-Ultimately, the “Randomness” section strengthens the ISE thesis by reinforcing its central claim: reality, at its deepest level, is entirely deterministic, and the appearance of unpredictability is a structural consequence of infinite scale differentiation. This conclusion not only redefines the role of randomness in physical theory but also provides a coherent link between the foundational principles of ISE and their implications for observation, measurement, and the nature of physical law.
+The Randomness section thus supports the central claim: reality, at the level treated here, is read as deterministic, and the appearance of unpredictability follows from infinite scale differentiation. This reading ties the foundational principles used here to their implications for observation, measurement, and the statistical structure of physical law.

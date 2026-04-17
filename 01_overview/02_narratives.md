@@ -21,12 +21,12 @@ Protoinformation as the Basis of Emergence:
 
 In typical narratives, whether mythological or scientific, there's often a foundational event that "begins" the story. However, protoinformation — a state of undifferentiated potential — serves as the precursor to all existence, but without the same narrative-driven role of a beginning event. Protoinformation does not have inherent meaning or structure but evolves through differentiation, which leads to emergent phenomena like space and time. This undermines the idea of a single, grand narrative and instead proposes an ever-shifting, fluid reality.
 
-The Absence of Causal Determinism in Narratives:
+Causal Determinism as Scale-Dependent:
 
-Traditional narratives often rely on causality, where one event leads to another in a predictable chain. ISE complicates this by suggesting that causality itself emerges from the differentiation of energy and only appears to exist within certain scales. Beyond those scales, causal determinism may break down, leading to a universe that defies conventional narrative structures based on cause and effect.
+Traditional narratives often rely on causality, where one event leads to another in a predictable chain. The present reading treats causality itself as emergent from the differentiation of energy, and as a feature that appears within certain scales rather than as an absolute. At scales where this emergence does not hold, causal determinism is expected to weaken — an interpretation consistent with the scale-dependence already recognized in quantum and cosmological contexts.
 
-Narrative as a Human Coping Mechanism:
+Narrative as a Human Orientation Tool:
 
-While the ISE posits an infinite, emergent universe without a definitive story, humans are naturally inclined to create narratives to explain the unknown. In the context of ISE, any narrative we construct would be an imposition of human frameworks onto an infinitely expanding and indifferent system. Therefore, while narratives help humans navigate the complexity of the universe, they are fundamentally limited when applied to the model, which resists being encapsulated in a single, coherent story.
+An emergent, open-ended universe without a definitive story sits uneasily with the human tendency to build narratives around the unknown. Any story told about such a system is in part an imposition of human cognitive frames onto a process that does not require them. Narratives remain useful for orientation and communication, but are understood here as partial maps rather than full descriptions — a limitation that applies broadly to cosmological storytelling, not uniquely to this account.
 
-In summary, ISE challenges and transcends conventional cosmic narratives by rejecting linear progression, causal determinism, and human-centric understanding. It offers a universe that is fluid, emergent, and infinite, operating beyond the confines of any structured story or origin myth.
+In summary, this chapter reframes cosmic narrative: linear progression, strict causal determinism, and human-centered framing are treated as features of the telling rather than of the system being described. The picture that emerges is of a fluid, emergent, open-ended process for which structured stories or origin myths serve as partial representations rather than definitive accounts.

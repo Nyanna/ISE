@@ -7,7 +7,7 @@
 
 The Standard Model of physics is built upon the foundational pillar of the Heisenberg Uncertainty Principle, which posits a fundamental limit to the precision with which certain pairs of physical properties, such as position and momentum, can be simultaneously known. This principle is typically interpreted as a sign of inherent indeterminacy in the fabric of reality.
 
-The framework offers a reinterpretation. It posits that this observed uncertainty is not a fundamental property of an isolated system but rather an **emergent phenomenon** that arises from the **interaction** between a system and an observer. The universe is fundamentally deterministic, and the apparent indeterminacy of quantum mechanics is a predictable, relational effect. This chapter formalizes this concept, demonstrating how the uncertainty principle is a direct consequence of the distribution of proto-information and its interaction across different scales.
+A complementary reading is developed here: the observed uncertainty can be interpreted not as a fundamental property of an isolated system but as an **emergent phenomenon** arising from the **interaction** between a system and an observer. Under this reading the underlying proto-informational dynamics are deterministic, and the apparent indeterminacy of quantum mechanics appears as a predictable, relational effect. This chapter formalizes the interpretation, showing how the uncertainty relation follows from the distribution of proto-information and its interaction across scales.
 
 **Core Concepts: Proto-Information, Density, and Resonance Area**
 
@@ -48,7 +48,7 @@ $$\Delta x \cdot \Delta p \propto \frac{A_R}{\sqrt{\varepsilon}}$$
 
 This result provides a profound insight. The uncertainty product $\Delta x \cdot \Delta p$ is not a fundamental constant (like $\hbar/2$). Instead, it is a **dynamic quantity** that depends on the state of the system — specifically, its energy ($\epsilon$) and how that energy is distributed as a resonance area ($A_R$).
 
-This resolves the apparent paradox between the determinism of ISE and the observed indeterminacy of quantum mechanics:
+This reframes the apparent tension between the underlying deterministic dynamics posited here and the observed indeterminacy of quantum mechanics:
 
 * **Fundamental Determinism**: The evolution of the proto-informational field — the universe itself — is entirely deterministic. Its state ($A_R$,$P_p$) at any moment is precisely defined.  
 * **Emergent Indeterminacy**: The "uncertainty" described by Heisenberg is not an intrinsic property of the system in isolation. It manifests only during an **interaction** (i.e., a measurement). The act of observation involves an interaction between the observer's own "informational density" and that of the system. The measured values of position uncertainty ($\Delta_x$) and momentum uncertainty ($\Delta_p$) are the deterministic outcome of this specific, relational context.
@@ -71,7 +71,7 @@ When measurement occurs, we are not witnessing a discrete "collapse" but rather 
 
 * **Both systems maintain continuous specification**: At every infinitesimal moment, both the probe and target have well-defined proto-informational distributions. Their resonance areas evolve continuously, their density patterns interact deterministically.
 
-* **The interaction is fully determined by proto-informational dynamics**: The coupling between probe and target follows from the fundamental ISE dynamics. Local proto-information densities, spatial gradients, and resonance structures interact according to deterministic relational rules.
+* **The interaction is fully determined by proto-informational dynamics**: The coupling between probe and target follows from the underlying proto-informational dynamics. Local proto-information densities, spatial gradients, and resonance structures interact according to deterministic relational rules.
 
 * **Complete trajectory information exists in the interaction**: The continuous evolution contains full specification of both position evolution (changes in resonance area centers) and momentum evolution (changes in proto-information density patterns). This information exists in the differential structure of the interaction itself.
 
@@ -95,7 +95,7 @@ The Copenhagen interpretation commits a category error by:
 * Assuming the measurement apparatus occupies a fundamentally different ontological category (classical vs. quantum)
 * Concluding that uncertainty must therefore be ontological — a property of reality itself
 
-ISE dissolves this error by recognizing that **probe and target are both proto-informational structures** undergoing continuous deterministic resonance coupling. The uncertainty emerges at the interface between this continuous interaction and our finite-resolution classical readout systems. Copenhagen ontologizes what is actually an epistemological projection limitation — the necessary information loss when reducing continuous proto-informational dynamics to discrete classical values.
+A relational reading addresses this by treating **probe and target as proto-informational structures** undergoing continuous deterministic resonance coupling. Under this reading the uncertainty emerges at the interface between the continuous interaction and finite-resolution classical readout systems — an epistemological projection limitation rather than an ontological one, reflecting the information loss when reducing continuous proto-informational dynamics to discrete classical values.
 
 **The Profound Implication: Infinite Infinitesimal Measurements**
 

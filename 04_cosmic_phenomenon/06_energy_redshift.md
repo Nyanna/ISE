@@ -223,7 +223,7 @@ The hypothesis elegantly connects these seemingly separate phenomena. The energy
 
 * The mass-energy equivalence of this transformed energy explains why dark energy has gravitational effects yet does not interact with matter or radiation.
 
-The approach provides a coherent link between the energy loss due to cosmological redshift and the emergence of dark energy. It not only explains where this energy "disappears" but also how it drives the observed cosmic expansion. An elegant framework that unites physical laws with observed properties\!
+Taken together, these considerations sketch a possible link between the energy loss associated with cosmological redshift and the emergence of dark energy. Interpreted in this way, the redistributed energy offers one candidate account of where the decoupled radiation "resides" and how it might contribute to the observed cosmic expansion. This remains an interpretive hypothesis consistent with established physical principles, not a derived result.
 
 **Minimum Energy Threshold**
 
@@ -493,7 +493,7 @@ This perspective reduces dark energy to an emergent phenomenon from low-energy, 
 
 **Example of the Sun**
 
-The negative pressure effect of dark energy (or in the model of low-energy radiation) is indeed challenging to grasp intuitively, as it operates on a different principle than the gravitational effects of the Sun. However, there is a crucial distinction:
+The negative pressure effect of dark energy — or, in the present interpretation, of accumulated low-energy radiation — is challenging to grasp intuitively, as it operates on a different principle than the gravitational effects of the Sun. The crucial distinction:
 
 **Gravitational Effects of the Sun: Local Spacetime Curvature**
 
@@ -548,7 +548,7 @@ The future expansion of the universe could be calculated under this assumption b
 
 **Calculation of Expansion Rate**
 
-The future expansion rate in this model could be defined through the following steps:
+Under this assumption, the future expansion rate could be estimated through the following steps:
 
 * **Energy Modeling:**  
   * Integration of total radiation energy over time, based on the emission rate and cosmological redshift.  
@@ -591,7 +591,7 @@ This homogenizing effect is a central aspect of cosmic dynamics. It provides a n
 
 The universe expands under its own gravitational pressure on spacetime.
 
-This is a fascinating perspective and fits well within the concept of a dynamic, self-regulating universe. The idea that the Big Bang resulted from gravitational pressure on spacetime can be considered as follows:
+Extended speculatively, this perspective is consistent with the picture of a dynamic, self-regulating universe. The idea that the Big Bang resulted from gravitational pressure on spacetime can be considered as follows:
 
 * **Gravitational Energy and Spacetime Stretching:**  
   * When all the energy of the universe was concentrated in an extremely compact form, it generated immense spacetime curvature.  
@@ -607,7 +607,7 @@ This is a fascinating perspective and fits well within the concept of a dynamic,
 * **Connection to Current Expansion:**  
   * The same mechanism that initiated the Big Bang could also explain the long-term expansion of the universe, with dark energy being seen as the modern manifestation of the original process.
 
-This hypothesis provides a coherent explanation for why the Big Bang occurred: it was an inevitable consequence of gravitational pressure on spacetime in an extremely dense state. The universe continues to expand, driven by the same fundamental interactions that triggered its inception. This view integrates the Big Bang as a natural process within the dynamics of spacetime and its interaction with energy.
+Read speculatively, this hypothesis suggests an internal account of why the Big Bang occurred: as a consequence of gravitational pressure on spacetime in an extremely dense state, with continuing expansion driven by the same energy–spacetime interaction. It is one of several possible pictures that treat the Big Bang as a phase in spacetime dynamics rather than as an external trigger event.
 
 In this scenario, the universe expands as long as radiation raises the background energy level and only ends when no further radiation exists and pressure reaches equilibrium.
 
@@ -637,7 +637,7 @@ In this scenario, there is a natural limit to the universe's expansion, based on
 
 * This scenario corresponds to a "cold expansion," where the universe does not end in a Big Freeze but through complete homogenization and the attainment of gravitational equilibrium.
 
-In this model, the expansion of the universe is a self-regulating process that ends when no radiation remains to elevate the background pressure. The equilibrium marks the cessation of cosmic dynamics, a state of absolute stillness and isotropic balance.
+Under this interpretation, the expansion of the universe acts as a self-regulating process that slows as radiation ceases to elevate the background pressure. The equilibrium would mark a gradual fading of cosmic dynamics toward an isotropic, near-static state.
 
 **Conclusion: Towards a Unified Perspective on Redshift and Dark Energy**
 

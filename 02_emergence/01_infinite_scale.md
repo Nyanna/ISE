@@ -3,11 +3,11 @@
 
 ## **2.1. Infinite Scale**
 
-Understanding **continuous differentiation** as proposed in the model requires thinking beyond the typical frameworks of space and time. Differentiation isn't just about splitting physical objects or numbers into smaller parts; it’s a concept rooted in the evolution of reality itself. Here’s an explanation of how to imagine or understand this.
+Understanding **continuous differentiation** requires thinking beyond the typical frameworks of space and time. Differentiation isn't just about splitting physical objects or numbers into smaller parts; it is a concept rooted in the evolution of reality itself. The following paragraphs offer an intuitive picture.
 
 **Energy Differentiation as Reality’s Flow**
 
-In the model, **energy** is the underlying fabric of the universe, and reality emerges through a constant process of **differentiation**. Instead of imagining the universe as a static thing with set rules, think of it as an evolving system where energy keeps unfolding into new forms.
+**Energy** is treated here as the underlying fabric of the universe, with reality emerging through a constant process of **differentiation**. Instead of imagining the universe as a static thing with set rules, think of it as an evolving system where energy keeps unfolding into new forms.
 
 * **Continuous differentiation** means that what we observe — particles, forces, distances, and even time — are **constantly shifting and dividing** into more specific states. There’s no end to this process. Every time energy "differentiates," it splits into finer, more defined versions of itself, creating new forms of reality. Raising a imagined configuration space.
 

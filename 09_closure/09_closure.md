@@ -5,7 +5,7 @@
 
 The model offers a revolutionary approach to understanding the universe. By framing space, time, and forces like gravity as emergent from a deeper, undifferentiated quantum field, ISE unifies many disparate aspects of modern physics, from quantum mechanics to cosmology, without the need for singularities or undefined forces like dark energy.
 
-Moreover, it invites us to reconsider our place in the universe, seeing reality as a fluid, evolving system of potential energy differentiation. While the implications are profound and challenge current scientific models, ISE opens new avenues for exploring the fundamental nature of existence and reality itself.
+Reading reality as a fluid, evolving system of potential energy differentiation reframes several standing questions. Where the implications diverge from current modelling conventions, this mostly concerns interpretation rather than formalism — the goal is to open additional avenues for exploring the relational nature of existence, not to replace existing results.
 
 **Core Concept:**
 
@@ -28,13 +28,13 @@ ISE provides potential insights into existing challenges in physics, such as the
 
 **Empirical and Testable Predictions:**
 
-* **Cosmic Microwave Background (CMB)**: ISE predicts that there may be specific signatures or anomalies in the CMB that reflect the universe's earlier differentiation stages. Future observations could test these predictions .  
-* **Galactic Structures**: The distribution and evolution of galaxies should reflect the underlying differentiation process, providing observable evidence for or against the model .  
-* **Deviating Cosmic Evolution:** What James web might find in the “early” universe might find its interpretation in the ISE too.  
-* **Scalar Synchronization** an Explanation for Non-Locality
+* **Cosmic Microwave Background (CMB)**: if earlier differentiation stages leave a residue, specific signatures or anomalies in the CMB would be expected; future observations could constrain this interpretation.  
+* **Galactic Structures**: the distribution and evolution of galaxies should be consistent with an underlying differentiation process, providing observable handles for comparison.  
+* **Deviating Cosmic Evolution:** what the James Webb telescope finds in the "early" universe can be re-read through the differentiation lens.  
+* **Scalar Synchronization** as a candidate reading of non-locality
 
 **Implications for a Unified Theory:**
 
-ISE offers a potential unifying framework for quantum mechanics, cosmology, and metaphysics, suggesting that the universe's fundamental forces and particles emerge through differentiation. Gravity, for instance, is not a fundamental force but an emergent property of these differentiation states.
+The differentiation picture provides a shared vocabulary across quantum mechanics, cosmology, and the more metaphysical questions at their edges, with fundamental forces and particles read as states of differentiation. Gravity, for instance, is treated as an emergent property of these states rather than a primitive force — an interpretation, compatible with the usual formalism at the relevant scales.
 
-In conclusion, ISE opens up new ways of understanding the universe, not through fixed laws or models but through a dynamic and evolving system of energy differentiation. This challenges conventional physics, offering both profound implications and new scientific questions for further exploration.
+Taken together, the chapters suggest reading the universe as a dynamic, evolving system of energy differentiation rather than a catalogue of fixed laws. The consequences are interpretive rather than revolutionary, and the open questions this leaves are the point: they mark where the reading is most worth testing.

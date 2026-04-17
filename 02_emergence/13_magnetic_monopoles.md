@@ -5,11 +5,11 @@
 
 A persistent puzzle in fundamental physics is the asymmetry of Maxwell's equations: electric charges exist as isolated monopoles, while magnetic "charges" appear only as dipoles. The equations would exhibit greater mathematical elegance if magnetic monopoles existed, rendering them perfectly symmetric under electric-magnetic duality. Grand Unified Theories predict monopoles; Dirac showed they would explain charge quantization; experimental searches continue decades after their theoretical proposal.
 
-Yet within the ISE framework, this asymmetry is not a mysterious defect requiring explanation through exotic particles or symmetry breaking. Rather, it reflects a **category error**: the conflation of phenomena occupying different levels in the differentiation hierarchy. The apparent "ugliness" of asymmetric Maxwell equations is an artifact of treating emergent and fundamental phenomena as ontologically equivalent.
+Read through the lens of differentiation depth, this asymmetry can be interpreted not as a defect requiring exotic particles or symmetry breaking, but as a **category distinction**: phenomena occupying different levels of an emergence hierarchy are being compared as if ontologically equivalent. On this reading, the apparent "ugliness" of asymmetric Maxwell equations reflects the gap between fundamental and emergent structure rather than an incompleteness of the theory.
 
-This chapter establishes that magnetism is necessarily emergent from electric charge dynamics, and that the search for magnetic monopoles commits the same error as hypothesizing "mass monopoles" to symmetrize gravitational field equations. The analysis demonstrates ISE's methodological power: identifying differentiation hierarchies resolves apparent asymmetries without invoking new physics.
+This chapter develops the interpretation that magnetism is emergent from electric charge dynamics, and that searching for magnetic monopoles parallels hypothesizing "mass monopoles" to symmetrize gravitational field equations. Identifying differentiation hierarchies offers a way to account for apparent asymmetries without invoking new particles.
 
-**Caveat:** The formal model presented here serves as an illustration of ISE principles rather than a rigorous derivation from protoinformation. A complete account would require developing the full Scale-Relational Mathematics apparatus for electrodynamic phenomena, which remains future work. The present treatment suffices to establish the core conceptual point: **ontological hierarchy cannot be overridden by mathematical aesthetics.**
+**Caveat:** The formal sketch below is an illustration rather than a rigorous derivation from protoinformation. A complete account would require developing the full Scale-Relational Mathematics apparatus for electrodynamic phenomena, which remains future work. The present treatment is sufficient to state the conceptual claim: **ontological hierarchy is not overridden by mathematical aesthetics.**
 
 **The Gravitational Analogy: Where Hierarchy Is Obvious**
 
@@ -63,7 +63,7 @@ Special relativity transforms E and B fields into each other via Lorentz boosts.
 Treating E and B as "just fields" erases the causal hierarchy. Both become mathematical objects in Lagrangian formulations, obscuring that one emerges from the dynamics of the other.
 
 * **Missing Differentiation Ontology**
-Classical physics lacked the conceptual vocabulary to ask: "Which phenomenon is fundamental; which emergent?" Without a systematic framework for identifying differentiation hierarchies, the question never arose.
+The question "which phenomenon is fundamental and which is emergent?" was not a natural one in the classical formalism, which treats E and B as coequal field components. Without an explicit vocabulary for differentiation hierarchies, the ordering question tended to drop out of view.
 
 **Emergence Through Differentiation Depth**
 
@@ -164,10 +164,10 @@ Within SRM, magnetism necessarily emerges at higher differentiation order than e
 Despite the structural argument above, monopole searches persist due to several theoretical considerations:
 
 * **Grand Unification**
-GUTs predict monopoles as topological defects in symmetry-breaking phase transitions. However, these theories assume fundamental ontological equality between electric and magnetic phenomena — the very assumption ISE challenges.
+GUTs predict monopoles as topological defects in symmetry-breaking phase transitions. These constructions presuppose ontological parity between electric and magnetic phenomena — an assumption that is not required if the two sit at different levels of an emergence hierarchy.
 
 * **Dirac's Charge Quantization**
-Dirac showed that a single monopole anywhere in the universe would explain why electric charge comes in discrete units. This is a powerful argument *within* the framework that treats E and B symmetrically. From ISE perspective, charge quantization may arise from differentiation resonance conditions rather than requiring monopoles.
+Dirac showed that a single monopole anywhere in the universe would explain why electric charge comes in discrete units. This is a powerful argument *within* a formalism that treats E and B symmetrically. Read through differentiation hierarchy, charge quantization might instead arise from resonance conditions on first-order differentiation, without requiring monopoles — this remains a speculative alternative rather than a derived result.
 
 * **Mathematical Completeness**
 The symmetrized Maxwell equations are more elegant, making them attractive for unified field theories. But **mathematical elegance follows from ontological clarity, not vice versa.** The "ugly" asymmetric equations correctly reflect the emergence hierarchy.
@@ -203,7 +203,7 @@ The ISE framework provides systematic methodology for identifying such hierarchi
 * **Identify emergence order**: What must exist prior for this phenomenon to manifest?
 * **Check self-resonance**: Can this pattern stabilize against an appropriate background?
 
-Applied to electromagnetism, this methodology immediately reveals magnetism as second-order. The search for magnetic monopoles, while scientifically valuable in constraining theories, seeks an ontological impossibility — analogous to searching for square circles.
+Applied to electromagnetism, this reading places magnetism at second order. The search for magnetic monopoles remains scientifically valuable in constraining theories; under the emergence reading, its continuing null result is consistent with magnetism lacking a first-order differentiation basis rather than with a yet-undiscovered heavy state.
 
 The lesson extends beyond monopoles: **Apparent asymmetries or "ugliness" in physical laws often signal emergence hierarchies rather than incompleteness.** Rather than demanding symmetric field equations, we should ask: *What differentiation structure produces these particular asymmetries?*
 

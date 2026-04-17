@@ -78,12 +78,12 @@ The result is a successful phenomenology that nonetheless leaves the baryonic as
 
 **Toward Complete Theoretical Foundations**
 
-The critique here is not that ΛCDM fails observationally, but that it prioritizes empirical adequacy over explanatory closure. A complete theory of baryonic asymmetry should:
+The observation here is not that ΛCDM fails observationally, but that it prioritizes empirical adequacy over explanatory closure. A more complete account of baryonic asymmetry would aim to:
 - Derive the asymmetry from fundamental dynamics rather than parameterizing it as an input
 - Track the associated energy flows through all relevant epochs
 - Connect fluctuation generation, thermal history, and asymmetry formation within a single causal narrative
 
-The ISE framework exemplifies how to move in this direction, reframing asymmetry as an emergent property of scalar differentiation and threshold dynamics rather than as the outcome of external symmetry breaking appended to the cosmological model.
+The scalar-differentiation approach developed here moves in this direction, interpreting asymmetry as an emergent property of threshold dynamics rather than as the outcome of a separately appended symmetry-breaking mechanism.
 
 ### **Symmetry as a Narrative Foundation in Physics**
 
@@ -149,7 +149,7 @@ The dualistic abstraction of charge in physics is a useful but ultimately limite
 
 This perspective invites us to reconsider fundamental assumptions about the universe, encouraging exploration of alternative configurations and axes of inversion that might reveal deeper layers of structure and interaction. Ultimately, this shift moves us beyond the confines of dualistic thinking, opening the door to a richer understanding of the underlying rules governing reality.
 
-**ISE scalar differentiation causes spatial asymmetry in baryonic matter**
+**Scalar Differentiation and Spatial Asymmetry in Baryonic Matter**
 
 Matter and antimatter differ due to inverted charge interpretation. While both share similar masses and other intrinsic properties, their opposite charges define their fundamental distinction and govern their interactions in the universe.
 
@@ -195,11 +195,11 @@ The exact energy level is irrelevant. As long as the energy level remains perfec
 
 ### **Emergence of Local Asymmetry Through Scalar Differentiation**
 
-The framework posits that asymmetry arises intrinsically from scalar differentiation — a process where the universe's fundamental proto-information condenses into spatially and temporally localized forms. This differentiation introduces local asymmetries, which, once established, lead to an exponential reinforcement of the dominant particle type.
+In the present account, asymmetry is interpreted as a consequence of scalar differentiation — a process in which proto-information condenses into spatially and temporally localized forms. This differentiation introduces local asymmetries, which, once established, drive exponential reinforcement of the dominant particle type.
 
 **Scalar Differentiation and Proto-Information**
 
-ISE views the universe's early state as a continuous field of proto-information — a substrate without distinct spatial or temporal scales. Differentiation within this substrate introduces scalar structures, defining spatial and temporal boundaries where no prior distinctions existed. These boundaries disrupt perfect symmetry, creating localized conditions that inherently favor the emergence of specific particle types.
+The universe's early state is modelled as a continuous field of proto-information — a substrate without distinct spatial or temporal scales. Differentiation within this substrate introduces scalar structures, defining spatial and temporal boundaries where no prior distinctions existed. These boundaries disrupt perfect symmetry, producing localized conditions that favor the emergence of specific particle types.
 
 **Mechanism of Local Asymmetry Formation**
 
@@ -214,7 +214,7 @@ Classically, generating a net baryon number requires:
 - C and CP violation.
 - Departure from thermal equilibrium.
 
-Within the ISE approach, these conditions are realized effectively and emergently:
+Within the scalar-differentiation approach, these conditions can be read as emergent rather than imposed:
 - Apparent B-violation arises when accessible reaction networks change topology across thresholds, so that net baryon number is no longer conserved in the effective, low-energy reaction set.
 - Effective C/CP asymmetries appear as scalar differentiation selects phase-space regions with biased transition probabilities, providing a microscopic arrow that does not require ad hoc new CP phases.
 - Out-of-equilibrium conditions occur naturally as the system crosses non-adiabatic thresholds; cooling through these thresholds induces kinetic bottlenecks and freeze-in/freeze-out behavior, generating durable asymmetries.
@@ -223,11 +223,11 @@ This mapping does not deny the utility of conventional baryogenesis models; rath
 
 **Unified Energy Accounting**
 
-The ISE mechanism embeds the energy source and the asymmetry generation within a single process:
+The proposed mechanism embeds the energy source and the asymmetry generation within a single process:
 
-- The energy that drives asymmetry formation is the energy released by scalar differentiation itself, not an external inflaton reservoir with a phenomenological potential.
-- As thresholds are crossed, channels close asymmetrically, redirecting energy and altering chemical potentials in a controlled way that yields a net ηB.
-- The final energy inventory—radiation, baryons, and dark components—emerges from the same underlying differentiation dynamics, offering a pathway to a closed energy accounting.
+- The energy that drives asymmetry formation is interpreted as the energy released by scalar differentiation itself, rather than supplied by an external inflaton reservoir with a phenomenological potential.
+- As thresholds are crossed, channels close asymmetrically, redirecting energy and altering chemical potentials in a way that can yield a net ηB.
+- The final energy inventory—radiation, baryons, and dark components—follows from the same underlying differentiation dynamics, offering a pathway toward a closed energy accounting.
 
 **Consistency with Observations without Ad Hoc Additions**
 
@@ -238,21 +238,21 @@ The ISE mechanism embeds the energy source and the asymmetry generation within a
 
 **Generalization Beyond Matter and Antimatter**
 
-In the framework, matter and antimatter represent only two possible manifestations of particle types. The framework generalizes this concept to include a spectrum of particle states governed by varying interaction rules. These states are determined by the scalar differentiation process and the specific energy dynamics present during their formation.
+Under this reading, matter and antimatter represent only two possible manifestations of particle types. The scalar-differentiation picture allows for a broader spectrum of particle states governed by varying interaction rules, whose realization depends on the differentiation process and the energy dynamics present during their formation.
 
 * **Multiplicity of Particle Forms:** The universe's proto-information allows for the emergence of numerous particle types, each defined by unique interaction rules. Matter and antimatter are just specific cases within a broader spectrum of possibilities.  
 * **Localized Rule Sets:** Scalar differentiation assigns localized interaction rules to particles, determining their behavior and survival probabilities. This diversity ensures that the universe's composition is not limited to dualistic oppositions but encompasses a wide array of configurations.
 
 **Parallel to Existing Theories**
 
-The ISE explanation of local asymmetry parallels other cosmological theories suggesting the coexistence of universes dominated by different particle types. In these models, symmetry-breaking during early universe conditions spawns multiple universes, each favoring a specific type. However, ISE uniquely ties this asymmetry to scalar differentiation rather than external symmetry principles or phase transitions.
+This account of local asymmetry has echoes in other cosmological proposals that describe the coexistence of regions or universes dominated by different particle types. In such models, symmetry-breaking during early universe conditions generates multiple domains, each favoring a specific type. The present approach locates this asymmetry in scalar differentiation rather than in external symmetry principles or large-scale phase transitions.
 
-* **Universes with Diverse Symmetries:** Similar theories propose that different universes may favor different dominant particle states. While these ideas rely on symmetry-breaking at a cosmic scale, ISE situates the asymmetry within localized scalar conditions, eliminating the need for separate universes.  
-* **Symmetry Cycles and Energy Thresholds:** Unlike cyclic models that assume symmetry restoration at specific energy thresholds, ISE maintains that asymmetry persists regardless of energy scale. Cycles of symmetry or symmetric energy levels do not affect the established preference for specific particle types, as the initial asymmetry becomes embedded in the scalar framework.
+* **Universes with Diverse Symmetries:** Related theories propose that different regions may favor different dominant particle states. Where those proposals rely on symmetry-breaking at a cosmic scale, the scalar-differentiation picture places the asymmetry within localized conditions, without invoking separate universes.
+* **Symmetry Cycles and Energy Thresholds:** Cyclic models assume symmetry restoration at specific energy thresholds. In the scalar-differentiation reading, the asymmetry established through initial differentiation is persistent: later cycles of symmetric energy levels do not reverse the preference for specific particle types, because the bias is already embedded in the scalar structure.
 
 **Rejection of External Influx**
 
-ISE posits that the spontaneous emergence of new particle types within the observable universe does not significantly influence the established nature of the continuum. While spatial differentiation could theoretically lead to regions dominated by exotic particles or antimatter, the relevant proportion of reactions overwhelmingly favors the dominant particle type. This framework acknowledges localized variations but emphasizes that the majority of interactions align with the scalar preference set during the initial symmetry-breaking event.
+The spontaneous emergence of new particle types within the observable universe is argued to leave the established continuum largely unaffected. While spatial differentiation could in principle yield regions dominated by exotic particles or antimatter, the bulk of reactions continues to favor the dominant type. Localized variations are acknowledged, but most interactions align with the scalar preference set during the initial symmetry-breaking event.
 
 **Scalar Differentiation and Continuum Definition**
 
@@ -263,21 +263,21 @@ The first particle type to emerge establishes the universe’s continuum. Subseq
 
 **Implications for Observed Asymmetry**
 
-* **Universality of Energy Levels:** The specific energy level at which asymmetry arises is irrelevant as long as indivisibility exists. A perfectly divisible energy level leads to complete annihilation, while even slight indivisibility initiates a preference.  
-* **Independence from Initial Conditions:** The framework ensures universality by decoupling asymmetry from specific initial conditions. Localized scalar differentiation acts as the universal mechanism driving the observed predominance of certain particle types.
+* **Universality of Energy Levels:** The specific energy level at which asymmetry arises is secondary as long as indivisibility exists. A perfectly divisible energy level leads to complete annihilation, while even slight indivisibility initiates a preference.
+* **Independence from Initial Conditions:** Asymmetry is decoupled from finely chosen initial conditions; localized scalar differentiation acts as a shared mechanism driving the observed predominance of certain particle types.
 
-ISE scalar differentiation provides a coherent explanation for baryonic asymmetry, grounded in the intrinsic properties of proto-information. By linking local asymmetry to energy divisibility and scalar structures, ISE resolves key challenges in traditional cosmological models. This perspective reframes the narrative of symmetry-breaking, emphasizing the role of localized conditions and exponential reinforcement in shaping the observable universe.
+Scalar differentiation provides a coherent account of baryonic asymmetry, grounded in the properties of proto-information. Linking local asymmetry to energy divisibility and scalar structures addresses several open issues in conventional cosmological treatments and reframes the narrative of symmetry-breaking, emphasizing the role of localized conditions and exponential reinforcement in shaping the observable universe.
 
-This framework further demonstrates that it is unnecessary to assume dualism or an initial equal distribution of particle types, such as matter and antimatter. Instead, asymmetry arises naturally from scalar differentiation and the emergent localized conditions, which favor specific particle types without requiring symmetry at the inception of the universe.
+This reading also shows that it is not strictly necessary to assume dualism or an initial equal distribution of particle types, such as matter and antimatter. Instead, asymmetry can arise from scalar differentiation and the emergent localized conditions, which favor specific particle types without requiring exact symmetry at the inception of the universe.
 
 **Discriminants and Tests**
 
-While the ISE picture is intentionally economical, it is not immune to empirical scrutiny. It suggests several avenues for falsification or support:
+Although this picture is intentionally economical, it remains open to empirical scrutiny. Several avenues for falsification or support can be sketched:
 
 - Thermal locking scale: The temperature (or time) at which the asymmetry becomes effectively irreversible should correlate with:
   - The absence of spectral distortions in the CMB beyond current bounds.
   - Light-element yields in BBN (notably deuterium and helium-3) consistent with $\eta_B \simeq 6 \times 10^{-10}$.
-- Spatial uniformity of ηB: Any residual spatial variation must be extremely small to satisfy tight CMB and BBN constraints on baryon isocurvature. The ISE framework predicts high uniformity once thresholds are crossed and local asymmetries are amplified and homogenized by subsequent plasma interactions.
+- Spatial uniformity of ηB: Any residual spatial variation must be extremely small to satisfy tight CMB and BBN constraints on baryon isocurvature. The scalar-differentiation picture would expect high uniformity once thresholds are crossed and local asymmetries are amplified and homogenized by subsequent plasma interactions.
 - Neutrino sector implications: If thresholds couple differently to lepton-number-carrying channels, a small, correlated lepton asymmetry (and thus an imprint on N_eff or neutrino spectral distortions) could exist, subject to current bounds.
 - Cosmic-ray antimatter: The absence of heavy antinuclei in cosmic rays at detectable levels, together with the nonappearance of matter–antimatter annihilation features in clusters or voids, supports early, homogeneous asymmetry locking rather than late domain formation.
 - Gravitational-wave background: Rapid threshold crossings can generate weak, broad-spectrum gravitational-wave signatures; null detections constrain the sharpness and timing of such transitions.
@@ -286,17 +286,17 @@ All of these are consistent with current data; future improvements in CMB spectr
 
 **Comparison with Conventional Baryogenesis**
 
-- Electroweak baryogenesis requires stronger CP violation and a first-order electroweak phase transition, usually via physics beyond the Standard Model. ISE does not rely on a tuned phase transition of this type to accomplish the asymmetry.
-- Leptogenesis posits heavy Majorana neutrinos and CP-violating decays to seed a lepton asymmetry, later reprocessed into baryon asymmetry by sphalerons. ISE instead locates the origin of the asymmetry in scalar differentiation and threshold control of reaction networks, reducing dependence on unseen heavy fields.
-- Affleck–Dine scenarios exploit flat directions in supersymmetric potentials; ISE does not require such specific potential shapes or supersymmetry.
+- Electroweak baryogenesis requires stronger CP violation and a first-order electroweak phase transition, usually via physics beyond the Standard Model. The scalar-differentiation picture does not depend on a tuned phase transition of this type.
+- Leptogenesis posits heavy Majorana neutrinos and CP-violating decays to seed a lepton asymmetry, later reprocessed into baryon asymmetry by sphalerons. Here, the origin of the asymmetry is instead placed in scalar differentiation and threshold control of reaction networks, reducing the reliance on unseen heavy fields.
+- Affleck–Dine scenarios exploit flat directions in supersymmetric potentials; the present reading does not require such specific potential shapes or supersymmetry.
 
-These conventional mechanisms remain viable phenomenological descriptions. The ISE proposal emphasizes that their essential ingredients can be understood as effective manifestations of deeper scalar differentiation dynamics, which also provide a unified energy account and causal chain.
+These conventional mechanisms remain viable phenomenological descriptions. The present proposal suggests that their essential ingredients can be read as effective manifestations of scalar differentiation dynamics, within which a unified energy account and causal chain can be traced.
 
 **Synthesis**
 
 - The baryonic asymmetry is real, precisely measured, and tightly constrained by multiple cosmological probes.
-- ΛCDM, as a late-time effective framework, successfully describes much of cosmic evolution but does not, by itself, deliver a self-contained, energetic derivation of ηB. It relies on external modules—each plausible, but collectively introduced rather than deduced.
-- The ISE framework reframes the problem: asymmetry is an emergent property of scalar differentiation acting through energy thresholds, local amplification, and reaction-network restructuring as the universe cools. In this picture, the causal chain, energy flow, and asymmetry all arise from the same underlying process.
-- This approach reduces fine-tuning and parameter proliferation, aligns with the absence of annihilation signatures, and suggests concrete, testable expectations tied to the timing and smoothness of threshold crossings.
+- ΛCDM, as a late-time effective description, captures much of cosmic evolution but does not, by itself, deliver a self-contained, energetic derivation of ηB. It draws on external modules—each plausible, but collectively introduced rather than deduced.
+- The scalar-differentiation reading reframes the problem: asymmetry is treated as an emergent property of differentiation acting through energy thresholds, local amplification, and reaction-network restructuring as the universe cools. In this picture, the causal chain, energy flow, and asymmetry are traced back to the same underlying process.
+- This approach reduces fine-tuning and parameter proliferation, is consistent with the absence of annihilation signatures, and suggests testable expectations tied to the timing and smoothness of threshold crossings.
 
-By treating baryonic asymmetry as a natural outcome of scalar differentiation rather than an externally imposed symmetry breaking, the ISE perspective advances both theoretical completeness and observational consistency, moving toward a unified account in which initial conditions, energy flow, and cosmic inventory co-emerge from the same foundational dynamics.
+Treating baryonic asymmetry as an outcome of scalar differentiation rather than an externally imposed symmetry breaking is offered as a step toward a more unified account in which initial conditions, energy flow, and cosmic inventory co-emerge from the same dynamics.

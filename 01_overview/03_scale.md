@@ -156,7 +156,7 @@ The term "scale" is intentionally overloaded to push beyond its traditional boun
 
 **Scale Ontology – The Nature of Scales**
 
-In the model, scales do not behave in an infinitely deterministic or linear manner.
+Scales do not behave in an infinitely deterministic or linear manner.
 
 **Core Properties of Scales**
 
@@ -166,7 +166,7 @@ In the model, scales do not behave in an infinitely deterministic or linear mann
 * **Absence of Infinite Determinism**: Although each scale forms part of a greater structure, it does not deterministically dictate adjacent scales. Instead, scales are **resonantly coupled structurally**, with their mutual opacity producing the appearance of independent laws.
 * **Bidirectional Opacity**: Every scale sees adjacent scales as either "fundamental law" (above) or "intrinsic property" (below) — the symmetry of differentiation limits.
 
-ISE scales are emergent, resonantly coupled, non-linearly differentiated, and characterized by their specific differentiation capacities rather than metric positions.
+Scales, understood this way, are emergent, resonantly coupled, non-linearly differentiated, and characterized by their specific differentiation capacities rather than metric positions.
 
 **Scale Resonance and Interference**
 
@@ -188,37 +188,37 @@ The 2.0-photon resonance: from scale 1.0, it appears as fundamental correlation 
 
 **Observed Physical Phenomena as Possible Echoes of Scale Resonance**
 
-Several phenomena in physics suggest a scale-resonant interpretation consistent with ISE:
+Several phenomena in physics admit a scale-resonant reading under this interpretation:
 
 **Quantum Vacuum Fluctuations**
 
 * **Description**: Constant creation and annihilation of particle-antiparticle pairs in the vacuum.
-* **ISE Interpretation**: Resonance shadows from adjacent scales projected onto current differentiation capacity — apparent "fluctuation" reflects structure beyond resolution.
+* **Scale-Resonant Interpretation**: Resonance shadows from adjacent scales projected onto current differentiation capacity — apparent "fluctuation" reflects structure beyond resolution.
 
 **Quantum Entanglement**
 
 * **Description**: Instantaneous coherence between two systems without information transfer.
-* **ISE Interpretation**: The entangled pair constitutes a higher-scale resonance structure; from the measurement scale, this appears as inexplicable correlation because the connecting structure exceeds differentiation capacity. The correlation is the resonance shadow of a 2.0-photon relation viewed from scale 1.0.
+* **Scale-Resonant Interpretation**: The entangled pair constitutes a higher-scale resonance structure; from the measurement scale, this appears as inexplicable correlation because the connecting structure exceeds differentiation capacity. The correlation is the resonance shadow of a 2.0-photon relation viewed from scale 1.0.
 
 **Scale Invariance at Critical Points (Phase Transitions)**
 
 * **Description**: Near critical points, systems exhibit scale-free behavior with self-similarity across magnitudes.
-* **ISE Interpretation**: Temporary convergence of differentiation capacities, enabling resonance across normally separated scales — the overlap zones expand.
+* **Scale-Resonant Interpretation**: Temporary convergence of differentiation capacities, enabling resonance across normally separated scales — the overlap zones expand.
 
 **AdS/CFT Correspondence (Holographic Principle)**
 
 * **Description**: A gravitational theory in a volume is equivalent to a non-gravitational theory on its boundary.
-* **ISE Interpretation**: Two different differentiation capacities (bulk/boundary) projecting the same underlying resonance structure — equivalent signatures manifesting differently according to each scale's differentiation mode.
+* **Scale-Resonant Interpretation**: Two different differentiation capacities (bulk/boundary) projecting the same underlying resonance structure — equivalent signatures manifesting differently according to each scale's differentiation mode.
 
 **Emergent Quasiparticles (Phonons, Magnons)**
 
 * **Description**: Collective movements in crystals produce effective particles with new properties.
-* **ISE Interpretation**: Higher-scale coherent patterns appearing as fundamental entities when viewed from lower differentiation capacity — the quasiparticle is real at its scale, and its "emergence" reflects the observer's transition between differentiation modes.
+* **Scale-Resonant Interpretation**: Higher-scale coherent patterns appearing as fundamental entities when viewed from lower differentiation capacity — the quasiparticle is real at its scale, and its "emergence" reflects the observer's transition between differentiation modes.
 
 **Fundamental Constants**
 
 * **Description**: Apparently irreducible values (c, ħ, G, α) that cannot be derived from deeper principles.
-* **ISE Interpretation**: Resonance shadows from adjacent scales. Their constancy reflects the stability of cross-scale resonance structures; their irreducibility reflects the principled invisibility of their internal constitution from within our differentiation capacity.
+* **Scale-Resonant Interpretation**: Resonance shadows from adjacent scales. Their constancy reflects the stability of cross-scale resonance structures; their irreducibility reflects the principled invisibility of their internal constitution from within our differentiation capacity.
 
 Classical physics operates within single-scale differentiation modes, but quantum and edge phenomena indicate **cross-scale resonance effects**. These suggest that apparent fundamental laws are not ontologically primitive but reflect the **bidirectional opacity between differentiation capacities** — the necessary consequence of existence being identical with a specific mode of distinction.
 

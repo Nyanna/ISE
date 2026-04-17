@@ -7,7 +7,7 @@
 
 The analysis of superconductivity establishes resonance closure as a self-consistency condition on the frequency profile space of the valence band. The energy gap $\Delta$ protects this closure against thermal disruption. Below $T_c$, no scattering process has sufficient energy to reopen the spectral deficits that the closure has sealed.
 
-This characterization admits a deeper reading. In ISE, dissipation — electrical resistance — is not energy loss through friction. It is decoherence: the progressive destruction of superposition through open spectral deficits that provide coupling channels between the system and its environment. Every open deficit is a decoherence channel. Every scattering event is an interference event that disrupts the phase coherence of the propagating wave.
+This characterization admits a deeper reading. Dissipation — electrical resistance — can be read as decoherence rather than as frictional energy loss: the progressive destruction of superposition through open spectral deficits that provide coupling channels between the system and its environment. Every open deficit is a decoherence channel. Every scattering event is an interference event that disrupts the phase coherence of the propagating wave.
 
 Resonance closure eliminates all such channels simultaneously. The closed deficit structure has no open modes through which the environment can access the internal phase relations of the condensate. The superconducting state is not merely a low-resistance state; it is a state in which the superposition of the participating frequency profiles is *preserved* — protected against decoherence by the absence of coupling channels.
 
@@ -17,7 +17,7 @@ The energy gap $\Delta$ is therefore not a shield around Cooper pairs. It is the
 
 The preceding section establishes resonance closure as the elimination of decoherence channels. This section identifies the physical substrate through which the closure operates and through which the resulting coherence propagates.
 
-In a crystalline solid, every atom presents a set of bound electronic orbitals whose spatial extent is characterised by nodal surfaces — loci where the wavefunction changes sign. When two adjacent atoms bring their orbitals into spatial overlap, the shared nodal region constitutes a coupling channel: electrons can transition between the two atoms through this region. In ISE terminology, this shared region is a *resonance node* — a point in the lattice where two frequency profiles overlap in phase.
+In a crystalline solid, every atom presents a set of bound electronic orbitals whose spatial extent is characterised by nodal surfaces — loci where the wavefunction changes sign. When two adjacent atoms bring their orbitals into spatial overlap, the shared nodal region constitutes a coupling channel: electrons can transition between the two atoms through this region. This shared region can be called a *resonance node* — a point in the lattice where two frequency profiles overlap in phase.
 
 A chemical bond is a shared resonance node. A metallic conductor is a lattice in which resonance nodes form a connected network spanning the material. Conductivity is energy propagation through this network. Resistance is the disruption of propagation at nodes where coupling to external degrees of freedom (lattice vibrations, impurities, other electrons) extracts phase coherence from the propagating profile.
 
@@ -53,9 +53,9 @@ The conventional reading stops here: sub-gap transparency is a trivial consequen
 
 In an iron-arsenide superconductor, ellipsometric measurements reveal a superconductivity-induced suppression of an absorption band at 2.5 eV — two orders of magnitude above the superconducting gap energy $2\Delta \approx 20$ meV. The onset of superconductivity at low temperature modifies optical transitions in the visible range, despite the gap being in the far infrared.
 
-The standard framework has no mechanism for this. BCS theory and its extensions predict that superconductivity affects only excitations near the gap energy. An optical transition at 100 times the gap energy should be entirely unaffected by the formation of the condensate.
+Within BCS theory and its extensions, superconductivity is expected to affect only excitations near the gap energy; an optical transition at 100 times the gap energy should be largely unaffected by the formation of the condensate. The observation therefore sits outside the mean-field expectation and invites a structural reading.
 
-The ISE reading is direct: resonance closure is not a local perturbation at $E_F$. It is a global reorganization of the frequency profile space. When the deficit structure closes, the redistribution of spectral weight propagates through the entire band structure — including bands far from $E_F$ that are connected to the closure region by hybridization, spin-orbit coupling, or orbital overlap. The optical anomaly at 2.5 eV is the fingerprint of this global reorganization: an interband transition whose matrix element is modified because one of the participating bands has been restructured by the closure.
+The reading offered here: resonance closure is not a local perturbation at $E_F$. It is a global reorganization of the frequency profile space. When the deficit structure closes, the redistribution of spectral weight propagates through the entire band structure — including bands far from $E_F$ that are connected to the closure region by hybridization, spin-orbit coupling, or orbital overlap. The optical anomaly at 2.5 eV is the fingerprint of this global reorganization: an interband transition whose matrix element is modified because one of the participating bands has been restructured by the closure.
 
 **Transparent Superconductor LiTi$_2$O$_4$**
 
@@ -73,7 +73,7 @@ The entire visible window (1.65–3.1 eV, 400–750 nm) falls in a region where 
 
 **Configuration Count vs. Optical Transparency**
 
-The transparent superconductor reveals a fundamental tension in the resonance closure framework.
+The transparent superconductor exposes a structural tension in the resonance closure picture.
 
 The superconducting $T_c$ scales with the closure configuration count — the number of independent pathways through which the self-consistency condition can be satisfied. More bands at $E_F$, better nesting, higher Van Hove proximity: all increase the configuration count and raise $T_c$. Cuprates ($T_c \sim 133$ K) have complex, topologically rich Fermi surfaces with many closure pathways. Hydrides under pressure ($T_c \sim 250$ K) combine multiple Fermi surface sheets with dimensional reduction per sheet.
 
@@ -163,7 +163,7 @@ Every superconducting qubit operates inside a coplanar waveguide (CPW) resonator
 
 The mechanism is exactly closure-based photonic waveguiding: the superconducting walls have no electronic transitions available at the microwave frequency (which lies far below the gap frequency $2\Delta/\hbar$). The photon cannot couple to the electronic system because the resonance closure has sealed all coupling channels below the gap. The cavity is not merely low-loss — it is lossless at the closure-protected frequencies, with residual dissipation arising only from non-superconducting components (substrate dielectric loss, surface oxides, quasiparticle tunneling at interfaces).
 
-The industry describes this as "the resonator is superconducting, so it has low loss." ISE describes it as: the electronic closure eliminates all photon-electron coupling channels below $2\Delta/\hbar$, creating a frequency window of perfect photonic transparency in the cavity walls. The descriptions are operationally identical but conceptually distinct — and the conceptual distinction matters when asking whether the same principle can be extended to higher frequencies.
+The industry describes this as "the resonator is superconducting, so it has low loss." The closure reading restates it as: electronic closure eliminates all photon-electron coupling channels below $2\Delta/\hbar$, creating a frequency window of photonic transparency in the cavity walls. The descriptions are operationally identical but conceptually distinct — and the conceptual distinction matters when asking whether the same principle can be extended to higher frequencies.
 
 **Superconducting Single-Photon Detectors**
 
@@ -203,9 +203,9 @@ But these two statements are the same statement. In both cases, a propagating en
 
 The standard framework does not recognize this identity because it inherits a historical asymmetry. Optical transparency was understood passively: the material simply *lacks* transitions at the relevant frequency. No mechanism creates the transparency; it is the default state of a material with a band gap. Superconductivity, by contrast, was understood actively: a mechanism (phonon-mediated attraction) *creates* Cooper pairs, which form a condensate that *produces* the zero-resistance state. The phonon is the cause; the superconductivity is the effect.
 
-ISE removes this asymmetry. In both cases, the band geometry determines which coupling channels exist and which do not. A material with a band gap is not "created transparent" by any mechanism — its geometry simply has no transitions in the gap. A superconductor is not "made superconducting" by phonon attraction — its geometry, below $T_c$, simply has no scattering channels available. The phonon-mediated "attraction" in BCS theory is a correct mathematical description of the closure condition, but it inverts the causality: it describes the absence of scattering as the presence of binding, and it attributes to the mediator (phonon) what belongs to the geometry (band structure).
+The closure reading removes this asymmetry. In both cases, the band geometry determines which coupling channels exist and which do not. A material with a band gap is not "created transparent" by any mechanism — its geometry simply has no transitions in the gap. A superconductor is not "made superconducting" by phonon attraction — its geometry, below $T_c$, simply has no scattering channels available. The phonon-mediated "attraction" in BCS theory remains a valid mathematical description of the closure condition, but the causal reading can be inverted: what is conventionally called binding can equally be read as absence of scattering, and what is attributed to the mediator (phonon) can be reassigned to the geometry (band structure). The two readings coexist; the geometric one is emphasised here because it generalises beyond the phonon case.
 
-This inversion explains why the unconventional superconductivity problem has resisted solution for 40 years. The entire community searches for the "pairing glue" — the mediator that replaces phonons in cuprates, iron-based superconductors, heavy-fermion systems, and nickelates. Phonons? Magnons? Orbital fluctuations? Charge fluctuations? Each material class requires a different candidate, and no universal mediator has been found. ISE dissolves the question: there is no glue. There is a band geometry that, for each material class, eliminates scattering channels through a different structural route. The diversity of material classes does not reflect a diversity of pairing mechanisms; it reflects a diversity of geometric routes to the same condition — the absence of coupling channels.
+The inversion suggests why the search for a universal "pairing glue" — the mediator that would replace phonons in cuprates, iron-based superconductors, heavy-fermion systems, and nickelates — has produced a different candidate for each material class (phonons, magnons, orbital fluctuations, charge fluctuations) without converging on one. Read through the closure lens, the question reframes: the diversity of candidates reflects a diversity of geometric routes to the same condition — the absence of coupling channels — rather than a diversity of distinct pairing mechanisms. The "glue" language remains useful as a perturbative description for each class; the geometric reading offered here adds a unifying structural layer behind it.
 
 The transparent superconductor LiTi$_2$O$_4$ is the most direct empirical demonstration of this identity: a single material in which both the electronic scattering channels (superconductivity) and the photonic absorption channels (transparency) are simultaneously eliminated by the same band geometry. It is not a material that happens to be both superconducting and transparent. It is a material whose band geometry is closed in both the electronic and photonic coupling sectors — and the two closures are aspects of the same flat-band structure.
 
@@ -261,7 +261,7 @@ The reconstructed profile would be the first direct observable of the *relative 
 
 In ISE terms, this function encodes the scale-relational distance between the photon and the electron. The photon, as the reference entity with zero S-weight (the dependency-depth anchor of scale-relational mathematics), defines the baseline. The electron, with its specific frequency profile, sits at a particular relational position relative to this baseline. The coupling function is the *spectral measure of this relational distance*.
 
-Standard physics has no framework for this quantity. The fine-structure constant is treated as a dimensionless number — fundamental, unexplained, and frequency-independent in QED (up to logarithmic running). The idea that $\alpha$ is the integral of a frequency-resolved coupling profile, and that this profile can be experimentally reconstructed from the optical properties of diverse materials, is specific to the ISE framework.
+Within QED, the fine-structure constant is treated as a dimensionless number — fundamental, unexplained, and frequency-independent up to logarithmic running. The proposal here is that $\alpha$ can also be read as the integral of a frequency-resolved coupling profile, with that profile in principle reconstructible from the optical properties of diverse materials. This is an interpretive extension rather than a competing calculation, and it is specific to the scale-relational reading developed across the thesis.
 
 **Methodological Outline**
 
@@ -283,11 +283,11 @@ $$C(\omega) \propto \frac{\alpha_{\text{material}}(\omega)}{J_{\text{material}}(
 
 * **Integration check**: The frequency integral of $C(\omega)$, appropriately weighted, should yield the fine-structure constant $\alpha \approx 1/137$.
 
-If the extraction succeeds and the consistency check passes, the result would be the first measurement of the internal frequency structure of a fundamental coupling — not a number, but a function. If it fails — if different materials yield incompatible $C(\omega)$ — then the photon-electron coupling is not factorizable in the way ISE predicts, and the framework's assumption of universal frequency profiles for fundamental entities is falsified.
+If the extraction succeeds and the consistency check passes, the result would be a measurement of the internal frequency structure of the photon-electron coupling — not a number, but a function. If it fails — if different materials yield incompatible $C(\omega)$ — then the coupling is not factorisable in the way proposed here, and the assumption of material-independent frequency profiles for photon and electron is falsified.
 
 **Connection to Fundamental Constants**
 
-The scale-relational reading of LiTi$_2$O$_4$ connects to a broader program within ISE: the derivation of fundamental constants from frequency profile geometry rather than from measurement alone.
+The scale-relational reading of LiTi$_2$O$_4$ connects to a broader line of inquiry in this thesis: whether fundamental constants can be derived from frequency profile geometry rather than taken purely from measurement.
 
 If $\alpha$ is the integral of $C(\omega)$, and $C(\omega)$ is determined by the relative frequency structure of photon and electron, then $\alpha$ is not a free parameter of the theory. It is a derived quantity — determined by the specific frequency profiles that define the photon and electron as stable, self-resonant entities. The value 1/137 would then follow from the same resonance closure conditions that determine particle masses and coupling strengths throughout the framework.
 
@@ -297,7 +297,7 @@ This chapter does not derive $\alpha$. It identifies the observable — the freq
 
 The standard paradigm for superconductor design, inherited from BCS theory, is: *find a mediator* (phonon, magnon, fluctuation) *that produces an attractive interaction strong enough to overcome the Coulomb repulsion between electrons at temperatures relevant to applications.* This paradigm drives the search for materials with high electron-phonon coupling constants, high Debye temperatures, and high characteristic phonon frequencies. The superhydrides represent its greatest success — and, at megabar pressures, its practical limit.
 
-The complete model inverts this paradigm. Superconductivity is not produced by a mediator. It is the structural condition of a valence node chain in which all decoherence channels are sealed. The mediator (phonon, magnon, etc.) is the standard-framework's projection of the node geometry onto a perturbation-theoretic formalism — a correct description of the self-consistency condition rewritten in a language that attributes causality to the perturbation rather than the structure.
+The closure reading inverts this design paradigm. Superconductivity is read not as an effect produced by a mediator but as the structural condition of a valence node chain in which the relevant decoherence channels are sealed. The mediator (phonon, magnon, etc.) appears in this reading as the perturbation-theoretic projection of the underlying node geometry — a valid description of the self-consistency condition expressed in a language that assigns causality to the perturbation rather than the structure.
 
 The inverted design paradigm is: *find an orbital geometry whose resonance node chain is intrinsically closure-compatible, with a closure gap exceeding the thermal energy at the target operating temperature.* This paradigm does not search for a mediator; it searches for a geometry. The relevant computational tools are band structure calculations and orbital overlap analyses, not electron-phonon coupling calculations.
 
@@ -311,7 +311,7 @@ The inversion has three specific consequences for research strategy:
 
 **Closure-Based Material Design and the Transparent Superconductor Programme**
 
-The transparent superconductor $\text{LiTi}_2\text{O}_4$ occupies a unique position in this framework. It is the only known material that simultaneously satisfies the electronic closure condition (superconductivity) and the photonic closure condition (visible transparency) at ambient pressure. Its low $T_c$ (13 K) reflects the configuration-count constraint: few closure pathways, few optical channels, low $T_c$, high transparency.
+The transparent superconductor $\text{LiTi}_2\text{O}_4$ plays a distinctive role in the present reading: it is, to the author's knowledge, the only reported material that simultaneously satisfies the electronic closure condition (superconductivity) and the photonic closure condition (visible transparency) at ambient pressure. Its low $T_c$ (13 K) is consistent with the configuration-count constraint: few closure pathways, few optical channels, low $T_c$, high transparency.
 
 The intrinsic orbital closure route offers a potential escape from this constraint. If the closure gap is set by the orbital energy splitting (crystal-field or spin-orbit) rather than by the dynamic pairing strength, then $T_c$ is no longer tied to the closure configuration count. A material with a *single* closure pathway — a single, connected, fully occupied flat band — could achieve a large closure gap (and hence high $T_c$) without requiring the multiple bands that produce opacity.
 
@@ -331,7 +331,7 @@ This running has been measured with extraordinary precision and constitutes one 
 
 **Running as Projected Frequency Structure**
 
-In ISE, the protophoton is the reference entity of the framework — the frequency profile with zero S-weight, zero dependency depth. It is not a particle but the structural anchor against which all other frequency profiles are measured. The physical photon at a specific frequency $\nu$ is a particular mode of this profile.
+The protophoton is introduced in this thesis as the reference entity of the scale-relational construction — the frequency profile with zero S-weight and zero dependency depth. It is not a particle but the structural anchor against which other frequency profiles are measured. The physical photon at a specific frequency $\nu$ is a particular mode of this profile.
 
 The coupling function $C(\omega)$ introduced above — the frequency-resolved overlap between photon and electron profiles — is the fundamental quantity. The fine-structure constant $\alpha$ is its integral. The QED running $\alpha(\mu)$ is its perturbative approximation.
 
@@ -355,13 +355,13 @@ The relationship between the ISE and QED descriptions can be organized as a hier
 
 | Level | Quantity | Description |
 |---|---|---|
-| ISE fundamental | Protophoton frequency profile | Complete amplitude-phase structure of the reference entity |
-| ISE observable | $C(\omega)$ | Frequency-resolved overlap between protophoton and electron profiles |
-| ISE integrated | $\alpha = \int C(\omega) \, w(\omega) \, d\omega$ | Total coupling strength, integrated over all frequencies |
+| Structural | Protophoton frequency profile | Complete amplitude-phase structure of the reference entity |
+| Spectral | $C(\omega)$ | Frequency-resolved overlap between protophoton and electron profiles |
+| Integrated | $\alpha = \int C(\omega) \, w(\omega) \, d\omega$ | Total coupling strength, integrated over all frequencies |
 | QED perturbative | $\alpha(\mu)$ | Logarithmic approximation of $C(\omega)$, resummed to all loop orders |
 | QED measured | $\alpha \approx 1/137$ | Low-energy limit of the running coupling |
 
-Each level is a projection of the one above it. QED operates at the bottom two levels — it measures $\alpha$ and computes $\alpha(\mu)$. ISE claims that two additional levels exist above: the frequency-resolved coupling $C(\omega)$ and the protophoton profile itself. The material-specific optical data (absorption edges, transparency windows, superconductivity-induced anomalies) provide empirical access to $C(\omega)$ — the level immediately above the QED description.
+Each level is a projection of the one above it. QED operates at the bottom two levels — it measures $\alpha$ and computes $\alpha(\mu)$. The present reading posits two additional levels above: the frequency-resolved coupling $C(\omega)$ and the protophoton profile itself. Material-specific optical data (absorption edges, transparency windows, superconductivity-induced anomalies) provide empirical access to $C(\omega)$ — the level immediately above the QED description.
 
 **Extended Terminological Correspondence: Microscopic Closure Mechanism**
 
@@ -388,7 +388,7 @@ The ISE and QED descriptions agree on the smooth, logarithmic trend of $\alpha(\
 
 QED predicts that the running is smooth at all energies up to the Landau pole (where the perturbative expansion diverges). Any deviations from smooth running would indicate new physics — new particles contributing to vacuum polarization (as in supersymmetric extensions) or modifications of the gauge structure.
 
-ISE predicts that $C(\omega)$ has intrinsic resonance structure — peaks and gaps that correspond to commensurability and incommensurability between the protophoton and electron frequency profiles. This structure would manifest as:
+The scale-relational reading predicts that $C(\omega)$ carries intrinsic resonance structure — peaks and gaps corresponding to commensurability and incommensurability between the protophoton and electron frequency profiles. This structure would manifest as:
 
 * **Non-monotonic features in the optical properties of materials**, after division by the material-specific $J(\omega) \cdot |M(\omega)|^2$. The iron arsenide anomaly at 2.5 eV — a superconductivity-induced modification of a high-energy absorption band — is a candidate for such a feature.
 

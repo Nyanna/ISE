@@ -3,7 +3,7 @@
 
 ## **8.7. Dependency Propagation as the Unified Principle**
 
-This chapter demonstrates that the fundamental physical quantities — time, mass, space, and gravitation — are not ontologically distinct substrates but projective manifestations of a singular underlying process: dependency propagation through differentiation structure. We establish that the speed of light c functions not as a velocity limit but as the irreducible rate of dependency update, from which all physical phenomena emerge as structural consequences. The framework dissolves the apparent separation between relativistic mechanics, quantum mechanics, and gravitation by revealing them as scale-dependent projections of the same dependency architecture. We provide a reinterpretation of quantum mechanical phenomena — including superposition, uncertainty, entanglement, and decoherence — as manifestations of incomplete or distributed update processes within dependency networks.
+This chapter develops the reading in which the fundamental physical quantities — time, mass, space, and gravitation — are treated not as ontologically distinct substrates but as projective aspects of a single underlying process: dependency propagation through differentiation structure. On this reading the speed of light $c$ is interpreted not primarily as a velocity limit but as the irreducible rate of dependency update, with the familiar physical phenomena following as structural consequences. Relativistic mechanics, quantum mechanics, and gravitation are then recast as scale-dependent projections of the same dependency architecture, consistent with their standard descriptions in their respective domains. Quantum mechanical phenomena — superposition, uncertainty, entanglement, decoherence — are offered a reinterpretation as manifestations of incomplete or distributed update processes within dependency networks (interpretation).
 
 **The Elimination of Computational Ontology**
 
@@ -17,7 +17,7 @@ The foundational claim is stark: there exists only dependency structure. When no
 
 **Time as Seriality**
 
-Time is not a container within which sequences unfold. Time is that sequences exist at all. Time is the seriality of dependency itself. This represents a categorical shift from the Newtonian conception of absolute time as a backdrop and from the Einsteinian conception of time as a dimension of spacetime manifold. In the dependency framework, time possesses no existence independent of the dependency chains whose serialization it expresses. The length of a dependency chain directly corresponds to temporal duration experienced at that structural level.
+Time is read here not as a container within which sequences unfold but as the seriality of dependency itself — the fact that sequences exist at all. This reading complements the Newtonian picture of absolute time as a backdrop and the relativistic picture of time as a dimension of the spacetime manifold by locating temporal duration in the serialization of dependency chains: time, on this account, has no existence independent of those chains, and chain length corresponds to the duration experienced at that structural level (interpretation).
 
 **Mass as Dependency Depth**
 
@@ -33,13 +33,13 @@ The complete reductive sequence from protoinformation to observable physics proc
 
 **The Photon as Limiting Case**
 
-The photon occupies a privileged position in this framework as the entity with minimal dependency depth. A photon possesses minimal dependency structure — effectively a single node. Consequently, any change propagates immediately; there exists no sequence of internal updates, therefore no internal time, therefore no mass. The photon constitutes the boundary where seriality begins. Below this threshold — at dependency depths less than one — no dependency chain exists, no time exists, and propagation occurs at c.
+The photon serves here as the limiting case with minimal dependency depth — effectively a single node. On that reading any change propagates immediately; there is no sequence of internal updates, hence no internal time and no rest mass. The photon marks the boundary at which seriality begins: below this threshold — at dependency depths less than one — no dependency chain is present, no internal time is defined, and propagation occurs at $c$ (interpretation).
 
 This explains why c is not merely a velocity but the fundamental rate constant of reality: c represents one update per one unit of base time, which is itself defined by the minimal update operation. The speed of light is the indivisible quantum of dependency propagation.
 
 **Gravitation as Universal c-Rate Interaction**
 
-Gravitational influence propagates at c — this is well-established in general relativity. Within the dependency framework, this is not a derived result but a structural necessity: all dependency updates propagate at the base rate. The effect on every individual node occurs at c. There exists no slower force.
+Gravitational influence propagates at $c$ — a well-established result in general relativity. Read through dependency propagation, this follows directly from the stipulation that all dependency updates propagate at the base rate: the effect on every individual node occurs at $c$, and no slower propagation channel is introduced (interpretation).
 
 However, structures with different dependency depths respond differently to gravitational updates. A photon, with its single-node structure, receives one update and completes its response — it propagates at c. A proton, with n nodes, requires n updates that must achieve coherence — during this process, a probability distribution over space emerges. The deeper the dependency structure, the longer the coherent update requires, and the more pronounced the apparent deviation from c-propagation.
 
@@ -49,7 +49,7 @@ This framework provides a natural reinterpretation of quantum mechanical phenome
 
 **The Wave Function as Update State**
 
-Consider a massive particle such as a proton. Where is it located? This question, in the dependency framework, transforms into: what is the current state of the update process across its node network? The wave function represents the probability distribution over the update state of the dependency network. This is not uncertainty in the Copenhagen sense of fundamental indeterminacy, but rather reflects that the update process is not yet complete.
+Consider a massive particle such as a proton. Where is it located? Read through dependency propagation, this question becomes: what is the current state of the update process across its node network? The wave function is then interpreted as the probability distribution over the update state of the dependency network — not as Copenhagen-style fundamental indeterminacy but as a reflection that the update process is not yet complete (interpretation).
 
 **Superposition as Parallel Update Paths**
 
@@ -93,7 +93,7 @@ The entire framework reduces to a single statement: physical reality consists of
 
 The fundamental relations are: Mass is proportional to dependency depth (node count). Time is proportional to sequence length (update steps). Space is proportional to relational structure (the vector network). Gravitation is proportional to operation density (updates per spatial volume). c equals one update per one base time unit — indivisible.
 
-This framework unifies special and general relativity (c as absolute limit because it is the indivisible base operation), quantum mechanics (probability distributions as update state distributions), gravitation and mass-energy equivalence (both as dependency structure), and inertia (as update overhead). It potentially eliminates dark matter as a scale effect, dark energy as differentiation expansion, singularities as scale transitions rather than physical infinities, the measurement problem as update completion, and the unification problem by revealing that physics was never separated.
+Read consistently, the account connects special and general relativity ($c$ as limit because it is the indivisible base operation), quantum mechanics (probability distributions as update-state distributions), gravitation and mass-energy equivalence (both as dependency structure), and inertia (as update overhead) within a single vocabulary. It also suggests, speculatively, reinterpretations of open problems: dark matter as a scale effect, dark energy as differentiation expansion, singularities as scale transitions rather than physical infinities, the measurement problem as update completion, and the unification question as a matter of locating a shared substrate rather than joining separate theories. Each of these remains a proposal to be formalized and tested (speculation).
 
 **Existence as Sequence**
 

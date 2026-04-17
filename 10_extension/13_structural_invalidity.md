@@ -1,9 +1,9 @@
 
 ---
 
-## **10.13. The Structural Invalidity and Contextual Limits of Mathematical Holography**
+## **10.13. Structural Constraints and Contextual Limits of Mathematical Holography**
 
-This chapter presents a fundamental critique of the holographic principle as formulated in modern theoretical physics. It is argued that no ontologically valid framework permits the encoding of volumetric physical information onto lower-dimensional surfaces. The holographic principle, in all known forms, is shown to be a mathematical projection with no direct physical counterpart. Its domain of validity is strictly limited to abstract, finite, and metrically constrained systems. Consequently, its generalization to real cosmological, dynamic, or open systems is structurally incoherent.
+This chapter examines the domain of validity of the holographic principle as formulated in modern theoretical physics. The reading developed here treats holography as a mathematical projection whose ontological counterpart remains open: it functions reliably within abstract, finite, and metrically constrained systems, while its extension to real cosmological, dynamic, or open systems introduces structural assumptions that are not guaranteed by the underlying geometry. The argument is interpretive rather than a refutation of the formalism itself.
 
 **No Ontological Horizons**
 
@@ -59,4 +59,4 @@ Holographic principles can only function as formal devices under strict conditio
 
 Such principles are **computational constructs**, not physical mechanisms. They do not generalize to real systems, and their extrapolation to fundamental ontology is unjustified.
 
-Mathematical holography is a projection tool, not a metaphysical truth. The assumption that the universe — or any of its subsystems — can be fundamentally described by surface-area constraints or lower-dimensional mappings is structurally incoherent. The model thus excludes holography as a universal mechanism and identifies it as a bounded method relevant only within fixed, idealized formalisms.
+Mathematical holography is read here as a projection tool whose metaphysical status remains underdetermined. The assumption that the universe — or any of its subsystems — can be fundamentally described by surface-area constraints or lower-dimensional mappings carries structural commitments that do not transfer cleanly to open, scale-relative settings. On this reading, holography is retained as a bounded method relevant within fixed, idealized formalisms, rather than as a universal mechanism.

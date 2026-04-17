@@ -15,13 +15,13 @@ This is the meaning when speaking about having no time or time in the Planck sca
 
 **The Illusion of Temporal Direction through Resonant Structure**
 
-Time, as experienced in the macroscopic world, appears to flow with a certain directionality. Events seem to follow one another in a linear progression, and causality appears embedded in the fabric of reality. However, under scrutiny — especially when seen through the lens of the model — this temporal direction reveals itself as an emergent illusion, not a fundamental principle.
+Time, as experienced in the macroscopic world, appears to flow with a certain directionality. Events seem to follow one another in a linear progression, and causality appears embedded in the fabric of reality. Read through the lens of scale-relative resonance, this temporal direction can be interpreted as an emergent feature of stabilized interaction patterns rather than as a fundamental axis.
 
 At the quantum level, the so-called 'collapse' of a wave function after measurement demonstrates the absence of a strict causal chain. The outcome of the collapse is probabilistic. Just as the future state cannot be deterministically predicted, the past state cannot be deterministically reconstructed. Both directions — forward and backward in time — are equally indeterminate. This symmetry reveals that the collapse does not depend on any specific historical progression but rather on the total resonant configuration of the present moment.
 
 From this, one may infer that the origin of a state is irrelevant to its expression. What appears to be a result is not the product of a linear unfolding from an earlier cause but the spontaneous outcome of scale-relative resonances. A resonance condition is not bound to precedents; it emerges from the current arrangement of differentiated scales interacting.
 
-The ISE generalizes this insight: all phenomena arise from the differential relationships between scale levels. Time does not reside within any one scale but manifests when two or more scales interact in a resonant manner. Where there is no interaction, there is no time — not even stillness, but true atemporality.
+Generalizing this reading: phenomena can be described as arising from the differential relationships between scale levels. Time, under this interpretation, does not reside within any one scale but manifests when two or more scales interact in a resonant manner. Where there is no interaction, there is no time — not even stillness, but atemporality.
 
 Thus, what we perceive as temporal flow in the macroscopic domain is not evidence of an objective time arrow but the consequence of stabilized resonant patterns. These patterns form what appears to be a causal order, but in reality, they are statistical regularities — a byproduct of repeated local coherence. Causality, then, is not a principle but a heuristic born from the stability of macroscopic resonance.
 
@@ -53,7 +53,7 @@ This paradigm blindness is reinforced by:
 * The dominance of reductionist models and simulation frameworks.  
 * A scientific culture that values reproducibility over ontological coherence.
 
-Within the model, curvature is not a property of space as such, but a dynamic resonance of differentiation across scales. There is no globally curved or flat universe — only the illusion of such, projected by minds constrained to finite scale perception and Euclidean abstraction. ISE rejects universal topology in favor of emergent relational structure, wherein all curvature is real, but none is absolute.
+Read relationally, curvature is better treated not as a property of space as such, but as a dynamic resonance of differentiation across scales. On this reading there is no globally curved or flat universe in any absolute sense — rather, the apparent global geometry is projected by observers constrained to finite scale perception and Euclidean abstraction. Universal topology is replaced by emergent relational structure, in which all curvature is real locally, but none is absolute.
 
 **Relational Curvature and the Misinterpretation of the CMB**
 
@@ -79,4 +79,4 @@ The thesis rejects absolute curvature and instead treats curvature as a scale-re
 
 In this view, the perceived near-flatness of the universe is not evidence for, but a misreading of structural embedding. The real question is not whether the universe is flat, closed, or open — but how curvature emerges differentially across interacting scales, and how that affects our projection of global structure from limited perceptual horizons.
 
-In summary, the standard interpretation of the CMB neglects the relational nature of curvature and falsely assumes an external reference geometry. Within ISE, such assumptions are invalid. Instead, all measurement is self-embedded, and curvature is a dynamic, scale-bound resonance — not a fixed global parameter.
+In summary, standard interpretations of the CMB tend to leave the relational nature of curvature implicit and to assume an external reference geometry. Under a relational reading, such assumptions do not hold: all measurement is self-embedded, and curvature is better treated as a dynamic, scale-bound resonance rather than as a fixed global parameter.

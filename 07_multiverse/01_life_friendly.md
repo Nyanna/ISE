@@ -19,23 +19,23 @@ This generalization fails.
 
 **Unity Through Scale, Not Binding**
 
-The framework provides unification of a fundamentally different character. The four interactions share a common ontological ground  — differentiation of protoinformation across scales  — without inhabiting a common parametric regime.
+A second form of unification can be considered, in which the four interactions share a common ontological ground  — differentiation of protoinformation across scales  — without inhabiting a common parametric regime.
 
-The key distinction:
+Two complementary readings of "unified":
 
-* **Conventional unification**: Forces are the *same force* at different energies. Parameters are coupled because they derive from shared high-energy structure projected to low energies.
-* **Alternate Unification**: Forces are *resonance structures* in different scale regimes. They share a generative principle (relational differentiation) but occupy distinct regions of scale-space. No projection from a "unified scale" to "our scale" occurs, hence no parameter binding.
+* **Parametric unification**: Forces are the *same force* at different energies. Parameters are coupled because they derive from shared high-energy structure projected to low energies.
+* **Scale-relational unification**: Forces are *resonance structures* in different scale regimes. They share a generative principle (relational differentiation) but occupy distinct regions of scale-space. No projection from a "unified scale" to "our scale" occurs, so parameter binding is not implied.
 
 Gravity, electromagnetism, and nuclear forces are not waiting to merge at some inaccessible energy. They are already unified  — at the level of the differentiation process itself  — while manifesting as effectively independent structures at their respective scales.
 
 **Projection and Parameter Freedom**
 
-Within the framework, physical parameters are not fundamental quantities that vary across a multiverse landscape. They are projective artifacts: numbers that emerge when protoinformation is projected onto a measurement basis at a particular scale.
+On this reading, physical parameters are treated not as fundamental quantities that vary across a multiverse landscape but as projective artifacts: numbers that emerge when protoinformation is projected onto a measurement basis at a particular scale. (Interpretation.)
 
 This reframing has immediate consequences for the life-friendliness argument:
 
 * **Parameter count is scale-relative.** The "number of free parameters" in a theory depends on the chosen projection scale. What appears as multiple independent constants at one scale may reduce to fewer degrees of freedom at another, or expand into more. The 19+ parameters of the Standard Model are not ontological primitives but projective coefficients.
-* **Independence is projection-dependent.** Two parameters appear independent when their variation does not covary under changes of projection basis. The framework permits projections where parameters that would be bound in conventional unification become effectively independent  — not because the underlying structure lacks unity, but because the projection does not preserve binding relations.
+* **Independence is projection-dependent.** Two parameters appear independent when their variation does not covary under changes of projection basis. A scale-relational reading admits projections in which parameters that would be bound under parametric unification become effectively independent  — not because the underlying structure lacks unity, but because the projection does not preserve those binding relations.
 * **Fine-tuning dissolves.** The appearance of fine-tuning arises from assuming parameters are ontologically fundamental and asking why they take life-permitting values. If parameters are projective artifacts, the question transforms: why does *this projection* yield coherent physics? The answer involves stability under the differentiation process, not anthropic selection across parameter space.
 
 **Deeper Resolution**

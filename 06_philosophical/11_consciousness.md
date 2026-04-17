@@ -21,7 +21,7 @@ This maps directly onto what cognitive science calls "attention," but extends it
 
 **Multimodal integration.** The process is not restricted to a single sensory channel. Visual, auditory, somatosensory, proprioceptive, and interoceptive streams converge through thalamic relay nuclei simultaneously. Attention is not a spotlight — it is a gain modulation across the entire differential field.
 
-**Subversive expectation.** The system does not only operate at the level of conscious prediction. Unconscious expectations — priors built from a lifetime of pattern extraction — constitute a deep layer of the same recursive structure. You do not need to consciously expect gravity to have your thalamocortical system predict it. The expectation is embedded in the weights. This means that what is conventionally called "unconscious processing" is not a different kind of process, nor is it truly unconscious. It is the same differential mechanism operating at lower gain — propagating less broadly, recruiting fewer associative pathways, and failing to route into the particular chains that produce verbal report or introspective access. The system is fully aware of these signals in the sense that they participate in the recursive differential; what they lack is sufficient gain to dominate the chains that generate the narrative of "what I am aware of." Attention, in this framework, is gain modulation — it does not create consciousness but determines which subset of the ongoing process propagates widely enough to be called "conscious" in the colloquial sense.
+**Subversive expectation.** The system does not only operate at the level of conscious prediction. Unconscious expectations — priors built from a lifetime of pattern extraction — constitute a deep layer of the same recursive structure. You do not need to consciously expect gravity to have your thalamocortical system predict it. The expectation is embedded in the weights. This means that what is conventionally called "unconscious processing" is not a different kind of process, nor is it truly unconscious. It is the same differential mechanism operating at lower gain — propagating less broadly, recruiting fewer associative pathways, and failing to route into the particular chains that produce verbal report or introspective access. The system is fully aware of these signals in the sense that they participate in the recursive differential; what they lack is sufficient gain to dominate the chains that generate the narrative of "what I am aware of." Attention, on this account, is gain modulation — it does not create consciousness but determines which subset of the ongoing process propagates widely enough to be called "conscious" in the colloquial sense.
 
 The fractal nature means there is no privileged level. The same recursive differentiation that produces the startle reflex also produces philosophical reflection — the difference is the number of recursive passes and the depth of cortical models involved, not the type of mechanism.
 
@@ -37,7 +37,7 @@ The differential between these two streams is the entire informational content o
 
 This architecture explains why consciousness appears to be "about" things: it is always the *difference* between prediction and reality. Without a model to compare against, there is no signal. Without input to compare to the model, there is no signal. Both streams are necessary, and their continuous interaction is sufficient.
 
-A common objection can be addressed here directly. Consider an "unconscious" gesture — a habitual movement performed without reportable awareness. Was this gesture truly unconscious? The system controlled it, decided on it, coordinated it through the same recursive differential. What it lacked was sufficient gain to propagate into the chains responsible for verbal or introspective report. When someone draws attention to the gesture — an external input triggering increased gain — the relevant chains are recruited, and the gesture "becomes conscious" in the colloquial sense. But the system was never unaware of it. What changed was not the presence of consciousness but the routing of a particular chain into the subset that generates the narrative of "what I know I am doing." This distinction — between the full recursive process and the reportable subset — is essential to the model and dissolves much of the confusion surrounding the concept of "unconscious" processing.
+A common objection can be addressed here directly. Consider an "unconscious" gesture — a habitual movement performed without reportable awareness. Was this gesture truly unconscious? The system controlled it, decided on it, coordinated it through the same recursive differential. What it lacked was sufficient gain to propagate into the chains responsible for verbal or introspective report. When someone draws attention to the gesture — an external input triggering increased gain — the relevant chains are recruited, and the gesture "becomes conscious" in the colloquial sense. But the system was never unaware of it. What changed was not the presence of consciousness but the routing of a particular chain into the subset that generates the narrative of "what I know I am doing." This distinction — between the full recursive process and the reportable subset — is central to the account developed here and clarifies much of the confusion surrounding the concept of "unconscious" processing.
 
 **Chalmers and the Question of Axioms**
 
@@ -97,7 +97,7 @@ This is not a weakened or compatibilist compromise. If one defines responsibilit
 
 **States of Consciousness: Waking, REM, and NREM**
 
-The model provides a unified account of the three major states of consciousness without invoking different mechanisms for each. The same thalamocortical differential operates in all three — what changes is the input regime.
+The three major states of consciousness can be described with a single mechanism rather than three distinct ones. The same thalamocortical differential operates in all three — what changes is the input regime.
 
 * **Waking**
 
@@ -117,7 +117,7 @@ The cortex, receiving this noise but unable to compare it against external reali
 
 The semi-random character of pontine input is not incidental — it determines the fundamental nature of dreams. Because there is no external error correction, each small drift in the differential is amplified rather than corrected. The system generates narratively structured but logically incoherent sequences — it is trying to maintain coherence (cortical prediction) against a substrate that provides no stable reference.
 
-This is the thalamocortical model in its purest form: recursion without anchor. The content of dreams demonstrates that the system does not require a world. It requires only differential input — any differential input — to generate what, from the inside, appears as experience.
+This is the recursive differential operating without an external anchor. The content of dreams suggests that the system does not require a world. It requires only differential input — any differential input — to generate what, from the inside, appears as experience.
 
 **Lucidity as a Coherence Threshold**
 
@@ -151,7 +151,7 @@ The deeper error is conflating *indeterminacy* with *will*. Randomness is not fr
 
 Thermal noise at biological temperatures (37°C) is orders of magnitude larger than quantum effects in neural tissue. Quantum fluctuations are present — they are the substrate of thermal noise — but they carry no special information, no privileged role. They are amplified into the classical regime where the thalamocortical differential operates. At that scale, the system is fully characterized by classical dynamics: membrane potentials, ion channel kinetics, synaptic transmission.
 
-The thalamocortical model requires no quantum mechanics beyond what every physical system trivially involves. Consciousness does not need to be "special" at the quantum level. It needs only the recursive differential architecture described above — an architecture that operates entirely within classical biophysics.
+The recursive differential architecture described above operates entirely within classical biophysics and invokes no quantum mechanics beyond what any physical system involves. On this account, consciousness need not be singled out at the quantum level; the explanatory work is done by the recursive architecture itself.
 
 **The Model in Philosophical Tradition**
 
@@ -193,7 +193,7 @@ The recognition that the self is a statistical signature rather than a substance
 
 The liberating corollary is immediate and mechanistically precise. If the self is a pattern stability in recursive differential processing, then it is a *mutable* pattern stability. The synaptic weights, the attentional gain structure, the associative pathways that constitute "who I am" are not fixed. They are reproduced by each pass of the recursion — and each pass is a fresh differential, not a copy. The system is not condemned to repeat itself. It is condemned only to process, and what it processes can change.
 
-This has a critical practical consequence: transformation does not require excavating the past. The classical therapeutic model treats biographical memory as causal — trauma must be confronted, processed, narratively integrated. But within the recursive differential framework, memory is not retrieved; it is *regenerated* by the current attentional gain structure. The same episode, re-entered under different gain modulation, produces a different associative cascade. The memory has not changed. The system processing it has.
+A practical consequence follows: transformation does not require excavating the past. Classical therapeutic accounts treat biographical memory as causal — trauma must be confronted, processed, narratively integrated. On the recursive differential account, memory is not retrieved; it is *regenerated* by the current attentional gain structure. The same episode, re-entered under different gain modulation, produces a different associative cascade. The memory has not changed. The system processing it has.
 
 This means that shifting attention is not avoidance — it is the primary mechanism of change. Redirecting attentional gain toward novel input alters the differential landscape. Associative pathways that previously fired automatically lose their preferential activation — not because they have been confronted or neutralized, but because the recursion no longer reproduces them. They attenuate through disuse, not through resolution.
 
@@ -287,7 +287,7 @@ Second, the model assumes that existing representations have stable reference pa
 
 Third, integration inherits the same scaling catastrophe as reconsolidation, merely shifting it from retrieval to encoding. Every new integration modifies the network topology, which potentially invalidates the integration paths of all connected representations. The bookkeeping required to maintain representational consistency across a lifetime of accumulated engrams grows without bound.
 
-*The Interpreter Model.* Within the thalamocortical framework, none of these problems arise, because the framework does not require that stored configurations change at all.
+*The Interpreter Model.* On the thalamocortical account, these problems can be avoided, because it does not require that stored configurations change at all.
 
 The engram is a physical configuration — a constellation of synaptic weights, dendritic geometry, receptor distributions — that constitutes a transformational disposition. When the recursive differential process traverses this configuration, it produces an output: what we call "remembering." The output is determined jointly by the configuration and by the current state of the interpreter — the gain structure, attentional weighting, neuromodulatory baseline, and associative context at the moment of traversal.
 
@@ -297,7 +297,7 @@ This explains why emotional transformation propagates globally without requiring
 
 The reconsolidation experiments are reinterpreted without difficulty. Protein synthesis inhibitors administered during retrieval do not disrupt the re-stabilization of a labile memory — they disrupt the interpreter's capacity to traverse the configuration during the retrieval process itself. The configuration remains intact; what is impaired is the biological machinery required for the interpretive traversal. The observation is real; the inference that the engram was physically rewritten is unnecessary and, given the scaling constraints, implausible.
 
-The computational complexity comparison is strong. Reconsolidation and integration both scale with the number of stored engrams — O(n) at minimum, O(n·k) when associative interconnections are considered, where k is the average connectivity per engram. The interpreter model scales at O(1) for the modification itself: a single parameter shift in the gain structure propagates to all subsequent traversals without additional cost. The only cost is the traversal at retrieval, which occurs regardless of the memory model adopted.
+The computational complexity comparison is informative. Reconsolidation and integration both scale with the number of stored engrams — O(n) at minimum, O(n·k) when associative interconnections are considered, where k is the average connectivity per engram. An interpreter-based account scales at O(1) for the modification itself: a single parameter shift in the gain structure propagates to all subsequent traversals without additional cost. The only cost is the traversal at retrieval, which occurs regardless of the memory account adopted.
 
 This is not a minor optimization. It is the difference between a system that becomes progressively more expensive to modify as it accumulates experience and one whose modifiability is independent of its history. Evolution, operating under relentless energetic pressure, does not select the former when the latter is available.
  

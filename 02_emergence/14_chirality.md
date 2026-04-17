@@ -7,11 +7,11 @@
 
 The chirality problem in weak interactions has been framed as a mystery of nature's "handedness" — a spatial metaphor suggesting fundamental left-right asymmetry in physical law. This framing obscures more than it reveals. The empirical phenomenon — that W and Z bosons couple asymmetrically to fermion states — requires no spatial interpretation and arguably suffers from one.
 
-This chapter develops an alternative ontology of chirality grounded in the ISE framework. Rather than treating chirality as an intrinsic fermion property or a fundamental spatial asymmetry, we propose that chirality reflects **resolution-dependent coupling to charge structure**. Just as a sound is not merely a frequency but possesses internal harmonic structure (timbre, overtones, phase relationships), electric charge is not a scalar quantity but carries structured information. Different interactions probe this structure at different resolutions.
+This chapter develops a complementary ontology of chirality consistent with the differentiation-structure reading used throughout the preceding chapters. Rather than treating chirality as an intrinsic fermion property or a fundamental spatial asymmetry, we examine the interpretation that chirality reflects **resolution-dependent coupling to charge structure**. Just as a sound is not merely a frequency but possesses internal harmonic structure (timbre, overtones, phase relationships), electric charge can be read not as a scalar quantity alone but as carrying structured information. Different interactions then probe this structure at different resolutions.
 
 This perspective dissolves the chirality puzzle: the apparent asymmetry arises from W/Z bosons' sensitivity to fine-grained charge structure that electromagnetic interactions cannot resolve. The symmetry restoration occurs at the system level (electron + positron), not the particle level, revealing chirality as a relational rather than intrinsic property.
 
-**Scope and Limitations:** This chapter focuses narrowly on the ontological basis of chirality in weak interactions. While the charge-structure framework suggests promising avenues for understanding relationships between fundamental forces, such generalizations remain speculative.
+**Scope and Limitations:** This chapter focuses narrowly on the ontological reading of chirality in weak interactions. The charge-structure picture developed here may extend to relationships between fundamental forces, but such generalizations are speculative and not pursued beyond this chapter.
 
 **What We Know Without Interpretation**
 
@@ -323,13 +323,13 @@ The success of this charge-structure approach for weak interactions tempts gener
 
 **Methodological Lesson:**
 
-ISE's value lies not in universal formulas but in systematic questioning:
+The approach taken here relies less on universal formulas than on systematic questioning:
 
 * What is intrinsic vs. relational?
 * What is resolution-dependent vs. absolute?
 * What is structural vs. classificatory?
 
-These questions dissolve the chirality puzzle for weak interactions. Whether they illuminate other domains remains open.
+These questions are sufficient to reorganize the chirality puzzle for weak interactions. Whether they illuminate other domains remains open.
 
 **Chirality as Structural Resonance**
 
@@ -353,4 +353,4 @@ A complete treatment would require:
 * Extension to quark sector and CKM matrix
 * Experimental predictions distinguishing this ontology from standard formulation
 
-These remain open problems. The present chapter establishes conceptual groundwork, demonstrating that ISE principles suffice to reframe chirality coherently — without claiming completeness or universal applicability.
+These remain open problems. The present chapter establishes conceptual groundwork, showing that the differentiation-structure reading can reframe chirality coherently — without claiming completeness or universal applicability.

@@ -3,13 +3,13 @@
 
 ## **5.2. Black Holes**
 
-The ISE framework reframes black holes as scale phenomena rather than terminal singularities. Space, time, and observed black hole properties emerge from energy differentiation and relative scale, not from a fundamental spacetime fabric.
+Black holes are read here as scale phenomena rather than terminal singularities. Space, time, and observed black hole properties are treated as emergent from energy differentiation and relative scale, rather than from a fundamental spacetime fabric.
 - Key themes:
   - Inversion: black holes and white holes (and the Big Bang) are opposite directions of the same energy process.
   - Relationality: spin, charge, and even the perceived size of black holes are relational, not intrinsic.
   - Scale transitions: horizons mark shifts of scale/coherence, not absolute boundaries or breakdowns of physics.
-  - Causal stratification: external and internal frames are physically real within their own causal domains; singularities are artifacts of scale and perspective.
-  - Compatibility: the observable exterior behavior matches GR; internally, ISE favors persistent structure (and aligns with bounce models) over absolute singularities.
+  - Causal stratification: external and internal frames are physically real within their own causal domains; singularities are reinterpreted as artifacts of scale and perspective.
+  - Compatibility: the observable exterior behavior matches GR; internally, the preferred reading favors persistent structure (consistent with bounce models) over absolute singularities.
 
 **Black Hole Inversion**
 Core idea
@@ -37,8 +37,8 @@ Spatiality as potential energy vectors
 - Black holes and Big Bangs reflect the same energy mechanism flowing inward vs outward.
 
 No new physics to “solve” singularities
-- Singularities are artifacts of viewing at the wrong scale. Shift the observational scale, not the laws.
-- Unlike loop or string approaches that add new structures, ISE applies the same laws across dynamic scales.
+- Singularities are read as artifacts of viewing at the wrong scale. The observational scale shifts, not the laws.
+- Where loop or string approaches introduce additional structures, the reading proposed here re-applies the same laws across dynamic scales.
 
 Relational spin, charge, and size
 - Spin and charge are emergent relational properties reflecting environmental angular momentum and charge distributions.
@@ -97,8 +97,8 @@ Scale duality and perspective
 - Time appears infinitely slow externally, normal internally; there is no absolute time, only scale-dependent flow.
 
 Pocket universes and the Primordial Problem
-- Neither GR nor ISE provides a mechanism for a fully independent, energy-regenerating universe.
-- The Primordial Problem (absolute origin of differentiation) is a paradox: true causal decoupling makes the putative origin unnecessary and unreferencable.
+- No mechanism for a fully independent, energy-regenerating universe follows from GR, and none is derived here either.
+- The Primordial Problem (absolute origin of differentiation) remains a paradox: true causal decoupling makes the putative origin unnecessary and unreferencable.
 - Result: no derivation for an independent multiverse, only internal scale shifts; a singularity remains part of a limited differentiation chain.
 
 **The Frozen Interior Collapse**
@@ -114,7 +114,7 @@ Causal separation and reality frames
 - Two physically relevant frames:
   - External, observable frame: frozen collapse, measurable gravitational effects.
   - Intrinsic particle frame: finite proper time; local physics remains coherent.
-- The purely mathematical GR continuation to a singularity is causally inaccessible and considered of lower physical relevance in ISE.
+- The purely mathematical GR continuation to a singularity is causally inaccessible; the reading adopted here treats it as of lower physical weight than the two frames above.
 
 Bounce models and compatibility
 - Loop Quantum Gravity bounce scenarios replace singularities with quantum bounces and possible white-hole phases.
@@ -126,11 +126,11 @@ Cosmological implications
 - Black hole freezing exemplifies causal disjunctions across scales; our universe is not privileged with a unique start.
 
 Cross‑Chapter Synthesis
-- Unifying thesis: Black holes are not endpoints; they are loci of scale transitions where differentiation is suppressed for external observers but continues internally. Space and time emerge from energy differentiation, and “singularities” are misreadings of scale limits.
-- Inversion principle: Black holes and white holes (and the Big Bang) are the same energy process, reversed. The “fabric” of spacetime is replaced by the dynamics of potential energy vectors and scale coherence.
-- Relationality: Observable black hole attributes (spin, charge, size) are not intrinsic but reflect the environment and observer frame.
-- Causality and frames: Only causally accessible frames are physically weighty; external and local intrinsic frames suffice to explain observables without positing absolute singularities.
-- Compatibility: Exterior predictions remain GR-like (no-hair, ringdown, redshift, lensing). Internally, ISE favors persistent, scale-transformed structure; LQG bounce models provide a compatible formal pathway.
+- Guiding reading: Black holes are treated as loci of scale transitions — differentiation is suppressed for external observers while continuing internally. Space and time are read as emergent from energy differentiation; “singularities” are interpreted as misreadings of scale limits.
+- Inversion principle: Black holes and white holes (and the Big Bang) appear as the same energy process, reversed. A fixed spacetime fabric is replaced by the dynamics of potential energy vectors and scale coherence.
+- Relationality: Observable black hole attributes (spin, charge, size) are taken as reflections of the environment and observer frame rather than intrinsic labels.
+- Causality and frames: Only causally accessible frames carry physical weight here; external and local intrinsic frames suffice to explain observables without positing absolute singularities.
+- Compatibility: Exterior predictions remain GR-like (no-hair, ringdown, redshift, lensing). Internally, the preferred reading is persistent, scale-transformed structure; LQG bounce models provide a compatible formal pathway.
 
 Key Takeaways and Open Questions
 - Takeaways:

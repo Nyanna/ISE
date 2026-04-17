@@ -3,7 +3,7 @@
 
 ## **9.4. Relativistic Time Travel and comparing with the ΛCDM**
 
-The concept of traveling into the future via relativistic velocities presents a profound challenge to traditional cosmological models such as Lambda Cold Dark Matter (ΛCDM). In contrast, it aligns naturally with the framework, which emphasizes the continuous differentiation and locality of spacetime states. This chapter explores the implications of relativistic time travel within the ISE formulation and highlights how it reconciles perspectives that are incompatible with ΛCDM.
+Relativistic travel toward the future raises interpretational questions when combined with the globally synchronized cosmic time that Lambda Cold Dark Matter (ΛCDM) uses for large-scale bookkeeping. Read through the lens of continuous differentiation and locality of spacetime states, the same phenomena receive a consistent description. This section sketches that reading and where it differs, in emphasis rather than in physical predictions, from a ΛCDM narrative.
 
 **Relativistic Time Travel: A Thought Experiment**
 
@@ -29,15 +29,15 @@ Time travel into the future is not an anomaly but an intrinsic aspect of spaceti
 
 **Conclusion**
 
-The exploration of relativistic time travel underscores fundamental limitations in the ΛCDM model and highlights the strengths of the framework. By embracing the locality and dynamism of spacetime, the ISE offers a paradigm that reconciles relativistic phenomena with the evolving structure of the universe. This chapter establishes the foundation for further integrating relativistic principles into the broader context of ISE, reshaping our understanding of time, space, and cosmic evolution.
+Reading relativistic future-travel through local, observer-dependent spacetime makes the tension with a globally synchronized cosmic time explicit: both descriptions can coexist, but the observer-local view keeps simultaneity as a genuinely frame-dependent property. Treating the temporal differentiation of spacetime as primary offers a consistent language for these scenarios and connects them to the cosmological discussion in the preceding sections.
 
 ### **Reformulating Space and Gravity Through Temporal Differentiation**
 
-The reformulation of space as a differentiation of time provides a unified framework for understanding the universe at both macroscopic and microscopic levels. In this perspective, the dimension of space dissolves, leaving only the temporal structure as the fundamental fabric of reality. This temporal-centric view has profound implications for understanding gravity and its role in the cosmos.
+Reformulating space as a differentiation of time is one interpretational route that treats macroscopic and microscopic scales within a common vocabulary. In this reading, the spatial dimension is derived rather than primitive, with temporal structure carrying the relational content. Such a view has consequences for how gravity is described, discussed below as an interpretational layer rather than a physical claim distinct from general relativity.
 
 **Space as Temporal Differentiation**
 
-In this model, space is not an independent dimension but a projection of time's differentiation. The observed separations and distances are manifestations of relative temporal intervals between interacting entities. This approach eliminates the need for a spatial dimension, redefining all interactions as processes occurring within the temporal continuum.
+On this reading, space is treated not as an independent dimension but as a projection of temporal differentiation. Observed separations and distances correspond to relative temporal intervals between interacting entities, and interactions are described as processes within the temporal continuum. This is an interpretational reformulation; it does not alter the empirical content of relativistic kinematics.
 
 **Gravity as Constant Potential Energy**
 
@@ -47,10 +47,10 @@ This redefinition aligns gravitational phenomena with the dynamics of time itsel
 
 **Implications**
 
-The model accommodates this temporal interpretation as an alternative, interpretational view within its broader framework. While the ISE primarily focuses on differentiating energy across scales, this perspective aligns with its principles by emphasizing temporal dynamics. Here, the universe is considered to operate entirely within the dimension of time, with apparent spatial properties emerging as projections of temporal differentiation.
+This temporal reading is offered as an interpretational layer rather than an additional physical claim. The core ISE statement concerns the differentiation of energy across scales; emphasizing temporal dynamics is one way to narrate that statement, in which spatial properties appear as projections of temporal differentiation rather than as primitives.
 
 This interpretational approach offers a novel paradigm, unifying macroscopic cosmic evolution and microscopic interactions under the principle of temporal differentiation. However, it remains an interpretation above the core statement of differentiating energy itself, framing gravity as inherent temporal potential energy shaping the dynamics of the universe.
 
 **Conclusion**
 
-By dissolving the concept of space into temporal differentiation, this chapter establishes a coherent framework for understanding gravity and the universe's structure through the lens of time. This perspective not only aligns with the principles of the the model but also provides a foundation for reinterpreting physical laws in a fully temporal context.
+Treating space as derived from temporal differentiation gives a consistent narrative for gravity and large-scale structure through the lens of time. It is compatible with the energy-differentiation core of the preceding chapters, and offered here as an interpretational option rather than a replacement for existing formulations of the physical laws involved.

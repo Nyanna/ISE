@@ -1,7 +1,7 @@
 
 ### **3.6.2. Relativistic effects observed at approaching light speed**
 
-**The** model and the relativistic effects observed at **approaching light speed**. Let's break down the idea:
+Relativistic effects observed at **approaching light speed** are reviewed here with a scaling reading alongside the standard one.
 
 **Time Dilation Near Light Speed**
 
@@ -15,9 +15,9 @@ As an object approaches the **speed of light**, its **time dilation** becomes si
 
 * In this context, **exponential deceleration** of further acceleration makes sense because **time dilation** effectively "stretches" the energy requirement over increasingly longer intervals of time as observed in the external frame.
 
-**Perspectives from ISE**
+**Scaling perspective**
 
-The **model**, with its focus on the **scaling** of physical phenomena, opens up an interesting avenue for interpreting these effects. If time and space **scale dynamically**, then the **approach to light speed** might not represent a fundamental limit in the same way as traditionally thought. Instead, it could be viewed as an indicator of **changing scales** in the observer's frame.
+A scale-relative reading of these effects is consistent with standard relativistic predictions but reframes their origin. If time and space **scale dynamically** with the observer's frame, the **approach to light speed** can be read as a manifestation of **changing scales** rather than as a separate kinematic boundary. This is an *interpretation*, not a new prediction — the observable consequences remain those of special relativity.
 
 * **Relativity of time and scale**: The **scaling effects** inherent could mean that, as objects approach relativistic speeds, the scales of both time and space **adjust continuously**. What appears to be an asymptotic limit from our perspective might be **reinterpreted as a function of scaling dynamics**, rather than a hard, immutable boundary. This could provide new insights into the interplay between **mass, energy, and time** at relativistic speeds.
 
@@ -25,4 +25,4 @@ The **model**, with its focus on the **scaling** of physical phenomena, opens up
 
 In this view, the **resistance to acceleration** near light speed is not simply due to the mechanical increase in energy requirements but could also be seen as a **scaling phenomenon**. The universe "scales" time and space to prevent massive objects from reaching light speed, effectively representing the **cosmic speed limit** without the need for new physical laws. This could imply that the **speed of light** itself might be a function of the **universe's scaling parameters**, which could change depending on the **spatial scale** being observed.
 
-Connecting **ISE** with the relativistic effects of **approaching light speed** presents a new way to view **time dilation** and the energy required for acceleration. The closer one gets to light speed, the **slower time moves**, and thus, energy requirements for further acceleration grow exponentially. However, in the context of **ISE**, this could be seen not just as an energy limit but as a **scaling effect** inherent to the nature of time and space, offering fresh perspectives on how **relativity** might operate at the most extreme scales.
+Read through a scaling lens, **time dilation** and the growing energy cost of acceleration near light speed remain exactly as special relativity describes them — energy requirements rise without bound as $v \to c$ — but can additionally be interpreted as a **scaling effect** tied to how time and space transform between frames.

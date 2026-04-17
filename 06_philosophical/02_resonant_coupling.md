@@ -3,11 +3,11 @@
 
 ## **6.2. Emergent Sequentiality through Resonant Coupling**
 
-In the framework, time does not exist as a fundamental dimension. Instead, the perceived order of events emerges from the resonance relationships between differentiating scale structures. This explores how the illusion of temporal sequences arises, using the example of photon emission, transit, and absorption.
+Under a relational reading of time, sequentiality need not be fundamental. Perceived order can instead be interpreted as emerging from resonance relationships between differentiating scale structures. The following explores how apparent temporal sequences may arise this way, using photon emission, transit, and absorption as a working example.
 
 **The Illusion of Sequence**
 
-What is commonly interpreted as a linear chain of events — such as a photon being emitted, traveling through space, and being absorbed — is, in the model, not a temporal progression but a resonant structure. The events are not causally chained across time, but are synchronously configured within a resonance field spanning multiple scales.
+What is commonly interpreted as a linear chain of events — such as a photon being emitted, traveling through space, and being absorbed — can also be read as a resonant structure rather than a strictly temporal progression. In this reading, the events are not causally chained across time but are synchronously configured within a resonance field spanning multiple scales.
 
 Each of these three phenomena:
 
@@ -33,7 +33,7 @@ Classically, the emission of a photon from an atom, its movement through space, 
 
 Emission → Travel → Absorption
 
-ISE rejects this framing. Instead, these are simultaneous resonance interactions across different scales:
+A resonance-based reading reframes these stages as simultaneous interactions across different scales:
 
 * The **emitter** resonates at a certain configuration of energy differentiation.  
 * The **space** between does not carry the photon as an object, but provides the coupling field for resonance.  
@@ -51,6 +51,6 @@ Therefore:
 * Order is **scale-relative and observer-dependent**.  
 * All observed temporal sequences are **internal constructs** of localized resonance.
 
-The framework eliminates fundamental time by redefining order as emergent from scale resonance. Events do not follow each other; they **co-occur structurally** within a resonant field. Photon emission, travel, and absorption do not form a chain but a triadic pattern of mutual resonance. The observer's sense of temporal sequence is not a perception of time, but a function of resonance-phase compatibility within their perceptual scale.
+Treating order as emergent from scale resonance sidesteps the need for fundamental time. In this reading, events do not follow each other but **co-occur structurally** within a resonant field; photon emission, travel, and absorption form a triadic pattern of mutual resonance rather than a chain. The observer's sense of temporal sequence can then be interpreted as a function of resonance-phase compatibility within their perceptual scale.
 
-Thus, what appears to be causal flow is, in truth, a stabilized resonance topology interpreted as temporal order.
+On this interpretation, what appears as causal flow corresponds to a stabilized resonance topology read as temporal order.

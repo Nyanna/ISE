@@ -15,7 +15,7 @@ Thus, if we were able to detect the smallest measurable excitation of this gravi
 
 **Observer-Dependent Quantization:**
 
-In this view, which aligns closely with the **ISE theory**, quantization is not something fundamentally intrinsic to reality but rather an effect of how we observe and measure the universe. This means that what we perceive as a graviton is a **phenomenon of observation**.
+Under this reading, quantization need not be treated as intrinsic to reality; it can instead be interpreted as an effect of how the universe is observed and measured. What we label a graviton would then be a **phenomenon of observation**.
 
 If we could reach a certain sensitivity to detect the smallest quantum fluctuations of the gravitational field, we could interpret those fluctuations as gravitons — not because they fundamentally exist, but because we **define** them as such based on how we measure gravitational interactions.
 

@@ -3,7 +3,7 @@
 
 The paradox of **light speed** in relation to itself arises from the fact that **nothing faster than light exists**, making it impossible to measure light against anything more fundamental or faster. In essence, the speed of light becomes a **self-referential standard**, a fundamental constant that can only be measured **in relation to itself**. This creates a paradox where light's speed is simultaneously the most precise and the most arbitrary measure, because there is nothing else against which to compare or benchmark it.
 
-In the model, the speed of light represents a **resolution limit** — a measure of **how precisely we can quantize light** in our observations and calculations. It’s like a built-in accuracy parameter, setting the boundary for how we interact with and interpret the fundamental structure of the universe. The speed of light isn't just a physical speed; it's the **limit of our ability to measure**, a threshold for how the universe differentiates energy into observable forms like photons.
+Read through a scale-oriented lens, the speed of light can also be interpreted as a **resolution limit** — a measure of how finely light-based observations resolve energy states. It acts as a built-in accuracy parameter, setting a practical boundary on how we interact with and interpret the fundamental structure of the universe. In this reading, the speed of light is less a kinematic speed than a **limit of measurability**, a threshold for how energy is differentiated into observable forms like photons.
 
 **Light Speed as a Self-Closed Measure**
 
@@ -50,7 +50,7 @@ The alternative hypothesis argues that photons become **effectively faster** und
 * In the observer’s accelerated frame near the horizon, the same photon is measured as if it carries the energy of two photons — an additive effect that mimics a doubling of arrival rate.  
 * This can be read as evidence that photons are not ontological particles moving strictly at $c$, but rather **energy quanta** whose perceived velocity depends on the resolution scale of the detector.
 
-In this framework, $c$ is not a universal dynamical limit but a **measurement constant**: the maximum rate at which the detector can register interactions in its own eigen-time. Thus, when the detector measures more interactions per proper time, it perceives the quanta as moving faster, even though the standard relativistic interpretation confines all propagation to $c$.
+Under this alternative reading, $c$ is treated less as a universal dynamical limit and more as a **measurement constant**: the maximum rate at which the detector can register interactions in its own eigen-time. When the detector measures more interactions per proper time, it would then perceive the quanta as moving faster, even though the standard relativistic interpretation confines all propagation to $c$.
 
 **Consequences**
 
@@ -221,11 +221,11 @@ Mainstream Physics
 * **t** (proper time) is relative, depending on the observer’s frame.  
 * Consequence: speed of light remains unchanged, time stretches or contracts.
 
-ISE View
+Scale-Oriented Reading
 
-* **t** is the only physically real, measurable constant: every system experiences its proper time identically.  
-* **c** is derived: it only describes the relation between space and proper time in our measurement framework.  
-* When frames transform (gravity, motion), **c** varies effectively, not $t$.
+* **t** (proper time) is taken as the primary measurable invariant: every system experiences its proper time identically.  
+* **c** is then derivative — a relation between space and proper time within a given measurement frame.  
+* Under frame transformations (gravity, motion), **c** varies effectively, while $t$ remains the reference scale.
 
 Consequence
 
@@ -297,9 +297,9 @@ Consequence
 
 Image
 
-* Standard: “Time bends due to space.”  
-* ISE view: “Space is a projection of time translations.”  
-* Motion is always **time flow plus spatial co-translation**.
+* Standard image: “Time bends due to space.”  
+* Scale-oriented image: “Space is a projection of time translations.”  
+* Motion then reads as **time flow plus spatial co-translation**.
 
 **Raw Scale**
 
@@ -307,14 +307,14 @@ This represents the raw form of the scale mechanism of the ISE. An expansion of 
 
 Time as Translational Movement
 
-* In the ISE view, **time is not a neutral measure**, but the **translation of patterns** when a scale shifts or expands.  
-* Every relative motion = **scale change** = progression of time.
+* Read through the scale lens, time functions less as a neutral measure and more as the **translation of patterns** when a scale shifts or expands.  
+* Every relative motion then corresponds to a **scale change** and to a progression of time.
 
-Connection to ISE
+Connection to the Scale Picture
 
-* ISE states: everything is **scale expansion/differentiation**.  
-* A “motion” in space is merely the local projection of a **scale change**.  
-* Time is the raw form of this dynamic: the continuous pushing forward of the pattern.
+* The underlying picture treats phenomena as **scale expansion/differentiation**.  
+* A “motion” in space then reads as the local projection of a **scale change**.  
+* Time appears as the raw form of this dynamic: the continuous pushing forward of the pattern.
 
 Consequence
 
@@ -330,7 +330,7 @@ Image
 
 **Minkowski Projection**
 
-Minkowski spacetime is only the projective surface of the scale mechanism of the ISE.
+Minkowski spacetime can be read as the projective surface of the underlying scale mechanism.
 
 Starting Point: Minkowski
 
@@ -462,8 +462,8 @@ Transformations
 
 Energy Conservation
 
-* In mainstream: no global energy conservation in curved spacetime.  
-* In this model: energy changes are **directly attributable to the ratio of local scale rates** → clarifying *where* the delta comes from (the scale field).
+* In mainstream GR: no global energy conservation in curved spacetime.  
+* In the scale-based reading: energy changes can be **directly attributed to the ratio of local scale rates** → indicating *where* the delta would come from (the scale field).
 
 Causality
 
@@ -578,7 +578,7 @@ The standard assumption “photon number is invariant” is strictly embedded in
 * With frequency change it becomes clear: the same wave can be counted as a constant number of high-energy quanta or as an increasing number of low-energy quanta.  
 * Thus photon number is **scale-relative** – and the standard assumption, if generalized, leads to self-contradiction.
 
-Another consequence is the negation of quantization altogether and its unveiling as a scale phenomenon of measurement. This is a proof for the ISE.
+A further consequence is that quantization itself can be reread as a scale phenomenon of measurement. This reading aligns with the ISE interpretation.
 
 **Negation of Quantization**
 
@@ -592,12 +592,12 @@ Another consequence is the negation of quantization altogether and its unveiling
 * If the time resolution shifts, the counting method shifts as well.  
 * Quantization is therefore a **scale phenomenon**: it only appears because we cut the continuity of energy into grid packets.
 
-**Proofline for the Infinite Scale Expansion**
+**Consistency with Infinite Scale Expansion**
 
-* The ISE asserts that every structure is **scale-relative**, i.e. no absolute particle nature or limit exists.  
-* The photon argument shows exactly this:  
+* A core premise of ISE is that structure is **scale-relative**, with no absolute particle nature or fixed limit.  
+* The photon argument is consistent with this reading:  
   * “Quanta” dissolve as soon as the scale frame shifts.  
-  * The supposedly fundamental quantization is nothing more than a measurement-scale effect.  
-* Thus quantization is not only relativized, but exposed as an **illusory byproduct of scale resolution**.
+  * The apparently fundamental quantization then appears as a measurement-scale effect.  
+* Under this interpretation, quantization is relativized and read as a **byproduct of scale resolution** rather than an intrinsic property.
 
-The assumption of photon number invariance is not only false, it reveals that quantization itself has no fundamental reality. This provides direct support for the ISE: everything considered “discrete” is the result of a scale projection – not of nature itself.
+If photon-number invariance is taken as a convention rather than a datum, the apparent discreteness of quantization can be read as a measurement-scale effect. This is consistent with the ISE reading in which “discrete” structure reflects a scale projection rather than an intrinsic property of nature.

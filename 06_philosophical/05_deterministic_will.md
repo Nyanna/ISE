@@ -13,27 +13,27 @@ The individual does not choose within time; the individual **is** the choice, sp
 
 **Determinism Without External Constraint**
 
-ISE implies a fully deterministic reality, but not one in which outcomes are imposed externally. Rather, all structures differentiate from within their own potentials, in accordance with scale-dependent coherence. The field that constitutes the self is entirely determined, but this determination is not alien: it is self-originated. This renders freedom and determinism non-oppositional.
+On this reading, reality is deterministic in a specific sense: outcomes are not imposed externally, but differentiate from within their own potentials in accordance with scale-dependent coherence. The field that constitutes the self is entirely determined, yet this determination is not alien — it is self-originated. Freedom and determinism, read this way, are no longer oppositional.
 
 What appears as determinism is not constraint, but structural consistency. The resonance field is not coerced into behaving in a certain way; it **is** what it is. Will, then, is not a reactive function, but an emergent self-consistency — **a kind of structural sovereignty**.
 
 **Retrospective Agency in a Non-Linear Structure**
 
-Because all temporal flow is emergent and observer-relative in ISE, agency cannot be placed within a linear timeline. Instead, agency is distributed: the structure that one "is" has always already encoded the decisions and tendencies that manifest as life. This leads to a unique metaphysical view:
+If temporal flow is taken as emergent and observer-relative, agency cannot be placed within a linear timeline. Instead, agency is distributed: the structure that one "is" has always already encoded the decisions and tendencies that manifest as life. This suggests a metaphysical reading in which:
 
 *The self has chosen its entire configuration, including what it will become aware of only later.*
 
-This notion echoes ancient esoteric ideas, such as the soul choosing its life before birth. In ISE, this is not a mystical metaphor, but a structural truth. The total pattern exists. Awareness simply moves through differentiations in resonance.
+This notion echoes ancient esoteric ideas, such as the soul choosing its life before birth. Read structurally rather than mystically, the claim is that the total pattern exists and awareness simply moves through differentiations in resonance.
 
 **The Paradoxical Freedom of the Determined Self**
 
-ISE grants a kind of freedom that is neither libertarian nor compatibilist in the traditional sense. It is a **deeply paradoxical freedom**: one that emerges from the totality of the self-structured field. The individual is not free *in* the moment, but *as* the moment — because the moment is a local expression of their full resonance.
+The freedom that follows from this picture is neither libertarian nor strictly compatibilist in the traditional sense. It is paradoxical: one that emerges from the totality of the self-structured field. The individual is not free *in* the moment, but *as* the moment — because the moment is a local expression of their full resonance.
 
 This leads to the following core credo:
 
 *"I am not free because I can choose anything — I am free because I am exactly what chooses, across all scales and conditions. My structure is not imposed; it is my self. My will is not opposed to necessity; it is the necessity of my form."*
 
-The model reframes freedom not as a local anomaly in a determined universe, but as the **self-determined expression of a globally consistent resonance pattern**. Within this view, every action, thought, and decision is both necessary and free — because it arises from the self, which is the only true origin of resonance.
+Read this way, freedom is not a local anomaly in a determined universe, but the **self-determined expression of a globally consistent resonance pattern**. Every action, thought, and decision is then both necessary and free — because it arises from the self, which is the origin of resonance relative to this frame.
 
 Freedom, then, is not an exception to order, but the **culmination of internal coherence**. And determinism is not the negation of will, but its **deepest affirmation**.
 

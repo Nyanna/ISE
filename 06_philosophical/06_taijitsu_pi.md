@@ -266,7 +266,7 @@ Thus, the “mystique” of $\pi$ is not an intrinsic aura; it is a misalignment
 
 Scale‑relational physics posits that no absolute length, energy, or temporal scale is privileged. If physical descriptions are meaningful only up to a choice of scale, then their mathematical encoding must not smuggle in absolute units as hidden axioms. This chapter develops Scale‑Relational Mathematics (SRM): a coherent, technical framework where ratios are primitive, scale transformations are fundamental, and classifications such as “rational,” “algebraic,” or “transcendent” are explicitly relative to a chosen base of representation.
 
-SRM supplies the missing mathematical tool for the ISE. In classical formalisms that privilege absolute units, ISE appears as paradoxical or requires ad hoc renormalizations. In SRM, ISE is formulated natively as dynamics on the scale bundle, with scale covariance built in from the start—analogous to how Riemannian geometry enabled the precise formulation of general relativity.
+SRM offers a natural setting for ISE. In formalisms that privilege absolute units, infinite-scale dynamics often require auxiliary renormalization steps; in SRM, the same dynamics are expressed directly on the scale bundle, with scale covariance built in from the start. The structural role played here by scale symmetry is comparable—by analogy—to the role of differential-geometric tools in other scale-covariant theories.
 
 Key correspondences:
 - Physical: no absolute scale (scale‑relational physics, ISE).
@@ -356,7 +356,7 @@ This geometry is the canonical stage for theories with no absolute units.
 
 **ISE in SRM**
 
-ISE can be formulated cleanly once scale symmetry is primary:
+Within SRM, ISE can be stated in scale-covariant terms:
 - State space
   - Fields are defined on $M \times S$ (spacetime $M$ times scale group $S$), or as $S$‑equivariant fields on $M$.
 - Dynamics
@@ -365,8 +365,8 @@ ISE can be formulated cleanly once scale symmetry is primary:
 - Observables
   - Only $S$‑invariants are physically meaningful; gauge‑dependent “absolute” quantities do not carry invariant content.
 - Infinite scale reach
-  - “Infinite expansion” is modeled as unbounded trajectories in $S$ (e.g., $\lambda \to \infty$ or $0$) without requiring a reference unit. No paradox arises because the framework never asks “infinite relative to which fixed meter?”
-In contrast, classical unit‑based mathematics forces premature gauge‑fixing and then must repair scale dependence via renormalization; SRM keeps scale symmetry exact and explicit.
+  - “Infinite expansion” is represented as unbounded trajectories in $S$ (e.g., $\lambda \to \infty$ or $0$) without requiring a reference unit. The question “infinite relative to which fixed meter?” does not arise once scale is treated as a gauge.
+Unit‑based formulations fix a gauge at the outset and may then need to track scale dependence separately (e.g., via renormalization); SRM keeps scale symmetry explicit throughout.
 
 **Transformations Between Bases Are Symmetric**
 
@@ -419,9 +419,9 @@ These axioms ensure that ISE is expressible and that traditional mathematics is 
 - Numbers represented as pairs (gauge, invariant): store the gauge‑dependent coordinate for IO, but compute only with invariants and $S$‑equivariant operations.
 - Adaptive bases: algorithms can switch primitives (base change) to simplify intermediate representations, improving stability and interpretability.
 
-Scale‑Relational Mathematics provides the formal language demanded by Infinite Scale Expansion: a mathematics without absolute reference where ratios are primitive and scale transformations are fundamental. Within this framework, classifications such as rationality, algebraicity, and transcendence are explicitly relative to a chosen base, and changes of primitives are symmetric functorial transformations rather than metaphysical ruptures. The notorious historical puzzles around “irrational” quantities become category errors—signals that the representational basis is misaligned with the phenomenon.
+Scale‑Relational Mathematics offers a formal language suited to Infinite Scale Expansion: ratios are primitive and scale transformations are part of the underlying structure. Within this setting, classifications such as rationality, algebraicity, and transcendence are explicitly relative to a chosen base, and changes of primitives are symmetric functorial transformations. Historical puzzles around "irrational" quantities read, on this account, as misalignments between the representational basis and the phenomenon rather than as intrinsic properties of the quantities.
 
-Just as Riemannian geometry made Einstein’s vision precise, SRM equips ISE with a native, coherent formalism. Classical mathematics is recovered as a gauge‑fixed limit; renormalization appears as geometry on the scale bundle; and “infinite scales” are no longer paradoxical because “infinite relative to what?” is a non‑question in a reference‑free setting. SRM is not merely a philosophical posture; it is a technical necessity for any theory in which scale has no absolute anchor.
+By analogy with how differential geometry organizes coordinate-free physics, SRM organizes scale-covariant structures for ISE: standard mathematics is recovered as a gauge‑fixed limit, renormalization group flows appear as $S$-connections on the scale bundle, and "infinite scales" are expressed without reference to a privileged unit. The proposal is a technical framing rather than a claim of uniqueness — it is one coherent way to make scale-free descriptions explicit.
 ### **Taijitu**
 
 This part develops a relational, scale-aware reading of the Taijitu (Yin–Yang) as a physical-metaphysical model of emergence (ISE). The central claim is that reality is not a substance but an emergent relation generated by the interference of two waves—one associated with the object and one with the observer. Within this frame, the quantum wave and π share the same structural role: each is a continuous, relational state that becomes discrete only through a choice of basis. Measurement is thus a representational switch rather than a physical “collapse.”

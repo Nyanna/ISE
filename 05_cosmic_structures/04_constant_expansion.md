@@ -27,7 +27,7 @@ This could explain why we observe distant galaxies moving away more quickly: itâ
 
 **Relativity of Time and Space**
 
-In this framework, the expansion rate of the universe is no longer directly tied to the passage of time as we experience it, but rather **time and space work together** in a more nuanced manner:
+Under this interpretation, the expansion rate of the universe is no longer directly tied to the passage of time as we experience it, but rather **time and space work together** in a more nuanced manner:
 
 * Space expands uniformly, but **our experience of time distorts** as we move between regions of different potential energy states or over cosmic epochs.
 

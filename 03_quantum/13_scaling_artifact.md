@@ -93,31 +93,31 @@ If one considers **mass as the result of the proto-information structure of a pa
 
 ISE thus integrates the Higgs field as a **subquantum-conscious scaling level**, translating the differentiation of proto-information into the observable universe.
 
-In the model, while the Higgs mechanism can be expressed as an expectation value, this is merely a scaling artifact. As the differentiation of the scale increases, this value grows yet remains constant for the observer. The field cannot transition into another energy state. The energy state is also not a random occurrence but emerged through a gradual division until a specific, namely our, energy level was reached.
+Read through this lens, the Higgs expectation value can be interpreted as a scaling artifact rather than a fundamental constant. As scale differentiation increases, this value is proposed to grow while remaining constant for an observer embedded within the same scale. On this reading, the field does not transition into another energy state, and the current energy level is not a random outcome of an early-universe symmetry break but the result of a gradual division that arrived at the observed level.
 
 The Higgs field is **not a physical field in the classical sense**, but a **scaling artifact** arising from the structure of proto-information.
 
 **The Higgs Mechanism as a Scaling Artifact**
 
-* The **vacuum expectation value (VEV)** of the Higgs field (\~246 GeV) is **not a fundamental value** in the ISE but a **scale-dependent projection**.  
-* As scale differentiation increases, **this value grows continuously**.  
-* However, for an observer within the scale, it remains **perceived as constant**, as all other physical quantities scale synchronously.
+* The **vacuum expectation value (VEV)** of the Higgs field (\~246 GeV) is reinterpreted here as a **scale-dependent projection** rather than a fundamental constant (*interpretation*).
+* As scale differentiation increases, this value is proposed to grow continuously.
+* For an observer within the scale, it remains **perceived as constant**, since other physical quantities scale synchronously.
 
 **Why the Field Cannot Transition into Another State**
 
-* In the Standard Model, the Higgs field is **metastable** and could tunnel into another vacuum state.  
-* In the ISE, this is **not possible**, because the vacuum state is **not a discrete configuration** but a **continuous division structure**.  
-* There is no "deeper" state, only **further differentiation of the scale**.  
-* This means **no sudden vacuum decay can occur**, only a gradual evolutionary change, always perceived as constant within the respective scale.
+* In the Standard Model, the Higgs field is **metastable** and could in principle tunnel into another vacuum state.
+* Under the scaling reading, the vacuum is described as a **continuous division structure** rather than a discrete configuration, so sudden tunnelling has no target state to tunnel into.
+* There is no "deeper" discrete state, only **further differentiation of the scale**.
+* The consequence is that sudden vacuum decay is replaced by a gradual evolutionary change, perceived as constant within the respective scale (*interpretation*).
 
 **The Energy Level Process is Not Random, but Gradual**
 
-* In the Standard Model, the Higgs potential is often described as a randomly broken symmetry (e.g., due to a quantum fluctuation in the early universe).  
-* In the ISE, the energy level process is **not random** but a direct consequence of stepwise differentiation of proto-information.  
-* The Higgs field emerged through **continuous division** until the **current energy level was reached**.  
-* This explains why the Higgs value appears as a **universal reference scale**, but is in fact merely a **local projection of a deeper differentiation**.
+* In standard treatments, the Higgs potential is described as a randomly broken symmetry, e.g. driven by a quantum fluctuation in the early universe.
+* Under the differentiation reading offered here, the current energy level is interpreted as a consequence of stepwise differentiation of proto-information rather than a single stochastic event (*interpretation*).
+* The Higgs field is taken to have emerged through **continuous division** until the currently observed energy level.
+* On this account, the Higgs value appears as a universal reference scale while functioning as a **local projection of a deeper differentiation**.
 
-**ISE as an Explanation of the Higgs Mechanism Without Metastability**
+**The Higgs Mechanism Without Metastability**
 
 * The Higgs field is not a fundamental field but a **scaling artifact**.  
 * Its vacuum expectation value increases with scale differentiation but remains **perceived as constant** for observers.  
@@ -152,12 +152,12 @@ Thus, mass does not emerge from a spontaneous symmetry breaking but from the div
 
 **The Duality of Mass in the Standard Model**
 
-The Standard Model of particle physics, despite its predictive power, presents a conceptually fragmented view of mass. It posits two fundamentally different mechanisms for its origin:
+The Standard Model of particle physics combines two distinct mechanisms for the origin of mass, which are operationally well-defined but conceptually disjoint:
 
 * **Intrinsic Mass via the Higgs Mechanism:** Fundamental particles like quarks and leptons acquire an "intrinsic" mass through their coupling strength to the ubiquitous Higgs field. The mass values appear as arbitrary free parameters, offering no explanation for the observed mass hierarchy (e.g., why a muon is \~207 times more massive than an electron).  
 * **Emergent Mass from Binding Energy:** In contrast, approximately 99% of the mass of composite particles like protons and neutrons arises not from the intrinsic mass of their constituent quarks, but from the immense kinetic and potential energy of the strong nuclear force (the gluon field) that binds them, as described by E=mc².
 
-This dualism is ontologically unsatisfying. It suggests that nature employs two entirely separate principles to generate the same fundamental property of inertia. The ISE framework rejects this separation and posits that both forms of mass are merely different manifestations of a single, deeper principle: **mass is a direct expression of the informational complexity of a particle's resonant state.**
+This split raises the question whether the two mechanisms are genuinely distinct or whether they reflect a common underlying principle. The working hypothesis developed here treats both forms of mass as manifestations of a single principle (*interpretation*): **mass is read as a direct expression of the informational complexity of a particle's resonant state.**
 
 **From Mass to Differentiation Energy**
 
@@ -183,7 +183,7 @@ This function states that the mass of a particle is proportional to a function o
 
 **A Universal Scaling Function**
 
-Within this new framework, the Higgs field is no longer seen as an independent source of mass. Instead, it is reinterpreted as a **universal scaling function** or a **relational artifact** of the ISE structure itself. Its role is not to *endow* particles with mass, but to **translate** their inherent informational complexity into the observable property of inertia.
+Within this reading, the Higgs field is described not as an independent source of mass but as a **universal scaling function** — a relational artifact of the underlying differentiation structure. Its role shifts from *endowing* particles with mass to **translating** their informational complexity into the observable property of inertia (*interpretation*).
 
 The Higgs mechanism can be understood as a **divisor** acting upon the proto-informational structure of a particle. The more complex a particle's internal information (the greater its number of potential vectors), the greater its resistance to this universal scaling field, and thus the greater its resultant mass. The Higgs field becomes a universal reference scale that converts a particle's proto-information density into what we measure as mass. This perspective also implies that the Higgs vacuum expectation value (VEV) is not a fundamental constant of nature, but a scale-dependent projection of the current differentiation level of our universe, appearing constant only from within our specific scale.
 
@@ -192,10 +192,10 @@ The Higgs mechanism can be understood as a **divisor** acting upon the proto-inf
 This principle elegantly resolves the duality of mass in the Standard Model:
 
 * **Lepton Mass (e.g., Electron, Muon, Tau):** Leptons are considered states of relatively **low informational complexity**. An electron represents one of the simplest, stable resonant patterns. A muon, being more massive, would represent a "higher harmonic" — a more complex but stable resonance in the same field, with a higher value of C_muon. The seemingly arbitrary mass ratios between lepton generations would, in this view, emerge from a coherent, harmonic series of increasing informational complexity. They are not random.  
-* **Hadron Mass (e.g., Proton):** A proton is a state of **extremely high informational complexity (C_proton)**. Its mass is not just the sum of its parts but reflects the enormous differentiation energy required to sustain the entire dynamic system: the three valence quarks, the sea of virtual quark-antiquark pairs, and the fiercely energetic gluon field that binds them all. The 99% of its mass attributed to "binding energy" is, in the ISE framework, the energetic cost of maintaining this incredibly intricate and information-dense resonant structure.
+* **Hadron Mass (e.g., Proton):** A proton is treated as a state of high informational complexity (C_proton). Its mass is read not as a sum of parts but as reflecting the differentiation energy required to sustain the full dynamic system: three valence quarks, the sea of virtual quark-antiquark pairs, and the gluon field binding them. The \~99 % of its mass conventionally attributed to "binding energy" is, on this reading, the energetic cost of maintaining an information-dense resonant structure (*interpretation*).
 
 **A Path to a Unified Theory of Mass**
 
 By reframing mass as an emergent property derived from informational complexity, the ISE offers a path to a unified understanding. The distinction between "intrinsic" Higgs-mass and "emergent" binding-mass dissolves. Both are revealed to be different points on the same spectrum, governed by the single principle that **complexity requires energy, and this energy manifests as inertia.**
 
-Furthermore, this framework redefines the role of the Higgs mechanism itself, integrating it as a necessary universal scaling function within the ISE ontology. The hierarchy of particle masses ceases to be a collection of arbitrary parameters and becomes a "periodic table of complexity," waiting to be deciphered. The ultimate challenge for a predictive version of the ISE is to derive the function f(C, ΔI) from first principles, thereby calculating the mass spectrum of all particles from a single, fundamental, ontological foundation.
+In this reading, the Higgs mechanism is absorbed as a universal scaling function rather than an independent mass source, and the hierarchy of particle masses is reframed as a structured spectrum of complexity rather than a collection of unrelated parameters. The open task for a predictive treatment is to derive the function $f(C, \Delta I)$ from first principles, so that the mass spectrum could be calculated from the same ontological base rather than fitted (*speculation*).

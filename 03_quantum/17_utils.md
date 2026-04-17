@@ -3,7 +3,7 @@
 
 ## **3.17. Ultimate Utilitarianism**
 
-This chapter outlines a time-and-causality program within a theory-of-everything (TOE) that rejects substances, media, and pre-given spacetime. The proposed model takes relational gradient patterns—“wobbles”—as the sole primitives. Wobbles are non-substantial, infinitely fine-grained structures whose only “being” is relational. Observation is modeled as the interference of a “gradient wobble” with an “observer wobble,” neither of which exists as a thing, nor in a medium such as space or time. What exists is a projection: an act of individuation that yields a combined interference pattern. This pattern extends in a strict relation to its seed configuration, generating what appears as a causal sequence. The apparent temporal order and spatial separation are emergent artifacts of how projections differentiate and align relational structures across scales. There is no ontological “now,” only an abstract equivalence relation over congruent patterns; the interference structure “continues” without a medium of continuation, and “simultaneity” merely names the absence of an imposed ordering. Time and space are not entities; they are the organized shadows cast by scale-dependent projection on an underlying, non-substantial relational manifold.
+This chapter outlines a time-and-causality program within a theory-of-everything (TOE) reading that treats substances, media, and pre-given spacetime as derived rather than primitive. Relational gradient patterns—“wobbles”—are taken as the sole primitives of this sketch. Wobbles are non-substantial, infinitely fine-grained structures whose only “being” is relational. Observation is modeled as the interference of a “gradient wobble” with an “observer wobble,” neither of which exists as a thing, nor in a medium such as space or time. What exists is a projection: an act of individuation that yields a combined interference pattern. This pattern extends in a strict relation to its seed configuration, generating what appears as a causal sequence. The apparent temporal order and spatial separation are emergent artifacts of how projections differentiate and align relational structures across scales. There is no ontological “now,” only an abstract equivalence relation over congruent patterns; the interference structure “continues” without a medium of continuation, and “simultaneity” merely names the absence of an imposed ordering. Time and space are not entities; they are the organized shadows cast by scale-dependent projection on an underlying, non-substantial relational manifold.
 
 **Core Structure Without Substance**
 
@@ -118,10 +118,10 @@ Projection seems arbitrary, yet scientific projections are highly stable. Resolu
 
 **An “Ultimate Utilitarianism”**
 
-If projection is fundamental, theory choice cannot appeal to correspondence with a projection-independent reality. What remains is pragmatic adequacy:
+If projection is taken as fundamental, theory choice cannot appeal to correspondence with a projection-independent reality. What remains is pragmatic adequacy:
 - Maximize predictivity, compressibility, and cross-scale coherence.
 - Minimize ontic commitments (Ockham at the limit).
-- ISE is optimal insofar as it reconstructs observables as projection effects and explains observability itself.
+- A projection-centred reading is evaluated by how far it reconstructs observables as projection effects and addresses observability itself within the same vocabulary.
 
 **The Impossibility of Substantial Ontology**
 
@@ -134,12 +134,12 @@ Therefore, no projection-independent substantive ontology is coherent. The only 
 
 **A TOE That Denies Its Own Ultimacy**
 
-ISE entails that every theory, including ISE, is a projection. ISE cannot claim to describe “reality as it is.” It can, however, describe the invariant structure of projection itself—constraints on all possible theorizing.
+A consequence of projection ontology is that every theory, the present one included, is itself a projection. The account does not claim to describe “reality as it is”; it describes the invariant structure of projection—constraints that apply to any theorizing conducted in these terms.
 
 Three readings:
 - Radical relativism: all TOEs are equally valid nor invalid (nihilistic endpoint).  
-- Pragmatic minimalism: ISE is most fundamental by maximal parsimony and breadth of unification.  
-- Fixed-point view: ISE captures invariants under the group of admissible projections, mapping the limits of theorization.
+- Pragmatic minimalism: the projection reading is preferred for parsimony and breadth of unification within this program.  
+- Fixed-point view: the formalism aims to capture invariants under the group of admissible projections, mapping the limits of theorization from inside the projection perspective.
 
 **Practical Consequences**
 
@@ -149,7 +149,7 @@ Three readings:
 
 **The Central Paradox Resolved**
 
-ISE does not prove its own reality; it proves that “reality-proofs” are category errors. It asserts a restriction on provability, analogous to self-referential limits in formal systems: “No theory is ultimately real” is a negative claim about epistemic boundaries, consistently self-applicable.
+The projection reading does not prove its own reality; the move is instead to read “reality-proofs” as category errors. What is asserted is a restriction on provability, analogous to self-referential limits in formal systems: “No theory is ultimately real” functions as a negative claim about epistemic boundaries, consistently self-applicable.
 
 **Integrated Three-Pillar Approach to ISE**
 
@@ -191,7 +191,7 @@ These streams interlock:
 
 **IV. Positioning Within Philosophy**
 
-ISE extends Kant by dropping the “thing-in-itself” and exceeds social constructivism by moving construction from human agents to projection as a fundamental operation. It resonates with:
+The projection reading relates to Kant by dropping the “thing-in-itself” and differs from social constructivism in relocating construction from human agents to projection as a structural operation. It resonates with:
 - Relationalism (physics without background structures),
 - Process philosophy (becoming over being),
 - Information-theoretic approaches (structure without substance),

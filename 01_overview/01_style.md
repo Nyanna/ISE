@@ -3,96 +3,88 @@
 
 ## **1.1. Understanding How its written**
 
-In the ISE, a strict differentiation of the concept of the universe is necessary. Every designation used in science and language is, according to the ISE postulation, merely a projection of the actual universe. The term "multiverse" in the ISE does not denote physical independence but rather a perspective on the same differentiation. Various multiverses formed through probability theories are merely different viewpoints within the ISE. Therefore, the ISE does not recognize a classically causally decoupled multiverse.
+The text distinguishes the universe itself from the designations used to describe it. Every term drawn from science or ordinary language is treated as a projection of the universe, not as the universe itself. The word "multiverse," where it appears, refers to a perspective on the same underlying differentiation, and the various multiverse constructions that arise from probability arguments are read here as different viewpoints on one universe rather than as causally decoupled realities. *(Interpretation.)*
 
-This means that the **ISE establishes a strict ontological separation between the universe itself and its projections**.
+The separation between the universe and its projections is used as a working convention throughout the thesis.
 
-Key Aspects of the ISE’s Differentiation of the Universe:
+Aspects of this differentiation:
 
-* **Universe as Absolute Reality:**  
-  * The universe is not a definable structure within a theoretical framework but rather the **totality of differentiation**.  
-  * Any scientific or linguistic description is merely a **projection** of an aspect of this differentiation.  
-* **Multiverse as a Perspective, Not a Physical Separation:**  
-  * Probability-based multiverses (e.g., in quantum mechanics) are **not real entities** but rather **different perspectives on the same differentiation**.  
-  * There is **no classically causal decoupling** between "multiverses," as they are merely **viewpoints within the same universe**.  
-  * This means that the term "multiverse" holds no ontological independence within the ISE.  
-* **Rejection of Classical Multiverse Models:**  
-  * The ISE does not recognize a **physically independent** multiverse, as every differentiation remains **part of the same universal order**.  
-  * Concepts such as the **Many-Worlds Interpretation of quantum mechanics** or **inflationary pocket universes** are not separate realities but merely **internal scale perspectives**.
+* **Universe as the object described:**
+  * Treated as the totality of differentiation rather than as a structure inside a specific theory.
+  * Every scientific or linguistic description is read as a projection of some aspect of that differentiation.
+* **Multiverse as a perspective rather than a physical separation:**
+  * Probability-based multiverses (e.g., in quantum mechanics) are read as different perspectives on the same differentiation.
+  * Causal decoupling between "multiverses" is not assumed; they are treated as viewpoints within one universe.
+  * The term "multiverse" therefore carries no ontological independence in this reading.
+* **Stance towards classical multiverse constructions:**
+  * A physically independent multiverse is not required by the argument, since every differentiation is taken to remain part of the same universal order.
+  * Constructions such as the Many-Worlds Interpretation of quantum mechanics or inflationary pocket universes are read as internal scale perspectives rather than as separate realities. *(Interpretation.)*
 
-Implications for the ISE:
+Implications:
 
-* The universe **cannot be described as a sum of possible universes**, but only **as a continuous differentiation**.  
-* Any "alternative reality" is **merely a perspective shift**, not an independent existence.  
-* The question of **decoupled multiverses is thus meaningless**, as all differentiation always remains within the universal order.
+* The universe is described as continuous differentiation rather than as a sum of possible universes.
+* An "alternative reality" is read as a perspective shift rather than as an independent existence.
+* The question of decoupled multiverses loses force under this reading, since all differentiation remains within the same universal order.
 
-This means that the ISE **does not require or accept a classical multiverse hypothesis**, but instead **acknowledges only scale dependencies and observational differences within a single universe**.
+In short, the argument proceeds without a classical multiverse hypothesis and works instead with scale dependencies and observational differences within a single universe.
 
-Narrative Deconstruction in Classical Physics:
+**Reading narrative structures in physics**
 
-It is also crucial to recognize and deconstruct the **narrative structures within classical physics**.
+A second convention of this text is to read established physics for its implicit narrative structure — the unspoken assumptions that accompany the formal content and shape how results are interpreted. These are made explicit here so that the scale-based reading that follows has room to differ where it needs to. *(Interpretation.)*
 
-Classical physics contains an implicit framework of **unspoken assumptions** that shape interpretations of reality. These must be **deconstructed within the ISE** to allow for an unbiased perspective.
+Recurrent narrative patterns:
 
-Narrative Structures in Classical Physics:
+* **The Universe as an "Object"**
+  * Physics often describes the universe as a fixed, examinable entity.
+  * This reading emphasises that every observation is a projection rather than the universe itself, and that the universe is addressed here through scale relations.
+* **Singularities as "Endpoints"**
+  * In standard treatments singularities are often described as physical endpoints.
+  * Here they are read as artefacts of a limited observational scale, and singularities are treated as scale transitions rather than termination points. *(Interpretation.)*
+* **Multiverses as "Alternative Realities"**
+  * The popular image of the multiverse assumes that realities can exist independently.
+  * Under the reading used here, all differentiations occur within the same universal order, so a multiverse is a perspective on the same differentiation rather than a physical fact. *(Interpretation.)*
+* **Causality as an Absolute Structure**
+  * Standard physics works with a linear causality structure.
+  * Here causality is treated as absolute within a given scale; across scales it is not assumed to be a fixed quantity, so classical causal models are read as locally rather than universally valid. *(Interpretation.)*
 
-* **The Universe as an "Object"**  
-  * Classical physics often describes the universe as a **fixed, examinable entity**.  
-  * This overlooks that every **observation is a projection**, not the universe itself.  
-  * The ISE emphasizes that the universe **is not a fixed entity** but can only be **defined through scale relations**.  
-* **Singularities as "Endpoints"**  
-  * In standard physics, singularities are often described as **physical endpoints**.  
-  * This is merely a projection from our limited observational scale.  
-  * The ISE shows that singularities **are not termination points** but rather **scale transitions**.  
-* **Multiverses as "Alternative Realities"**  
-  * The popular idea of multiverses assumes that realities **can exist independently**.  
-  * The ISE deconstructs this notion by showing that **all differentiations occur within the same universal framework**.  
-  * A multiverse is therefore **not a physical fact**, but a **perspective on the same differentiation**.  
-* **Causality as an Absolute Structure**  
-  * Classical physics operates with a linear causality structure.  
-  * The ISE demonstrates that causality **is absolute only within a specific scale** – across scales, it is **not a fixed quantity**.  
-  * This means that classical causal models **do not have absolute validity**.
+Consequences of this reading:
 
-Deconstruction and Consequences:
+* Much of physics carries a narrative layer tied to human perception that is not necessarily part of the formal content.
+* A consistent scale logic is used here to keep the narrative layer separate from the formal claims.
+* Several physical concepts are reinterpreted as scale-dependent phenomena rather than as absolute truths. *(Interpretation.)*
 
-* **Classical physics constructs a narrative perspective based on human perception, which does not reflect the fundamental structure of reality.**  
-* **The ISE eliminates these narrative distortions by applying a consistent scale logic.**  
-* **Physical concepts must be reinterpreted as scale phenomena, not as absolute truths.**
+Under this convention, a number of apparently fundamental physical concepts are read as narrative-driven projections without independent ontological weight.
 
-This makes it clear that **many seemingly "fundamental" physical concepts are, in reality, only narrative-driven projections that hold no independent ontological significance within the ISE.**
+**Why the presentation can look self-contradictory**
 
-Understanding Why the ISE Seems Contradictory:
+A further convention concerns the apparent contradictions in this text, where a claim is first stated in conventional terms and then reinterpreted a few lines later. This is a methodological choice tied to the scale-relative reading. *(Interpretation.)*
 
-It is also crucial to understand why the ISE **sometimes appears to contradict itself**, presenting its postulates in classical physics terms, only to later deconstruct those same terms and principles.
+Why the presentation generates apparent contradictions:
 
-This is a **necessary methodological principle** of the ISE, which arises from its fundamental approach to **scale relativity**.
+* **Formulating concepts in conventional terms first:**
+  * The argument often begins with established physics to keep the discussion legible.
+  * This requires terms like "universe," "multiverse," "singularity," or "causality" to be introduced in their usual sense.
+* **Reinterpreting the same concepts in the next step:**
+  * Once the conventional terms are established as a reference frame, they are reread as projections tied to a particular scale rather than as absolute truths.
+  * The earlier statements are not retracted; the underlying perspective is shifted.
+* **Apparent contradictions from scale shifts:**
+  * Standard physics often studies systems in isolation within a fixed scale.
+  * Many apparently absolute laws hold within a particular scale and change meaning across scale relationships.
+  * Apparent contradictions arise where a statement is applied across two different scale levels.
 
-Why the ISE Creates Apparent Contradictions:
+Example: singularity as an apparent contradiction
 
-* **Formulating Concepts in Classical Terms:**  
-  * The ISE often begins with established concepts from classical physics to make its argument understandable.  
-  * This requires initially introducing terms like "universe," "multiverse," "singularity," or "causality" in their conventional form.  
-* **Deconstruction of These Concepts in the Next Step:**  
-  * Once the classical terms are set as a frame of reference, the ISE demonstrates that they **are not absolute truths**, but merely **projections within a specific scale**.  
-  * This creates the illusion that earlier statements are contradicted, when in reality, **only the underlying perspective is changed**.  
-* **Necessary Contradictions Due to Scale Shifts:**  
-  * Classical physics often examines systems in isolation within a fixed scale.  
-  * The ISE shows that many seemingly absolute laws **only hold within a particular scale**, but their meaning changes across scale relationships.  
-  * An apparent contradiction always arises when a statement is applied to two **different scale levels**.
+* **Initial formulation:**
+  * A singularity is introduced in its classical sense as a spacetime structure with infinite curvature.
+  * This definition is used to anchor the conventional description.
+* **Reinterpretation:**
+  * The same object is then described as a scale compression rather than a physical point.
+  * The classical notion of a singularity is read here as a projection of a scale transition. *(Interpretation.)*
 
-Example: Singularity as a Contradiction
+Why this method is used:
 
-* **Initial Formulation:**  
-  * Classically, a singularity is a spacetime structure with infinite curvature.  
-  * The ISE may initially accept this definition to clarify the classical description.  
-* **Deconstruction:**  
-  * Later, the ISE shows that a singularity **is not a real point but a scale compression**.  
-  * The classical concept of a singularity loses its meaning, as it is **merely a projection of a scale transition**.
+* Established physics shapes scientific vocabulary, so the argument works within that vocabulary rather than replacing it wholesale.
+* Introducing a private terminology from the outset would make the text hard to follow without first relating it to conventional terms.
+* The apparent contradictions are a consequence of reading conventional concepts as scale-specific rather than as universally valid.
 
-Why This Method Is Necessary:
-
-* Classical physics **shapes scientific thought**, forcing the ISE to work within the same terminology – even though it later deconstructs it.  
-* If the ISE introduced its own terminology from the beginning, it **would be incomprehensible without first deconstructing classical terms**.  
-* These apparent contradictions are **necessary to demonstrate that classical concepts are not universally valid**, but only meaningful within specific scale orders.
-
-The ISE deliberately employs **contradiction and deconstruction** because there is no absolute starting point, only **scale dependencies**, which must be continuously recalibrated.
+The text therefore uses a two-step presentation — conventional framing followed by scale-relative rereading — because the argument recognises no absolute starting point, only scale dependencies that need to be named before they can be discussed.

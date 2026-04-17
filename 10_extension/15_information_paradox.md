@@ -29,9 +29,9 @@ There is a quantization problem here, and not at the singularity itself. Inward-
 
 **Modern Perspective**
 
-* In quantum gravity (e.g. loop quantum gravity, string theory, or in the ISE framework), it is assumed:  
+* Approaches to quantum gravity (e.g. loop quantum gravity, string theory) and the scale-based reasoning used throughout this thesis share a common assumption:  
   * There exists a minimal scale (Planck length or another fundamental quantization).  
-  * Beyond this scale, nothing is torn apart infinitely; instead, new physics enters (bounce, dissolution of geometry, etc.).
+  * Below this scale, infinite tearing is no longer expected; instead, new physics enters (bounce, dissolution of geometry, etc.).
 
 The statement “inward-directed geodesics would mean an object tears infinitely” is precisely the point where general relativity reaches its limit. Mathematically the theory enforces it, but physically this is accepted as a hint: spacetime itself requires quantization.
 

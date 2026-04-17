@@ -19,7 +19,7 @@ Thus, the observer is simply **the resonant self-structure** of possibility itse
 
 **Observation as Emergent Scalecoherence**
 
-In the model terminology, observation corresponds to a **Scalecoherence** — a coherent alignment across resonant scales. What classical physics labels a "collapse" is understood instead as the **stabilization of scale relationships** within the resonant structure.
+In the terminology introduced here, observation corresponds to a **Scalecoherence** — a coherent alignment across resonant scales. What classical physics labels a "collapse" is, in this reading, the **stabilization of scale relationships** within the resonant structure.
 
 * No measurement occurs.  
 * No external selection happens.  
@@ -56,11 +56,11 @@ Thus, the ISE abandons the anthropomorphic notion of observation entirely, regar
 
 **No Observation, Only Resonance**
 
-In the framework, there is no true observer, no act of measurement, and no collapse event. There is only **the continuous emergent coherence of resonance across scales**, experienced locally as "observation" by resonant configurations mistakenly identifying themselves as entities.
+Under this reading, the categories of "true observer", "act of measurement" and "collapse event" are absorbed into a single description: **the continuous emergent coherence of resonance across scales**, experienced locally as "observation" by resonant configurations that locally identify themselves as entities.
 
 The Universe does not observe itself. It **resonates itself**. Every "observation" is merely a *momentary stabilization of scale-phase relations* within a broader field of self-differentiating resonance.
 
-Thus, the principle historically attributed to the "observer" is retained in the ISE, but stripped of all externality, intentionality, and categorical independence.
+The principle historically attributed to the "observer" is thereby retained, but read without the attributes of externality, intentionality, or categorical independence.
 
 **Observation as Interference, Not Intervention**
 
@@ -124,7 +124,7 @@ The "result" of listening is not a property of either tone. It is a property of 
 
 Copenhagen quantum mechanics correctly predicts measurement statistics because it correctly identifies the **stable resonance modes** of typical observer-system composites. The Born rule — probability equals amplitude squared — captures the projective relationship between the full spectral structure and the observer's finite-bandwidth sampling. What Copenhagen misidentifies is the *ontology*: it treats these projective outcomes as the result of an active collapse of the system's state, when in fact they are properties of the additive composite filtered through the observer's spectral resolution.
 
-The predictions are identical. The understanding is fundamentally different. In Copenhagen, the system is changed by observation. In ISE, the system is unchanged — what exists is a new composite whose properties are jointly determined by both profiles, and whose resolvable structure depends on the observer's bandwidth.
+The predictions are identical; the interpretive reading differs. Where Copenhagen describes the system as changed by observation, the frequency-domain reading treats the system as unchanged — what exists after interaction is a new composite whose properties are jointly determined by both profiles, and whose resolvable structure depends on the observer's bandwidth.
 
 **Entanglement Revisited: Shared Spectral Structure**
 

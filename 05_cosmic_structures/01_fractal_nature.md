@@ -3,9 +3,9 @@
 
 ## **5.1. Fractal Nature: Scale‑Free (Scale‑Relational) Differentiation**
 
-This chapter refines and completes the notion of “fractal” in the ISE framework by making a crucial distinction: the model does not claim literal, one‑to‑one geometrical self‑similarity of concrete objects across all cosmic and microscopic scales. Instead, it asserts a scale‑relational form of self‑resonance: the universe differentiates its energy through recurrent principles that reappear across scales as invariant relations, even while the concrete forms, forces, and effective laws change. In this sense, “fractal” refers to the persistence of organizing principles and scale transformations that preserve key patterns of interaction, not to direct morphological identity between, for example, a galaxy and an atom.
+This chapter refines the notion of "fractal" as used here by distinguishing it from literal, one‑to‑one geometrical self‑similarity of concrete objects across cosmic and microscopic scales. The intended reading is scale‑relational self‑resonance: the universe differentiates its energy through recurrent principles that reappear across scales as invariant relations, even while concrete forms, forces, and effective laws change. In this sense, "fractal" refers to the persistence of organizing principles and scale transformations that preserve key patterns of interaction, not to direct morphological identity between, for example, a galaxy and an atom.
 
-Within ISE, “expansion” is interpreted as the continuous differentiation of potential energy into structured modes at all scales. The universe resonates with itself through cascades of scale, producing patterns that are intermittently self‑similar: the same principles are re‑expressed in different forms at different resolutions. Assuming, as a working hypothesis of ISE, that space and energy are indefinitely resolvable, self‑similarity manifests in an unbounded hierarchy, though in a scale‑windowed, intermittent way rather than as exact replication. Time, in this picture, is the process that continuously “zooms” the universe into new regimes of scale, unfolding an effectively unbounded scale‑fractal of structure and relation.
+Within this reading, "expansion" is interpreted as the continuous differentiation of potential energy into structured modes at all scales. The universe resonates with itself through cascades of scale, producing patterns that are intermittently self‑similar: the same principles are re‑expressed in different forms at different resolutions. Under the working hypothesis that space and energy are indefinitely resolvable, self‑similarity manifests in an unbounded hierarchy, though in a scale‑windowed, intermittent way rather than as exact replication. Time, in this picture, is the process that continuously "zooms" the universe into new regimes of scale, unfolding an effectively unbounded scale‑fractal of structure and relation.
 
 **What “Fractal” Means Here—and What It Does Not**
 
@@ -16,13 +16,13 @@ Within ISE, “expansion” is interpreted as the continuous differentiation of 
 
 - What it does not mean:
   - No literal “galaxies are atoms” equivalence. Electrons are not planets; atomic orbitals are quantum stationary states, not miniature solar systems.
-  - No claim that a single law acts identically on all scales. Different degrees of freedom become effective at different scales; ISE emphasizes a unifying generative principle of energy differentiation that expresses itself through scale‑dependent effective laws.
+  - No claim that a single law acts identically on all scales. Different degrees of freedom become effective at different scales; the emphasis here is on a unifying generative principle of energy differentiation that expresses itself through scale‑dependent effective laws.
 
 This distinction resolves the confusion between debunked notions of hard, geometric cosmic–atomic self‑similarity and the valid insight that dynamics can be scale‑recursive in their organizing logic.
 
 **Core ISE Axiom: Differentiation as Expansion**
 
-ISE interprets cosmic “expansion” as the continual differentiation of potential energy into structured modes across scales. Rather than invoking the stretching of space as the fundamental driver, ISE frames the observed redshift–distance phenomena and the hierarchical growth of structure as the outcome of persistent energy differentiation. This is a reinterpretative stance: in standard cosmology, expansion is encoded in the metric scale factor $a(t)$, while ISE emphasizes scale‑relational differentiation as the generative process. Both descriptions can be mapped at the level of observables, but they attribute primacy to different underlying mechanisms.
+Cosmic "expansion" is read here as the continual differentiation of potential energy into structured modes across scales. Alongside the metric picture — in which expansion is encoded in the scale factor $a(t)$ — redshift–distance phenomena and the hierarchical growth of structure can be described as outcomes of persistent energy differentiation. The two descriptions can be mapped onto the same observables; they differ in which underlying mechanism is treated as generative. This is an interpretive stance rather than a derivation from different field equations.
 
 **A Scale‑Relational Formalism (Minimal Scaffolding)**
 
@@ -89,7 +89,7 @@ It is helpful to revisit three archetypal layers while guarding against misleadi
 - Atomic orbitals and electron densities:
   - Atomic structure is quantum mechanical: stationary states are solutions of the Schrödinger equation (or Dirac equation relativistically), producing probability clouds (orbitals) shaped by boundary conditions and symmetries. While not literal fractals, electron densities in extended systems and molecular networks can present multi‑scale features. The unifying element is resonance under constraints: quantized standing waves minimize action subject to potential landscapes, a principle rhyming with pattern selection at macroscales.
 
-Thus, ISE maintains that “the same principles apply” refers to how resonance, differentiation, and constraint drive structure formation, not to identical equations or morphologies across all scales.
+Accordingly, the claim that "the same principles apply" refers to how resonance, differentiation, and constraint drive structure formation, not to identical equations or morphologies across all scales.
 
 **Homogeneity, Isotropy, and the Cosmological Principle Within a Fractal‑Relational View**
 
@@ -98,7 +98,7 @@ Observationally, the universe is well described as homogeneous and isotropic on 
 - On scales $\gtrsim 100\!-\!300\,\mathrm{Mpc}$, galaxy distributions approach homogeneity with small fluctuations; the correlation function flattens, and the fractal description ceases to be informative at leading order.
 - At smaller scales, strong clustering and filamentary structures display scale‑free characteristics over finite windows, consistent with intermittent, multifractal behavior.
 
-ISE reconciles these by emphasizing scale windows: self‑similar dynamics can dominate over ranges of scale while averaging out to homogeneity at larger scales. The Mandelbrot analogy holds only insofar as resolution matters: zoomed‑out views look smooth; zoomed‑in views reveal intricate recurrence. This coexistence is a feature of many fractal–multifractal systems.
+These observations sit together naturally once scale windows are emphasized: self‑similar dynamics can dominate over ranges of scale while averaging out to homogeneity at larger scales. The Mandelbrot analogy holds only insofar as resolution matters — zoomed‑out views look smooth, zoomed‑in views reveal intricate recurrence. This coexistence is a feature of many fractal–multifractal systems.
 
 **Scale‑Free Windows, Characteristic Scales, and Effective Laws**
 
@@ -127,11 +127,11 @@ ISE aligns these views: physical time advances real dynamics that, in turn, trav
 **Precision Claims, Assumptions, and Compatibility Notes**
 
 - Infinite resolvability:
-  - ISE adopts, as a hypothesis, unbounded divisibility of space and energy, enabling an endless cascade of differentiation. This differs from common expectations that a quantum‑gravitational cutoff near the Planck scale may bound resolution. The ISE stance is an intentional modeling choice to foreground scale‑relational behavior.
+  - The working hypothesis here is unbounded divisibility of space and energy, enabling an endless cascade of differentiation. This is a modeling choice that foregrounds scale‑relational behavior; it remains compatible with, and orthogonal to, the possibility of a quantum‑gravitational cutoff near the Planck scale, which would bound the cascade without changing its organizing logic within the resolved range.
 - Forces and carriers:
-  - Gravitational, electromagnetic, weak, and strong interactions dominate in different regimes. ISE does not erase these differences; it asserts that resonance, differentiation, and constraint selection are universal organizing principles that each interaction instantiates according to its effective domain.
+  - Gravitational, electromagnetic, weak, and strong interactions dominate in different regimes. The proposal is that resonance, differentiation, and constraint selection act as shared organizing principles that each interaction instantiates according to its effective domain — not that the interactions themselves are interchangeable.
 - Observational concordance:
-  - Scale‑free windows, multifractal signatures, and intermittent cascades are empirically supported in galaxy clustering, interstellar turbulence, and geophysical/microstructural statistics. Large‑scale homogeneity and characteristic scales (e.g., BAO) are also robustly observed. ISE accommodates both by emphasizing scale windows and crossovers within a unifying generative logic.
+  - Scale‑free windows, multifractal signatures, and intermittent cascades are empirically supported in galaxy clustering, interstellar turbulence, and geophysical/microstructural statistics. Large‑scale homogeneity and characteristic scales (e.g., BAO) are also robustly observed. Both coexist once scale windows and crossovers are treated as part of the same generative logic.
 
 **Practical Diagnostics and Testable Signatures**
 

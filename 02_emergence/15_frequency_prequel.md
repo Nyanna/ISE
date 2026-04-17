@@ -7,7 +7,7 @@
 
 **All Representations Presuppose Structure**
 
-ISE confronts a unique challenge among physical theories: its fundamental ontology — protoinformation and differentiation — cannot be straightforwardly depicted using any conventional mathematical or visual framework because **every framework already assumes differentiated structure**.
+A recurring difficulty arises when any theory attempts to describe pre-structural substrate: the fundamental ontology proposed here — protoinformation and differentiation — cannot be straightforwardly depicted using conventional mathematical or visual tools, because **every such tool already presupposes differentiated structure**.
 
 To describe differentiation, we typically employ:
 
@@ -174,7 +174,7 @@ A **frequency profile** $\mathcal{P}(\omega)$ describes how much differentiation
 
 **All Dimensions as Frequency Bands**
 
-In this framework, what we call "dimensions" are **distinct frequency bands** in the substrate's differentiation spectrum:
+Under this representation, what we call "dimensions" correspond to **distinct frequency bands** within the substrate's differentiation spectrum:
 
 * **Spatial dimensions** → bands encoding relative amplitude (localization information)
 * **Spin** → band encoding rotational phase structure
@@ -282,4 +282,4 @@ This part has established the ontological and representational foundations for I
 
 **The subsequent frequency-domain formalism** builds on these foundations, showing how Standard Model forces, particle properties, and spatiotemporal structure emerge as interference patterns in hierarchically sampled frequency space.
 
-*We proceed with full acknowledgment that this representation, like all representations, is a projection. But it is a projection whose structure mirrors the substrate's differentiation architecture more faithfully than any geometric, algebraic, or dynamical alternative. It is the framework through which ISE makes contact with observable physics while remaining conceptually anchored in its substrate ontology.*
+*We proceed with full acknowledgment that this representation, like all representations, is a projection. Its usefulness here lies in aligning the formal axes (frequency, amplitude, phase) with the substrate's differentiation parameters, which reduces the coordinate-dependent distortions that geometric, algebraic, or dynamical representations tend to carry into the description. It serves as the bridge between the substrate ontology and observable physics used throughout the following chapters.*

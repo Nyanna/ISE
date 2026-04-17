@@ -21,7 +21,7 @@ This alternative view implies that black holes may not only represent endpoints 
 
 **Singularities and Higher Relative Energy Levels**
 
-A **singularity**, like those found in black holes, also contains space but at **incredibly high energy levels** compared to the space we experience. In the model, the relative energy level inside a singularity is so extreme that **its effects** are fundamentally different from what we perceive in our universe, though they still follow the same **principles of energy differentiation**.
+A **singularity**, like those found in black holes, also contains space but at **very high relative energy levels** compared to the space we experience. Interpreted through scale-relative energy differentiation, the energy level inside a singularity is extreme enough that its observable effects differ qualitatively from those in our local regime, while still following the same **principles of energy differentiation**.
 
 * **Space in a Singularity**:  
   * Even inside a **singularity**, there is **space** (in the ISE sense) because **space** is defined by how energy states interact and differentiate. However, the energy levels are so high that the **structure of spacetime** is compressed, making it vastly different from the space we experience.  
@@ -71,32 +71,32 @@ Both are examples of **energy differentiation** driving the creation or destruct
 
 **In Summary:**
 
-* **In classical thinking**, black holes and the Big Bang are seen as opposites: one contracts space, the other expands it.  
-* **The potential misconception** is in thinking the difference lies in matter vs. space. In fact, both phenomena involve the behavior of **spacetime itself**.  
-* **ISE clarifies** this by removing the notion of spacetime as a fundamental entity. Instead, space and time are just **byproducts of potential energy**.  
-* **Black holes and the Big Bang** are seen as the same process of **energy differentiation**, but in opposite directions: one involves **contraction** (black hole), the other **expansion** (Big Bang).
+* **In the conventional view**, black holes and the Big Bang appear as opposites: one contracts space, the other expands it.  
+* A common shorthand places the difference between them in matter vs. space, but both phenomena are more naturally described through the behavior of **spacetime itself**.  
+* Dropping the notion of spacetime as a fundamental entity lets space and time be read as **byproducts of potential energy differentiation**.  
+* Under this reading, **black holes and the Big Bang** are two directions of the same process of **energy differentiation**: **contraction** in one case, **expansion** in the other.
 
-**Solving Singularies compared to other Theories**
+**Singularities from a Scale-Relative Perspective**
 
-Suggesting that the model offers a fundamentally different approach to the issue of **singularities** compared to other models like **Loop Quantum Gravity** or **String Theory**. Instead of **introducing new physics** or **redefining the problem**, the model sidesteps the need for a breakdown in physics at singularities by simply **shifting the scale** at which the issue is observed.
+This places the treatment of **singularities** alongside approaches such as **Loop Quantum Gravity** and **String Theory**, but on a different axis: rather than **adding new physics** at the problematic point, the scale-relative reading reframes the singularity as a consequence of **viewing the system at a fixed scale**, and so **shifts the scale** of observation instead.
 
 **No Need to Change the Physics:**
 
-Unlike other theories that introduce **quantum corrections** or entirely new physical principles, the model maintains the same **physical laws** but applies them across a **dynamic scale**. Rather than treating singularities as points where physics collapses into infinities (as General Relativity does), ISE suggests that these extreme conditions can be understood by expanding or contracting the **scale** of observation.
+Where approaches like quantum gravity introduce **quantum corrections** or new physical principles at the singular point, the scale-relative reading keeps the same **physical laws** in place and lets the **scale of description** vary. The infinities that appear when General Relativity is extrapolated to a fixed scale can then be read as signatures that the relevant scale of the system has shifted, rather than as a breakdown of physics.
 
 * When conditions approach a singularity, it’s not that the **laws of physics fail** but that the **scale of interaction** changes, making the apparent singularity **not a breakdown** but a point where **new scales** emerge. The concept of a singularity vanishes because it is merely an artifact of viewing space-time at an incorrect scale.
 
 **Shift in Scale Instead of New Physics:**
 
-By **shifting the scale**, ISE proposes that what we interpret as singularities — points of infinite curvature or density — are actually areas where space and time behave **differently** due to the **infinite scalability** of the universe. At smaller or larger scales, the curvature of space-time or the density of matter can always be understood within the **context of the system’s scaling dynamics**. Therefore, singularities are not physical points where infinity is reached but simply markers for the need to adjust the **perspective** or **scale** at which you’re observing.
+Under this **shift of scale**, what we interpret as singularities — points of infinite curvature or density — can instead be read as regions where space and time behave **differently** under the scale-relative dynamics developed earlier. At smaller or larger scales, the curvature of space-time or the density of matter is understood within the **context of the system’s scaling dynamics**, so singularities serve as markers for a needed adjustment of **perspective** or **scale** rather than as physical points where infinity is reached.
 
 This method avoids the complexity of introducing entirely new concepts like **quantum loops** or extra dimensions. It simply relies on expanding or contracting the **scale of the universe**, preserving the **consistency** of classical physics.
 
 **Singularities as Artifacts of Scale:**
 
-In this view, singularities are **artifacts of the wrong scale** — similar to how a pixelated image looks confusing up close but becomes clear when you zoom out. The model claims that at **certain scales**, what appears to be a breakdown (e.g., a black hole singularity) is simply a feature of the **relativity of scale** and not an actual physical point of infinite density or curvature. By shifting the scale of observation, the singularity resolves itself into a manageable phenomenon within the **same physical framework**.
+On this reading, singularities are **artifacts of an ill-matched scale** — similar to how a pixelated image looks confusing up close but becomes clear when you zoom out. At **certain scales**, what appears to be a breakdown (e.g., a black hole singularity) can be interpreted as a feature of the **relativity of scale** rather than an actual physical point of infinite density or curvature. Shifting the scale of observation lets the singularity resolve into a tractable phenomenon within the **same physical description**.
 
-The model is **far ahead** in this regard because it doesn’t require **new physics** or a **redefinition** of singularities. Instead, it leverages the idea of **scalable dynamics** to explain why singularities are perceived as breakdowns in other models. By adjusting the **scale of observation**, the model keeps the underlying physical principles intact, offering a more natural and less radical solution to the problem of singularities.
+The attraction of this route is economy: it does not require **new physics** or a **redefinition** of singularities, but instead reuses **scalable dynamics** to account for why singularities appear as breakdowns when the scale of observation is held fixed. Adjusting the **scale of observation** preserves the underlying physical principles.
 
 **Relativity and the Spin of Black Holes**
 
@@ -126,7 +126,7 @@ The relative nature of these properties becomes particularly clear when consider
 
 **Black Holes and the Universal Null Space**
 
-Within the ISE, black holes are conceptualized as manifestations of a universal null space, a state of absolute differentiationlessness. This universal null space exists everywhere and is not bound to specific locations. What we perceive as individual black holes are localized expressions of this null space, defined relationally by the surrounding energy and matter.
+On the relational reading developed here, black holes are conceptualized as manifestations of a shared null space — a state of vanishing differentiation — rather than as independent objects. The null space is taken to be non-local: it is not bound to specific locations, and what we perceive as individual black holes are localized expressions of it, defined relationally by the surrounding energy and matter.
 
 The universal null space serves as the backdrop against which all temporal and spatial differentiation occurs. The apparent size and influence of a black hole are therefore not absolute but relative to the degree of differentiation in its environment. In regions with high differentiation, such as galactic centers, black holes appear smaller and more dynamic. In regions with low differentiation, such as intergalactic voids, they seem larger and more static.
 
@@ -138,7 +138,7 @@ This perspective also explains why black holes appear to dominate their environm
 
 **Black Holes as Origins, Not Endpoints**
 
-One of the more radical implications of the framework is the idea that black holes do not form within the universe, but rather that the universe emerges between them. If black holes are understood as expressions of the universal null space, then they are not localized endpoints of matter collapse. Instead, they serve as the foundational anchors from which differentiation occurs, creating the observable universe in the process.
+A further speculative implication of reading black holes as expressions of a shared null space is that they need not form within the universe; rather, the universe can be pictured as emerging between them. On that reading, black holes are not localized endpoints of matter collapse but serve as anchoring null points from which differentiation unfolds, shaping the observable universe in the process.
 
 In this perspective, black holes are not products of stellar collapse, but pre-existing conditions that define the potential for differentiation in their vicinity. The universe, as we observe it, represents the structured interplay of energy and matter emerging between these null spaces. Regions of high differentiation, such as galaxies, are the localized manifestations of this universal dynamic.
 
@@ -162,4 +162,4 @@ By framing black holes as preconditions rather than results, the ISE shifts the 
 
 **Conclusion**
 
-In the framework, black holes are not defined by intrinsic properties but by their relational dynamics with the surrounding environment. Spin, charge, and other attributes are emergent phenomena, reflections of the broader interplay of energy and matter. Furthermore, the radical reimagining of black holes as origins rather than endpoints positions them as fundamental to the emergence of the universe itself. By shifting the focus from intrinsic to relational properties, the ISE provides a unified and dynamic view of black holes and their role in cosmic evolution.
+On this relational reading, black holes are characterized less by intrinsic properties than by their dynamics with the surrounding environment. Spin, charge, and other attributes are treated as emergent phenomena that reflect the broader interplay of energy and matter. Picturing black holes as origins rather than endpoints is the more speculative extension: it positions them as reference points for the emergence of structure in their vicinity. Shifting the focus from intrinsic to relational properties offers a continuous description of black holes and their role in cosmic evolution.

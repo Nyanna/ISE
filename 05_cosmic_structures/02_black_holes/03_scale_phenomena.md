@@ -1,7 +1,7 @@
 
 ### **5.2.3. Black Hole: Singularities as Scale Phenomena**
 
-This examines the relationship between **the framework** and black holes, particularly their role in **scale transitions** rather than terminal singularities. Conventional physics treats the **event horizon** as a boundary beyond which all trajectories lead to collapse. ISE, however, proposes that black holes function as **scale-shifting structures**, where geodesics persist in a transformed order.
+This section examines black holes through the scale perspective, with particular focus on their role in **scale transitions** rather than as terminal singularities. Conventional physics treats the **event horizon** as a boundary beyond which all trajectories lead to collapse. Read as a scale phenomenon, a black hole can instead be interpreted as a **scale-shifting structure**, where geodesics persist in a transformed order.
 
 Key considerations include:
 
@@ -10,13 +10,13 @@ Key considerations include:
 * The **Primordial Problem**, questioning whether singularities can generate independent universes.  
 * The implications of **black hole evaporation** for cosmic energy redistribution.
 
-By interpreting black holes as **scale-based transitions**, ISE challenges the assumption of absolute collapse and redefines their role in cosmic structure and evolution.
+Interpreting black holes as **scale-based transitions** reframes the notion of absolute collapse and suggests a different role for them in cosmic structure and evolution.
 
-I want to revisit the relationship between the the framework and black holes, particularly how trajectories behave in extreme curvature conditions.
+The following revisits how trajectories behave in extreme curvature conditions under a scale-based reading.
 
 A stable orbit around a black hole follows an elliptical path, dictated by classical mechanics. However, when an object crosses the event horizon, it transitions beyond our perceivable scale. This raises the possibility that, instead of vanishing into a singularity, the object continues its orbit in a scale-shifted manner. While Newtonian physics suggests a completion of the orbit, the transition across scales results in an apparent infinite time delay from an external viewpoint.
 
-This is an interesting line of thought that strongly aligns with the framework.
+This line of thought aligns with the scale-transition reading developed here.
 
 **Stable Orbit**
 
@@ -24,11 +24,11 @@ Classically, in general relativity, non-rotating black holes do not allow stable
 
 **Event Horizon as a Scale Transition**
 
-From the perspective of ISE, the event horizon may not be an absolute boundary but rather a scale shift. An object crossing the horizon transitions into a scale that is no longer coherent with ours.
+Interpreted as a scale phenomenon, the event horizon need not be an absolute boundary but can be read as a scale shift. An object crossing the horizon then transitions into a scale that is no longer coherent with ours (interpretation).
 
 **Re-emergence**
 
-In classical physics, there is no return from an event horizon. However, under ISE, the object could be in a resonance motion — completing an orbit not within our original scale but in a transversal or shifted order.
+In classical physics, there is no return from an event horizon. Under a scale-based reading, the object could instead be in a resonance motion — completing an orbit not within our original scale but in a transversal or shifted order (speculation).
 
 **Infinite Time**
 
@@ -42,7 +42,7 @@ Under this consideration, the orbit remains intact, as it is determined by the g
 
 * **Infinite curvature** does not necessarily imply a complete spacetime inversion. A geodesic trajectory can be mathematically continued, even if it transitions into a region that is causally decoupled from us.  
 * **No physical collapse:** The object does not undergo a classical singularity but continues moving due to spacetime continuity. While the curvature diverges, an orbit still exists in a mathematical sense.  
-* **Scale Transformation:** If the ISE interprets event horizon crossing as a scale shift, the orbit remains a "projection" within the new framework. From our viewpoint, its development might appear to take infinite time, while it remains cyclic within another scale.
+* **Scale Transformation:** Reading event horizon crossing as a scale shift, the orbit remains a "projection" within the shifted scale. From our viewpoint, its development might appear to take infinite time, while it remains cyclic within another scale (interpretation).
 
 **Possibility of Return**
 
@@ -111,7 +111,7 @@ This remains a central problem. The **energetic limitation** and the **systemic 
   * This means no true *universal* cycle could emerge, as the total energy does not regenerate.  
 * **Lack of Evaporation Evidence:**  
   * Hawking radiation is based on quantum field theory in curved spacetime, but there is no experimental proof of the process.  
-  * The ISE would require a structural derivation demonstrating that a scale shift leads to the return of energy.
+  * A scale-based account would require a structural derivation demonstrating that a scale shift leads to the return of energy.
 
 **Alternatives?**
 
@@ -119,9 +119,9 @@ This remains a central problem. The **energetic limitation** and the **systemic 
 * A possible scenario could be the **scalar emergence** of energy through a non-inverting but scale-shifting transition phase.  
 * Alternatively, the black hole could remain an energetic endpoint, challenging the concept of a cyclic universe.
 
-Without an inversion mechanism, a pocket universe would therefore not be reversible and could only represent an **expansion without feedback**. The remaining question is: → Does the ISE provide a way to extract scale energy from a black hole without requiring full inversion or Hawking evaporation?
+Without an inversion mechanism, a pocket universe would therefore not be reversible and could only represent an **expansion without feedback**. The remaining question is: → Is there a scale-based mechanism for extracting energy from a black hole without requiring full inversion or Hawking evaporation?
 
-These considerations serve as a proof framework describing how, based on existing classical physics concepts, a black hole can be interpreted not as a singularity but as a scale phenomenon — just as the ISE suggests. Common assumptions already confirm that physics does not break down and that spatiality persists within Newtonian mechanics.
+These considerations describe how, based on existing classical physics concepts, a black hole can be interpreted not as a singularity but as a scale phenomenon. Common assumptions already indicate that physics does not break down and that spatiality persists within Newtonian mechanics.
 
 This argument demonstrates that a black hole does not need to be considered a physical singularity but rather a **scale phenomenon** that remains consistent within classical physics.
 
@@ -137,7 +137,7 @@ This argument demonstrates that a black hole does not need to be considered a ph
   * Space remains mathematically defined, even as its curvature diverges.  
   * A geodesic trajectory does not disappear but continues its motion in a scale-shifted manner.
 
-This shows that **physics does not collapse**, but rather remains consistent through scale logic. The ISE thus confirms the persistence of physical structure beyond the event horizon.
+This indicates that **physics need not be read as collapsing** but can remain consistent when interpreted through scale logic — supporting the persistence of physical structure beyond the event horizon (interpretation).
 
 Frame dragging confirms that space can be distorted and compressed. Fundamental constants also shift within singularities but remain internally consistent. For example, the Planck length and any form of quantization would follow this principle. Consequently, there is no point where these principles break down within the singularity — this is merely a perspective from our frame of reference. If one follows an infalling object conceptually, it experiences the external scale shifting, not its own.
 
@@ -192,16 +192,16 @@ This shows that **all apparent paradoxes of singularities arise only from our ex
 
 **Answer:**
 
-This is fundamentally possible but limited in both cases. In classical physics, there remains a relationship with the external universe and a constraint on available energy. Within the ISE, differentiation is also limited and originally dependent on the differentiation of infalling energy. Neither model so far provides a derivation for an independent universe. A valid derivation would necessarily require solving the primordial problem.
+This is fundamentally possible but limited in both cases. In classical physics, there remains a relationship with the external universe and a constraint on available energy. In a scale-based reading, differentiation is likewise limited and dependent on the differentiation of infalling energy. Neither account so far provides a derivation for an independent universe. A valid derivation would necessarily require solving the primordial problem.
 
-Both in classical physics and in the ISE, there is **no mechanism** that would allow a fully independent universe to emerge, as **energy and differentiation are limited**.
+In both accounts, there is **no mechanism** that would allow a fully independent universe to emerge, as **energy and differentiation are limited**.
 
 **Limitations of Both Models:**
 
 * **Classical Physics:**  
   * The singularity remains energetically and causally linked to the external universe.  
   * There is no independent reconfiguration without feedback to the originating universe.  
-* **ISE:**  
+* **Scale-based reading:**  
   * **Scale differentiation is limited** by the structure of infalling energy.  
   * Scale evolution remains dependent on the original differentiation order.  
   * There is **no derivation of a universal new beginning**, only a transformation within the existing scale structure.
@@ -241,7 +241,7 @@ This makes the **Primordial Problem an irresolvable paradox**.
 **Implications for the ISE:**
 
 * **Every differentiation always remains within a scale order.**  
-* **A completely decoupled universe cannot logically emerge, as it would immediately fall outside any justifiable framework.**  
+* **A completely decoupled universe cannot logically emerge, as it would immediately fall outside any justifiable causal order.**  
 * **Thus, there can be no universal derivation for a multiverse — only internal scale shifts.**
 
 This means that **any theory postulating a universe emerging from a singularity remains causally bound** and **can never assert absolute independence without self-contradiction**.

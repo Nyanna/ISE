@@ -7,7 +7,7 @@ The concept aligns well with the model, where **density** and **time** are deepl
 
 In the framework, you might argue that the density of a system, such as a star, is related to its position within a temporal framework defined by its scale. Higher density (or mass) stars operate on **faster timescales** because their internal processes — such as nuclear fusion — are accelerated by their immense gravitational pressure and energy densities.
 
-Conversely, **lower-density stars**, like red dwarfs, are more spread out and their internal energy release occurs over **longer timescales**. This slower energy consumption allows them to sustain nuclear fusion for far longer periods than more massive stars. Therefore, in ISE terms, **time itself is experienced differently** by stars of different densities, because the scale and density alter the pace of internal processes.
+Conversely, **lower-density stars**, like red dwarfs, are more spread out and their internal energy release occurs over **longer timescales**. This slower energy consumption allows them to sustain nuclear fusion for far longer periods than more massive stars. Read through a scale-dependent lens, the pace of internal processes — and thus the effective timescale of the star — varies with density, so stars of different mass can be said to unfold on different temporal scales.
 
 **Time Delays and Our Existence**
 
@@ -17,7 +17,7 @@ Thus, the **existence of life on Earth** is finely tuned to the **Sun's specific
 
 **Larger Implications for ISE**
 
-In a broader sense, this can suggest that in the framework, not only are **space and time emergent**, but the specific scales of cosmic structures (like stars and planets) define their **temporal experience**. Larger, denser systems might experience **time more rapidly**, consuming their energy faster, while smaller, less dense systems might stretch out time, allowing for prolonged stability and slower evolution. The **Sun’s energy release** could be viewed as an emergent property of its scale, perfectly balanced to provide the necessary conditions for life over an extended period.
+In a broader sense, if space and time are treated as emergent, then the specific scales of cosmic structures (like stars and planets) could also define their **temporal experience**. Larger, denser systems might experience **time more rapidly**, consuming their energy faster, while smaller, less dense systems might stretch out time, allowing for prolonged stability and slower evolution. The **Sun's energy release** could then be viewed as an emergent property of its scale, balanced to provide the necessary conditions for life over an extended period.
 
 This scale-dependent interpretation introduces a fascinating layer to understanding cosmic processes and how the universe’s structures are interwoven with the emergence of space-time, energy, and life.
 
@@ -49,7 +49,7 @@ If evolution is **scalable**, then the **principles of Darwinian evolution** (va
 
 **Scale and Time**
 
-The model supports this notion by suggesting that space and time are **emergent properties** and depend on the scale at which they are observed. If time and energy are interdependent, a smaller planet with higher energy could indeed foster **rapid evolutionary cycles**. The experience of time would depend on the scale of energy interactions, and beings in higher energy states could evolve along paths fundamentally different from our own, developing intelligence, technology, or even consciousness in ways that appear alien to us.
+Treating space and time as **emergent properties** that depend on the scale at which they are observed makes this line of thought coherent. If time and energy are interdependent, a smaller planet with higher energy could foster **rapid evolutionary cycles**. The experience of time would depend on the scale of energy interactions, and beings in higher energy states could evolve along paths very different from our own, developing intelligence, technology, or even consciousness in ways that appear alien to us.
 
 **Example of a Plasma Life Form Scenario**
 

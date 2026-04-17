@@ -3,7 +3,7 @@
 
 ## **2.10. Time and Causality Reference**
 
-This chapter explores the nature of time and causality within the framework . Unlike conventional physics, where time is often treated as an absolute or fundamental dimension, ISE approaches time as an emergent effect of **scale-dependent differentiation**. This perspective leads to a significant shift in understanding, where time, causality, and order are not intrinsic properties of reality but consequences of continuous structural differentiation across scales.
+This chapter treats time and causality as emergent effects of **scale-dependent differentiation** rather than as intrinsic primitives. Where classical descriptions take time as a fundamental dimension, the view developed here reads time, causality, and order as consequences of continuous structural differentiation across scales — a reading compatible with relational and thermodynamic accounts of time in established physics.
 
 The chapter is structured to progressively refine this concept, starting with the idea that time emerges from differentiation, moving through its implications for causality and perception, and culminating in a perspective shift that considers the absence of causality as a way to understand why differentiation is the only possible source of order. The sections explore:
 
@@ -15,7 +15,7 @@ The chapter is structured to progressively refine this concept, starting with th
 
 Through these discussions, the chapter aims to dissolve traditional notions of time as an independent entity and instead present it as a dynamic relational construct, entirely dependent on the **continuous differentiation of energy across scales**. This approach allows for a deeper understanding of the interconnectedness of time, perception, and structure, ultimately leading to the realization that causality is not fundamental but rather an emergent interpretation of differentiation processes.
 
-Time is not absolute in this framework but an effect of scale dependency. Since differentiation governs all physical processes, time itself must also be a scale-dependent phenomenon, emerging only through relative changes in energetic states. If everything in physics is scale-dependent, so is time. This means:
+Read this way, time is not absolute but an effect of scale dependency. If differentiation organises physical processes across scales, then time — as the measure of change between states — inherits that scale dependency and emerges only through relative changes in energetic states. This entails:
 
 * **Time as Differentiation of Energy**  
   * Time does not exist "in itself" but emerges from the differentiation of energy states across scales.  
@@ -33,7 +33,7 @@ Time is not absolute in this framework but an effect of scale dependency. Since 
 **Conclusion:**  
 Time is not a fundamental component of reality but an effect of the scale-dependent differentiation of energy. It exists only because states change relative to one another across different scales. Without differentiation, there would be no time.
 
-Time in the model is not a fundamental parameter but an **emergent relation** that arises from the differentiation of energy across scales. It does not exist independently but as a consequence of how energy transforms in relation.
+On this reading, time is not a fundamental parameter but an **emergent relation** that arises from the differentiation of energy across scales. It does not stand on its own but follows from how energy transforms in relation.
 
 **Time as a Process of Differentiation**
 
@@ -51,10 +51,10 @@ Time in the model is not a fundamental parameter but an **emergent relation** th
 
 **Past, Present, and Future as State Relations**
 
-* In classical physics, time is linear — past, present, future.  
-* In ISE, there are only **states of differentiation** that relate to one another.  
-* The past does not exist as a fixed storage but as a structural influence within the current differentiation.  
-* The future is not "open" but a potential within the current scale structure.
+* A linear past-present-future axis is a useful idealisation at macroscopic scales.  
+* Underneath it, what remains are **states of differentiation** that relate to one another.  
+* The past does not persist as a fixed storage but as a structural influence within the current differentiation.  
+* The future is not "open" in an absolute sense but a potential within the current scale structure.
 
 **No Universal Time, Only Relations**
 

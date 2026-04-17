@@ -28,7 +28,7 @@
 • ISE explains why vacuum energy does not completely annihilate: Under certain conditions, part of it remains stable and escapes as radiation.  
 • If Casimir fluctuation measurements succeed, it would strongly confirm the existence and mechanism of Hawking radiation.
 
-This means that the ISE not only makes an **experimental prediction for vacuum energy** but also offers an **alternative derivation of Hawking radiation**, which is experimentally testable. If the ISE calculation is correct, then we not only have an **experimentally testable prediction for dark energy** but also a **direct connection to Hawking radiation** through the same fundamental interference mechanisms\!
+Taken together, the interference reading links a testable expectation for vacuum energy to a corresponding derivation of Hawking radiation. If the underlying calculation holds, the same statistical mechanism would connect dark-energy predictions with Hawking radiation through a shared interference structure.
 
 **What This Means:**
 
@@ -65,8 +65,8 @@ This is **the perfect interface between scale expansion, quantum fluctuations, a
 
 • The thermal nature arises from the statistics of fluctuations, not from classical heat emission.  
 • The actual emission occurs through an interference process near the event horizon.  
-• ISE describes how vacuum energy is not completely annihilated when interferences are disrupted by gravity.  
-• This implies that Casimir experiments could confirm not only dark energy but also the statistical pattern of Hawking radiation.
+• On this reading, vacuum energy is not fully annihilated when interferences are disrupted by gravity.  
+• This implies that Casimir experiments could probe both the dark-energy term and the statistical pattern of Hawking radiation.
 
 This connects **quantum field theory, gravity, and the ISE into a consistent picture**, where Hawking radiation is not a contradiction but a perfect example of **scale-dynamic interference processes in the universe**.
 
@@ -202,8 +202,8 @@ This causes near-horizon relief of ADM mass without outward information transfer
 
 **Consistency Conditions**
 
-* Energy conditions: NEC/WEC/SEC are violated, requiring new stability rules.  
-* Quantum inequalities: In QFT, negative energy is locally allowed but bounded (Ford–Roman). ISE must show why subscale persistent $-\rho$ is possible.  
+* Energy conditions: NEC/WEC/SEC are violated, requiring additional stability rules.  
+* Quantum inequalities: In QFT, negative energy is locally allowed but bounded (Ford–Roman). A consistent account has to specify how subscale persistent $-\rho$ remains compatible with those bounds.  
 * Thermodynamics: The first law of BH mechanics modifies with an extra term:
   $$\delta M = T , \delta S - \int \rho_- , dV$$.
 
@@ -272,9 +272,9 @@ In ISE, evaporation is not transfer from the singularity but scale-spanning acau
 
 **In the ISE Perspective**
 
-* The step is interpretative: negative energy is not a substance but a **scale effect**, representing acausal degrees of freedom that appear as a backward flow of time from our perspective.  
-* This is consistent with the ISE framework, where scale transitions and differentiation are more fundamental than classical spacetime geometry.  
-* Thus the usual problem of negative energy densities being unstable or paradoxical **in our scale** is avoided.
+* The step is interpretative: negative energy is read not as a substance but as a **scale effect**, representing acausal degrees of freedom that appear as a backward flow of time from our perspective.  
+* On this reading, scale transitions and differentiation are treated as additional structure underlying classical spacetime geometry rather than replacing it.  
+* The usual difficulty of unstable or paradoxical negative energy densities **in our scale** is then avoided by confining $-\rho$ to the subscale sector.
 
 **Strengths of This View**
 
@@ -429,7 +429,7 @@ $$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle,
 
 Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no longer has a unique continuation path. It appears to us as a paradox (information loss, negative energy), but in ISE it is a natural fallback into the scale basis.
 
-**Hawking Evaporation in ISE (Stringent, Without GR Comparison)**
+**Hawking Evaporation as Scale-Boundary Dissolution**
 
 **Assumptions (ISE)**
 

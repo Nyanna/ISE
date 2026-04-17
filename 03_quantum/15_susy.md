@@ -5,13 +5,13 @@
 
 **Introduction**
 
-The pursuit of a unified description of the fundamental forces has long shaped theoretical physics. However, the traditional models — ranging from the Standard Model and Grand Unified Theories (GUTs) to supersymmetry (SUSY) — are built upon assumptions that, when scrutinized ontologically, reveal deep inconsistencies. They project numerical coincidences onto physical reality, conflate structurally divergent scales, and prioritize formal symmetry over foundational differentiation.
+The pursuit of a unified description of the fundamental forces has long shaped theoretical physics. The Standard Model, Grand Unified Theories (GUTs), and supersymmetry (SUSY) each rest on assumptions — about coupling unification, scale behaviour, and the status of symmetry — that this chapter examines from an ontological angle. The aim is not to dismiss these constructions but to ask which of their claims are emergent from physical content and which are artefacts of the formalism.
 
-This chapter undertakes a critical deconstruction of these assumptions. It exposes how concepts like the unification of coupling constants, the convergence at high energies, and the justification of SUSY are not emergent truths, but rather model-dependent fittings devoid of real ontological grounding. Through a systematic examination, it becomes clear that spacetime, force, and coupling must be understood not as absolute structures but as emergent relational phenomena governed by two fundamental principles: Information and Differentiation.
+The chapter reviews how unification of coupling constants, the convergence at high energies, and the motivation for SUSY rely on model-internal fittings whose physical interpretation is less secure than their mathematical consistency suggests. Read in this way, spacetime, force, and coupling appear as relational phenomena rather than absolute structures, and can be organised around two principles used throughout the thesis: information and differentiation.
 
-From this reduced foundation emerges the theory: a framework that replaces the fragmented classical and quantum models with a resonance-based, scale-sensitive ontology. The ISE Framework seamlessly bridges general relativity, quantum field theory, and the structure of matter by dissolving artificial separations and revealing the deeper coherence behind observable phenomena.
+On that reduced footing, ISE is introduced here as a resonance-based, scale-sensitive reading that sits alongside general relativity and quantum field theory rather than replacing them, making contact at the scales where each is empirically anchored.
 
-The following presents the logical path toward that realization, step by step, unmasking the limitations of current theoretical constructs and establishing a consistent ontological architecture for understanding the nature of reality.
+The following sections develop the argument step by step, from the status of coupling unification to the structural role of electromagnetism and gravitation.
 
 **The Supersymmetry Predictions**
 
@@ -20,7 +20,7 @@ Supersymmetry (SUSY) has led to several theoretical expectations:
 * **Superpartners**: For every known particle in the Standard Model, SUSY predicts a corresponding superpartner (e.g., electron → selectron, quark → squark).  
 * **Unification of Coupling Constants**: SUSY improves the unification of the electromagnetic, weak, and strong interactions at high energies.  
 * **Resolution of the Hierarchy Problem**: SUSY stabilizes the Higgs mass against large quantum corrections. However, this is not a prediction but an internal consistency improvement. It is a mathematical artifact, not subject to empirical falsification, and thus lacks prognostic value in a strict sense.  
-* **Dark Matter Candidate**: SUSY proposes the lightest supersymmetric particle (LSP), often the neutralino, as a dark matter candidate. This, however, is not a direct prediction but a model-dependent fit to the ΛCDM framework. SUSY itself does not address cosmological aspects like gravitational effects, structure formation, baryon asymmetry, or inflationary dynamics. The identification of the LSP with dark matter is a retroactive adjustment rather than an inevitable prediction.  
+* **Dark Matter Candidate**: SUSY proposes the lightest supersymmetric particle (LSP), often the neutralino, as a dark matter candidate. This is better read as a model-dependent fit to the $\Lambda$CDM scenario than as a direct prediction: SUSY itself does not address cosmological aspects such as structure formation, baryon asymmetry, or inflationary dynamics. The identification of the LSP with dark matter is thus an embedding into cosmological data rather than a compulsory consequence of supersymmetry.  
 * **Extended Higgs Sectors**: SUSY predicts an expanded Higgs sector, featuring at least five Higgs bosons (two CP-even, one CP-odd, and two charged states).
 
 None of these theoretical expectations have been experimentally confirmed to date.
@@ -97,20 +97,20 @@ In realistic physics, there are no "isolated" coupling constants. Couplings emer
 
 QFT treats spacetime as a static, flat carrier system. It fails to incorporate the coevolution of energy and spacetime geometry. Consequently, the concept of "running couplings" remains a parametrized approximation rather than an ontological description. Real physics demands scale-sensitive, structure-coupled theories that QFT alone cannot fully provide.
 
-Higher energy implies not just more energy density but fundamental changes across all structural parameters. The co-scaling of energy, curvature, and vacuum structure demands a deeper theoretical framework beyond the idealizations of QFT. Future theories must address this intrinsic linkage explicitly, moving toward a scale-sensitive ontology of physical reality.
+Higher energy implies not just more energy density but changes across several structural parameters. The co-scaling of energy, curvature, and vacuum structure points toward scale-sensitive descriptions that go beyond the idealisations of standard QFT — a direction taken up in this thesis through a relational treatment of scale.
 
-**Meaninglessness of Coupling Unification Predictions**
+**Ontological Status of Coupling Unification**
 
-From an ontologically consistent perspective, the "unification of coupling constants" is not a real prediction but a model-dependent projection within an incomplete formalism.
+Read ontologically, the "unification of coupling constants" is better described as a model-dependent projection within an incomplete formalism than as an independent prediction.
 
-**Why the Statement is Ontologically Empty**
+**Why the Statement Has Limited Physical Content**
 
 * **Missing Scale and Spacetime Structure** QFT treats couplings as parametric functions of an energy scale without considering that changes in scale also transform the physical structure of interactions, spacetime, and the state space.  
-* **Coupling Constants are not Fundamental Entities** Couplings are effective manifestations of the interplay between field structures, geometry, and states. Their apparent "unification" is model-specific and coordinate-dependent, not constitutive of reality.  
-* **Missing Gravity and Feedback** Growing energy impacts spacetime curvature and structure, yet QFT ignores this feedback. Thus, any statement about high-energy behavior is decoupled from the underlying spacetime evolution.  
-* **Unification as a Computational Artifact** The apparent "meeting" of coupling curves results from the properties of β-functions within a given model, not from a physical event. Without a complete theory, especially one including quantum gravity, the unification prediction remains content-empty.
+* **Coupling Constants are not Fundamental Entities** Couplings are effective manifestations of the interplay between field structures, geometry, and states. Their apparent "unification" is scheme-specific and coordinate-dependent rather than coordinate-free.  
+* **Missing Gravity and Feedback** Growing energy affects spacetime curvature and structure, yet standard QFT treats the background as fixed. Statements about high-energy behaviour are therefore decoupled from the underlying spacetime evolution.  
+* **Unification as a Computational Artefact** The apparent "meeting" of coupling curves follows from the properties of $\beta$-functions within a given model. Without a theory that includes quantum gravity, the unification statement is best read as a structural signal of the formalism rather than an independent physical claim.
 
-Thus, the prediction of coupling constant unification is ontologically meaningless. It is a formal effect within an incomplete framework that obscures decisive physical interdependencies. It is not wrong, but it is not truth-apt either.
+On this reading, coupling-constant unification is a formal effect within an incomplete description; it is not wrong within its scheme, but its claim to physical content is weaker than often presented.
 
 **Implications for Supersymmetry**
 
@@ -183,7 +183,7 @@ The coupling constants correspond to fundamentally different physical scales, in
 * Coupling constants are made numerically comparable using RGEs and renormalization schemes like MS-bar.  
 * This is a mathematical normalization, not a reflection of physical equivalence.
 
-Thus, coupling constants represent fundamentally different scales and principles of action. Considering them as "unifying" on a single scale is model-consistent but physically misleading if these differences are ignored.
+Coupling constants therefore track distinct scales and action principles. Treating them as "unifying" on a single scale is model-consistent, but the qualitative differences above should be kept in view when the unification statement is interpreted physically.
 
 **Critique of GUT Models**
 
@@ -200,7 +200,7 @@ A GUT, under these conditions, is a **syntactic artifact** — structurally corr
 
 **Reconsidering the Model of Fundamental Forces**
 
-Following the ontological critique outlined above, it becomes inevitable to question the entire model of the "four fundamental forces."
+The critique outlined above invites a closer look at the conventional grouping of the "four fundamental forces."
 
 **Why the Traditional Model of "Four Forces" Becomes Problematic**
 
@@ -222,7 +222,7 @@ Following the ontological critique outlined above, it becomes inevitable to ques
   * State dynamics  
 * Every interaction is thus embedded in, not projected onto, spacetime.
 
-When analyzed with ontological rigor, it becomes clear: the current model of fundamental forces is not a true description of reality. It is a mathematical compromise that creates an illusion of unity through structural separation, numerical adjustment, and classical terminology without any physically justified or observable unity. It remains a formal scaffold devoid of real explanatory depth.
+Read with this in mind, the four-forces picture functions more as a useful organising scheme than as a statement of underlying unity. It aligns structurally distinct interactions through numerical adjustment and shared classical terminology, while leaving the qualitative differences between them largely implicit.
 
 **Electromagnetism as a Prototype for All Interactions**
 
@@ -396,8 +396,9 @@ These parameters were tuned to ensure that a formal GUT unification occurs.
 * The theory only "explains" what it has internally arranged.  
 * This is not progress in understanding but mathematical tracing toward a pre-selected goal.
 
-The coupling convergence in SUSY is not evidence of physical truth but a demonstration of model fitting that trivializes structure through expanded parameter space. Errors and incompatibilities arise because the model is syntactically constructed rather than ontologically grounded.
-Broader Implications: Fundamental Error of SUSY-Based Theories
+Coupling convergence in SUSY is better read as an outcome of model fitting across an expanded parameter space than as independent evidence for unification. Its tensions with empirical results reflect the gap between a formally constructed symmetry scheme and a scale-sensitive physical description.
+
+**Broader Implications for SUSY-Based Theories**
 
 **Forcing Unification Despite Scale Incompatibility**
 

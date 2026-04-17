@@ -3,7 +3,7 @@
 
 ## **4.1. Space Expanding Without Being Perceived**
 
-In the context of ISE, **space can expand without us noticing** because the **relative order of effects** between objects, particles, or energy states remains unchanged. This means that while space itself might stretch, the relationships and interactions between the fundamental components within that space stay the same, giving the impression of stability. Here's why:
+If the **relative order of effects** between objects, particles, or energy states is preserved, **space can expand without being perceived**. While space itself may stretch, the relationships and interactions between the components embedded in it stay proportional, giving the impression of stability. The reasoning:
 
 * **Relative Order of Effects**:  
   * The universe is defined not by absolute measures of space and time, but by the **relationships** between energy states or interactions. These relationships are **scale-invariant**, meaning they remain constant even if the space around them changes.  

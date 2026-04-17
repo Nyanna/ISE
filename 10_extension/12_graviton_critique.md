@@ -5,7 +5,7 @@
 
 **The Incompatibility of Graviton Quantization with Cosmological Continuity**
 
-Within the framework, gravitation is not viewed as a force mediated by particles, but as a continuous and scale-relative deformation of spacetime structure. This chapter presents a fundamental argument against the existence of the graviton, the hypothetical quantum of the gravitational field, based on the observable and structural nature of gravitational influence and cosmological expansion.
+Gravitation is here treated as a continuous, scale-relative deformation of spacetime structure rather than as a force mediated by exchange particles. This chapter sets out an argument against the physical reality of the graviton, the hypothetical quantum of the gravitational field, drawing on the observable and structural character of gravitational influence and cosmological expansion. The argument is interpretive: it does not claim to exclude a graviton-based formalism, but to question its status as a fundamental descriptor.
 
 **The Standard Graviton Hypothesis**
 
@@ -13,7 +13,7 @@ In conventional field-theoretic physics, a graviton is postulated as a massless 
 
 **The Continuum Nature of Gravitation**
 
-In the ISE, gravitation is not mediated through exchange particles, but emerges from the intrinsic resonance of mass-energy distributions within the continuous structure of spacetime. Gravitation is always present, with its form of influence scaling continuously across regimes:
+On this reading, gravitation is interpreted as an emergent feature of the intrinsic resonance of mass-energy distributions within a continuous spacetime, rather than as the product of particle exchange. Its influence is always present, and its form scales continuously across regimes:
 
 * Locally (e.g. planetary orbits), it manifests as curvature-induced dynamical confinement.  
 * On large scales (e.g. galaxy clusters, cosmic filaments), it forms flattish metric tensions.  
@@ -55,4 +55,4 @@ The smoothness of cosmic expansion, the persistent influence of gravity across s
 
 **Gravitation is not a quantized interaction. It is a form.**
 
-The graviton, if postulated, violates the continuous character of reality as experienced in the gravitational domain. ISE thus regards it not as an approximation or an open question, but as a categorical misinterpretation of gravitational essence.
+On a continuum reading of gravity, a graviton posited as a fundamental quantum sits uneasily with the smoothness observed across scales. Within the interpretation developed here, it is best understood not as a weak-field approximation to be taken literally, but as a formal device whose ontological status should not be identified with the gravitational phenomenon itself.

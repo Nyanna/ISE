@@ -3,7 +3,7 @@
 
 ## **9.7. Scalar Synchronization as an Explanation for Non-Locality**
 
-The **the model** proposes that **non-locality** is not an emergent property or an artifact of higher-dimensional mathematics, as suggested by other frameworks, but a **fundamental characteristic of reality**. This non-locality arises from a mechanism described as **scalar synchronization**, which emerges from the continuous differentiation of **protoinformation** across all scales. Here, we explore this principle and its implications for seemingly localized quantum phenomena such as tunneling and entanglement.
+Here, **non-locality** is treated as a structural feature of reality rather than an emergent artifact of higher-dimensional mathematics. It is proposed to arise from **scalar synchronization**, a mechanism tied to the continuous differentiation of **protoinformation** across scales. This section explores the principle and its implications for quantum phenomena that appear localized, such as tunneling and entanglement.
 
 **Non-Locality and Scalar Synchronization**
 
@@ -23,28 +23,28 @@ The **the model** proposes that **non-locality** is not an emergent property or 
 
 **Entanglement through Scalar Connectivity**
 
-* **ISE's View on Entanglement**:  
-  * Entanglement is an intrinsic property of the scalar synchronization process. In this model, two particles are not merely connected through quantum states but are continuously synchronized via the protoinformational substrate.  
-  * The instantaneous correlations observed in entanglement experiments reflect the scalar continuity that connects the particles across scales, making the concept of "distance" irrelevant.  
-* **Experimental Predictions**:  
-  * ISE predicts that entanglement can occur and persist under conditions where traditional quantum mechanics might predict decoherence, provided the scalar synchronization remains intact.
+* **Entanglement as scalar continuity**:  
+  * Entanglement is interpreted as an intrinsic property of the scalar synchronization process. Two particles are not merely correlated through quantum states but continuously aligned via the protoinformational substrate.  
+  * The instantaneous correlations observed in entanglement experiments reflect a scalar continuity that connects the particles across scales, rendering the notion of "distance" secondary for the correlation itself.  
+* **Experimental expectations**:  
+  * Entanglement is expected to occur and persist under conditions where standard treatments might anticipate decoherence, provided the underlying scalar synchronization remains intact.
 
 **Localized Phenomena as Illusions**
 
 * **Apparent Localization**:  
-  * The framework argues that localized effects, such as the apparent spatial confinement of particles, are projections of deeper, non-local scalar processes.  
-  * Localization is not a fundamental property but an emergent feature of how macro-scale systems interact with the continuous differentiation of protoinformation.  
+  * Localized effects, such as the apparent spatial confinement of particles, are interpreted as projections of deeper, non-local scalar processes.  
+  * Localization, on this reading, is not a fundamental property but an emergent feature of how macro-scale systems interact with the continuous differentiation of protoinformation.  
 * **Tunnel Effect and Scalar Dynamics**:  
-  * The tunnel effect demonstrates how scalar synchronization enables phenomena that appear "localized" to exhibit properties of non-locality when viewed at a deeper scale.
+  * The tunnel effect then illustrates how scalar synchronization can let phenomena that appear "localized" exhibit non-local properties when viewed at a deeper scale.
 
 **Implications and Testability**
 
 * **Falsifiable Predictions**:  
-  * The framework makes testable predictions: any phenomenon attributed to non-locality (e.g., tunneling, entanglement) should exhibit behaviors consistent with scalar synchronization under controlled conditions, such as variations in scale interactions.  
-  * Specific experiments could involve observing tunneling or entanglement in systems with varying spatial or energy scales to determine deviations from standard quantum mechanical predictions.  
-* **Unified Framework**:  
-  * Scalar synchronization offers a unifying explanation for quantum non-locality, bridging phenomena traditionally treated separately, such as tunneling and entanglement.
+  * A testable expectation follows: any phenomenon attributed to non-locality (e.g., tunneling, entanglement) should exhibit behaviours consistent with scalar synchronization under controlled conditions, such as variations in scale interactions.  
+  * Specific experiments could involve observing tunneling or entanglement in systems with varying spatial or energy scales to look for deviations from standard quantum mechanical predictions.  
+* **Shared description**:  
+  * Scalar synchronization offers a common description for quantum non-locality that links phenomena usually treated separately, such as tunneling and entanglement.
 
 **Conclusion**
 
-Within the ISE, scalar synchronization explains non-locality as an intrinsic property of the universe, emerging from the continuous differentiation of protoinformation. This mechanism challenges traditional interpretations of quantum mechanics and provides a falsifiable, coherent explanation for phenomena like tunneling and entanglement. By integrating these insights into the framework, we establish a deeper understanding of the interconnected nature of reality across all scales.
+Scalar synchronization, in this reading, treats non-locality as an intrinsic property of the universe, emerging from the continuous differentiation of protoinformation. It offers a falsifiable, internally coherent account of phenomena like tunneling and entanglement, and complements rather than replaces existing quantum-mechanical interpretations. Integrating these points supports a picture in which the interconnected behaviour across scales follows from a single synchronization mechanism.

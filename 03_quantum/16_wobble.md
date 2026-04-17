@@ -110,7 +110,7 @@ This perspective replaces the abstract notion of “field excitations” with a 
 
 **Matter, Forces, and Fields as Wobble Conglomerates**
 
-Within this framework:
+Read through the wobble lens:
 
 - Atomic nuclei are conglomerates of wobbles.
 - Electron “orbits” are wobble structures stabilized by a symmetric wobble at a specific distance and extent.
@@ -186,7 +186,7 @@ Therefore, Heisenberg’s uncertainty principle expresses not merely a limit of 
 
 **From Wobble to ISE**
 
-At the end we can name, with some precision, what the gradient‑wobble contributes to the framework. A wobble is not an object; it is the smallest act of differentiation available to the protoinformational continuum. It is the way a purely spatial potential bends, biases, and vectors itself into structure. Nothing is “carried” inside the wobble—no symbols, bits, or messages—only a distribution of difference, encoded as direction and magnitude. The universe, in this view, is not made of things but of differences arranged in differences.
+With the pieces in place, the gradient‑wobble can be read as the smallest act of differentiation available to the protoinformational continuum. It is not an object but the way a purely spatial potential bends, biases, and vectors itself into structure. Nothing is “carried” inside the wobble—no symbols, bits, or messages—only a distribution of difference, encoded as direction and magnitude. Reality, on this reading, is not made of things but of differences arranged in differences.
 
 Protoinformation is the name we grant to this non‑substantial medium: not a stuff, not a signal, but the capacity for difference itself. The structure that makes such difference legible is the potential vector. If $V(x)$ is a scalar potential defined on spatial points $x$, then the encoding of differentiation is the field $\mathbf{P}(x) := \nabla V(x)$. Where $\mathbf{P}$ changes, a wobble is. The wobble is simply the local, oriented skew of possibility.
 
@@ -194,9 +194,9 @@ Relational wobble clarifies the dynamics. A wobble does not only differentiate w
 $\Delta \mathbf{P}(x) := \mathbf{P}^{(A)}(x) - \mathbf{P}^{(B)}(x)$,
 together with how that contrast varies across space via $\nabla \Delta \mathbf{P}$. The measurable is not a timeline but a map of gradients and counter‑gradients. What we call time later is only an ordering we impose on successive refinements of these spatial contrasts; nothing temporal is required at the base level.
 
-This leads directly to the fractal nature of ISE. Introduce a resolution scale $\ell$ and let $V_\ell$ be the potential seen at that scale; the corresponding field is $\mathbf{P}_\ell := \nabla V_\ell$. The wobble’s intensity at scale $\ell$ can be summarized by a norm such as $W(\ell) := \sup_x |\nabla \mathbf{P}_\ell(x)|$. In a fractal regime there is no maximal differentiation: as resolution increases, $W(\ell)$ has no upper bound,
+This invites a fractal reading across scales. Introduce a resolution scale $\ell$ and let $V_\ell$ be the potential seen at that scale; the corresponding field is $\mathbf{P}_\ell := \nabla V_\ell$. The wobble’s intensity at scale $\ell$ can be summarized by a norm such as $W(\ell) := \sup_x |\nabla \mathbf{P}_\ell(x)|$. In a fractal regime there is no maximal differentiation: as resolution increases, $W(\ell)$ has no upper bound,
 $\lim_{\ell \to 0^+} W(\ell) = +\infty$.
-Said plainly: zoom in on any wobble and you find sub‑wobbles; zoom in again and you find more. Positive‑infinite gradient across scales is not a singularity in time; it is an inexhaustible supply of new spatial difference. This is how the ISE remains self‑similar and self‑renewing without invoking beginnings or ends.
+Said plainly: zoom in on any wobble and you find sub‑wobbles; zoom in again and you find more. Positive‑infinite gradient across scales is not a singularity in time; it is an inexhaustible supply of new spatial difference. On this reading, scale‑expansion remains self‑similar and self‑renewing without invoking beginnings or ends.
 
 Crucially, nothing here relies on “information” in the usual, symbolic sense. The wobble does not encode meaning; it enacts distinction. Spatiality alone suffices to host values as positions in a distribution and relations as gradients between positions. What later appears as particles, fields, forces, or even bits arises when observers coarse‑grain these gradients into stable, countable patterns. At the base, there is only protoinformation’s capacity to differentiate, expressed as a potential vector and its endlessly nested wobbles.
 

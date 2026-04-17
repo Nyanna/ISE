@@ -4,7 +4,7 @@
 # **12\. Glossary of Key Terms**
 
 1. **Infinite Scale Expansion**:  
-  A theory that proposes the universe expands infinitely through the continuous differentiation of energy. Unlike traditional models, ISE suggests that space, time, and even gravity are emergent properties of this energy differentiation rather than fundamental aspects of reality.  
+  A framework that treats the universe as expanding through the continuous differentiation of energy. Within this reading, space, time, and gravity are interpreted as emergent properties of ongoing energy differentiation rather than as fundamental primitives.  
 2. **Energy Differentiation**:  
   The process by which undifferentiated energy transforms into distinct states or structures, giving rise to phenomena like space, time, and physical forces. This process is ongoing and occurs across all scales.  
 3. **Protoinformation**:  
@@ -18,7 +18,7 @@
 7. **Dark Matter**:  
   An invisible form of matter that doesn't emit light but exerts gravitational influence on visible matter in the universe. ISE posits that dark matter emerges naturally from differences in potential energy, without the need for new particles.  
 8. **Singularity**:  
-  A point in space where physical quantities become infinite, such as in the center of a black hole or the Big Bang. ISE argues that singularities are relative constructs depending on the scale of observation and are not fundamental breakdowns of reality.  
+  A point in space where physical quantities become infinite, such as in the center of a black hole or the Big Bang. Within ISE, singularities are read as scale-relative constructs depending on the frame of observation rather than as fundamental breakdowns of reality.  
 9. **Fractal**:  
   A complex geometric structure that repeats itself at different scales. The universe is thought to have a fractal-like structure, where similar patterns and processes occur across various scales of differentiation.  
 10. **Observer**:  
@@ -60,7 +60,7 @@
 28. **Holographic Principle**:  
     A concept in theoretical physics that suggests all information contained within a volume of space can be described by information on its boundary. This principle aligns with ISE’s idea that reality is a relational structure.  
 29. **Inflation Theory**:  
-    A theory that suggests the universe underwent rapid expansion immediately after the Big Bang. ISE offers an alternative view, suggesting continuous expansion through energy differentiation instead of inflation.  
+    A theory that suggests the universe underwent rapid expansion immediately after the Big Bang. Within ISE, early-universe expansion is read as one phase of continuous energy differentiation, which offers a complementary reading of the features inflation is invoked to explain.  
 30. **Quantum Entanglement**:  
     A phenomenon where particles become interconnected in such a way that the state of one immediately influences the state of another, no matter the distance. ISE explain entanglement as a result of deep, scale-free energy relationships.  
 31. **Gravitational Lensing**:  
@@ -74,7 +74,7 @@
 35. **Quantum Foam**:  
     A term used to describe the chaotic fluctuations of space-time at the Planck scale. This foam could be the result of protoinformation undergoing rapid differentiation.  
 36. **Closed System**:  
-    A system in which no energy or matter enters or leaves. ISE views the universe as an open system of continuous differentiation, rejecting the concept of closed systems on a cosmological scale.  
+    A system in which no energy or matter enters or leaves. Within ISE, the universe is read as an open system of continuous differentiation, so closed-system idealizations are treated as scale-limited approximations rather than as cosmological descriptions.  
 37. **Symmetry Breaking**:  
     A process in physics where symmetrical states evolve into asymmetrical ones, leading to the formation of structures. Symmetry breaking could be a form of energy differentiation.  
 38. **Spacetime Continuum**:  
@@ -100,7 +100,7 @@
 48. **Quantum Gravity**:  
     A theoretical framework attempting to reconcile general relativity with quantum mechanics. ISE might contribute to this effort by offering a scale-free model of how gravity emerges from energy differentiation.  
 49. **Big Bang Model**:  
-    The prevailing cosmological theory of the universe's origin. ISE provides an alternative view, suggesting that the universe's expansion is driven by continuous differentiation rather than a single explosive event.  
+    The prevailing cosmological theory of the universe's origin. Within ISE, the observed expansion is read as part of ongoing energy differentiation, which reframes the Big Bang as a scale-local transition rather than treating it as the sole origin event.  
 50. **Higgs Field**:  
     A field responsible for giving particles mass through interaction with the Higgs boson. Mass might emerge as a result of energy differentiation rather than through interaction with a specific field.  
 51. **Observer-Dependent Reality**:  

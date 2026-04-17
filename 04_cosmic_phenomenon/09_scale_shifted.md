@@ -87,7 +87,7 @@ If dark matter were to accumulate in Earth's core, it would generate an addition
 
 Dark matter primarily interacts through gravity and exhibits little to no interactions with itself or normal matter. Although it exerts gravitational effects, the lack of significant non-gravitational interactions prevents it from accumulating in planetary cores like that of Earth. Thus, there is no large clump of dark matter within Earth's interior.
 
-This is the central contradiction in the standard model of dark matter. If it has **no** self-interaction and interacts **only gravitationally**, it should remain evenly distributed across the universe rather than concentrating into halos around galaxies.
+This points to a tension within the purely collisionless picture of dark matter. If it has **no** self-interaction and interacts **only gravitationally**, one would expect it to remain more evenly distributed rather than concentrate into halos around galaxies — a tension the ΛCDM programme addresses through the velocity distribution of cold dark matter and the coupling to baryonic infall.
 
 **Possible Explanations:**
 
@@ -156,7 +156,7 @@ If this is correct, there should be a **mass gradient of dark matter dependent o
   * If dark matter is not a particle but an energetic **resonance structure of space**, it could exert gravitational effects without possessing actual mass.  
   * This would explain why it exists only on large scales but does not accumulate in compact structures.
 
-The standard model of dark matter cannot explain the **capture mechanism**.
+A purely collisionless picture therefore leaves the **capture mechanism** as an open question, which is usually bridged by baryonic dissipation and violent relaxation during halo assembly.
 
 This raises an intriguing question: If dark matter truly permeates galaxies, it must also interact with **black holes**. Several scenarios arise:
 
@@ -191,9 +191,9 @@ If dark matter significantly influences black holes, one would expect to detect 
 
 In summary, dark matter influences the environment of black holes through its gravitational interaction, allowing it to concentrate near them. However, the exact nature of dark matter and its impact on black holes remain subjects of ongoing research.
 
-This highlights that the standard model of dark matter is riddled with **contradictions**. In contrast, the model provides a contradiction-free model by describing dark matter not as a fixed, **immutable substance**, but as a **scale-shifted form of energy**.
+These tensions — halo formation without self-interaction, lack of local accumulation, interplay with black holes — remain open questions within the collisionless dark matter picture. The scale-shift reading offered here recasts dark matter not as a fixed, **immutable substance**, but as a **scale-shifted form of energy**, which (as an interpretation) reorganises these questions rather than resolving them by particle content.
 
-**Why ISE is More Consistent:**
+**Scale-shift reading — how the open points are addressed:**
 
 * **No Accumulation Problem**  
   * If dark matter is a **scale shift** of energy, then **it does not need to accumulate in planetary or stellar cores**.  
@@ -208,4 +208,4 @@ This highlights that the standard model of dark matter is riddled with **contrad
   * Dark matter is not **locally bound**, but rather an effect that manifests on large scales.  
   * This is why it influences black holes gravitationally, but **without directly feeding them or concentrating within them**.
 
-This means that ISE avoids the **observational contradictions of the standard model** by not assuming dark matter to be a rigid, unchanging substance, but rather a **dynamic process of energy scale shifting**. This explains both large-scale structure and the absence of local accumulation.
+Read this way, dark matter is not treated as a rigid, unchanging substance but as the observational signature of a **dynamic process of energy scale shifting**. The interpretation aims to account for both large-scale structure and the absence of local accumulation within one picture; whether it matches in detail remains to be checked against quantitative lensing, halo, and growth-of-structure data.

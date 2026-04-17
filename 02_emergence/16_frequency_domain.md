@@ -3,7 +3,7 @@
 
 ## **2.16. Frequency-Domain Representation of Differentiation**
 
-*This chapter develops the frequency-domain formalism for ISE's fundamental ontology, establishing that all physical structure reduces to sampling hierarchies of continuous substrate differentiation. By treating the universe as unbounded white noise subjected to hierarchical sampling rates, we derive Standard Model forces, particle properties, and spatial relations as emergent frequency-band structures. This representation provides the first fully constructible bridge from ISE's substrate ontology to observable physics.*
+*This chapter develops a frequency-domain formalism for the substrate ontology, treating physical structure as sampling hierarchies applied to continuous substrate differentiation. Under the working assumption that the substrate behaves as unbounded white noise subjected to hierarchical sampling rates, Standard Model forces, particle properties, and spatial relations are read as emergent frequency-band structures. The representation is offered as one constructible bridge between substrate ontology and observable physics — an interpretive scaffold rather than a completed derivation.*
 
 **Algebraic Foundations: From Continuous Substrate to Discrete Structure**
 
@@ -109,7 +109,7 @@ This is **confinement**: the energy cost of phase-shifting in the spatial band g
 
 **The Two Ontological Primitives in Frequency Space**
 
-ISE reduces all forces to two relational primitives:
+The preceding chapters reduce all forces to two relational primitives:
 
 * **Spatial Relation** (parts ↔ parts)
 * **Energetic Relation** (part ↔ whole)
@@ -246,7 +246,7 @@ The "rate of time" at differentiation level $k$ is inversely proportional to the
 
 **Consequence:** Different frequency domains experience different temporal rates. High-frequency structure (e.g., strong interactions) has fine temporal resolution. Low-frequency structure (e.g., electromagnetic fields) has coarse temporal resolution.
 
-This is **time dilation** in ISE: not as relativistic spacetime curvature but as sampling-rate dependence of differentiation serialization.
+Read this way, **time dilation** appears not as relativistic spacetime curvature but as sampling-rate dependence of differentiation serialization — a reinterpretation of the same observational content in frequency-domain language.
 
 **Example: The Hydrogen Atom**
 
@@ -321,7 +321,7 @@ Because each frequency band can generate difference frequencies through incommen
 
 **Dimensional Asymmetry Revisited**
 
-In this framework, dimensional asymmetry corresponds to **non-uniform amplitude distribution** across frequency bands. Perfect symmetry would require:
+In the frequency-domain reading, dimensional asymmetry corresponds to **non-uniform amplitude distribution** across frequency bands. Perfect symmetry would require:
 
 $$A(\omega_i) = A(-\omega_i) \text{ for all bands}$$
 
@@ -338,7 +338,7 @@ But because differentiation generates new frequencies through incommensurability
 This formalism is currently qualitative. To make testable predictions, we require:
 The present chapter establishes the **conceptual framework** within which such quantitative development can proceed.
 
-The frequency-domain representation provides ISE with its first fully constructible ontological bridge to Standard Model physics. By treating the universe as hierarchically sampled white noise, with differentiation as the successive generation of incommensurate frequency structure, we derive:
+The frequency-domain representation offers a constructible ontological reading of Standard Model structure. Treating the substrate as hierarchically sampled white noise, with differentiation as the successive generation of incommensurate frequency structure, the following mappings are proposed:
 
 * **Dimensions** as sampling hierarchy levels, not geometric axes
 * **Particles** as composite frequency profiles extending infinitely deep
@@ -348,9 +348,9 @@ The frequency-domain representation provides ISE with its first fully constructi
 * **Binding** as phase-locking in the spatial band
 * **Mass** as total amplitude across all frequency bands
 
-This is not a replacement for the Standard Model's mathematical formalism but a **deeper ontological account** of why that formalism takes the form it does. The gauge groups, symmetry violations, and phenomenological parameters of particle physics are projections of this underlying frequency structure, filtered through our measurement apparatus's finite sampling rate.
+The reading is not a replacement for the Standard Model's mathematical formalism but a companion ontological account that asks why the formalism takes the shape it does. Gauge groups, symmetry violations, and phenomenological parameters are interpreted here as projections of an underlying frequency structure, filtered through the finite sampling rate of available measurement apparatus.
 
-*The work ahead lies in making this correspondence quantitative, deriving numerical predictions, and identifying empirical tests that distinguish frequency-domain ISE from alternative ontologies. The framework is in place. The calculations remain to be done.*
+*The work ahead lies in making this correspondence quantitative, deriving numerical predictions, and identifying empirical tests that would distinguish a frequency-domain reading from alternative ontologies. The scaffold is in place; the calculations remain to be done.*
 
 ### **The Origin of Wave Oscillation**
 

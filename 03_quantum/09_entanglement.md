@@ -5,25 +5,25 @@
 
 **Entanglement as an N-Dimensional Relationship of Energy Vectors**
 
-In the framework, particles are not simply discrete, localized entities. Instead, each particle is seen as having an **n-dimensional relationship** with every other particle in the universe through **potential energy vectors**. These vectors represent how energy differentiates and connects particles across scales, creating a **non-local** web of relationships.
+Particles are treated here not as isolated, point-like entities but as carrying an **n-dimensional relationship** with other particles through **potential energy vectors**. These vectors describe how energy differentiates and connects across scales, producing a **non-local** structure of relationships (interpretation).
 
-Entanglement, in this view, is not just a quantum phenomenon where particles share properties across distance; it is an intrinsic, scale-free property of all particles. Every particle is part of an **infinite, scale-free field**, connected to every other particle through **differentiated energy states**. These relationships are not bound by spacetime, making **entanglement a natural outcome** of how energy is distributed and connected in the model.
+Read this way, entanglement is not an isolated quantum effect but an expression of the same scale-free differentiation that governs every particle. Each particle participates in a shared energy field, linked to others through **differentiated energy states**. Since these relationships need not be bound by spacetime, entanglement follows from the way energy is distributed and connected across scales (interpretation).
 
 **Infinite Entanglement Across the Universe**
 
-ISE allows for the possibility that a particle’s properties can be **infinitely entangled** with other particles throughout the universe. Since all particles are part of the same **undifferentiated quantum field**, their interactions are not limited by space or time. The concept of entanglement, then, can be expanded to suggest that **any particle is potentially entangled with an infinite number of other particles**, as they all share the same **underlying energy relationships**.
+If particles are read as differentiated states of a shared field, entanglement need not be restricted to isolated pairs. Because the underlying field is not cut by spatial distance, a particle's correlations can, in principle, extend across many other particles that share the same **underlying energy relationships** (speculation).
 
-This means that the entanglement phenomenon is not restricted to just pairs of particles but extends to **all particles in the universe**. The idea of **wave-particle duality** becomes more fluid here, as a particle’s "wave" is merely a reflection of its **n-dimensional energy connections**, which span the entire universe.
+Under this reading, the entanglement phenomenon is not confined to prepared pairs but describes a general relational structure among particles. **Wave-particle duality** fits into the same picture: a particle's "wave" aspect reflects its **n-dimensional energy connections** rather than a separate physical object (interpretation).
 
 **Entanglement Without Localization: Particles as Differentiation States**
 
-In the model, particles are not localized entities; they are **differentiated states of energy**. This means that a particle can be considered the same entity in multiple locations because **localization is an emergent property**, not a fundamental one. **Entangled particles**, therefore, are not truly separate — they are **the same energy differentiated in different ways**.
+Particles are treated here as **differentiated states of energy** rather than as pre-localized objects; localization is then read as an emergent rather than fundamental property. On this reading, entangled particles can be described as the same energy differentiated in different ways (interpretation).
 
-From this perspective, **entangled particles** could be viewed as **the same entity** interacting through different **manifestations of potential energy vectors**. In this sense, **entanglement is not a connection between two separate particles**, but rather **a reflection of the same undifferentiated energy field** manifesting at different points.
+From this perspective, entangled particles appear as different **manifestations of potential energy vectors** rather than as two separate systems connected by a signal. Entanglement then reads less as a link between two particles and more as shared differentiation of a common energy field appearing at different points (interpretation).
 
 **Implications of Non-Localized Entanglement**
 
-Because **localization** is emergent, the idea that **entangled particles** are located at different points in space becomes irrelevant. What matters is how energy differentiates and creates **observable effects** across scales. In the framework, **entanglement** reflects how particles are **non-locally connected** via **potential energy vectors** that do not respect classical spatial boundaries.
+If **localization** is taken as emergent, the spatial separation of entangled particles is no longer the structural feature that needs explaining. The structural feature is how energy differentiates and produces **observable effects** across scales. Entanglement then reflects a non-local connection through **potential energy vectors** that are not constrained by classical spatial boundaries (interpretation).
 
 Therefore, **entangled particles** could be viewed as **different aspects of the same underlying energy** that have no fixed position. This suggests that **entanglement** is **a natural consequence of the fundamental non-locality** of the universe, where differentiation of energy occurs across scales, rather than in fixed spatial locations.
 
@@ -33,9 +33,9 @@ In ISE, the universe operates through **self-referential differentiation**, mean
 
 This **self-referential differentiation** allows **particles to share properties** across the universe without needing direct physical interaction. **Entanglement**, then, is a direct consequence of how **energy differentiates across scales** in a **non-local, universal field**.
 
-**Entanglement**
+**Summary**
 
-In the model, **entanglement** is a reflection of the **n-dimensional interconnectedness** of all particles through **potential energy vectors**. It is not confined to pairs of particles but can involve **infinite connections** across the universe. Particles are **differentiated energy states**, and **entangled particles** are not separate entities but different manifestations of the **same undifferentiated energy**. This leads to the radical conclusion that **entanglement** is a natural property of the universe’s **non-local, scale-free energy differentiation**, where localization is only an emergent phenomenon.
+Entanglement is read here as a consequence of **n-dimensional interconnectedness** among particles through **potential energy vectors**, not restricted in principle to prepared pairs. Particles figure as **differentiated energy states**, and entangled particles as different manifestations of a shared energy field rather than as two independent systems. The reading suggests that entanglement can be understood as a property of **non-local, scale-free energy differentiation**, with localization treated as emergent (interpretation).
 
 **The Plausibility of Entanglement**  
 **Entanglement as Scale Coherence, Not Local Interaction**
@@ -52,7 +52,7 @@ Quantum mechanics suggests that entanglement involves "spooky action at a distan
 
 **Bell Experiments as Projections on Limited Scales**
 
-The violation of Bell's inequalities indicates that classical notions of locality and realism are insufficient. ISE explains this as a projection effect: our classical framework only captures **a lower-dimensional subset of a fundamentally scale-dependent structure.**
+The violation of Bell's inequalities indicates that classical notions of locality and realism are insufficient to describe the observed correlations. One possible reading is a projection effect: classical descriptions capture **a lower-dimensional subset of a scale-dependent structure**, while the correlations live in the full structure (interpretation).
 
 **Quantum Entanglement as a Fundamental Principle of Reality**
 
@@ -60,4 +60,4 @@ Entanglement is not an exceptional quantum phenomenon but a **core structural pr
 
 **Conclusion**
 
-ISE offers a coherent explanation of quantum entanglement by embedding it within a broader framework of **scale-dependent connectivity and differentiation**. Unlike classical computational models, which struggle to accommodate superposition and nonlocality, ISE naturally integrates these properties as fundamental consequences of its structure.
+Taken together, the preceding sections read entanglement within a picture of **scale-dependent connectivity and differentiation**. Superposition and nonlocality then appear as consequences of the same scale structure rather than as separate puzzles to be reconciled with locality (interpretation).

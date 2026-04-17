@@ -22,7 +22,7 @@ The energy of an elementary particle does not come from some lower-level **quant
 
 **Big Bang and Nucleosynthesis: A Certain Differentiation Was Required**
 
-To get more specific about the **Big Bang** and the formation of elements (nucleosynthesis), ISE suggests that for nuclear fusion to take place, the universe needed to **reach a specific degree of differentiation**.
+Applied to the **Big Bang** and the formation of elements (nucleosynthesis), the differentiation picture implies that nuclear fusion became possible only once the universe had **reached a specific degree of differentiation**.
 
 In simpler terms:
 
@@ -31,7 +31,7 @@ In simpler terms:
 
 **Information as the Process of Division (Differentiation)**
 
-**Information** is equivalent to the **division of energy**. Every time energy differentiates into a new state, it creates **information**. This is a crucial part of how reality is structured in the model:
+**Information** is treated here as equivalent to the **division of energy**. Every time energy differentiates into a new state, it creates **information**. This framing ties structure directly to the differentiation process:
 
 * **Information is not a separate thing** from energy — it is the process by which energy divides and takes on new forms. When energy differentiates, it forms **structures** like elementary particles and atoms.  
 * Each **particle or atom** is an **aggregate** of these differentiated energy states. They aren't simple, standalone entities, but rather **complex combinations** of many differentiated states of energy.
@@ -45,14 +45,14 @@ For example, an elementary particle like an electron isn’t just a point partic
 **More Differentiation = More Information (Analogous to Entropy)**
 
 * As the universe differentiates into more and more states, the total amount of **information** increases. This is analogous to the concept of **entropy**: as more energy states are created, the system becomes more complex, and the potential configurations of those states increase.  
-* **Entropy** in thermodynamics is the measure of disorder or complexity in a system, and in the model, **information** behaves similarly. The more differentiation (or division of energy), the more possible states there are for particles and systems, thus increasing the information content of the universe.
+* **Entropy** in thermodynamics measures disorder or complexity in a system; **information** in the differentiation picture behaves similarly. More differentiation (or division of energy) means more possible states for particles and systems, and therefore a larger information content of the universe.
 
-**Summarized Explanation in ISE Terms:**
+**Summary:**
 
-* **Quantization** is just a useful way of visualizing energy at certain scales, but in the model, it is not real. The smallest possible energy unit is determined by how energy is spread across the whole universe.  
-* The **energy of a particle** doesn’t come from some intrinsic quantization but is defined by its relation to the **rest of the universe**.  
-* During the **Big Bang**, for nucleosynthesis to happen, the universe had to reach a specific **energy differentiation**, where a particular balance of **spatial and radiation information** existed, meaning that **energy density** had to be just right.  
-* **Information** is the process of **dividing energy** into differentiated states. Particles are aggregates of these energy states, and their properties are just **expressions of this differentiation**.  
-* As the universe continues to differentiate, the **total information increases**, similar to how **entropy** increases in thermodynamics as systems become more complex.
+* **Quantization** is treated as a useful way of visualizing energy at certain scales rather than as a fundamental feature. The smallest resolvable energy unit depends on how energy is spread across the whole universe.  
+* The **energy of a particle** is read not as intrinsic quantization but as a relation to the **rest of the universe**.  
+* For nucleosynthesis after the **Big Bang**, the universe had to reach a specific **energy differentiation**, with a particular balance of **spatial and radiation information** — i.e. a specific range of **energy density**.  
+* **Information** is identified with the process of **dividing energy** into differentiated states. Particles appear as aggregates of these energy states, and their properties as **expressions of this differentiation**.  
+* As the universe continues to differentiate, the **total information increases**, analogous to how **entropy** increases in thermodynamics as systems become more complex.
 
-In the ISE view, the universe is a continuous process of differentiation, where energy gives rise to particles, space, and time through its division, and **quantization** only emerges as a helpful way of understanding this process at particular scales, but not as an absolute property of reality.
+On this reading, the universe is described as a continuous process of differentiation in which energy gives rise to particles, space, and time through its division; **quantization** then appears as a useful scale-dependent description of that process rather than as an absolute property of reality.

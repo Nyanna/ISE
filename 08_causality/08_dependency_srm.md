@@ -9,7 +9,7 @@ This chapter provides the formal bridge between the conceptual framework of depe
 
 Chapter "Dependency Propagation" established that physical reality consists of dependency propagation through differentiation structure, with time, mass, space, and gravitation emerging as projective aspects of this singular process. The reductive sequence — from protoinformation through differentiation to observable phenomena — requires formal expression within a framework that respects scale symmetry as primitive.
 
-SRM provides precisely this framework. Where classical mathematics smuggles in absolute units as hidden axioms, SRM treats ratios as primitive and scale transformations as fundamental. The task now is to express the dependency ontology in S-equivariant terms.
+SRM provides such a formalism. Where standard formulations often carry absolute units as implicit reference points, SRM foregrounds ratios as primitive and scale transformations as the structural operation. The task is to express the dependency ontology in S-equivariant terms.
 
 **The Scale Group and Photon-Relative Weights**
 

@@ -44,7 +44,7 @@ The answer is no, and the reason is structural. In the standard formalism, space
 
 The gauge transformations act on the fiber degrees of freedom (phase, isospin, color), not on the spacetime curvature. They share spacetime indices with the Riemann tensor only because all fields live on the same base manifold, but the internal structure and the spacetime structure are mathematically disjoint. Consequently, U(1) × SU(2) × SU(3) cannot constrain which purely spacetime operators appear as counterterms. $C^2$ has only spacetime indices, and no gauge symmetry can forbid it.
 
-This separation is not a choice of convention. It is built into the mathematical framework at the deepest level: differential geometry on fiber bundles treats the base space (spacetime) and the fibers (internal symmetry spaces) as categorically distinct objects. Any theory formulated within this framework inherits the separation, regardless of the physical content one intends to express.
+This separation is not a choice of convention. It is built into the foundational definitions of the formalism: differential geometry on fiber bundles treats the base space (spacetime) and the fibers (internal symmetry spaces) as categorically distinct objects. Any theory formulated in this language inherits the separation, regardless of the physical content one intends to express.
 
 **The Kaluza-Klein Alternative and Its Failure**
 

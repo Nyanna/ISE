@@ -3,7 +3,7 @@
 
 **Ontological Correction in Entropy-Gravitation Dynamics**
 
-Previous sections of this thesis treated gravitation and entropy as conceptually distinct domains — following the conventional thermodynamic separation. Gravitation was discussed structurally, entropy thermodynamically. This division follows the dominant paradigm where gravitational systems are treated outside the entropy framework, or only retrofitted via information theory near singularities (e.g., black hole thermodynamics). However, this approach is ontologically inconsistent within the model.
+Earlier sections treated gravitation and entropy as conceptually distinct domains, in line with the usual thermodynamic separation: gravitation discussed structurally, entropy thermodynamically. Information-theoretic bridges are typically added near singularities (e.g., black hole thermodynamics) rather than integrated from the outset. For a scale-relative account of differentiation, this separation is worth revisiting, since gravitational ordering and entropy flow appear to be two faces of the same process.
 
 By contrast, this chapter embraces an integrative reinterpretation inspired by Roger Penrose's recognition that gravitation is not entropically neutral or antagonistic, but rather a contributor to entropy — especially in structurally formative regimes. The ISE provides the required formalism to take this insight further, reclassifying gravitational dynamics as scale-driven entropic differentiation.
 
@@ -31,9 +31,9 @@ Penrose identified several key departures from classical thermodynamics:
 
 These insights support the view that **structure and entropy are not exclusive**, particularly when gravitation mediates both.
 
-**ISE Reconciliation: Differentiation and Gravitation as One Process**
+**Reconciliation: Differentiation and Gravitation as One Process**
 
-In the model:
+On the reading developed here:
 
 * Gravitation is not a force but **differentiation** of scale across protoinformational strata.
 
@@ -95,7 +95,7 @@ We conclude:
 
 * The classical second law is **a limiting case**, valid only in weak-gravity, near-homogeneous systems.
 
-Thus, the **integration of gravitation into the entropic domain is not only possible but ontologically consistent within ISE**.
+On this reading, gravitation and entropy can be treated within a single differentiation dynamics rather than as separate sectors joined only near boundaries.
 
 **Gravitation as a Positive Entropic Contributor in a Differentiated Scale Structure**
 
@@ -125,4 +125,4 @@ Thus, gravitation is **a positive entropic contribution**, *not a counterforce t
 
 5. Resonance → higher-scale entropy increase
 
-The classical thermodynamic treatment of entropy, which isolates it from gravitational processes, fails to account for the structural and informational consequences of gravitational differentiation. By integrating Penrose’s insight into gravitational entropy and reinterpreting it through the lens of scale-dynamics, the model reframes gravitation as a fundamental agent of entropy generation. Rather than resisting entropy, gravitational processes enable its propagation across scales through resonance, structure formation, and causal asymmetry. Entropy in this view is not an absolute or universal scalar, but an emergent, scale-dependent consequence of continuous differentiation. This chapter establishes that gravitation and entropy are not conceptually opposed but structurally unified — a recognition that dissolves prior contradictions and strengthens the coherence of the framework.
+The classical thermodynamic treatment of entropy tends to bracket gravitational processes, which leaves the structural and informational consequences of gravitational differentiation outside its scope. Extending Penrose's observation that gravitation contributes to entropy through structure formation and reading it through scale-dynamics, gravitation can be described as an agent of entropy generation rather than an exception to it. In this picture, gravitational processes carry entropy across scales via resonance, structure formation, and causal asymmetry; entropy itself appears as a scale-dependent consequence of continuous differentiation rather than an absolute scalar. Gravitation and entropy are then structurally coupled — an interpretive move that removes a standing tension in the earlier exposition.

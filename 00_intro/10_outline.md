@@ -17,7 +17,7 @@ Numbering matches to the chapter numbering.
 
    * Coherence as precondition: coherence is not produced by differentiation but is the necessary precondition enabling differentiation through coherent division.
 
-   * Self-referential coherence: ISE uniquely describes itself as an emergent product of the same differentiation process it postulates.
+   * Self-referential coherence: the framework describes itself as an emergent product of the same differentiation process it postulates.
 
    * Scale-Relational Mathematics (SRM): treats ratios as primitive and scale transformations as fundamental. Photon as torsor origin, S-weights as mass (dependency depth), resonance conditions for observability.
 
@@ -189,7 +189,7 @@ Numbering matches to the chapter numbering.
 
    * Continuity between universes rejected: each scale is self-contained with no shared properties.
 
-   * Probabilistic interpretations and parallel universes incompatible with ISE: only realized differentiations exist.
+   * Probabilistic interpretations and parallel universes not admitted: only realized differentiations exist.
 
    * Unobservable entities have no real existence.
 

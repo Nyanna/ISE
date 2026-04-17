@@ -120,7 +120,7 @@ The same information budget can support different effective dimensions depending
 
 **Time as an Observer‑Dependent Arrow from Scale Flow**
 
-Time in this framework is emergent and tied to scale flow:
+Under a scale‑relational reading, time is emergent and tied to scale flow:
 
 - Define a monotonic parameter $\sigma$ that orders changes in accessible information $N(\sigma)$ or in $S_{\sigma}$. An observer’s “arrow of time” is aligned with the direction in which the observer’s perceived configuration complexity changes monotonically (under a chosen coarse‑graining).
 
@@ -173,7 +173,7 @@ This reconciles the intuition that both the early and the late universe can be �
 
 - Approaches such as “it from bit,” ur‑alternatives, tensor networks, AdS/CFT, and loop gravity offer mechanisms for geometry emerging from correlations. Empirically robust is the conclusion that finite regions have finite state capacity and that area laws constrain entropy.
 
-- The present theory posits a single underlying proto‑informational substrate from which all degrees of freedom emerge via scale‑dependent differentiation. This is a model assumption; the mathematical consequences developed here follow from finite capacity and the bounds above, independent of ontological commitments.
+- The working assumption adopted here is a proto‑informational substrate from which degrees of freedom emerge via scale‑dependent differentiation. This is an ontological choice; the mathematical consequences developed above follow from finite capacity and the entropy bounds themselves, and remain valid independently of that choice.
 
 **Operational Clarifications**
 

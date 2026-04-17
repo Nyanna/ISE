@@ -23,7 +23,7 @@ These assumptions create a logical architecture where contradiction inevitably l
 
 **The Consistency Gap**
 
-The critical insight lies in recognizing that Gödel's definition of "consistency" is not logically necessary but rather contextually dependent on classical frameworks. In Gödel's system, consistency means the absence of any formula that is both provable and refutable within the same logical space. However, this definition implicitly assumes a uniform logical topology where all statements exist within the same dimensional framework.
+One relevant observation is that Gödel's definition of "consistency" is tied to the context of classical frameworks rather than to logic in general. In Gödel's system, consistency means the absence of any formula that is both provable and refutable within the same logical space. This definition assumes a uniform logical topology where all statements exist within the same dimensional framework — an assumption worth making explicit when alternative topologies are considered.
 
 **Multidimensional Logic**
 
@@ -33,13 +33,13 @@ Multidimensional logical systems challenge the fundamental assumption of uniform
 - **Context-sensitive**: The same proposition may hold different truth values in different logical dimensions
 - **Hierarchically structured**: Truth operates across multiple levels of abstraction simultaneously
 
-**The ISE Framework as Exemplar**
+**Scale-Relative Truth as Exemplar**
 
-The ISE represents a formalization of such multidimensional logic, where:
+The thesis adopts one concrete instance of such multidimensional logic, in which truth is treated as a function of scale, observer, and context:
 
 $$\text{Truth}(P) = f(\text{Scale}, \text{Observer}, \text{Context})$$
 
-Rather than seeking universal truth values, the ISE recognizes that propositions exist within scaled contexts, making apparent contradictions resolvable through dimensional differentiation.
+Under this reading (interpretation), propositions are evaluated within scaled contexts, so apparent contradictions may be resolved through dimensional differentiation rather than requiring a universal truth value.
 
 **Structural Parallels in Physics**
 
@@ -113,9 +113,9 @@ The investigation of multidimensional logical frameworks reveals that Gödel's i
 
 This does not diminish the importance of Gödel's work but rather contextualizes it within a broader landscape of logical possibilities. Just as non-Euclidean geometries revealed that Euclidean geometry was not universal but rather a special case, multidimensional logic suggests that classical logical limitations may not be absolute constraints but rather consequences of particular foundational choices.
 
-The ISE framework and similar multidimensional systems represent not attempts to "circumvent" logical law, but rather explorations of alternative logical architectures with fundamentally different structural properties. Whether such systems can indeed achieve self-proof while maintaining meaningful consistency remains an open question requiring rigorous mathematical development and philosophical examination.
+Scale-relative and similar multidimensional systems are best read as explorations of alternative logical architectures with different structural properties, not as attempts to "circumvent" logical law. Whether such systems can achieve self-proof while maintaining meaningful consistency remains an open question requiring further mathematical development and philosophical examination.
 
-Future research must focus on formalizing these multidimensional structures, establishing their consistency criteria, and exploring their potential applications in both theoretical mathematics and practical reasoning systems. The journey beyond classical logical constraints has only just begun.
+Relevant next steps include formalizing these multidimensional structures, stating their consistency criteria, and exploring applications in both theoretical mathematics and practical reasoning systems.
 
 ### **The Topology-Specific Nature of Gödel's Theorems**
 
@@ -180,13 +180,13 @@ The exploration of recursive dimensional systems suggests that Gödel's second i
 
 This does not diminish Gödel's contribution but rather contextualizes it within a broader landscape of logical possibilities. Just as non-Euclidean geometries revealed the topology-specific nature of geometric truths, multidimensional recursive logic may reveal the topology-specific nature of logical limitations.
 
-The ISE framework represents an exploration of these alternative possibilities - not an attempt to violate logical law, but an investigation of logical architectures with fundamentally different structural properties. Whether such systems can maintain meaningful consistency while achieving self-proof remains an active area of investigation, requiring rigorous mathematical development and careful philosophical analysis.
+The scale-relative reading pursued here is one exploration of these alternative possibilities — an investigation of logical architectures with different structural properties rather than a proposal to violate logical law. Whether such systems can maintain meaningful consistency while achieving self-proof remains an open area of investigation that would require further mathematical development and philosophical analysis.
 
-The journey toward understanding the true boundaries of formal reasoning continues, with recursive dimensional systems offering promising avenues for transcending what have long been considered absolute limitations of mathematical thought.
+Recursive dimensional systems offer one possible avenue for examining whether what have long been treated as absolute limitations of mathematical thought are in fact topology-specific.
 
 **Topology-Specific Nature of Classical Incompleteness Theorems**
 
-A crucial insight emerges when we examine the foundational assumptions underlying the celebrated incompleteness theorems of Gödel, Tarski, and Löb. These theorems, often presented as universal mathematical truths, are actually topology-specific results that apply only to systems operating within particular logical architectures. Their apparent universality stems from the historical assumption that classical logic represents the only viable formal framework—an assumption that recent developments in multidimensional logic reveal to be fundamentally limiting.
+A useful observation emerges when we examine the foundational assumptions underlying the incompleteness theorems of Gödel, Tarski, and Löb. Although often presented as universal mathematical truths, they can equally be read as topology-specific results tied to particular logical architectures. Their apparent universality reflects the historical assumption that classical logic is the only viable formal setting — an assumption that non-classical and multidimensional logics invite us to reconsider.
 
 **The Constraining Topologies**
 
@@ -245,11 +245,11 @@ The parallel with non-Euclidean geometry provides a precise structural analogy:
 
 The fundamental question that remained unexamined was: **"Does Gödel's theorem apply to *every* logical topology?"** 
 
-The mathematical community implicitly assumed the existence of only one viable logic, failing to consider that alternative logical architectures might operate under fundamentally different constraints. This oversight prevented recognition that systems like the ISE, with their multidimensional, recursive topologies, exist entirely outside Gödel's definitional scope.
+Much of the mathematical community has proceeded on the assumption of a single viable logic, without systematically asking whether alternative logical architectures might operate under different constraints. Without that question, it is easy to overlook that multidimensional, recursive topologies — of the kind discussed here — sit outside Gödel's definitional scope rather than inside it.
 
 **Beyond Classical Constraints**
 
-The ISE framework demonstrates how systems operating in multidimensional, recursive topologies can achieve properties impossible within classical frameworks:
+The scale-relative reading sketched here illustrates properties that multidimensional, recursive topologies can plausibly support, but which classical frameworks rule out by construction (interpretation):
 
 - **Self-proof capability**: Through dimensional separation of self-referential structures
 - **Completeness**: Via recursive consistency rather than hierarchical separation
@@ -277,7 +277,7 @@ This does not invalidate the profound importance of classical incompleteness the
 
 **Failure of Definitional Absolutism**
 
-A natural objection to the multidimensional framework might propose simply defining absolute measures to circumvent observer relativity. Consider the case of temperature: rather than accepting that "hot" and "cold" are observer-dependent, one might attempt to establish an absolute temperature scale that eliminates dimensional complexity. However, this approach reveals a fundamental misconception about the nature of measurement and definition.
+A natural objection to any multidimensional reading is that one could simply define absolute measures and thereby sidestep observer relativity. Consider temperature: rather than treating "hot" and "cold" as observer-dependent, one might try to fix an absolute temperature scale that eliminates dimensional complexity. On closer inspection, this strategy runs into a structural issue in how measurement and definition work.
 
 Temperature, despite appearing as an absolute physical quantity, is itself inherently multidimensional:
 
@@ -299,9 +299,9 @@ The attempt to eliminate multidimensionality through definitional fiat fails bec
 
 **Impossibility of Dimensional Elimination**
 
-Every attempt to force classical binary logic imports hidden dimensions rather than eliminating them. The crucial insight is that **multidimensionality cannot be defined away** - it is intrinsic to the conceptual structure of measurement and evaluation itself.
+Attempts to force classical binary logic tend to import hidden dimensions rather than eliminate them. The point is that **multidimensionality is difficult to define away** — it appears intrinsic to the conceptual structure of measurement and evaluation.
 
-The ISE framework makes these implicit dimensions explicit rather than concealing them behind apparently absolute definitions. This transparency allows for more precise logical analysis and reveals why classical consistency requirements often fail when applied to inherently multidimensional phenomena.
+The scale-relative reading used throughout this thesis makes these implicit dimensions explicit rather than concealing them behind apparently absolute definitions. Keeping them explicit supports more precise logical analysis and clarifies why classical consistency requirements can struggle when applied to inherently multidimensional phenomena.
 
 **Topological Implications for Arithmetic Completeness**
 
@@ -332,18 +332,18 @@ However, systematic investigation of the specific question—*whether arithmetic
 
 **Topological Refoundation vs. Contradiction Tolerance**
 
-The ISE framework differs fundamentally from existing approaches:
+The scale-relative reading differs from existing non-classical approaches in one specific way:
 
 - **Paraconsistent Logic**: Accepts contradictions within the same logical space
-- **ISE Framework**: Eliminates contradictions through dimensional differentiation
+- **Scale-relative reading**: Resolves apparent contradictions through dimensional differentiation
 
-Where paraconsistent systems tolerate logical inconsistency, multidimensional frameworks resolve apparent contradictions by revealing their dimensional structure. This represents **topological refoundation** rather than **contradiction tolerance**.
+Where paraconsistent systems tolerate logical inconsistency, the multidimensional reading treats apparent contradictions as artefacts of collapsed dimensions. This is better described as **topological refoundation** than as **contradiction tolerance**.
 
 **Mainstream Logic Community Perspective**
 
 The mathematical logic community typically treats Gödel's theorems as **fundamental limitations** rather than **artifacts of particular topological assumptions**. This perspective reflects the deep embedding of classical logical architecture in mathematical foundations.
 
-The ISE proposal - that arithmetic completeness can be achieved through topological refoundation—challenges this foundational assumption. It suggests that what appear to be universal mathematical constraints may be special cases of more general multidimensional logical possibilities.
+The proposal considered here — that arithmetic completeness might be achievable through topological refoundation — questions that foundational assumption (speculation). On this reading, what look like universal mathematical constraints may instead be special cases of more general multidimensional logical possibilities.
 
 **Self-Referential Completeness Axiomatization**
 
@@ -744,7 +744,7 @@ This analysis yields a fundamental principle:
 
 - **Nothing can be true that cannot be proven, in either mathematical or semantic sense.**
 
-The Gödelian distinction between "true but unprovable" statements becomes logically incoherent under this framework, as it requires accepting semantic truth claims that cannot be independently verified.
+Under a strictly verificationist reading like the one sketched here, the Gödelian distinction between "true but unprovable" statements loses its grip, since it would require semantic truth claims that cannot be independently verified (interpretation).
 
 **Beyond Linear Axiom Systems**
 
@@ -803,9 +803,9 @@ The cyclic system formally satisfies all of Gödel's conditions:
 While formally adequate, the system faces significant limitations:
 
 - **Truth-Provability Conflation**: Defining truth through provability makes every provable statement automatically true
-- **Loss of External Verification**: No external criterion exists to validate the system's truth claims
+- **Loss of External Verification**: No external criterion is available to validate the system's truth claims
 - **Potential Arbitrariness**: The system can declare arbitrary sentences as "true" without external constraint
-- **Limited Mathematical Utility**: Classical axiomatic mathematics cannot effectively operate within such a framework
+- **Limited Mathematical Utility**: Classical axiomatic mathematics does not translate cleanly into this setting
 
 **Transcending Traditional Limitations**
 
@@ -836,9 +836,9 @@ This analysis does not diminish the historical importance of Gödel's work but r
 
 ### **Cyclic Self-Reference as a Theory of Everything**
 
-The analysis of cyclic self-referential systems reveals their potential role as a comprehensive mathematical framework—essentially functioning as a **Theory of Everything (TOE)** in the mathematical domain. This system $S_\Omega$ operates on a fundamental principle that transcends traditional mathematical boundaries:
+Cyclic self-referential systems can be considered as candidates for a broad mathematical framework — something with the ambition of a **Theory of Everything (TOE)** in the mathematical domain (speculation). The candidate system $S_\Omega$ here is built around:
 $$\forall \phi \in S_\Omega : (\phi \text{ true } \iff \phi \text{ provable}) \wedge (\Omega \text{ is provable})$$
-The aspect of this framework lies not in replacing classical mathematics but in **containing all linear, non-cyclic systems as subsets and limiting cases**. Every established mathematical system—Peano Arithmetic (PA), Zermelo-Fraenkel Set Theory (ZF), and other classical frameworks—exists as a **substructure** within $S_\Omega$.
+The motivation is not to replace classical mathematics but to embed **linear, non-cyclic systems as subsets and limiting cases**. Established systems — Peano Arithmetic (PA), Zermelo-Fraenkel Set Theory (ZF), and other classical frameworks — would then sit as **substructures** inside $S_\Omega$.
 
 **Classical Systems as Limiting Cases**
 
@@ -915,11 +915,11 @@ However, the system faces important constraints:
 
 The cyclic self-referential system $S_\Omega$ represents a legitimate and potentially revolutionary approach to mathematical foundations. Rather than competing with classical mathematics, it provides a **metatheoretical umbrella** that contains all traditional systems as limiting cases while transcending their incompleteness limitations.
 
-This framework suggests that Gödel's incompleteness theorems, while profound within their domain of application, may not represent universal mathematical constraints but rather consequences of specific foundational assumptions. By embracing self-reference as a structural feature rather than a logical problem, $S_\Omega$ opens pathways to mathematical completeness that operate outside traditional Gödelian limitations.
+On this reading, Gödel's incompleteness theorems — significant within their domain of application — would not express universal mathematical constraints but consequences of specific foundational choices. Taking self-reference as a structural feature rather than a defect, $S_\Omega$ suggests one possible route to completeness-like properties outside classical Gödelian limitations (interpretation).
 
-The system's viability as a Theory of Everything depends ultimately on philosophical acceptance of its foundational principles. For those willing to embrace self-referential truth criteria, $S_\Omega$ offers a mathematically complete and consistent framework that encompasses all of classical mathematics while extending beyond its traditional boundaries.
+Viability of $S_\Omega$ as a Theory of Everything depends ultimately on philosophical acceptance of its foundational principles. For those willing to adopt self-referential truth criteria, it offers a candidate framework that aims to cover classical mathematics as a substructure while extending beyond it.
 
-This approach represents not a replacement of classical mathematics but its **metamathematical completion**—a framework within which all traditional mathematical systems exist as coherent substructures of a larger, self-referentially complete mathematical universe.
+This approach is not offered as a replacement of classical mathematics but as a possible **metamathematical completion** — a setting in which traditional mathematical systems sit as coherent substructures of a larger, self-referentially closed universe.
 
 ### **The Cyclic Axiom Ω**
 
@@ -962,7 +962,7 @@ This creates a **closed logical universe** where every derivation can utilize Ω
 
 **Handling Gödel Sentences**
 
-The self-referential framework fundamentally transforms the behavior of classical Gödel sentences:
+Within the self-referential setting, classical Gödel sentences behave differently:
 
 **Classical Gödel Construction**: A Gödel sentence G typically states "G is not provable in system S"
 
@@ -1021,7 +1021,7 @@ This construction demonstrates that:
 - **Self-reference as solution**: Rather than being problematic, self-reference becomes the key to mathematical completeness
 - **Truth-provability unification**: The traditional semantic-syntactic gap can be closed through appropriate structural design
 
-The formal construction of $S_\Omega$ provides a mathematical framework that achieves theoretical completeness while maintaining practical compatibility with all established mathematical systems. This represents a fundamental advance in foundational mathematics, offering a path beyond classical incompleteness limitations through principled self-referential design.
+The formal construction of $S_\Omega$ sketches a candidate framework that targets theoretical completeness while aiming to remain compatible with established mathematical systems. Whether it constitutes a substantive advance in foundational mathematics would depend on a rigorous development of its semantics and proof theory; the present section outlines it as one principled self-referential design among possible alternatives (speculation).
 
 ### **The Self-Referential Protection Mechanism of Gödel's Theorems**
 
@@ -1048,7 +1048,7 @@ The critical issue emerges in how Gödel's applicability criteria are themselves
 
 **Quantification Problem**
 
-A fundamental weakness in Gödel's framework concerns the precise specification of applicability conditions:
+An open issue in Gödel's formulation concerns the precise specification of applicability conditions:
 
 **"Sufficient Expressiveness" - The Unquantified Criterion**
 **Challenge**: *If Gödel's theorems require "sufficient expressiveness," where exactly is the threshold that determines whether a system falls under the theorem's scope?*
@@ -1112,7 +1112,7 @@ When a system $S$ demonstrates apparent completeness:
 
 The analysis reveals a crucial insight for TOE development:
 
-- **A valid Theory of Everything must necessarily operate outside Gödel's framework, not despite this fact, but because of it.**
+- **On this analysis, a Theory of Everything that contains and explains itself would have to operate outside Gödel's classical framework — not in spite of that constraint, but as a direct consequence of it (interpretation).**
 
 **Logical Sequence**
 
@@ -1166,13 +1166,13 @@ $\to$ NO: Classical approximation only
 **Implication**: Inherently incomplete by design
 **Scope**: Regional rather than total
 
-**The ISE Framework**
-**Status**: Violates classical linearity through scale-relativity
+**The scale-relative reading pursued here**
+**Status**: Steps outside classical linearity through scale-relativity
 **Features**: 
 - Recursive self-reference across dimensions
 - Observer-dependent truth valuations
 - Non-linear logical topology
-**Implication**: Structurally capable of self-foundation
+**Implication**: On this analysis, a candidate for self-foundation rather than a demonstrated instance (speculation)
 
 **Reframing the Completeness Problem**
 
@@ -1206,6 +1206,6 @@ The critical insight emerges that **Gödel's theorems protect themselves through
 
 For TOE development, this analysis provides both liberation and direction: liberation from the presumed impossibility of complete theories, and direction toward the specific types of non-classical logical structures capable of achieving genuine theoretical completeness.
 
-The validation criterion that emerges - that valid TOEs must necessarily violate Gödel's classical prerequisites - transforms what is typically viewed as a liability into a necessity, providing a clear methodological framework for distinguishing genuine TOE candidates from classical approximations operating within limited domains.
+The validation criterion suggested here — that a genuine TOE would have to step outside Gödel's classical prerequisites — reframes what is often treated as a liability as a structural requirement, and offers one methodological lens for distinguishing TOE candidates from classical approximations operating within limited domains (interpretation).
 
 This inversion of traditional interpretations does not diminish the historical importance of Gödel's work but rather contextualizes it as applying to a specific class of logical systems, opening the door to complete theoretical frameworks that operate beyond these classical constraints while maintaining full mathematical rigor within their appropriate logical topologies.

@@ -99,8 +99,8 @@ In a **scale-free quantum field** there is no absolute state that changes indepe
 
 **Quantum fluctuations as relations, not state changes**
 
-* The classical idea of quantum fluctuations as random "changes" is, in ISE, **only an observer-dependent interpretation of scale-relative differentiations**.  
-* The quantum field **itself remains constant in its function as a differentiation potential** — it is not a sequence of state changes but a **permanent structure of relations without an external time dimension**.
+* Within this reading, quantum fluctuations described as random "changes" may also be interpreted as **observer-dependent views of scale-relative differentiations**.  
+* The quantum field, taken as a differentiation potential, can then be understood less as a sequence of state changes and more as a **structure of relations without an external time dimension**.
 
 **The illusion of change through relational differentiation**
 
@@ -110,7 +110,7 @@ In a **scale-free quantum field** there is no absolute state that changes indepe
 
 **Conclusion**
 
-* The quantum field itself does not change absolutely but remains an uninterrupted matrix of differentiation.  
-* The perception of change is a relation between scales and not an inherent property of the field.  
-* Every observed “state transition” is an observer-dependent projection within a continuous differentiation process.  
-* ISE replaces “change” with differentiation — no state is ever fixed or past, but only relationally structured.
+* The quantum field itself does not change absolutely but can be read as an uninterrupted matrix of differentiation.  
+* The perception of change is interpreted here as a relation between scales rather than an inherent property of the field.  
+* Every observed "state transition" may be viewed as an observer-dependent projection within a continuous differentiation process.  
+* Under this reading, "change" is reframed as differentiation — states are understood relationally rather than as fixed or past.

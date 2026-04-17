@@ -47,4 +47,4 @@ The space between particles isn't just empty; it's **filled with potential energ
 * With **three particles**, a more complex network of potential energy vectors forms, creating a triangular system where distances become multi-dimensional.  
 * With **four particles**, the complexity reaches a point where **three-dimensional space** emerges from the network of potential energy vectors.
 
-In the framework, **distance and space are not pre-existing**; they are the result of how energy differentiates and is distributed between particles. The potential energy vectors describe this distribution, forming the framework for all spatial relationships in the universe.
+Taken together, the toy construction treats **distance and space as emergent rather than pre-existing**: they arise from how energy differentiates and is distributed between particles. Potential energy vectors describe this distribution and provide the bookkeeping for the spatial relationships that follow.

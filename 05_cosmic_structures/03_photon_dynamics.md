@@ -7,24 +7,24 @@ The intricate relationship between cosmic expansion and localized systems has lo
 
 Central to this exploration is the idea that even within bound regions, such as those near Earth, the expansion of space subtly affects the energy of photons. This energy loss, manifesting as redshift, forms the basis for proposing a hypothetical "photon clock." Such a clock would offer insights into the interplay between expansion and local gravitational forces, serving as a universal measure of time and a means to probe the local expansion rate.
 
-The following discussion delves into the theoretical framework of this photon clock, examining its foundational principles, potential applications, and the challenges that render it an elegant but currently impractical concept. Through this lens, the narrative highlights the profound interconnectedness of cosmic and localized phenomena, shedding light on the universal nature of spacetime.
+The following discussion outlines the theoretical basis of this photon clock, examining its underlying principles, potential applications, and the challenges that render it currently impractical. The discussion touches on the interconnection of cosmic and local phenomena and on the shared spacetime that links them.
 
 **Equivalence of Space, Time, and Velocity**
 
-Time is defined by events in space. In the ISE perspective, time emerges as a relational construct rather than an absolute dimension. Events occurring in space create the perception of time, as their sequencing and interrelations form the basis of temporal flow. Time cannot exist independently of spatial configurations because it is fundamentally tied to the differentiation and interaction of protoinformation. The passage of time reflects the interplay of these events, and the rate at which time flows is dependent on the density and nature of interactions within space.
+Time is defined by events in space. Here, time is treated as a relational construct rather than an absolute dimension. Events occurring in space create the perception of time, as their sequencing and interrelations form the basis of temporal flow. Time cannot exist independently of spatial configurations because it is tied to the differentiation and interaction of protoinformation. The passage of time reflects the interplay of these events, and the rate at which time flows depends on the density and nature of interactions within space.
 
-Events in space are limited by the speed of light. This universal constant acts as the upper boundary for the propagation of information and causal effects. The speed of light ensures consistency and synchrony across different scales of the universe, creating a common framework for interactions. In the model, this limit is not simply a restriction but a defining feature of how space, time, and velocity interrelate. It establishes the maximum rate at which protoinformational differentiation can occur, setting the structure of observable reality.
+Events in space are limited by the speed of light. This constant acts as the upper boundary for the propagation of information and causal effects. The speed of light enforces consistency and synchrony across scales, giving interactions a common reference. Read alongside the notion of protoinformational differentiation, this limit sets the maximum rate at which such differentiation can occur and thereby shapes the structure of observable reality.
 
-Reduction of space accelerates time. As space contracts, interactions become denser and occur over shorter distances. This leads to a relative acceleration of time, as the framework of events compresses. The ISE perspective views this as a dynamic shift in the balance of dimensions, where the reduction of spatial scale intensifies the rate of temporal progression. This acceleration is not absolute but relative to the scale and context of the system being observed, illustrating the deep interdependence of space and time within the infinite scale differentiation process.
+Reduction of space accelerates time. As space contracts, interactions become denser and occur over shorter distances. This leads to a relative acceleration of time as the sequence of events compresses. One reading is that reducing the spatial scale intensifies the rate of temporal progression — a shift in the balance of dimensions rather than a change in an absolute clock. The acceleration is always relative to the scale and context of the observed system, reflecting the interdependence of space and time under scale differentiation.
 
 **In General Relativity**
 
-* Time Dilation: In General Relativity (GR), time dilation arises due to gravitational fields or relative velocities. Strong gravitational fields slow down the passage of time relative to weaker fields, which aligns with the ISE perspective's emphasis on time as a relational construct. However, GR describes this as an effect of spacetime curvature, while ISE connects it to protoinformational differentiation.  
-* Spacetime Curvature: GR describes spacetime as being curved by the presence of mass and energy. This curvature dictates the motion of objects and the flow of time. While GR treats this curvature as a fundamental geometric property, ISE frames it as an emergent feature of scale-differentiated interactions within the protoinformational field. The curvature in GR can be seen as a manifestation of the continuous balance between space and time described in ISE.
+* Time Dilation: In General Relativity (GR), time dilation arises due to gravitational fields or relative velocities. Strong gravitational fields slow the passage of time relative to weaker fields, which is compatible with treating time as a relational construct. GR describes this as an effect of spacetime curvature; here it is read as a consequence of protoinformational differentiation.  
+* Spacetime Curvature: GR describes spacetime as curved by the presence of mass and energy, with the curvature governing the motion of objects and the flow of time. Where GR takes this curvature as a fundamental geometric property, the present reading interprets it as an emergent feature of scale-differentiated interactions in the protoinformational field — the curvature can then be viewed as one manifestation of the ongoing balance between space and time.
 
 **Parallels**
 
-Both models acknowledge the dynamic relationship between time, space, and velocity, but ISE integrates these dynamics into a framework that highlights the fluid, emergent nature of these dimensions. GR provides precise mathematical predictions, while ISE emphasizes the relational and scale-dependent behavior that underpins these effects.
+Both readings acknowledge the dynamic relationship between time, space, and velocity. GR provides precise mathematical predictions; the scale-expansion reading emphasises the relational, scale-dependent behaviour that underpins these effects and foregrounds the emergent character of the three dimensions.
 
 **Cosmological Expansion applies only on large scales.**
 
@@ -65,7 +65,7 @@ This paragraph centers on the apparent contradiction that fully binding gravity 
 
 Gravitational binding must have locally delayed expansion, as bound regions like galaxies and galaxy clusters remain cohesive even as the overall universe expands. This indicates that gravity counteracts expansion effectively on small scales but cannot inhibit the large-scale stretching of space. The transition from bound to unbound regions reflects a balance between gravitational forces and the universal driving force of expansion.
 
-The ISE perspective suggests that expansion acts universally, even within bound regions, albeit at a diminished rate. Over time, this gradual influence accumulates, creating a dynamic equilibrium where gravitational binding defines localized systems while cosmic expansion dominates larger, unbound scales. This duality resolves the apparent contradiction and supports the idea that the universe’s expansion and structure formation are complementary, not conflicting, processes.
+The interpretation adopted here is that expansion acts universally, even within bound regions, albeit at a diminished rate. Over time, this gradual influence accumulates, producing a dynamic equilibrium where gravitational binding defines localised systems while cosmic expansion dominates larger, unbound scales. Read this way, expansion and structure formation are complementary rather than conflicting processes, and the apparent contradiction dissolves.
 
 **Shielded Expansion**
 
@@ -77,11 +77,11 @@ However, this perspective failed to account for the gradual and cumulative natur
 
 **In Context of ISE**
 
-We now transition from the previously held assumptions to a perspective rooted in the framework. This shift emphasizes the continuous differentiation and relational nature of space, time, and velocity. While prior interpretations often framed spacetime as a static or localized phenomenon dominated by gravitational effects, the ISE perspective integrates a more dynamic understanding of expansion as an inherent and gradual process affecting all scales.
+We now move from the preceding assumptions to the reading adopted in this thesis, which emphasises the continuous differentiation and relational nature of space, time, and velocity. Where earlier interpretations often treated spacetime as a static or localised phenomenon dominated by gravitational effects, the reading here takes expansion as an inherent and gradual process affecting all scales.
 
-From the ISE viewpoint, space is never entirely static, even within gravitationally bound systems. The influence of expansion operates universally, albeit at varying intensities depending on the strength of local binding forces. This understanding acknowledges that the stability of bound systems is not absolute but rather a relative equilibrium maintained through the interplay of gravitational forces and the underlying, scale-dependent expansion of space. Over time, even within regions of strong binding, the gradual influence of expansion accumulates, subtly altering the dynamics of spacetime.
+On this reading, space is never entirely static, even within gravitationally bound systems. Expansion operates universally, with varying intensity depending on the strength of local binding forces. The stability of bound systems is then a relative equilibrium maintained through the interplay of gravitational forces and the underlying, scale-dependent expansion of space rather than an absolute rest. Over time, even within regions of strong binding, the gradual influence of expansion accumulates and subtly alters the dynamics of spacetime.
 
-This transition to an ISE-based understanding also reframes our approach to phenomena like cosmological redshift, energy loss in photons, and the formation of large-scale structures. By recognizing the interconnected, emergent properties of spacetime, the model provides a cohesive framework that aligns local stability with the universal process of scale expansion, bridging previously perceived contradictions.
+The same shift reframes how phenomena like cosmological redshift, photon energy loss, and large-scale structure formation are approached. Treating spacetime's properties as interconnected and emergent allows local stability and universal scale expansion to be read as two aspects of one process, so the apparent tensions between them no longer need to be treated as contradictions.
 
 **Gradual Expansion and Binding Effects**
 
@@ -155,8 +155,8 @@ If cosmic expansion in bound regions was limited or significantly delayed due to
 * **Gamma Radiation Must Be Stronger:** Gamma radiation produced during the annihilation process in the early universe would have experienced less redshift if it had been confined for extended periods within gravitationally bound regions. Such confinement would shield the radiation from the full effect of expansion, preserving its original energy density more effectively. As a result, gamma radiation today would have a higher energy density and contribute more significantly to the CMB than predicted by standard models.  
 * **CP Violation Becomes Questionable:** The early gamma radiation contribution to the energy density of the universe is magnitudes lower than what would be necessary if large-scale matter-antimatter annihilation had occurred. This deficit suggests that such annihilation processes were not a significant factor in the universe's evolution. Furthermore, the lack of strong fluctuations in the CMB implies that gravitational binding did not substantially delay or alter the effects of cosmic expansion.  
   If annihilation had been a dominant mechanism, gamma radiation would have been significantly more abundant and evident in the CMB as an overwhelming relic signature. Its absence challenges the adequacy of CP violation and annihilation as explanations for baryonic asymmetry. Instead, these observations may point to alternative mechanisms, such as symmetry breaking on a more fundamental level, or the absence of widespread matter-antimatter interaction altogether.  
-  Additionally, the relative uniformity of the CMB indicates that gravitationally bound regions did not significantly hinder expansion or cause variations in photon behavior. This suggests that the transition between bound and unbound dynamics was sufficiently smooth and uniform to preserve the isotropy observed in the CMB. Together, these points emphasize the need to reconsider classical theories and integrate models that account for the subtle interplay of gravitational forces and cosmic evolution, such as those proposed by ISE.  
-* **New Interpretative Frameworks:** These observations would challenge the classical narrative of early annihilation and CP violation, requiring alternative explanations. Mechanisms within the framework, for instance, propose that localized conditions or emergent scale-dependent phenomena could explain the baryonic asymmetry and its relationship with gamma radiation.
+  Additionally, the relative uniformity of the CMB indicates that gravitationally bound regions did not significantly hinder expansion or cause variations in photon behavior. This suggests that the transition between bound and unbound dynamics was sufficiently smooth and uniform to preserve the isotropy observed in the CMB. Together, these points motivate revisiting classical accounts and considering descriptions that resolve the subtle interplay of gravitational forces and cosmic evolution at finer scales.  
+* **Alternative Interpretations:** These observations would put pressure on the classical narrative of early annihilation and CP violation and leave room for other explanations. One such reading — in line with the present thesis — proposes that localised conditions or emergent scale-dependent phenomena account for baryonic asymmetry and its relationship with gamma radiation.
 
 This perspective suggests a need to reevaluate how gravitationally bound regions influenced early gamma radiation and how such effects shape our understanding of the universe's evolution.
 
@@ -197,7 +197,7 @@ The framework offers an alternative perspective on these inconsistencies:
 
 **Revisiting Expansion**
 
-ISE integrates expansion as an inherent, universal process affecting all scales:
+Expansion is treated here as an inherent process acting across all scales:
 
 * **Localized Stability as Illusion:** What appears as stability in bound systems is a dynamic equilibrium where gravitational forces temporarily dominate but do not negate expansion.  
 * **Continuous Scale Differentiation:** The interplay between local binding and cosmic expansion exemplifies a fundamental balance, with expansion subtly altering even the densest regions over time.
@@ -213,11 +213,11 @@ The gradual energy loss of photons, observable through redshift, highlights the 
 
 By reframing the observed phenomena:
 
-* **Photon Behavior:** The energy loss of photons through redshift aligns with the universe’s continuous scale adjustment, a hallmark of ISE.  
-* **CMB Uniformity:** The smoothness of the CMB can be understood as the integrated outcome of expansion’s universal influence, balancing localized gravitational effects with the overarching dynamic.  
-* **Baryonic Asymmetry:** The observed asymmetries may be better explained through emergent protoinformational processes rather than exclusive reliance on early annihilation events.
+* **Photon Behavior:** The energy loss of photons through redshift is consistent with the continuous scale adjustment of the universe emphasised here.  
+* **CMB Uniformity:** The smoothness of the CMB can be read as the integrated outcome of expansion acting across scales, balancing localised gravitational effects against the broader dynamic.  
+* **Baryonic Asymmetry:** The observed asymmetries may be better explained through emergent protoinformational processes rather than sole reliance on early annihilation events.
 
-The model, therefore, not only reconciles apparent contradictions but also provides a cohesive framework that bridges local and cosmic dynamics, deepening our understanding of the universe’s continuous evolution.
+Read this way, the account addresses the apparent contradictions and links local and cosmic dynamics within a single description of the universe's continuous evolution.
 
 **A Hypothetical Photon Clock**
 
@@ -239,4 +239,4 @@ Using a photon clock to measure the local expansion rate would provide unprecede
 
 Despite its theoretical elegance, the practical implementation of a photon clock faces significant challenges. The energy loss due to expansion is extremely small, especially within gravitationally bound regions, requiring instruments of extraordinary sensitivity to detect such minute changes. Additionally, isolating the effects of expansion from other influences, such as local gravitational perturbations or quantum effects, would be an immense technical hurdle. Finally, the timescales required to observe meaningful changes may extend beyond feasible experimental durations, making the concept more of a theoretical tool than a practical instrument.
 
-This hypothetical photon clock, while likely unachievable in practice, provides a fascinating framework for understanding the interaction between cosmic expansion and localized systems. It underscores the interconnectedness of spacetime dynamics and highlights the profound implications of seemingly small effects like photon energy loss for the fundamental nature of the universe.
+This hypothetical photon clock is likely unachievable in practice, but it is a useful thought experiment for probing how cosmic expansion and locally bound systems interact. It illustrates how the dynamics of spacetime at different scales hang together, and how small effects such as photon energy loss carry implications for the fundamental behaviour of the universe.

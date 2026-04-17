@@ -7,7 +7,7 @@
 
 In the darkness behind closed eyes, the universe reveals its origin.
 
-What is commonly dismissed as visual static, as noise or meaningless flicker in our visual field, is in fact the most immediate and direct expression of the framework. It is not a perceptual error. It is the visible manifestation of the primordial resonance field – the baseline condition from which all differentiation emerges.
+What is commonly dismissed as visual static, as noise or meaningless flicker in our visual field, can be read as a sensory window onto a baseline resonance condition. Under this interpretation it is not merely a perceptual error, but the visible correlate of a primordial resonance field – the baseline condition from which differentiation emerges.
 
 **The Symmetry of Noise**
 

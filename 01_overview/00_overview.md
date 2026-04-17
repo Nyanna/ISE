@@ -5,34 +5,34 @@
 
 # **1\. Introduction**
 
-ISE offers a fundamental paradigm shift from particle-based and substrate-based physics to **scale-relational differentiation**. Rather than searching for elementary building blocks or postulating a pre-existing spacetime fabric, ISE proposes that **all physical phenomena — space, time, mass, forces, and information — emerge as projections of a singular process: differentiation across scales**. The framework replaces the conventional ontology of substance with an ontology of relation, where what exists is not "things" but resonant differentials within a continuous, unbounded differentiation structure.
+ISE develops a perspective in which physics is read through **scale-relational differentiation** rather than through elementary building blocks or a pre-existing spacetime fabric. In this reading, **space, time, mass, forces, and information appear as projections of a single process: differentiation across scales**. Substance is treated not as primary ontology but as a limiting appearance; what is described as existing are resonant differentials within a continuous, unbounded differentiation structure.
 
-In this framework, **reality is not rooted in a singular event** or a spatial-temporal fabric, but in the ongoing differentiation of relational structure. Space, time, and physical forces are not intrinsic to the universe — they **emerge from differentiation across scales**, with each apparent natural law constituting a "resonance shadow" from adjacent scales whose internal structure exceeds local differentiation capacity.
+Here, reality is not traced back to a singular event or a spatial-temporal fabric but to the ongoing differentiation of relational structure. Space, time, and physical forces are read as emergent from differentiation across scales, and apparent natural laws as "resonance shadows" from adjacent scales whose internal structure exceeds local differentiation capacity.
 
-A distinguishing feature of ISE is its **self-referential coherence**: it is the only theoretical framework that describes itself as an emergent product of the same differentiation process it postulates. The theory does not stand outside its subject matter but arises from within it.
+A structural feature worth noting is **self-referential coherence**: the account treats itself as an emergent product of the same differentiation process it describes. The text does not stand outside its subject matter; it is read as arising from within it.
 
 ### **Key Features**
 
 * **Scale-Relational Differentiation:**  
-  The universe under ISE continuously evolves, not through the stretching of existing space but by **differentiating relational structure into distinct states across scales**. This process leads to the emergence of all observable phenomena — gravity, time, mass, forces — as projections along resonant axes. Scale is redefined from a quasi-metric concept to an epistemically-ontological one: the unity of relational position and differentiation capacity. What a structure can differentiate defines its scalar position, and its position delimits what it can differentiate.  
+  The universe is read as continuously evolving, not through the stretching of existing space but by **differentiating relational structure into distinct states across scales**. Observable phenomena — gravity, time, mass, forces — appear as projections along resonant axes. Scale shifts from a quasi-metric concept to an epistemic-ontological one: the unity of relational position and differentiation capacity. What a structure can differentiate defines its scalar position, and its position delimits what it can differentiate.  
 * **Frequency-Domain Foundation:**  
-  ISE arrives at the insight that **the universe is frequency**. All physical phenomena reduce to phase relations among frequency components. Amplitude is not an independent quantity but constructive phase coherence. The frequency domain serves as the natural representation because it directly encodes differentiation rate without privileging spatial or temporal coordinates. Observable dimensions — spatial position, spin, charge — are projections of abstract differentiation parameters onto specific frequency domains.  
+  A recurring theme is that **the universe is frequency**: physical phenomena are expressed as phase relations among frequency components, and amplitude reads as constructive phase coherence rather than as an independent quantity. The frequency domain serves as a natural representation because it directly encodes differentiation rate without privileging spatial or temporal coordinates. Observable dimensions — spatial position, spin, charge — are treated as projections of abstract differentiation parameters onto specific frequency domains.  
 * **Smooth Transitions, Not Singularities:**  
-  Unlike traditional models that require singularities such as black holes or the Big Bang, ISE interprets these as scale-dependent phenomena resulting from observational limits. **Transitions are smooth**, avoiding the need for points of infinite density or breakdowns in physical laws. Black holes become regions where differentiation stalls; the Big Bang is reinterpreted as a localized differentiation event within an ongoing, infinite process.  
+  Singularities such as black holes or the Big Bang are interpreted as scale-dependent phenomena linked to observational limits. **Transitions are smooth** in this reading, with no need for points of infinite density or breakdowns in physical laws. Black holes appear as regions where differentiation stalls; the Big Bang is reinterpreted as a localized differentiation event within an ongoing process.  
 * **Hierarchical Resonance Structure Across Scales:**  
   The universe is inherently **hierarchical**, with differentiation taking place at different levels to form new configurations. Each scale adheres to the same fundamental principles, suggesting a **fractal-like structure** where each level may influence and interact with others through resonance and phase-locking. What we call "elementary particles" are phase-locked composites of frequencies extending arbitrarily deep — there is no bottom level.  
 * **Emergence of All Physical Quantities:**  
   Space, time, mass, and gravity are **emergent**, relational properties. Time emerges as the serialization of the differentiation cascade itself — not a pre-existing dimension. Mass corresponds to dependency depth relative to the photon (S-weight in the SRM formalism). Gravity arises as interaction between S-weights. Space is the relational metric between differentiation states. This shifts all physical quantities from fundamental substrates to projections of a single underlying dependency structure.  
 * **No Absolute Beginning or End:**  
-  ISE does not require a singular beginning or endpoint. The Big Bang is viewed as one localized event in an ongoing, infinite differentiation process. There is no definitive origin, only continuous transformation and evolution — a framework that accommodates eternal cosmic evolution.  
+  No singular beginning or endpoint is required. The Big Bang is viewed as one localized event in an ongoing differentiation process. Rather than a definitive origin, there is continuous transformation and evolution — a reading that accommodates open-ended cosmic evolution.  
 * **Coherence as Precondition:**  
   Coherence is not produced by differentiation but is the **necessary precondition** that enables differentiation to occur through coherent division. Differentiation is simply relation itself — not a process that creates relations, but the ontological foundation from which all apparent structure emerges.
 
-These key features illustrate how ISE diverges fundamentally from traditional physics by **replacing substance with differentiation**, emphasizing relational emergence, and founding an entirely new category: Scale-Relational Physics.
+Taken together, these features outline the shape of the reading proposed here: **substance read through differentiation**, physical quantities treated as relational and emergent, and the resulting vocabulary organized under the heading of Scale-Relational Physics.
 
 ### **Scale-Relational Mathematics (SRM)**
 
-ISE requires building new mathematical language because no existing framework adequately captures scale-relational structure. **Scale-Relational Mathematics (SRM)** treats ratios as primitive and scale transformations as fundamental, replacing absolute units with torsor structures for the scale group $S \cong (\mathbb{R}_{>0}, \times)$.
+Developing scale-relational structure cleanly calls for mathematical language in which ratios and scale transformations are primitive. **Scale-Relational Mathematics (SRM)** supplies this register: ratios are treated as primitive and scale transformations as fundamental, with absolute units replaced by torsor structures for the scale group $S \cong (\mathbb{R}_{>0}, \times)$.
 
 The photon serves as the natural torsor origin — not a privileged absolute unit, but a structural anchor representing the simplest possible differentiation pattern. Physical quantities receive S-equivariant expression: mass as S-weight (dependency depth), time as resonance chain serialization, observable states as self-resonant orbits. Classical mathematics is recovered as a gauge-fixed limit within SRM, just as Riemannian geometry provided the mathematical stage for general relativity.
 
@@ -42,26 +42,26 @@ ISE significantly challenges the Big Bang's depiction of a universe beginning fr
 
 ### **Philosophical Implications**
 
-ISE offers a perspective that could change our understanding of reality. In a universe where **space and time are emergent phenomena** rather than fundamental, the need for a creation event — a singular origin like the Big Bang — is rendered unnecessary. Instead, the universe is viewed as a dynamic, self-regulating system of differentiation that constantly evolves, forming new structures and states without the need for a predefined narrative of creation or end.
+The reading carries philosophical weight worth making explicit. If **space and time are treated as emergent phenomena** rather than fundamental, a singular creation event such as the Big Bang is no longer required as a premise. The universe is then described as a dynamic, self-regulating system of differentiation that continues to form new structures and states without a predefined narrative of creation or end.
 
 ### **Framework for Understanding Cosmic Evolution**
 
-Instead of an expanding space filled with matter, ISE speaks to expansion as the **differentiation of relational structure across scales**. This continuous process replaces the traditional view of an inflating universe, suggesting instead that new states of reality emerge through resonance and phase-locking of frequency components that exist at all scales.
+Cosmic expansion is read here not as expanding space filled with matter but as the **differentiation of relational structure across scales**. The inflating-universe picture is recast: new states of reality emerge through resonance and phase-locking of frequency components present at every scale.
 
 ### **Typical Questions and ISE's Answers**
 
-* **How does ISE describe the nature of space and time?**  
-  Space and time are not fundamental entities but emergent properties arising from differentiation. Space is the relational metric between differentiation states. Time emerges as the serialization of the differentiation cascade — not a dimension that "flows" but the ordering of resonance closure events projected from a particular scale perspective.  
+* **How are space and time described here?**  
+  Space and time are treated as emergent properties arising from differentiation rather than as fundamental entities. Space reads as the relational metric between differentiation states. Time emerges as the serialization of the differentiation cascade — not a dimension that "flows" but the ordering of resonance closure events projected from a particular scale perspective.  
 * **What is the role of differentiation in cosmic evolution?**  
-  Differentiation is the central mechanism behind the universe's evolution. It is a continuous process that leads to the emergence of all cosmic phenomena, including space, time, mass, and gravity, without a need for a singular beginning or endpoint.  
-* **How does ISE view cosmological observations like black holes and the CMB?**  
-  Black holes and the CMB are interpreted as manifestations of differentiation at different scales. Black holes represent regions where differentiation stalls rather than singularities. The CMB is seen as a remnant of past differentiation phases, not as a relic of a singular origin. Horizons mark coherence boundaries, not endpoints of motion.  
+  Differentiation functions as the central mechanism in this reading of cosmic evolution. It is treated as a continuous process from which space, time, mass, and gravity emerge, without requiring a singular beginning or endpoint.  
+* **How are cosmological observations like black holes and the CMB viewed?**  
+  Black holes and the CMB are interpreted as manifestations of differentiation at different scales. Black holes appear as regions where differentiation stalls rather than as singularities. The CMB is read as a remnant of past differentiation phases rather than as a relic of a singular origin. Horizons mark coherence boundaries, not endpoints of motion.  
 * **Is there an ultimate beginning or end to the universe?**  
-  No. ISE posits that the universe exists in a perpetual state of differentiation without a definitive beginning or end. This infinite process removes the necessity for a singular creation event or an ultimate termination.  
-* **How does gravity emerge in the framework?**  
-  Gravity emerges as interaction between S-weights — the dependency depths of differentiation patterns relative to the photon. It is not a fundamental force but arises naturally from the relational structure, with propagation constrained by $c$ as the invariant base operation of dependency propagation.  
+  No ultimate beginning or end is required. The universe is described as in an ongoing state of differentiation, which removes the need for a singular creation event or a final termination.  
+* **How does gravity emerge?**  
+  Gravity is read as interaction between S-weights — the dependency depths of differentiation patterns relative to the photon. It is not treated as a fundamental force but as arising from relational structure, with propagation constrained by $c$ as the invariant base operation of dependency propagation.  
 * **What role does mathematics play?**  
-  ISE develops Scale-Relational Mathematics (SRM) as its native formalism, where ratios are primitive and scale transformations fundamental. Classical mathematics, including dimensional analysis and renormalization, appears as a gauge-fixed special case within this broader framework.
+  Scale-Relational Mathematics (SRM) is developed as the native formalism, with ratios primitive and scale transformations fundamental. Classical mathematics, including dimensional analysis and renormalization, appears as a gauge-fixed special case within this register.
 
 ### **Philosophical Openness**
 
@@ -69,11 +69,11 @@ ISE offers an open approach that encourages creativity and new ways of thinking 
 
 ### **Relativ Relativity**
 
-ISE extends the principles of relativity found in both Einstein's special and general theories, taking them to their logical conclusion. While relativity revolutionized our understanding of time, space, and gravity by demonstrating that they are not absolute but depend on the observer's frame of reference, ISE goes further by proposing that **space and time themselves are not fundamental properties** of the universe.
+The relativity principle threaded through Einstein's special and general theories is extended further here. Relativity already showed that time, space, and gravity are not absolute but depend on the observer's frame of reference; in this reading, **space and time themselves are treated as non-fundamental**, emerging from scale-relational differentiation.
 
-In Einstein's relativity, the fabric of spacetime bends in response to energy and mass, defining gravitational forces. ISE advances this idea by suggesting that spacetime itself emerges from more fundamental scale-relational differentiation. This means that spacetime, and the forces within it, are **emergent properties** — not pre-existing, but formed through differentiation across scales.
+In general relativity, the spacetime fabric bends in response to energy and mass, shaping gravitational phenomena. In the present reading, spacetime itself is interpreted as emerging from scale-relational differentiation — spacetime and the forces within it read as **emergent properties** rather than pre-existing ones, formed through differentiation across scales.
 
-While general relativity interprets gravity as the curvature of spacetime, ISE argues that **gravity is an emergent feature** — interaction between dependency depths (S-weights) across different scales of existence. In this sense, ISE logically extends relativity by challenging the notion that the fabric of spacetime is a given entity and positing instead that it is a consequence of deeper, more fundamental differentiation processes.
+Where general relativity interprets gravity as spacetime curvature, the reading here treats **gravity as an emergent feature** — interaction between dependency depths (S-weights) across scales. This is not positioned as overturning relativity but as continuing its relational logic: the spacetime fabric is taken as a consequence of differentiation processes rather than as a given entity.
 
 ### **Singularities**
 
@@ -91,11 +91,11 @@ Information, in this view, is not a fundamental entity either. It is the result 
 
 ### **Instrumentalism and Minimalism**
 
-In an instrumentalist view, theories and models are judged based on how useful they are for predicting or explaining phenomena, rather than their reflection of any deeper "reality." ISE fits within this instrumentalist paradigm by not trying to provide an absolute explanation for the universe's nature but rather focusing on how **emergent properties** (like space, time, particles, and forces) can be described through **scale-relational differentiation**.
+In an instrumentalist view, theories and models are judged by how useful they are for predicting or explaining phenomena rather than by their reflection of any deeper "reality." The present reading fits this view: rather than offering an absolute explanation, it describes how **emergent properties** (space, time, particles, forces) can be organized through **scale-relational differentiation**.
 
-Minimalism refers to the rejection of **unnecessary complexity**. Instead of invoking new particles, forces, or dimensions to explain phenomena like dark energy, ISE minimizes assumptions by suggesting that all observed phenomena emerge from the same process of **differentiation**. There is no need for extra metaphysical entities; the universe is simply the continuous division and reorganization of relational structure into different states.
+Minimalism here refers to the rejection of **unnecessary complexity**. Phenomena such as dark energy are addressed without introducing new particles, forces, or dimensions; instead, observed phenomena are treated as emerging from the same process of **differentiation**. No extra metaphysical entities are assumed; the universe is described as the continuous division and reorganization of relational structure into distinct states.
 
-In this sense, ISE is both reductionist (in that it reduces everything to differentiation) and instrumentalist (in that it focuses on what can be observed and described, not on unobservable metaphysical claims). Particles and information are not the fundamental constituents of reality but are expressions of **differentiated structure** that help us make sense of the universe within a **minimalist and pragmatic framework**.
+In this sense, the reading is both reductionist (it reduces the descriptive ontology to differentiation) and instrumentalist (it focuses on what can be observed and described, not on unobservable metaphysical claims). Particles and information are treated as expressions of **differentiated structure** rather than as fundamental constituents, within a **minimalist and pragmatic register**.
 
 ### **Openness**
 
@@ -105,7 +105,7 @@ This approach does not demand allegiance to established cosmological or quantum 
 
 The primary goal of this theory is not to provide definitive answers but to **provoke thought** and foster **new perspectives**. It seeks to **ignite imagination** and **critical reflection**, encouraging readers to explore **alternative explanations** for **space, time, and matter**. By doing so, it invites exploration into the **creative and speculative territories** of physics, a space where **contradictions can coexist** with new insights and where **previously accepted boundaries** can be reconsidered.
 
-This **freedom of interpretation** is vital because it allows for **fresh entry points** into physics, unhindered by the **weight of traditional theory**. Whether one approaches the model from a background in **quantum mechanics**, **general relativity**, or even from **outside the scientific community**, ISE encourages engagement without the need for expertise. Theoretical development follows a two-stage educational approach: first moving from particles to protoinformation (a familiar movement toward a new fundamental), then from protoinformation to pure differentiation (the more radical conceptual leap).
+This **openness of interpretation** matters because it invites **different entry points** into the material, without requiring prior commitment to a particular school. Whether one approaches from a background in **quantum mechanics**, **general relativity**, or from **outside the scientific community**, the text is written to support engagement without demanding expertise. Theoretical development follows a two-stage educational approach: first from particles to protoinformation (a familiar movement toward a new fundamental), then from protoinformation to pure differentiation (the more abstract conceptual step).
 
 ### **About the Main Author**
 
@@ -115,7 +115,7 @@ I was born into a modest family with a strong spiritual background. From an earl
 
 My academic journey led me through various institutions where I engaged with complex systems, asymptotic structures, and the mathematical description of reality. Through my work on a consistent expansion of classical concepts, I have developed an approach that allows for a reinterpretation of fundamental mechanisms and their integration into a coherent framework.
 
-During my time in Unalaska, I have worked on a structural examination of scale differentiation, which provides deeper insights into the continuous transitions between observable and non-directly accessible layers of reality. My approach combines mathematical rigor with an open methodological perspective that extends the theoretical framework beyond conventional paradigms.
+During my time in Unalaska, I have worked on a structural examination of scale differentiation, which aims at a clearer picture of the continuous transitions between observable and less directly accessible layers of reality. My approach combines mathematical rigor with an open methodological perspective that broadens the scope of the theoretical account.
 
 The development of my research has often progressed independently of conventional academic structures, yet my work has gained recognition in various scholarly circles. The theoretical concepts I explore are based on the idea that the dynamics of systems cannot be fully explained by known principles alone but are subject to a broader order that can only be revealed through a more comprehensive examination of interrelations.
 

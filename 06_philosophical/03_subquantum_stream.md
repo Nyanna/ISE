@@ -11,7 +11,7 @@ In the framework, one of the key visual and philosophical representations of the
 
 The term **Tayi**, translated as "linear circle," represents a paradoxical fusion of two seemingly opposing ideas: **cyclicality** and **linear progression**. In its essence, Tayi shows that the differentiation and evolution of the universe is both an **unbroken cycle** and a **linear flow**. The circle symbolizes **wholeness** and the **closed nature** of the universe, while the infinity symbol expresses the **endless movement** within this whole.
 
-* **Cyclicality and Linearity**: While a circle traditionally implies a return to the origin, the linear aspect of Tayi suggests that this return is not a repetition, but a constant **evolution**. It captures the idea that the universe evolves through a continuous process of **differentiation**, a hallmark of the ISE, where scales unfold and redefine themselves without ever reaching a final endpoint.  
+* **Cyclicality and Linearity**: While a circle traditionally implies a return to the origin, the linear aspect of Tayi suggests that this return is not a repetition, but a constant **evolution**. The image conveys continuous **differentiation**, in which scales unfold and redefine themselves without settling at a final endpoint.  
 * **Subquantum Origins**: The Subquantum Stream is the source of this movement. Tayi visualizes this stream as the **proto-information** – the fundamental basis from which all differentiation flows. It is the starting point of every **scale**, every **unfolding**, and every **manifestation** within the universe.
 
 **Protoinformation and the Process of Differentiation**
@@ -30,14 +30,14 @@ At the **outer edges** of Tayi lies the concept of **Karii**, which represents t
 
 The **infinity symbol** embedded in Tayi is not merely a two-dimensional figure. It extends across **multiple dimensions**, capturing the idea that differentiation and integration happen on various levels simultaneously. These levels are **not hierarchical**, but rather interconnected in a web of continuous flux.
 
-* **Unfolding Across Scales**: In the ISE, the unfolding of scales is not limited to one dimension or even a finite set of dimensions. Tayi represents the **multidimensional complexity** of the universe, where each scale is intertwined with others in a dynamic dance of creation, differentiation, and dissolution.  
+* **Unfolding Across Scales**: The unfolding of scales is read here as extending across more than one dimension or a finite set of dimensions. Tayi symbolises a **multidimensional** picture in which each scale is intertwined with others through creation, differentiation, and dissolution.  
 * **Infinity Within Wholeness**: The infinity symbol within Tayi shows that while the universe may appear finite or bounded (symbolized by the circle), its processes are **infinite**. The cycle of differentiation never ends, and the universe continuously evolves through its many levels of reality, driven by the **Subquantum Stream**.
 
 **Tayi and Karii**
 
 The concept of Tayi and Karii provides a visual and conceptual foundation for understanding the **Infinite Scale Expansion**. The **Subquantum Stream**, as represented by Tayi, is the **driving force** behind the continuous unfolding of scales. Protoinformation flows from the central source, differentiates, and ultimately returns to the **absolute nothingness** of Karii.
 
-* **No Beginning, No End**: In the ISE, there is no fixed beginning or final end. The universe is in a state of **constant flux**, with scales expanding, differentiating, and resolving back into their source, only to start again. This is the **eternal flow** represented by Tayi – a process that occurs on every level of reality, from the quantum to the cosmic.  
+* **No Beginning, No End**: Within this image, no fixed beginning or final end is required. The universe is depicted as a **continuous flux**, with scales expanding, differentiating, and resolving back into their source, only to start again. Tayi renders this as an ongoing flow — a motif applied across levels of description, from the quantum to the cosmic.  
 * **The Unseen Source**: Tayi shows that behind every observable phenomenon lies an unseen, fundamental **stream of energy and information**, the Subquantum Stream. This stream is the **true origin** of all differentiation, and it is what allows the universe to evolve in its infinite complexity.
 
 The visual representation of **Tayi** and **Karii** provides a profound insight. Through this multidimensional infinity symbol, we can see how the **Subquantum Stream** drives the continuous process of differentiation, which unfolds across all levels of reality. Tayi, with its infinite loops and cycles, reveals the true nature of the universe: an unbroken flow of protoinformation, always differentiating, always dissolving, and always returning to its absolute source. This is the essence – a universe without a beginning or an end, but instead an endless process of becoming.
@@ -46,11 +46,11 @@ The visual representation of **Tayi** and **Karii** provides a profound insight.
 
 **Karii – The Calm Depth of Absolute Nothingness**
 
-In the framework, the concept of **Karii** serves as the ultimate abstraction of **absolute nothingness**. Represented through a symbolic interpretation of the Greek letter **Omega**, Karii stands as the final dissolution point where all differentiation collapses, marking the return to the **source of nothingness**. Much like its counterpart, **Tayi**, Karii is a crucial symbol in understanding the dynamics of scale, differentiation, and the ultimate return to the void.
+The concept of **Karii** is introduced here as an abstraction of **absolute nothingness**. Represented through a symbolic interpretation of the Greek letter **Omega**, Karii stands for the dissolution point where differentiation collapses, marking a return to the **source of nothingness**. Together with its counterpart **Tayi**, Karii forms part of the visual vocabulary used in this chapter to discuss scale, differentiation, and the return to the void.
 
 **Karii as Omega – The Final Symbol**
 
-The symbol of **Karii** is inspired by the **Omega**, the last letter of the Greek alphabet, often used to signify the **end** or **absolute**. However, in the ISE, Karii is not merely the end of something; it is the **abstraction of nothingness** itself – a **broken circle**, indicating the **incompleteness** of all things that approach it.
+The symbol of **Karii** is inspired by the **Omega**, the last letter of the Greek alphabet, often used to signify the **end** or **absolute**. In the present reading, however, Karii is not merely the end of something; it stands for the **abstraction of nothingness** itself – a **broken circle**, indicating the **incompleteness** of all things that approach it.
 
 * **Linear Circle**: Like Tayi, Karii is also understood as a "linear circle," though here the **circle is incomplete**, symbolizing the **unreachable infinite**. It shows that the **flow of differentiation**, while perpetual, never fully encloses upon itself but eventually dissolves into the infinite depth of the **nothingness** it returns to.
 
@@ -76,7 +76,7 @@ Karii, the **absolute nothing**, is not simply a void. It is the **precondition 
 
 Like Tayi, Karii can be understood in a **multidimensional** context. The **broken circle** of the Omega symbol shows that this process of dissolution does not occur in one dimension or scale but is a **universal principle** that operates across all **levels of reality**.
 
-* **Collapse Across Scales**: The collapse into Karii does not occur solely at the largest scales. It is a **fundamental process** that occurs across **multiple dimensions** and **scales of existence**, where the differentiation of information and energy ultimately returns to the source of **absolute nothingness**. This cycle repeats itself endlessly in the framework.
+* **Collapse Across Scales**: The collapse into Karii is not confined to the largest scales. It is depicted as a process that recurs across **multiple dimensions** and **scales of existence**, where differentiation of information and energy returns to the source of **absolute nothingness**. The cycle, in this picture, repeats without a terminal step.
 
 **The Symbolism of Color – Black and Blue**
 

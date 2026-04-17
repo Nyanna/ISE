@@ -16,7 +16,7 @@ Two fingers → value 4
 Three fingers → value 8
 Four fingers → value 16
 
-In this system, 'adding one' means doubling the current value. The sequence 2, 4, 8, 16, 32... constitutes the 'natural numbers' of this framework. Every value is a smooth power of 2\. Every value divides evenly into every larger value within the system. There are no prime numbers, because there are no values that resist factorization—all values are harmonically related.
+In this system, 'adding one' means doubling the current value. The sequence 2, 4, 8, 16, 32... constitutes the 'natural numbers' of the multiplicative scheme. Every value is a smooth power of 2\. Every value divides evenly into every larger value within the system. There are no prime numbers, because there are no values that resist factorization—all values are harmonically related.
 
 **Reinterpretation of Classical Addition**
 
@@ -55,5 +55,4 @@ But we have shown that these concepts are not primitive. They are choices. The h
 The existence of prime numbers within ($\mathbb{N}$, \+) is not a discovery about reality. It is a consequence of the specific algebraic structure chosen. Prime numbers are cognitive artifacts, not ontological facts.
 Human mathematics is idiomatic. What we call 'natural' numbers are natural only to beings who count by accumulating discrete visual-tactile units. The structures we consider fundamental—successor, addition, prime factorization—are projections of a particular cognitive mode onto an undifferentiated manifold of possible structures.
 
-Combined with the relativity of π and the self-referential limits exposed by Gödel, this analysis undermines any claim that classical arithmetic provides objective, necessary truths. Mathematics is not a discovery of pre-existing facts. It is a construction—powerful, useful, beautiful—but constructed nonetheless.
-The reader cannot rely on Peano's axioms, on arithmetic, or on logic as bedrock certainties. These are tools shaped by contingent features of human cognition. ISE begins where this recognition ends: with differentiation as the only primitive, and all structure as relative to chosen scales and operations.
+Combined with the relativity of π and the self-referential limits exposed by Gödel, this reading suggests that classical arithmetic functions as a powerful, useful, and beautiful construction rather than a catalogue of pre-existing facts (interpretation). Peano's axioms, arithmetic, and logic remain reliable within their domain, but the reading here treats them as tools shaped by contingent features of human cognition rather than as bedrock certainties. The thesis takes differentiation as its primitive and treats structure as relative to chosen scales and operations—an orientation consistent with, rather than opposed to, the constructive character sketched above.

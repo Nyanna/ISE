@@ -3,11 +3,11 @@
 
 ## **3.4. Reducing the Photon to a Chain of Potential Vectors**
 
-In the context of the model, the photon can be understood as a **chain of interconnected potential vectors**, which encapsulates all of its fundamental properties, such as frequency, energy, and polarization. This reduction simplifies the photon's description by viewing it as a structure composed of these dynamic vectors, each representing different aspects of the photon’s behavior and interaction with its environment.
+The photon can be represented as a **chain of interconnected potential vectors** that carries its fundamental properties — frequency, energy, and polarization. Interpreted this way, the photon appears as a structure composed of dynamic vectors, each encoding a different aspect of its propagation and of its interaction with its environment.
 
 **The Photon as a Chain of Potential Vectors**
 
-In classical physics, the photon is typically described as a quantum of electromagnetic radiation, characterized by its frequency, wavelength, and polarization. However, within the framework, we can reduce this description to a more fundamental level by representing the photon as a **series of connected potential vectors**. These potential vectors describe not only the photon’s movement through space but also its intrinsic properties, such as energy and how it interacts with fields and particles.
+In classical physics, the photon is described as a quantum of electromagnetic radiation, characterized by its frequency, wavelength, and polarization. The same description can be re-expressed at a more basic level by representing the photon as a **series of connected potential vectors**. These vectors describe both the photon’s propagation through space and its intrinsic properties, including its energy content and its coupling to fields and particles.
 
 Each **potential vector** in this chain can be thought of as a **building block** that defines a particular attribute of the photon. These attributes include:
 
@@ -17,7 +17,7 @@ Each **potential vector** in this chain can be thought of as a **building block*
 
 **The Role of Potential Vectors in Describing Photon Properties**
 
-In this framework, the **chain of potential vectors** is sufficient to describe all of the photon's physical characteristics. These vectors are interconnected and define the photon’s behavior both in terms of its wave-like nature and its interaction with other particles or fields. Each vector in the chain reflects a **portion of the information** encoded in the photon, such as its:
+Read this way, the **chain of potential vectors** captures the photon's physical characteristics. The vectors are interconnected and together describe both the photon’s wave-like behavior and its coupling to other particles or fields. Each vector in the chain carries a **portion of the information** encoded in the photon, such as its:
 
 * **Energy content**, which is defined by the frequency of the electromagnetic oscillations,  
 * **Polarization**, which determines the alignment of the fields,  
@@ -39,4 +39,4 @@ In this view, the photon is reduced to a sequence of vectors that not only descr
 
 **Conclusion**
 
-In the **model**, the photon can be reduced to a **chain of interconnected potential vectors**, each of which describes its fundamental properties, including energy, frequency, and polarization. This reduction simplifies the photon's representation, offering a more intuitive understanding of its behavior as a dynamic energy unit. By focusing on the potential vectors that form the core of the photon’s structure, we gain a clearer picture of how the photon functions within the larger framework of physical interactions, without the need for complex, scale-dependent considerations.
+Represented this way, the photon reduces to a **chain of interconnected potential vectors**, each carrying one of its fundamental properties — energy, frequency, or polarization. The reduction is a reinterpretation rather than a new prediction: it re-casts the photon as a dynamic energy unit whose structure is set by its potential vectors, giving a compact picture of how the photon participates in physical interactions without invoking explicit scale-dependent terms.
