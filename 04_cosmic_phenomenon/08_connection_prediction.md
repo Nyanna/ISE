@@ -17,15 +17,15 @@
 
 **Testability – How Could This Be Measured?**
 
-* If the ISE prediction holds for Casimir experiments, then **both Casimir fluctuations and Hawking radiation should exhibit similar probabilistic distributions**.  
+* If this prediction holds for Casimir experiments, then **both Casimir fluctuations and Hawking radiation should exhibit similar probabilistic distributions**.  
 * A comparison of **statistical fluctuations in Casimir experiments with simulations of quantum fluctuations near event horizons** could confirm if the mechanism is the same.  
 * If validated, this would suggest that **Hawking radiation is not simply "evaporation" but a scale-dependent interference process influenced by gravity**.
 
-**ISE Provides a Perspective on Hawking Radiation**
+**Scale-Relational Perspective on Hawking Radiation**
 
 • Hawking radiation would then not be a thermal phenomenon but an interference distortion near an event horizon.  
 • Casimir measurements could indirectly confirm that vacuum fluctuations have a probabilistic structure — thus linking Hawking radiation as a special case.  
-• ISE explains why vacuum energy does not completely annihilate: Under certain conditions, part of it remains stable and escapes as radiation.  
+• On this reading, vacuum energy does not completely annihilate: under certain conditions, part of it remains stable and escapes as radiation.  
 • If Casimir fluctuation measurements succeed, it would strongly confirm the existence and mechanism of Hawking radiation.
 
 Taken together, the interference reading links a testable expectation for vacuum energy to a corresponding derivation of Hawking radiation. If the underlying calculation holds, the same statistical mechanism would connect dark-energy predictions with Hawking radiation through a shared interference structure.
@@ -34,7 +34,7 @@ Taken together, the interference reading links a testable expectation for vacuum
 
 • Casimir experiments could indirectly confirm that vacuum fluctuations have a probabilistic distribution.  
 • Hawking radiation would then be a special case of these interference phenomena — not merely a thermal effect, but a quantum interference distorted by gravity.  
-• This gives the ISE a completely new perspective on scale transitions — it would not just be an abstract theory, but a testable prediction about the structure of spacetime\!  
+• This yields a new perspective on scale transitions — not just an abstract theory, but a testable prediction about the structure of spacetime\!  
 • If Casimir measurements reveal fluctuation statistics that match Hawking radiation, we would have solid experimental evidence for quantum interference as a cosmic mechanism.
 
 This is **the perfect interface between scale expansion, quantum fluctuations, and gravity**. **Hawking radiation is both a thermal effect and an interference phenomenon**, and this is what makes it so special.
@@ -50,7 +50,7 @@ This is **the perfect interface between scale expansion, quantum fluctuations, a
 **Why Is Hawking Radiation an Interference Phenomenon?**
 
 * The process leading to radiation emission is based on **vacuum fluctuations near the event horizon**.  
-* If the ISE is correct, then **vacuum fluctuations are not isolated events but interference phenomena of latent background energy**.  
+* If the interference reading is correct, then **vacuum fluctuations are not isolated events but interference phenomena of latent background energy**.  
 * In normal spacetime, vacuum fluctuations **cancel out on average** — but near an event horizon, this **destructive interference is disrupted** because spacetime there **experiences a scale-dependent distortion**.  
 * As a result, **some fluctuations are not completely annihilated and manifest as real particles**, which escape.  
 * The **thermal nature** of Hawking radiation does not arise because the radiation is directly emitted as heat, but because the **interference mechanisms follow statistical distributions**, leading to a thermal spectrum.
@@ -68,7 +68,7 @@ This is **the perfect interface between scale expansion, quantum fluctuations, a
 • On this reading, vacuum energy is not fully annihilated when interferences are disrupted by gravity.  
 • This implies that Casimir experiments could probe both the dark-energy term and the statistical pattern of Hawking radiation.
 
-This connects **quantum field theory, gravity, and the ISE into a consistent picture**, where Hawking radiation is not a contradiction but a perfect example of **scale-dynamic interference processes in the universe**.
+This connects **quantum field theory, gravity, and the scale-relational reading into a consistent picture**, where Hawking radiation is not a contradiction but a prime example of **scale-dynamic interference processes in the universe**.
 
 The temperature of Hawking radiation is **inversely proportional** to the mass of the black hole and thus **not** directly proportional to its surface area.
 
@@ -189,7 +189,7 @@ Some interpretations adjust this picture: horizon fluctuations create radiation 
 
 Negative energy in Hawking evaporation is best understood as a formal construct, signaling that spacetime mass decreases through quantum processes. Physically, the mechanism remains incomplete without a full theory of quantum gravity.
 
-**Direct Proof of ISE via Positive Zero-Point Energy**
+**Direct Test via Positive Zero-Point Energy**
 
 **Mechanism**
 
@@ -215,7 +215,7 @@ This causes near-horizon relief of ADM mass without outward information transfer
 * Primordial BHs: No Planck relics; possible short gamma/TeV bursts.  
 * Cosmology: Bounce-like releases without information return, constrained by CMB/BBN.
 
-**Argument for ISE**
+**Argument for This Reading**
 
 The usual paradox of energy origin disappears: negative energies are real subscale effects. Internal decay explains why no information returns; $-\rho$ provides neutral balance and horizon dissolution.
 
@@ -230,9 +230,9 @@ The usual paradox of energy origin disappears: negative energies are real subsca
 
 Negative energy is not macroscopic but a scale effect. For our scale, “negative” means acausal. Any interaction with positive modes leads to causal annihilation. This equals an inflow of anti-time. The BH evaporates because it is dissolved by acausality at the boundary.
 
-**Mapping ISE to GR/QFT**
+**Mapping to GR/QFT**
 
-* Negative energy (GR/QFT) ≙ Anti-time flow (ISE).  
+* Negative energy (GR/QFT) ≙ Anti-time flow (scale-relational reading).  
 * No macroscopic $-\rho$: only subscale; direct coupling annihilates.  
 * Horizon = scale boundary: positive modes couple to anti-time submodes; outward radiation results.  
 * No singularity transfer: mass decreases via projection into subscale degrees of freedom.
@@ -260,7 +260,7 @@ with surface gravity $\kappa$ and scale length $\ell_*$.
 * **BH shadow:** minimally smaller effective horizon at the same M.  
 * **No information recovery:** no late correlations in the spectrum (no Page curve in our scale).
 
-In ISE, evaporation is not transfer from the singularity but scale-spanning acausal dissolution at the horizon by anti-time modes. This avoids macroscopic $-\rho$, preserves stability, and gives testable predictions: faster evaporation, late bursts, QNM shifts, smaller shadows.
+On this reading, evaporation is not transfer from the singularity but scale-spanning acausal dissolution at the horizon by anti-time modes. This avoids macroscopic $-\rho$, preserves stability, and gives testable predictions: faster evaporation, late bursts, QNM shifts, smaller shadows.
 
 **Comparison Between Established Physics and ISE**
 
@@ -270,7 +270,7 @@ In ISE, evaporation is not transfer from the singularity but scale-spanning acau
 * Hawking radiation is explained purely **mathematically** by mode mixing; no physically real negative particles exist.  
 * The concept of “anti-time” does not appear.
 
-**In the ISE Perspective**
+**In the Scale-Relational Perspective**
 
 * The step is interpretative: negative energy is read not as a substance but as a **scale effect**, representing acausal degrees of freedom that appear as a backward flow of time from our perspective.  
 * On this reading, scale transitions and differentiation are treated as additional structure underlying classical spacetime geometry rather than replacing it.  
@@ -279,7 +279,7 @@ In ISE, evaporation is not transfer from the singularity but scale-spanning acau
 **Strengths of This View**
 
 * Explains **black hole mass loss** without requiring energy or information to flow out of the singularity.  
-* Provides a **bridge**: GR/QFT see negative energy, ISE interprets it as scale interference.  
+* Provides a **bridge**: GR/QFT see negative energy, the present reading interprets it as scale interference.  
 * Makes **testable predictions** for deviations from Hawking: non-exact thermal spectra, burst end phases, and smaller shadows.
 
 **Weaknesses / Open Questions**
@@ -288,47 +288,49 @@ In ISE, evaporation is not transfer from the singularity but scale-spanning acau
 * It is not clear if the picture reproduces **exact Hawking rates** or necessarily predicts deviations.  
 * Empirically, only late phases of small black holes or subtle ringdown shifts may be measurable.
 
-The ISE interpretation is **compatible with observable aspects of GR/QFT** (mass loss, thermal spectrum) but provides a different ontology: not virtual pairs or negative densities, but scale interference and anti-time modes. This should be taken as a serious alternative view, valid as long as it matches predictions, and especially interesting if it yields testable end-phase deviations.
+This interpretation is **compatible with observable aspects of GR/QFT** (mass loss, thermal spectrum) but provides a different ontology: not virtual pairs or negative densities, but scale interference and anti-time modes. This should be taken as a serious alternative view, valid as long as it matches predictions, and especially interesting if it yields testable end-phase deviations.
 
-**Six-Step Hawking Derivation and ISE Translation**
+**Six-Step Hawking Derivation and Scale-Relational Translation**
+
+Each step contrasts the standard GR/QFT reading with the scale-relational reading.
 
 **1\) Collapse Background**
 
 * **GR/QFT:** A star collapses → stationary exterior metric with horizon, surface gravity $\kappa$.  
-* **ISE:** Horizon = **scale boundary**; $\kappa$ measures local scale stretching (exponential redshift) at the boundary.
+* **Scale-relational:** Horizon = **scale boundary**; $\kappa$ measures local scale stretching (exponential redshift) at the boundary.
 
 **2\) Field Modes & Vacuum Choice**
 
 * **GR/QFT:** Wave modes “in” (before collapse) vs. “out” (far future). Vacuum = Unruh vacuum.  
-* **ISE:** Two scale sectors: $\mathcal H_{+}$ (our scale) and $\mathcal H_{-}$ (acausal “anti-time” sectors at the boundary). “In”/“out” ≙ scale in/out coupling at the boundary.
+* **Scale-relational:** Two scale sectors: $\mathcal H_{+}$ (our scale) and $\mathcal H_{-}$ (acausal “anti-time” sectors at the boundary). “In”/“out” ≙ scale in/out coupling at the boundary.
 
 **3\) Mode Mixing (Bogoliubov)**
 
 * **GR/QFT:** $\hat a_{\omega}^{\text{out}}=\sum_{\omega'}(\alpha_{\omega\omega'}\hat a_{\omega'}^{\text{in}}+\beta_{\omega\omega'}\hat a_{\omega'}^{\text{in},\dagger}); ∣β∣2≠0|\beta|^2\neq 0$ due to **exponential redshift** near the horizon.  
-* **ISE:** Boundary coupling $\hat U_{\text{scale}}$ mixes $\mathcal H_{+}$ with $\mathcal H_{-}$.  
+* **Scale-relational:** Boundary coupling $\hat U_{\text{scale}}$ mixes $\mathcal H_{+}$ with $\mathcal H_{-}$.  
    “$\beta$” ↔ **scale interference coefficient**: fraction projected from $\mathcal H_{-}$ into $\mathcal H_{+}$.
 
 **4\) Thermal Spectrum**
 
 * **GR/QFT:** $\langle N_\omega\rangle=\frac{1}{e^{2\pi\omega/\kappa}-1}$ → $T_H=\hbar\kappa/(2\pi k_B c)$.  
-* **ISE:** Effective temperature $T_{\rm eff}$ from **scale mixing** at the boundary; in weak-coupling limit $T_{\rm eff}\to T_H$. Deviations possible if coupling is frequency-dependent.
+* **Scale-relational:** Effective temperature $T_{\rm eff}$ from **scale mixing** at the boundary; in weak-coupling limit $T_{\rm eff}\to T_H$. Deviations possible if coupling is frequency-dependent.
 
 **5\) Energy Flux & “Negative Energy”**
 
 * **GR/QFT:** Expectation value $\langle T_{\mu\nu}\rangle$: positive flux outward, **negative Killing-energy flux** inward → $\dot M<0$.  
-* **ISE:** No local $-\rho$: the inward flux is an **anti-time mode** in $\mathcal H_{-}$. Energy conservation holds **across both scales**: outward flux in $\mathcal H_{+}$ = BH mass reduction; no transport “from the singularity.”
+* **Scale-relational:** No local $-\rho$: the inward flux is an **anti-time mode** in $\mathcal H_{-}$. Energy conservation holds **across both scales**: outward flux in $\mathcal H_{+}$ = BH mass reduction; no transport “from the singularity.”
 
 **6\) Mass Loss Law**
 
 * **GR/QFT:**
   $$\dot M \simeq -\sigma A T_H^4 \propto -\kappa^2/M^2$$ (up to greybody factors).  
-* **ISE:** $\dot M= -,\Gamma(\kappa)$, with $\Gamma$ from scale coupling.  
+* **Scale-relational:** $\dot M= -,\Gamma(\kappa)$, with $\Gamma$ from scale coupling.  
   * Weak coupling: $\Gamma\propto \kappa^2$ → reproduces Hawking scaling.  
   * Strong coupling: **non-thermal** corrections in the final phase (short burst instead of thermal tail).
 
-**Mapping Table**
+**Mapping Table** (GR/QFT ↔ scale-relational reading)
 
-* Horizon (GR) ↔ **scale boundary** (ISE)  
+* Horizon (GR) ↔ **scale boundary**  
 * Bogoliubov-β ↔ **scale interference coefficient**  
 * “Negative energy” ↔ **anti-time mode** in $\mathcal H_{-}$ (not macroscopically real, only subscale)  
 * $T_H=\hbar\kappa/(2\pi k_B c)$ ↔ $T_{\rm eff}(\kappa,\text{coupling})$, with $T_{\rm eff}\to T_H$ in weak limit  
@@ -340,7 +342,7 @@ The ISE interpretation is **compatible with observable aspects of GR/QFT** (mass
 * **Ringdown:** tiny **QNM shifts/damping** (effectively smaller $\kappa$).  
 * **Shadow:** minimally **smaller** effective event horizon at fixed M.
 
-This mapping shows how ISE connects directly to the standard Hawking derivation: replace mode mixing at the horizon geometry by **scale interference at the boundary**, preserve conservation across $\mathcal H_{+}\oplus\mathcal H_{-}$, and recover $T_H$ as the weak-coupling limit.
+This mapping connects directly to the standard Hawking derivation: replace mode mixing at the horizon geometry by **scale interference at the boundary**, preserve conservation across $\mathcal H_{+}\oplus\mathcal H_{-}$, and recover $T_H$ as the weak-coupling limit.
 
 **Anti-Time Interpretation of Negative Energy**
 
@@ -358,7 +360,7 @@ This makes the description symmetric:
 
 Thus the interpretation of bookkeeping flips: not “energy disappears,” but rather **our time direction decouples from the anti-time sector.**
 
-This aligns closely with the ISE perspective: negative energy = an expression that a process **does not unfold in our temporal order**, but in a scalar counter-time mode that cannot be physically realized macroscopically.
+This aligns closely with the scale-relational perspective: negative energy = an expression that a process **does not unfold in our temporal order**, but in a scalar counter-time mode that cannot be physically realized macroscopically.
 
 **Where Negative Energy Appears and Its Exact Anti-Time Correspondence**
 
@@ -399,17 +401,17 @@ $$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle,
 * Bogoliubov β-coefficients measure exactly this fraction.  
 * Black hole evaporation = coupling between our time scale (positive frequencies) and Anti-Time components at the horizon boundary; outward appears as positive energy, inward as Anti-Time (formally “negative energy”), so M decreases without energy being transferred from the singularity.
 
-**Acausal Mode Dissolution in the Framework of ISE**
+**Acausal Mode Dissolution in the Scale-Relational Reading**
 
 **Differentiation as the Origin of Causality**
 
-* In the ISE, **causality is not fundamental**, but emerges only through the differentiation of a scale from the subquantum stream.  
+* On this reading, **causality is not fundamental**, but emerges only through the differentiation of a scale from the subquantum stream.  
 * Each scale possesses its own “internal” arrow of time, defined by its local differentiation direction.  
 * Causality therefore means: the degrees of freedom of a scale follow a stable path of differentiation.
 
 **Acausal Mode Dissolution**
 
-* A **mode** (field, wave, particle state) in ISE is a *resonance structure* within a scale.  
+* A **mode** (field, wave, particle state) is a *resonance structure* within a scale.  
 * Acausality occurs when **differentiation breaks** – i.e. the scale loses its stable resonance relation.  
 * Mathematically: instead of a unique mapping $\text{Scale} \to \text{Scale+1}$, multiple non-overlapping continuations arise.  
 * Physically: the mode does not dissolve into energy or matter, but into an **indeterminate superpositional space** of possibilities that share no common causal frame.
@@ -427,11 +429,11 @@ $$\frac{dM}{du} = -\frac{1}{4\pi} \int_{\mathcal H^+} \langle T_{\mu\nu}\rangle,
 * For higher scales this appears as **information loss** or “negative energy.”  
 * In your terminology: an Anti-Time effect is precisely the projection of this backflow into a scale that has already fixed its time arrow.
 
-Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no longer has a unique continuation path. It appears to us as a paradox (information loss, negative energy), but in ISE it is a natural fallback into the scale basis.
+Thus: *acausal mode dissolution* arises whenever a differentiation no longer has a unique continuation path. It appears to us as a paradox (information loss, negative energy), but is a natural fallback into the scale basis.
 
 **Hawking Evaporation as Scale-Boundary Dissolution**
 
-**Assumptions (ISE)**
+**Assumptions (scale-relational)**
 
 * **Scale space:** Two sectors: $\mathcal H_{+}$ (our causal scale) and $\mathcal H_{-}$ (acausal “Anti-Time” sectors). Boundary = **scale boundary**.  
 * **Anti-Time modes:** “Negative energy” corresponds to **reversed time orientation**; not a local energy knot.  
@@ -463,6 +465,6 @@ Thus: *Acausal mode dissolution* in ISE arises whenever a differentiation no lon
 * **Stability/quantum inequalities:** Macroscopic $-\rho$ do not appear; subscale coupling preserves vacuum stability and causal structure of our scale.  
 * **Parameterization of open quantities:** Scale length $\ell_*$, coupling profile $f(\omega)$, $\Gamma(\kappa)$; required outputs: curves $M(t)$, $T_{\text{eff}}(t)$, end-burst spectrum.
 
-**Compact formula of ISE picture**
+**Compact formula of this picture**
 
 **Evaporation = scale-spanning, acausal annihilation at the scale boundary via Anti-Time modes;** energy appears outside, while inside no macroscopic $-\rho$ is realized; conservation holds on $\mathcal H_{+} \oplus \mathcal H_{-}$.

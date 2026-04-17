@@ -11,7 +11,7 @@ In classical Euclidean geometry, space is flat, with parallel lines that never m
 
 **Potential Vectors and Their Role**
 
-In ISE, **potential vectors** represent the directional influence of energy states. These vectors shape how distances and positions are perceived in the emergent space. When potential vectors are balanced across a region, space appears flat and behaves according to the rules of Euclidean geometry.
+In the scale-differentiation reading of ISE, **potential vectors** represent the directional influence of energy states. These vectors shape how distances and positions are perceived in the emergent space. When potential vectors are balanced across a region, space appears flat and behaves according to the rules of Euclidean geometry.
 
 * However, **anomalies** in these potential vectors — such as imbalances or deviations — create disturbances in this flat geometry.
 
@@ -51,7 +51,7 @@ At singularities, such as those at the core of black holes or during the initial
 
 In curved spacetime, rotating masses induce frame-dragging, where the surrounding space is "dragged along" with the rotation. This phenomenon illustrates how energy that would be interpreted as angular momentum in 3D is encoded in spacetime geometry.
 
-In the 1D framework of the ISE, tangential energy does not "disappear" but is instead incorporated into the stretching or compression of the radial coordinate. This approach reveals that energy is conserved not by invoking additional spatial dimensions but by recognizing that the 1D geometry itself evolves dynamically in response to relational changes. In this view, the radial velocity and effective spatial distortion together account for the energy that would otherwise be attributed to tangential components.
+In the 1D reading, tangential energy does not "disappear" but is instead incorporated into the stretching or compression of the radial coordinate. This approach reveals that energy is conserved not by invoking additional spatial dimensions but by recognizing that the 1D geometry itself evolves dynamically in response to relational changes. In this view, the radial velocity and effective spatial distortion together account for the energy that would otherwise be attributed to tangential components.
 
 **From 1D to 3D: Classical Emergence**
 
@@ -71,9 +71,9 @@ For example:
 
 **Singularities and Dimensional Reduction**
 
-At singularities, such as the Big Bang or within black holes, the apparent dimensionality of the universe reduces to a minimum. The ISE interprets this not as a loss of dimensions but as the full encoding of relational information into a single radial parameter. The distortion of spacetime — frame-dragging, stretching, or contraction — captures what would otherwise be described as multidimensional effects.
+At singularities, such as the Big Bang or within black holes, the apparent dimensionality of the universe reduces to a minimum. The present reading interprets this not as a loss of dimensions but as the full encoding of relational information into a single radial parameter. The distortion of spacetime — frame-dragging, stretching, or contraction — captures what would otherwise be described as multidimensional effects.
 
-This conceptual shift allows the ISE to describe phenomena like the faster-than-light expansion of space (e.g., during cosmic inflation) without violating causality. In a 1D framework, such expansion is understood as a dynamic stretching of the radial coordinate, eliminating the need for classical tangential motion entirely.
+This conceptual shift allows phenomena like the faster-than-light expansion of space (e.g., during cosmic inflation) to be described without violating causality. In a 1D picture, such expansion is understood as a dynamic stretching of the radial coordinate, eliminating the need for classical tangential motion entirely.
 
 **Conclusion**
 
@@ -99,13 +99,13 @@ The velocity of an orbiting object can be broken down into radial and tangential
 
 **Combination of Velocity Elements in One Dimension**
 
-By combining radial and tangential velocities, we can calculate the total kinetic energy in a one-dimensional representation. In the framework, this combination forms the second component of the potential energy vector. This integration helps illustrate how motion contributes to the system's overall energy.
+By combining radial and tangential velocities, we can calculate the total kinetic energy in a one-dimensional representation. This combination forms the second component of the potential energy vector, illustrating how motion contributes to the system's overall energy.
 
 ![](images/fig5.png){width=50%}
 
 **Summing Energies for Verification**
 
-To ensure consistency, the total energy is calculated as the sum of kinetic and potential energies. In a closed orbital system, this total energy remains constant over time. This serves as a crucial validation point when modeling systems within the framework, reinforcing the principle of energy conservation.
+To ensure consistency, the total energy is calculated as the sum of kinetic and potential energies. In a closed orbital system, this total energy remains constant over time. This serves as a crucial validation point when modeling such systems, reinforcing the principle of energy conservation.
 
 ![](images/fig6.png){width=50%}
 
@@ -130,11 +130,11 @@ The choice between these two representations is mathematically equivalent in 1D.
 
 **Graphical Implications**
 
-This equivalence has practical consequences for the visualization of energy in 1D systems. If tangential energy is added to radial velocity, the resulting graphs emphasize the role of kinetic energy in the system. Conversely, if tangential energy is tied to distance, the focus shifts to spatial relationships. Importantly, the physical interpretation remains unchanged, as both approaches describe the same energy redistribution in the 1D framework.
+This equivalence has practical consequences for the visualization of energy in 1D systems. If tangential energy is added to radial velocity, the resulting graphs emphasize the role of kinetic energy in the system. Conversely, if tangential energy is tied to distance, the focus shifts to spatial relationships. Importantly, the physical interpretation remains unchanged, as both approaches describe the same energy redistribution in the 1D setting.
 
 **Relevance**
 
-The framework embraces this flexibility in representation, demonstrating that energy distribution is not bound to a specific parameter but rather adapts to the dimensional constraints of the system. In a 1D universe, this adaptability reflects the collapse of independent energy components into a unified axis, reaffirming the linearity of energy relationships in this context.
+This flexibility in representation demonstrates that energy distribution is not bound to a specific parameter but adapts to the dimensional constraints of the system. In a 1D universe, this adaptability reflects the collapse of independent energy components into a unified axis, reaffirming the linearity of energy relationships in this context.
 
 **Conclusion**
 
@@ -186,7 +186,7 @@ Read through this energy-based lens, the apparent motion of a planet around a st
 
 **The Role of Energy in Separation**
 
-According to ISE, the initial separation between the planet and the star is the result of a **one-time energy expenditure**. This energy established the distance between the two bodies and created a stable energetic relationship:
+On the energy-centric reading, the initial separation between the planet and the star is the result of a **one-time energy expenditure**. This energy established the distance between the two bodies and created a stable energetic relationship:
 
 * The **potential vector** defines this energy relationship. It combines the energy needed to separate the bodies with their current relative positions.  
 * The energy remains conserved and stable, manifesting as a balance within the potential vector.
@@ -195,7 +195,7 @@ In this view, **no continuous gravitational force is acting**, and the system ma
 
 **Oscillation Between Speed and Distance**
 
-The ISE posits that the apparent motion of the planet is not a physical "orbit" in the classical sense but rather a **pendulum-like oscillation** within the potential vector:
+This reading posits that the apparent motion of the planet is not a physical "orbit" in the classical sense but rather a **pendulum-like oscillation** within the potential vector:
 
 * The potential vector oscillates between two manifestations of energy: **kinetic energy** (speed) and **spatial energy** (distance).  
 * This oscillation creates the appearance of a planet moving in a closed path, but fundamentally, it is a redistribution of the energy within the system, not a result of external forces.
@@ -241,16 +241,16 @@ In Einstein's General Relativity, gravity is not a force but the result of space
 * Planets and other objects move along **geodesics** — the straightest possible paths — in this curved spacetime.  
 * The appearance of orbital motion is a consequence of the planet's geodesic intersecting repeatedly with the curved spacetime around the star.
 
-The curvature of spacetime replaces the classical idea of gravitational force, creating a natural trajectory that planets follow without requiring a pulling or pushing force. This concept challenges the Newtonian picture of a force-driven orbit and resonates with the ISE's emphasis on energy rather than forces.
+The curvature of spacetime replaces the classical idea of gravitational force, creating a natural trajectory that planets follow without requiring a pulling or pushing force. This concept challenges the Newtonian picture of a force-driven orbit and resonates with the present emphasis on energy rather than forces.
 
-**ISE’s Stable Energy Distribution and Spacetime Curvature**
+**Stable Energy Distribution and Spacetime Curvature**
 
-The framework introduces a complementary layer of explanation:
+The energy-centric reading introduces a complementary layer of explanation:
 
-* While Relativity attributes motion to spacetime curvature, the ISE focuses on the **stable energy levels** that exist between objects in the system.  
+* While Relativity attributes motion to spacetime curvature, this reading focuses on the **stable energy levels** that exist between objects in the system.  
 * The **potential vector** represents an equilibrium of energy, oscillating between kinetic and spatial components. This energy oscillation naturally creates what appears as an orbital trajectory when viewed in emergent spatial dimensions.
 
-In the relativistic picture, the curvature of spacetime ensures the geodesic path is stable, while in the ISE picture, the energy stability ensures that the system remains in equilibrium. Both frameworks describe the same phenomenon but from different perspectives:
+In the relativistic picture, the curvature of spacetime ensures the geodesic path is stable; here, the energy stability ensures that the system remains in equilibrium. Both accounts describe the same phenomenon but from different perspectives:
 
 * **Relativity**: Spacetime geometry dictates the trajectory.  
 * **ISE**: Energy dynamics create the emergent trajectory.
@@ -260,24 +260,24 @@ In the relativistic picture, the curvature of spacetime ensures the geodesic pat
 When combining these perspectives, the traditional notion of "forces" becomes obsolete:
 
 * **In Relativity**: The planet is not "pulled" by the star but follows a geodesic path shaped by spacetime curvature.  
-* **In ISE**: The planet's motion is not driven by forces but emerges from the redistribution of energy within the system’s potential vector.
+* **In the energy-centric reading**: The planet's motion is not driven by forces but emerges from the redistribution of energy within the system’s potential vector.
 
 Both views eliminate the need for continuous force interactions:
 
 * In Relativity, gravity is the manifestation of spacetime curvature.  
-* In ISE, motion arises from oscillations within a stable energy system.
+* Here, motion arises from oscillations within a stable energy system.
 
 **Elliptical Orbits as Emergent Trajectories**
 
 The elliptical orbits observed in 3D space are a natural outcome in both frameworks:
 
 * In Relativity, the curvature of spacetime around a star creates closed geodesics for objects within specific energy ranges, resulting in elliptical orbits.  
-* In ISE, the oscillation of energy between kinetic and spatial components in a multidimensional system produces elliptical trajectories as a higher-order emergent property.
+* On the energy-centric reading, the oscillation of energy between kinetic and spatial components in a multidimensional system produces elliptical trajectories as a higher-order emergent property.
 
 Both approaches describe the same observed behavior but from fundamentally different foundations:
 
 * Relativity focuses on the **geometrical structure of spacetime**, while  
-* ISE focuses on the **energetic structure of the system**.
+* the present reading focuses on the **energetic structure of the system**.
 
 **The Convergence of Relativity and ISE**
 
@@ -289,8 +289,8 @@ Read side by side, the two accounts can be aligned as follows:
 
 **A View on Orbital Dynamics**
 
-By combining Relativity and ISE, a more comprehensive understanding of planetary motion emerges:
+Combining Relativity with the energy-centric reading yields a more comprehensive understanding of planetary motion:
 
 * Relativity describes how spacetime curvature guides objects along straight geodesics in a curved geometry.  
-* ISE explains how stable energy distributions create the conditions for emergent trajectories, appearing as oscillations in spatial dimensions.  
-* Together, these frameworks demonstrate that orbital motion is not the result of forces but the natural outcome of equilibrium — whether in spacetime or energy. This synthesis offers a deeper insight into the mechanisms underlying the structure and motion of the universe.
+* The energy-centric reading explains how stable energy distributions create the conditions for emergent trajectories, appearing as oscillations in spatial dimensions.  
+* Together, these accounts demonstrate that orbital motion is not the result of forces but the natural outcome of equilibrium — whether in spacetime or energy. This synthesis offers a deeper insight into the mechanisms underlying the structure and motion of the universe.

@@ -19,7 +19,7 @@ In contrast, fundamentally redefines the zero-point as not absolute but **scale-
 * It is **shifted** relative to classical expectations due to latent resonant fields, which are embedded in the geometric, material, and temporal scale structure of the measuring configuration.  
 * This shift is not linear, but **resonant and scale-coupled** — meaning that variations in the local geometric differentiation (e.g., fractal depth, nested logarithmic modulations) cause systematic deviations in the observed baseline of fluctuations.
 
-Moreover, in the framework:
+Moreover, on this reading:
 
 * The zero-point reflects **a local resonance mean** of modal contributions, not a universal ground state.  
 * It is **not a static number**, but rather a dynamic expression of temporally layered differentiation: higher-frequency fluctuations reflect more recently emerged structural states, whereas lower frequencies are resonantly anchored in older, long-standing differentiations.  
@@ -39,7 +39,7 @@ The scale-relative reading reframes the fixed zero-point as a higher-order relat
 
 The working assumption here is that vacuum energy is not absolute or uniformly distributed, but results from energy displaced from the observable spectrum through the expansion process. This implies a spatial and temporal relationship between vacuum fluctuations and the specific coordinates of any given measurement. On this reading, vacuum fluctuations carry an intrinsic temporal component: lower-energy modes represent older, historically embedded energy states, while higher-energy modes are more likely to be newly differentiated or overlapping resonances of previous states.
 
-Crucially, the age of a fluctuation is not defined in relativistic terms, but by resonance. Its origin corresponds approximately to the distance of the cosmic light horizon, though its exact spatial source cannot be localized. In this framework, vacuum is temporally stratified: high-frequency fluctuations are associated with the local and recent front of differentiation, while low-frequency fluctuations arise from long-standing structural embeddings in broader resonance fields.
+Crucially, the age of a fluctuation is not defined in relativistic terms, but by resonance. Its origin corresponds approximately to the distance of the cosmic light horizon, though its exact spatial source cannot be localized. On this reading, vacuum is temporally stratified: high-frequency fluctuations are associated with the local and recent front of differentiation, while low-frequency fluctuations arise from long-standing structural embeddings in broader resonance fields.
 
 Each measurement of the vacuum thus constitutes a resonant sampling of differentiated temporal layers. On this interpretation, the temporal coding is structurally emergent from the expansion process rather than reducible to classical time dilation or observer relativity. If so, the vacuum spectrum would be not only energy-coded but also age-coded — a resonant chronology of the vacuum itself.
 
@@ -63,7 +63,7 @@ To demonstrate scale-dependent zero-point shifts through non-Gaussian distributi
 
 **Core Idea:**
 
-If the ISE is valid, then:
+If the scale-relational reading is valid, then:
 
 * Fluctuations do not emerge around a fixed zero-point,  
 * But around a **scale-shifted energetic mean**,  
@@ -86,10 +86,10 @@ If the ISE is valid, then:
 * Especially: appearance of **asymmetric or scale-modulated peaks** not explainable by thermal, geometric, or quantum-optical effects,  
 * **Systematic shift in statistical mean force** depending on scale structure.
 
-**ISE Justification:**
+**Justification:**
 
 * The **zero-point itself is shifted** due to latent resonance fields, which express differently depending on **scale-coupling of geometry**.  
-* Classical Casimir effects assume **symmetric zero-point fluctuations** → ISE predicts: **asymmetry, because zero ≠ zero**.  
+* Classical Casimir effects assume **symmetric zero-point fluctuations** → the scale-relational reading predicts: **asymmetry, because zero ≠ zero**.  
 * The **force distribution will not remain constant**, but will be **resonantly correlated to the structure's scale topology**.
 
 **Testability:**
@@ -130,7 +130,7 @@ This leads to:
   * In the logarithmically structured zone,  
   * Versus a smooth control structure at identical separation.
 
-**Expectation (ISE):**
+**Expectation:**
 
 * In the logarithmic structure:  
   * Certain frequency bands **cancel each other out** (destructive resonance),  
@@ -148,7 +148,7 @@ This leads to:
 
 **Final Note:**
 
-The **logarithmic scale structure** is used to **resonantly neutralize** certain frequency bands. The resulting **gaps or enhancements** in the fluctuation statistics serve to reveal the **structural scale-dependence** of the zero-point (per ISE).
+The **logarithmic scale structure** is used to **resonantly neutralize** certain frequency bands. The resulting **gaps or enhancements** in the fluctuation statistics serve to reveal the **structural scale-dependence** of the zero-point.
 
 This is not a force comparison — it is a **statistical structure analysis in frequency space**.
 
@@ -160,9 +160,9 @@ The dynamical Casimir effect — the generation of real photons from vacuum thro
 
 In standard QFT, the dynamical Casimir effect is derived entirely from the time-dependent mode structure of the cavity. When both boundaries oscillate in phase with identical amplitude, the cavity length remains constant. No mode frequencies shift, no Bogoliubov mixing occurs, and the prediction is strictly zero photon production — regardless of the magnitude of acceleration applied to the boundaries. The individual acceleration of each boundary carries no physical consequence in this framework, because the effect is defined purely through the relational mode structure internal to the cavity.
 
-The ISE arrives at a different prediction. While the internal differentiation geometry of the cavity is preserved under rigid co-displacement, the cavity as a whole undergoes acceleration relative to the surrounding scale field. This acceleration generates an incommensurability between the cavity's internal resonance structure and the external differentiation hierarchy — analogous to the impossibility of truly rigid bodies in general relativity, but here grounded in scale-relational terms rather than metric ones. The zero-point, being scale-relative rather than absolute, shifts with respect to the embedding environment even when the internal geometry is unchanged. Latent differentiation structure, previously below the observability threshold, is projected into the accessible frequency range.
+The scale-relational reading arrives at a different prediction. While the internal differentiation geometry of the cavity is preserved under rigid co-displacement, the cavity as a whole undergoes acceleration relative to the surrounding scale field. This acceleration generates an incommensurability between the cavity's internal resonance structure and the external differentiation hierarchy — analogous to the impossibility of truly rigid bodies in general relativity, but here grounded in scale-relational terms rather than metric ones. The zero-point, being scale-relative rather than absolute, shifts with respect to the embedding environment even when the internal geometry is unchanged. Latent differentiation structure, previously below the observability threshold, is projected into the accessible frequency range.
 
-The ISE therefore predicts a weak but non-zero photon signal in the synchronous case, with the following distinguishing characteristics:
+It therefore predicts a weak but non-zero photon signal in the synchronous case, with the following distinguishing characteristics:
 
 * **Broadband spectrum** — unlike the resonant peaks produced by anti-phase modulation (which select specific cavity modes), the synchronous signal does not arise from internal mode coupling and should therefore lack sharp resonance structure.
 * **Acceleration dependence** — the signal scales with the acceleration amplitude of the co-moving boundaries, not with the cavity length or its resonant frequencies.
@@ -195,13 +195,13 @@ A scale-relational treatment avoids this asymmetry. Incommensurability between a
 
 This suggests a third experimental configuration beyond the standard (anti-phase) and synchronous (in-phase) cases: **purely spatial modulation**. Rather than oscillating the boundaries of a cavity, the boundary conditions are modulated spatially — for instance, by varying the reflectivity or impedance profile along the cavity walls in a time-independent but spatially non-trivial pattern, or by rapidly switching the spatial distribution of boundary conditions without altering the overall cavity length or introducing temporal oscillation.
 
-| Configuration | Temporal modulation | Spatial modulation | QED prediction | ISE prediction |
+| Configuration | Temporal modulation | Spatial modulation | QED prediction | Scale-relational prediction |
 | :---- | :---- | :---- | :---- | :---- |
 | Anti-phase (standard) | Yes | No | Photon production | Photon production |
 | Synchronous (in-phase) | Yes (co-moving) | No | Zero | Weak broadband signal |
 | Spatial modulation | No | Yes | Zero | Weak signal, spatially structured spectrum |
 
-The QED prediction for purely spatial modulation is zero, because no time-dependent mode change occurs — the Bogoliubov coefficients β vanish identically when the mode basis does not evolve in time, regardless of spatial structure. The ISE predicts a non-zero signal because the spatial restructuring of boundary conditions shifts the local zero-point relative to the surrounding scale field, projecting latent differentiation structure into the observable range. The spectral character of this signal should reflect the spatial modulation pattern rather than the temporal resonance frequencies of the cavity.
+The QED prediction for purely spatial modulation is zero, because no time-dependent mode change occurs — the Bogoliubov coefficients β vanish identically when the mode basis does not evolve in time, regardless of spatial structure. The scale-relational reading predicts a non-zero signal because the spatial restructuring of boundary conditions shifts the local zero-point relative to the surrounding scale field, projecting latent differentiation structure into the observable range. The spectral character of this signal should reflect the spatial modulation pattern rather than the temporal resonance frequencies of the cavity.
 
 **Relation to the Massive-Particle Threshold**
 
@@ -209,7 +209,7 @@ The temporal asymmetry also affects how the standard formalism treats the produc
 
 If the formalism were extended to spatial modulation, the relevant parameter would not be a temporal frequency but a spatial modulation wavenumber. The suppression condition would then involve the spatial bandwidth relative to the Compton wavelength — a related but physically distinct criterion. The standard formalism cannot address this question because it lacks the spatial Bogoliubov machinery to pose it.
 
-The ISE frames the threshold differently in both cases. Particle production requires that the projected incommensurability — whether temporal, spatial, or mixed — covers the frequency band of the relevant resonance profile. The S-weight of the profile determines the threshold, and this threshold is agnostic to the temporal-versus-spatial origin of the incommensurability. The prediction is that sufficiently strong spatial modulation, at wavenumbers comparable to the Compton wavenumber of a massive field, would produce massive-particle signatures — a prediction that is structurally inaccessible from within the standard temporal Bogoliubov framework.
+A scale-relational account frames the threshold differently in both cases. Particle production requires that the projected incommensurability — whether temporal, spatial, or mixed — covers the frequency band of the relevant resonance profile. The S-weight of the profile determines the threshold, and this threshold is agnostic to the temporal-versus-spatial origin of the incommensurability. The prediction is that sufficiently strong spatial modulation, at wavenumbers comparable to the Compton wavenumber of a massive field, would produce massive-particle signatures — a prediction that is structurally inaccessible from within the standard temporal Bogoliubov framework.
 
 This extended analysis reinforces the central experimental proposal: that configurations treated as trivially null by QED — synchronous temporal modulation and purely spatial modulation — constitute the most informative tests for distinguishing a substrate-based vacuum ontology from a scale-relational one. The asymmetry between space and time in the standard formalism is not a feature of the underlying physics but an artifact of the calculational framework, and experiments that probe this asymmetry directly address the foundational question of whether the vacuum zero-point is absolute or relationally emergent.
 
@@ -233,7 +233,7 @@ These three systems form a natural hierarchy of cavities with increasing bandwid
 
 Each cavity produces exactly the effects that its frequency window permits. The electromagnetic Casimir effect generates only photons because the cavity is blind to everything else. QCD confinement generates massive-particle vacuum effects because its bandwidth reaches the quark mass scale. Horizons generate thermal radiation across all species because their bandwidth is unlimited.
 
-From the perspective of the ISE, this hierarchy is not coincidental but reflects the scale-relational structure of differentiation itself. Each cavity type corresponds to a different depth of scale coupling: electromagnetic cavities operate at the shallowest level, modulating modes within a narrow band defined by material properties. QCD confinement operates at an intermediate depth, where the boundary conditions are themselves emergent from the differentiation structure of the strong interaction. Gravitational horizons operate at the deepest accessible level, where the causal structure of spacetime — itself a projection of the underlying differentiation hierarchy — serves as the boundary.
+On the scale-relational reading, this hierarchy is not coincidental but reflects the structure of differentiation itself. Each cavity type corresponds to a different depth of scale coupling: electromagnetic cavities operate at the shallowest level, modulating modes within a narrow band defined by material properties. QCD confinement operates at an intermediate depth, where the boundary conditions are themselves emergent from the differentiation structure of the strong interaction. Gravitational horizons operate at the deepest accessible level, where the causal structure of spacetime — itself a projection of the underlying differentiation hierarchy — serves as the boundary.
 
 The key insight is that the limitation to photon production in laboratory Casimir experiments is not a limitation of the *mechanism* but of the *cavity*. The principle — that boundary-imposed mode exclusion generates vacuum energy differentials and, under dynamical conditions, real particle production — is universal. What varies is the bandwidth. The question of whether the dynamical Casimir effect can produce massive particles is therefore not answered by the Bogoliubov formalism in the abstract, but by asking: does the cavity resolve the frequency band in which the massive field lives?
 
@@ -241,9 +241,9 @@ This reframing has direct consequences for the experimental proposals above. The
 
 **The Dynamical Casimir Effect as Phase Rotation on the Scale Level**
 
-The reinterpretation of the dynamical Casimir effect through the ISE framework converges on a precise formulation: what standard QFT describes as photon production from vacuum is, in scale-relational terms, a phase rotation on the scale level that renders latent differentiation content observable.
+The scale-relational reinterpretation of the dynamical Casimir effect converges on a precise formulation: what standard QFT describes as photon production from vacuum is, in scale-relational terms, a phase rotation on the scale level that renders latent differentiation content observable.
 
-In this framework, the vacuum is not empty but populated by differentiation processes whose complementary frequency profiles are phase-destructively superposed — mutually cancelling at the observational scale, and therefore latent. No particles exist or fail to exist; there is only differentiation content whose phase relation to the local scale structure determines whether it projects into the observable band.
+On this account, the vacuum is not empty but populated by differentiation processes whose complementary frequency profiles are phase-destructively superposed — mutually cancelling at the observational scale, and therefore latent. No particles exist or fail to exist; there is only differentiation content whose phase relation to the local scale structure determines whether it projects into the observable band.
 
 The cavity resonator does not inject energy, create particles, or force a transition. It modulates its own phase relation to the local differentiation field. When this relation shifts, previously destructive superpositions become constructive — and what was latent becomes observable. The photon is not a new object but the same differentiation content under a rotated phase relation. This is consistent with the guiding principle that nothing ever directly interacts — there is only resonance, defined as frequency overlap between differentiation profiles.
 

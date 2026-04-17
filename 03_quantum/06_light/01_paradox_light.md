@@ -13,7 +13,7 @@ In this sense, the speed of light could just as easily be described as **"one ca
 
 **Light Speed as a Quantum Resolution**
 
-The speed of light in the ISE can be thought of as a measure of the **resolution** with which we observe the universe. It defines how precisely we can measure the **quantization of light** and, by extension, the universe’s energy states. Just as a camera has a maximum resolution beyond which no finer details can be observed, the speed of light represents the upper limit on our ability to **quantize and measure the physical world**.
+The speed of light can be thought of as a measure of the **resolution** with which we observe the universe. It defines how precisely we can measure the **quantization of light** and, by extension, the universe’s energy states. Just as a camera has a maximum resolution beyond which no finer details can be observed, the speed of light represents the upper limit on our ability to **quantize and measure the physical world**.
 
 However, this creates an interesting paradox: if light speed is a built-in resolution limit, then it implies that **our measurement tools (including light itself)** are part of the very system we're trying to observe. There's no external metric against which we can calibrate light’s speed; we are stuck measuring light by light. This **self-referential nature** of light speed highlights the **inherent limits of observation** and the paradox of trying to measure something with itself.
 
@@ -250,7 +250,7 @@ Relativity (Mainstream)
 * Time is relative (proper time invariant, but coordinate time differs).  
 * There is no global time, only spacetime relations.
 
-ISE View
+Scale-Oriented Reading
 
 * **Postulate:** Time itself (proper time) is the constant measurement basis.  
 * Every observer experiences their $d\tau$ with absolute consistency.  
@@ -280,7 +280,7 @@ Standard Relativity
 * Motion in space reduces the projection on the time axis → time dilation.  
 * Formally: $d\tau^2 = dt^2 - (dx/c)^2$.
 
-ISE View
+Scale-Oriented Reading
 
 * Time is the **constant base quantity**.  
 * Motion in space does not mean “time passes more slowly,” but: **time itself is translated**.  
@@ -303,7 +303,7 @@ Image
 
 **Raw Scale**
 
-This represents the raw form of the scale mechanism of the ISE. An expansion of scale, also relative to each other, is a continuation of the pattern — thus a translation of time.
+This represents the raw form of the scale mechanism. An expansion of scale, also relative to each other, is a continuation of the pattern — thus a translation of time.
 
 Time as Translational Movement
 
@@ -339,7 +339,7 @@ $$ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 .$$
 
 → Time $t$ and space $x,y,z$ as coordinates, $c$ fixes the relation.
 
-ISE Approach: Time as Scale Translation
+Scale-Based Approach: Time as Scale Translation
 
 * **Postulate 1:** Proper time $d\tau$ is the constant measurement quantity.  
 * **Postulate 2:** Spatial coordinates are projections of a scale shift of time.  
@@ -363,7 +363,7 @@ where $\alpha(\sigma)$ is a scale factor (like $a(t)$ in cosmology, but generall
 Consequence
 
 * **Relativistic blueshift** = variation of $\alpha(\sigma)$.  
-* **ISE mechanism** = scale expansion → patterns shift = time flow.  
+* **Scale mechanism** = scale expansion → patterns shift = time flow.  
 * Speed of light $c$ is derived as
   $$c(\sigma) = \sqrt{\alpha(\sigma)} .$$
 
@@ -491,7 +491,7 @@ Standard Relativity
 * Globally there is no well-defined conservation, since the gravitational field cannot be balanced like a normal energy field.  
 * Therefore GR explains blueshift as “no global energy account, only geometry.”
 
-ISE Approach
+Scale-Based Approach
 
 * Energy conservation holds **globally**, but:  
 * There exists an additional **differentiation energy of the scale**.  
@@ -566,7 +566,7 @@ The standard assumption “photon number is invariant” is strictly embedded in
 * **Assumption:** Since $h$ is constant, it is automatically stated that *photon number* remains invariant if radiation is considered without absorption or emission.  
 * **Problem:** This counting method already contains the claim it is supposed to prove: that photons are absolute units.
 
-**ISE Point**
+**Scale-Oriented Point**
 
 * When frequency is shifted, the energy *per photon* changes.  
 * The detector interprets this shift as a *different photon number*, because it registers each energy packet $h\nu$ as “1 photon.”  
@@ -578,7 +578,7 @@ The standard assumption “photon number is invariant” is strictly embedded in
 * With frequency change it becomes clear: the same wave can be counted as a constant number of high-energy quanta or as an increasing number of low-energy quanta.  
 * Thus photon number is **scale-relative** – and the standard assumption, if generalized, leads to self-contradiction.
 
-A further consequence is that quantization itself can be reread as a scale phenomenon of measurement. This reading aligns with the ISE interpretation.
+A further consequence is that quantization itself can be reread as a scale phenomenon of measurement. This aligns with the present scale-relative reading.
 
 **Negation of Quantization**
 
@@ -600,4 +600,4 @@ A further consequence is that quantization itself can be reread as a scale pheno
   * The apparently fundamental quantization then appears as a measurement-scale effect.  
 * Under this interpretation, quantization is relativized and read as a **byproduct of scale resolution** rather than an intrinsic property.
 
-If photon-number invariance is taken as a convention rather than a datum, the apparent discreteness of quantization can be read as a measurement-scale effect. This is consistent with the ISE reading in which “discrete” structure reflects a scale projection rather than an intrinsic property of nature.
+If photon-number invariance is taken as a convention rather than a datum, the apparent discreteness of quantization can be read as a measurement-scale effect. This is consistent with the scale-relative reading in which “discrete” structure reflects a scale projection rather than an intrinsic property of nature.
