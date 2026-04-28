@@ -140,6 +140,16 @@ Consider entropy saturation at a fixed scale:
 
 Thus, “heat death” is scale‑relative, and cyclic behavior across scales is compatible with entropy monotonicity when measured with respect to an evolving capacity.
 
+**Homogeneous Heat Death as Projective Artifact**
+
+The multi‑scale renewal argument established above shows that entropy saturation at scale $\sigma$ does not prevent renewed differentiation at $\sigma + \Delta\sigma$. A complementary argument applies within a single scale: even at fixed $\sigma$, the “saturated” state is not homogeneous, because interaction‑driven self‑reference — gravitational, electromagnetic, and quantum‑mechanical — maintains irreducible structure (see *Gravitational Irreducibility* for the physical derivation).
+
+The normalised entropy $s = S/S_{\max}$ can approach unity, but $s \approx 1$ does not imply homogeneity. It implies maximal incommensurability relative to capacity — a structured state, not a uniform one. A system at maximal entropy under gravitational self‑coupling is a self‑consistent geometry‑content configuration (cf. Tolman's relation $T\sqrt{g_{00}} = \text{const}$ and the nonlinear extension developed in *Gravitational Irreducibility*), not a featureless distribution. The microstates that constitute the high‑entropy macrostate are individually structured; their multiplicity is maximal, but each microstate carries spatial gradients imposed by the self‑coupling.
+
+The standard identification of heat death with homogeneity conflates two distinct claims: (a) **maximal entropy**, a thermodynamic statement about the number of accessible microstates, and (b) **spatial uniformity**, a geometric statement about field distributions. Under gravitational self‑coupling, (a) does not imply (b). This is the precise point where the standard projection breaks. An ideal gas without long‑range interactions can maximise entropy by filling its container uniformly — the Sackur–Tetrode formula reflects exactly this proportionality between $S$ and $\ln V$. A self‑gravitating system cannot: its entropy is maximised by configurations with pronounced density contrasts. The Jeans instability is the linearised signature of this fact; black‑hole formation is its nonlinear completion. Extending the non‑gravitating intuition to the universe as a whole conflates the tractable special case with the generic situation.
+
+The definitional argument (*Fractal Nature*) reinforces this from a different direction. Homogeneity as a physical end‑state is not merely unreachable but conceptually incoherent: distinguishability of spatial locations presupposes differentiation, which is the negation of homogeneity. What standard cosmology calls “heat death” is therefore not maximal uniformity but maximal incommensurability — the state in which the system has explored its available phase space to the fullest extent permitted by its self‑consistent geometry. This state is structured, not featureless. Together with the physical argument (*Gravitational Irreducibility*) and the definitional analysis (*Fractal Nature*), this completes the thermodynamic strand of the classical derivation chain in *Classical Closure*.
+
 **Cyclic Cosmology and Entropy Capacity**
 
 In a cyclic model with expansion and contraction:
