@@ -18,12 +18,6 @@ Chapters are numbered directories (`00_intro/` through `12_glossary/`). Each con
 - An `images/` subdirectory for chapter-specific figures
 - Optional numbered subdirectories for subchapters, which get merged up
 
-### Build Pipeline
-1. `merge.sh` iterates directories matching `^[0-9]{2}`, concatenates all `.md` files within each into `output/chapter_<name>.merge.md`, rewrites image paths to be relative to the output directory, handles subchapter directories similarly
-2. All chapter merge files are concatenated into `output/Thesis on Infinite Scale Expansion (ISE).agentic.md`
-3. Appendix files (`appendix/*.md`) are concatenated separately
-4. `build.sh` calls `merge.sh`, then runs `sed` to replace Unicode symbols (arrows, Greek letters, math symbols) with LaTeX equivalents, converts `***` to `\pagebreak`, and pipes through pandoc to produce the final PDF
-
 ### Key Directories
 - `scripts/` — build scripts, pandoc config (`pandoc.yml`), LaTeX header (`header.tex`), terminology list (`terms.txt`)
 - `output/` — generated merge files and final PDF
