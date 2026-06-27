@@ -1,10 +1,9 @@
-Inline latex, chapter formating, remove subchapter headings
 
 ---
 
 ## **5.9. Structure Formation as Scale Relation**
 
-## 1. Geometry, Angular Momentum, and the Dimensional Substrate of Cosmic Structure
+## **5.9.1 Geometry, Angular Momentum, and the Dimensional Substrate of Cosmic Structure**
 
 Structure formation is not a solved problem. This is the one genuine consensus:
 beneath the proliferation of models — cold dark matter halos, modified dynamics,
@@ -41,14 +40,14 @@ ratios of dimensions on a spacetime that is itself fluid. That fluidity — the
 fact that spatial and temporal continuity are not given quantities — is what the
 standard models hold fixed and what scale physics makes the variable.
 
-## 2. The Phenomenology and Its Common Misrepresentations
+## **5.9.2 The Phenomenology and Its Common Misrepresentations**
 
 Two widely repeated claims in popular accounts of galaxies and black holes are
 either wrong or stated far more absolutely than the physics warrants. Correcting
 them is the entry point, because the corrected version already points toward the
 scale-relational reading.
 
-### 2.1 The visible accretion disk
+### **5.9.2.1 The visible accretion disk**
 
 The popular image of a luminous accretion disk seen face-on, glowing freely in
 all directions, is misleading for one important class of objects but not a
@@ -72,7 +71,7 @@ of the gas and dust *budget of the scale in question*, not an absolute geometric
 rule. This is the first hint that what looks like a fixed structural law is
 actually scale- and state-dependent.
 
-### 2.2 The central-attractor misconception
+### **5.9.2.2 The central-attractor misconception**
 
 The deeper error is the assumption that a spherical mass concentration has its
 strongest gravitational pull, and therefore its preferred accumulation point, at
@@ -119,9 +118,9 @@ at points, unless a specific mechanism removes angular momentum. Everything that
 follows is about what that mechanism is and why the resulting geometry depends on
 scale.
 
-## 3. Historical and Existing Models
+## **5.9.3 Historical and Existing Models**
 
-### 3.1 The Zel'dovich approximation
+### **5.9.3.1 The Zel'dovich approximation**
 
 Zel'dovich (1970) recognized that gravitational collapse in an expanding universe
 is anisotropic. A slightly ellipsoidal overdensity collapses first along its
@@ -156,7 +155,7 @@ does not say — because his framework is Newtonian dynamics on a fixed
 Friedmann–Robertson–Walker background — is that those rates could themselves be
 expressions of a fluid relation between the space and time dimensions.
 
-### 3.2 Extensions of Zel'dovich
+### **5.9.3.2 Extensions of Zel'dovich**
 
 The rigidity of the Zel'dovich background is not an unnoticed blind spot; it is an
 actively worked field.
@@ -183,7 +182,7 @@ is real and partially developed in the literature already.** The claim is not
 "no one sees this," but "these scattered extensions are fragments of one
 principle, and scale physics is the candidate for that principle."
 
-### 3.3 Simulations and the sub-grid problem
+### **5.9.3.3 Simulations and the sub-grid problem**
 
 The genuine advance over any analytic model is numerical:
 
@@ -201,7 +200,7 @@ parametrized recipes rather than derived from first principles. This is the
 central reason there is no single closed model of structure formation: the
 microphysics that sets the outcome is precisely what is hand-fitted.
 
-### 3.4 Angular momentum transport
+### **5.9.3.4 Angular momentum transport**
 
 Since rotation resists collapse, every formation model needs a channel that moves
 angular momentum from inner to outer material. The candidates, by scale:
@@ -235,7 +234,7 @@ total mass; the electromagnetic and viscous channels couple only to the ionized
 or collisional fraction and are conditional. The gravitational channel is the one
 that is unconditional and scale-general.
 
-### 3.5 Frame-dragging: the relativistic form of the gravitational channel
+### **5.9.3.5 Frame-dragging: the relativistic form of the gravitational channel**
 
 Frame-dragging (the Lense–Thirring effect) is the relativistic limit of the
 gravitational angular-momentum channel, and it is the cleanest bridge between
@@ -263,7 +262,7 @@ momentum conserved (transported, not annihilated). The frame-dragging channel is
 the relativistic generalization of the same fact: rotation is exchanged with the
 surrounding spacetime structure, not lost to it.
 
-### 3.6 The contested gravitomagnetic rotation-curve program
+### **5.9.3.6 The contested gravitomagnetic rotation-curve program**
 
 Here the chapter touches a genuinely open and live debate, which is the honest
 home for the claim that relativistic / frame-dragging effects matter on galactic
@@ -304,7 +303,7 @@ This is the falsifiable home of the frame-dragging intuition. The scale-relation
 reading must connect here, not to a claim that time dilation removes angular
 momentum (which it cannot — see below).
 
-### 3.7 Dark matter and MOND
+### **5.9.3.7 Dark matter and MOND**
 
 - **Dark matter** posits an additional non-baryonic gravitating component. The
   *particle* is unconfirmed: no direct detection. But the *gravitational deficit*
@@ -323,14 +322,14 @@ discrepancy are not.** Conflating these invites the strongest counterargument.
 With that distinction held, the modeling field genuinely is open, and a
 scale-physics account is admissible as a candidate alongside the others.
 
-## 4. Scale Physics
+## **5.9.4 Scale Physics**
 
 The ISE does not supply a closed formal model. Its contribution is to reorganize
 the established and contested mechanisms above under one principle and one
 ontology. This is reorganization with explanatory ambition, and it is presented
 as such.
 
-### 4.1 The core principle: geometry as scale-relative dimensional ratio
+### **5.9.4.1 The core principle: geometry as scale-relative dimensional ratio**
 
 The central claim is that the geometry of a structure is determined by the ratio
 of the reference scales on which its constituent dimensions — space, time, and the
@@ -357,7 +356,7 @@ on a spacetime whose continuity is itself a variable. The 3D analog of the
 stars and black holes what rings are to spheres and points — the same selection
 rule applied on a different scale.
 
-### 4.2 What the time dimension can and cannot do
+### **5.9.4.2 What the time dimension can and cannot do**
 
 This is the point on which precision matters most, because it is where the
 framework is most easily attacked and most easily over-claimed in *both*
@@ -469,7 +468,7 @@ cases. Stated this way, the claim is immune to the scale-magnitude objection,
 because it is a claim about which mechanism is fundamental, not which is largest
 in a given regime.
 
-### 4.3 The frozen collapse and the stratified-frame picture
+### **5.9.4.3 The frozen collapse and the stratified-frame picture**
 
 The black-hole "extreme view" sharpens the proper-time argument.
 
@@ -496,7 +495,7 @@ visualization of the central claim: the cloud, the star, and the black hole are
 not three causally separated objects but one collapse path, stratified by proper
 time, with each stage's geometry set by its \(GM/Rc^2\).
 
-### 4.4 Projection, not sequence: the cut-plane ontology
+### **5.9.4.4 Projection, not sequence: the cut-plane ontology**
 
 The strongest and most economical version of the thesis is that
 black hole, galaxy, molecular cloud, and quantum fluctuation are not a temporal
@@ -531,7 +530,7 @@ Two honest qualifications:
   a consequence derived from the physics. The chapter should carry it as the
   former.
 
-### 4.5 Superposed dimensions
+### **5.9.4.5 Superposed dimensions**
 
 The unifying statement is that gravity, as it appears in structure formation, is
 the *subsumption of several dimensions* — space, time, and the electromagnetic
@@ -545,7 +544,7 @@ instance of the same direction — "the right road," with its own gaps (clusters
 relativistic completion) — and a scale-physics account, still speculative, is the
 candidate for the road's continuation.
 
-### 4.6 Scale incommensurability as the generative anchor
+### **5.9.4.6 Scale incommensurability as the generative anchor**
 
 The preceding subsections converge on a single thesis, and it is the load-bearing
 claim of the chapter. What the standard treatment regards as a nuisance
@@ -599,7 +598,7 @@ to sit. The anchor is the right one. Turning it from principle into prediction i
 the work that remains, and Section 6 names the spectrum of scale-graded gradient
 modes as exactly that target.
 
-## 5. Relation to Dark Matter and MOND
+## **5.9.5 Relation to Dark Matter and MOND**
 
 The position is stated without overreach:
 
