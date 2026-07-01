@@ -37,7 +37,7 @@ Use a line containing only `***` to insert a page break in the PDF output.
 * Use third order heading and below only when necessary for navigation purpose, use simple bold paragrph headings instead
 * Chapter heading are numbered H1-H3 only, lower order headings don't contain numbering
 * avoid mentioning the term 'ISE' and 'this framework' to often
-* Use LaTex($$) an inline LaTex($) for Mathematical symbols, expressiona and formulas
+* Use LaTex($$) an inline LaTex($) for Mathematical symbols, expression and formulas
 
 ## Content Conventions
 - The thesis is written in English
