@@ -5,3 +5,4 @@
 *.out.md
 *.merge.md
 /ISE.iml
+.claude/logs/
