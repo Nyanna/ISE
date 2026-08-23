@@ -6,3 +6,4 @@
 *.merge.md
 /ISE.iml
 .claude/logs/
+.colgrep
